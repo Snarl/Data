@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Duke Street Saint James's - Piccadily">
+  <nodes>
+    <node lat="51.50838535734242" lng="-0.13880399579239"/>
+    <node lat="51.50843710893442" lng="-0.13866452092361"/>
+  </nodes>
+  <zones>
+    <zone title="Duke Street Saint James\'s "/>
+    <zone title="Piccadily Place 2"/>
+  </zones>
+</exit>

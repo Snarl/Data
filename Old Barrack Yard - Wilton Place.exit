@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Barrack Yard - Wilton Place">
+  <nodes>
+    <node lat="51.50198356601346" lng="-0.15528885239792"/>
+    <node lat="51.50198356601346" lng="-0.15514937752914"/>
+  </nodes>
+  <zones>
+    <zone title="Wilton Place"/>
+    <zone title="Old Barrack Yard"/>
+  </zones>
+</exit>

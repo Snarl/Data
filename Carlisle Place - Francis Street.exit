@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Carlisle Place - Francis Street">
+  <nodes>
+    <node lat="51.49416646822471" lng="-0.13981787080002"/>
+    <node lat="51.49426666379952" lng="-0.13965157384109"/>
+  </nodes>
+  <zones>
+    <zone title="Carlisle Place"/>
+    <zone title="Francis Street"/>
+  </zones>
+</exit>

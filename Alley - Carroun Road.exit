@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Alley - Carroun Road">
+  <nodes>
+    <node lat="51.48111285910588" lng="-0.11784387344551"/>
+    <node lat="51.48109114381961" lng="-0.11786264890861"/>
+  </nodes>
+  <zones>
+    <zone title="Alley off Carroun Road"/>
+    <zone title="Carroun Road (north)"/>
+  </zones>
+</exit>

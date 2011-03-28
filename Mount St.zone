@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Mount St">
+  <nodes maxlat="51.5104295005623" maxlng="-0.14718858117294" minlat="51.5088703175684" minlng="-0.15471485966873">
+    <node lat="51.5089938522145" lng="-0.15471485966873"/>
+    <node lat="51.5088703175684" lng="-0.15457538479995"/>
+    <node lat="51.50936111540038" lng="-0.1523330580635"/>
+    <node lat="51.50955142334128" lng="-0.15131918305588"/>
+    <node lat="51.5099153433305" lng="-0.14926461095047"/>
+    <node lat="51.5102825990882" lng="-0.14718858117294"/>
+    <node lat="51.5104295005623" lng="-0.14726368302536"/>
+  </nodes>
+  <exits>
+    <exit title="Mount st - Park ln"/>
+    <exit title="Mount st - Park ln"/>
+    <exit title="Mount Street - Park Street (North)"/>
+    <exit title="Mount Street - Park Street (North)"/>
+  </exits>
+</zone>

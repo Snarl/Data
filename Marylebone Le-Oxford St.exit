@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marylebone Le-Oxford St">
+  <nodes>
+    <node lat="51.51455924135946" lng="-0.14870402926636"/>
+    <node lat="51.51463602361688" lng="-0.14785108679962"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 2"/>
+    <zone title="Marlyebone Ln"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="VAuxhall Park (south exit)">
+  <nodes>
+    <node lat="51.48193761469092" lng="-0.12148497218323"/>
+    <node lat="51.48198438519579" lng="-0.12163517588806"/>
+  </nodes>
+  <zones>
+    <zone title="Vauxhall Park"/>
+    <zone title="Fentiman Road (west)"/>
+  </zones>
+</exit>

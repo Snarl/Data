@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Gayfere Street">
+  <nodes maxlat="51.49686749531102" maxlng="-0.12759370321464" minlat="51.49617952051674" minlng="-0.12779889220428">
+    <node lat="51.49686666039648" lng="-0.12779889220428"/>
+    <node lat="51.49686749531102" lng="-0.12768623942566"/>
+    <node lat="51.49669299783276" lng="-0.1276755105896"/>
+    <node lat="51.4964809282278" lng="-0.12765271181297"/>
+    <node lat="51.4962538289741" lng="-0.12760711425972"/>
+    <node lat="51.4962421400113" lng="-0.12759370321464"/>
+    <node lat="51.49617952051674" lng="-0.12771708482933"/>
+    <node lat="51.49663538847076" lng="-0.12779620999527"/>
+  </nodes>
+  <exits>
+    <exit title="Gayfere Street - Smith Street"/>
+    <exit title="Gayfere Street - Great Peter Street"/>
+  </exits>
+</zone>

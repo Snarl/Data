@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxford Street - North Portman Street">
+  <nodes>
+    <node lat="51.51374634290082" lng="-0.1562222611351"/>
+    <node lat="51.51377972710268" lng="-0.15583870524597"/>
+  </nodes>
+  <zones>
+    <zone title="Portman Street"/>
+    <zone title="West Oxford Street 1"/>
+  </zones>
+</exit>

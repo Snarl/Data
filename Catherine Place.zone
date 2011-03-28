@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Catherine Place">
+  <nodes maxlat="51.49935672648416" maxlng="-0.13932970875931" minlat="51.49854856615736" minlng="-0.1412743102951">
+    <node lat="51.49873724949942" lng="-0.1412743102951"/>
+    <node lat="51.49869049617772" lng="-0.14107850903702"/>
+    <node lat="51.49920811956548" lng="-0.14073250407409"/>
+    <node lat="51.49910292561102" lng="-0.14037577027511"/>
+    <node lat="51.49860199868748" lng="-0.14070836419296"/>
+    <node lat="51.49854856615736" lng="-0.14047501200866"/>
+    <node lat="51.49903780542228" lng="-0.140174604599"/>
+    <node lat="51.49882908624168" lng="-0.13950405234527"/>
+    <node lat="51.49890255550226" lng="-0.13932970875931"/>
+    <node lat="51.49935672648416" lng="-0.14081833476257"/>
+  </nodes>
+  <exits>
+    <exit title="Wilfred Street - Catherine Place"/>
+    <exit title="Catherine Place - Palace Street 1"/>
+    <exit title="Catherine Place - Palace Street 2"/>
+  </exits>
+</zone>

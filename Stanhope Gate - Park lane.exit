@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stanhope Gate - Park lane">
+  <nodes>
+    <node lat="51.50662576819786" lng="-0.15185026044082"/>
+    <node lat="51.50652559979094" lng="-0.15182343835068"/>
+  </nodes>
+  <zones>
+    <zone title="Stanhope Gate"/>
+    <zone title="Park lane 2"/>
+  </zones>
+</exit>

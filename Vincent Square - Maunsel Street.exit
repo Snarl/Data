@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vincent Square - Maunsel Street">
+  <nodes>
+    <node lat="51.4940370484433" lng="-0.13398272508812"/>
+    <node lat="51.49399112527002" lng="-0.13386202568245"/>
+  </nodes>
+  <zones>
+    <zone title="Maunsel Street"/>
+    <zone title="Vincent Square North"/>
+  </zones>
+</exit>

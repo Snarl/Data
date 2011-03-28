@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Binney St - West Oxford Street 1">
+  <nodes>
+    <node lat="51.51430302135704" lng="-0.15080554002952"/>
+    <node lat="51.5143297283941" lng="-0.15067679399681"/>
+  </nodes>
+  <zones>
+    <zone title="Binney St"/>
+    <zone title="West Oxford Street 1"/>
+  </zones>
+</exit>

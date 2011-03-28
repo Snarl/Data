@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chapel Pl-Oxford St" status="green" reason="">
+  <nodes>
+    <node lat="51.51480168923625" lng="-0.14667896146011"/>
+    <node lat="51.51483841100613" lng="-0.1464241516037"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 2"/>
+    <zone title="Chapel Pl"/>
+  </zones>
+</exit>

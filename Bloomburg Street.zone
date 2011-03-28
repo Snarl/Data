@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Bloomburg Street">
+  <nodes maxlat="51.49248231447454" maxlng="-0.1358884345932" minlat="51.49205479508677" minlng="-0.1364463340683">
+    <node lat="51.49243555473677" lng="-0.1358884345932"/>
+    <node lat="51.49205479508677" lng="-0.13635513896179"/>
+    <node lat="51.49210489522243" lng="-0.1364463340683"/>
+    <node lat="51.49248231447454" lng="-0.13597694749069"/>
+  </nodes>
+  <exits>
+    <exit title="Vincent Square - Bloombury Street"/>
+    <exit title="Bloombury Street - Vauxhall Bridge Road"/>
+  </exits>
+</zone>

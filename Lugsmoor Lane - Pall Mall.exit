@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lugsmoor Lane - Pall Mall">
+  <nodes>
+    <node lat="51.50507647227028" lng="-0.13813210243416"/>
+    <node lat="51.50499299577482" lng="-0.13779414409828"/>
+  </nodes>
+  <zones>
+    <zone title="Lugsmoor Lane"/>
+    <zone title="Pall Mall"/>
+  </zones>
+</exit>

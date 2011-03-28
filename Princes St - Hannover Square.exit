@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Princes St - Hannover Square">
+  <nodes>
+    <node lat="51.51442654127468" lng="-0.14340800756645"/>
+    <node lat="51.51426629915806" lng="-0.143327541296"/>
+  </nodes>
+  <zones>
+    <zone title="Hannover Square"/>
+    <zone title="Princes St"/>
+  </zones>
+</exit>

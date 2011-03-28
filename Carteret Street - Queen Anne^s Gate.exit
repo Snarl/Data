@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Carteret Street - Queen Anne's Gate">
+  <nodes>
+    <node lat="51.50048670764697" lng="-0.13257188314628"/>
+    <node lat="51.50048837734352" lng="-0.13244045490455"/>
+  </nodes>
+  <zones>
+    <zone title="Queen Anne\'s Gate"/>
+    <zone title="Carteret Street"/>
+  </zones>
+</exit>

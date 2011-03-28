@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Church Pl">
+  <nodes maxlat="51.50905228062616" maxlng="-0.13624516839218" minlat="51.50864661882282" minlng="-0.1366984617157">
+    <node lat="51.50901388480776" lng="-0.1366984617157"/>
+    <node lat="51.50905228062616" lng="-0.13658312672806"/>
+    <node lat="51.50883192157614" lng="-0.13637927884292"/>
+    <node lat="51.5086633127954" lng="-0.13624516839218"/>
+    <node lat="51.50864661882282" lng="-0.13637659663391"/>
+  </nodes>
+  <exits>
+    <exit title="Church Pl - Jermyn St"/>
+    <exit title="Church Pl - Piccadily "/>
+    <exit title="Church Pl - Jermyn St"/>
+    <exit title="Church Pl - Piccadily "/>
+  </exits>
+</zone>

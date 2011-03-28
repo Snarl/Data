@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Upper Grosvendor St" status="orange" reason="Protesters fleeing baton charge, away from Bond Street.">
+  <nodes maxlat="51.51118403248986" maxlng="-0.14987615460586" minlat="51.50992202073692" minlng="-0.15620616788101">
+    <node lat="51.5100422138386" lng="-0.15620616788101"/>
+    <node lat="51.50992202073692" lng="-0.15603987092209"/>
+    <node lat="51.51022584157614" lng="-0.15434471482467"/>
+    <node lat="51.51044619388422" lng="-0.15328792447281"/>
+    <node lat="51.51060311078722" lng="-0.15220431203079"/>
+    <node lat="51.51080676808944" lng="-0.1510348689003"/>
+    <node lat="51.51102044034588" lng="-0.14987615460586"/>
+    <node lat="51.51118403248986" lng="-0.14990834111404"/>
+  </nodes>
+  <exits>
+    <exit title="Upper Grosvenor - Park lane 1"/>
+    <exit title="Upper Grosvenor - Park lane 1"/>
+    <exit title="Upper Grosvenor St - South Audley St (South)"/>
+    <exit title="Upper Grosvenor St - South Audley St (South)"/>
+  </exits>
+</zone>

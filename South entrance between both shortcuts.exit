@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="South entrance between both shortcuts">
+  <nodes>
+    <node lat="51.48323547838992" lng="-0.11704323405456"/>
+    <node lat="51.48312857724111" lng="-0.11717198008728"/>
+  </nodes>
+  <zones>
+    <zone title="link between both 2 shortcuts"/>
+    <zone title="Shortcut to Meadow Road"/>
+  </zones>
+</exit>

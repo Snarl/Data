@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Northumberland Avenue - Whitehall Place">
+  <nodes>
+    <node lat="51.50669004290402" lng="-0.12371120566559"/>
+    <node lat="51.50658987463837" lng="-0.12324450129699"/>
+  </nodes>
+  <zones>
+    <zone title="Northumberland Avenue"/>
+    <zone title="Whitehall Place"/>
+  </zones>
+</exit>

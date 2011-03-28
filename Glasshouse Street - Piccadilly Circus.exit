@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Glasshouse Street - Piccadilly Circus" status="green" reason="">
+  <nodes>
+    <node lat="51.51014821641881" lng="-0.13495636696052"/>
+    <node lat="51.51016657918315" lng="-0.13458353990745"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

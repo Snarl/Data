@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Tothill Street - St James Park Broadway">
+  <nodes>
+    <node lat="51.4997562095568" lng="-0.13302249426079"/>
+    <node lat="51.49952161282911" lng="-0.13290313595962"/>
+  </nodes>
+  <zones>
+    <zone title="St James\'s Park Broadway"/>
+    <zone title="Tothill Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="VAuxhall Park (north exit)">
+  <nodes>
+    <node lat="51.48372154139914" lng="-0.12152788752746"/>
+    <node lat="51.48372154139911" lng="-0.12124893778991"/>
+  </nodes>
+  <zones>
+    <zone title="Vauxhall Park"/>
+    <zone title="Lawn Lane"/>
+  </zones>
+</exit>

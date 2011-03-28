@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Crown Passage">
+  <nodes maxlat="51.50615247063159" maxlng="-0.13747093791198" minlat="51.50552807748416" minlng="-0.13811466807556">
+    <node lat="51.50614913165358" lng="-0.13811466807556"/>
+    <node lat="51.50552807748416" lng="-0.13752994651031"/>
+    <node lat="51.50555145064383" lng="-0.13747093791198"/>
+    <node lat="51.50615247063159" lng="-0.13806638831329"/>
+  </nodes>
+  <exits>
+    <exit title="King Street - Crown Passage"/>
+    <exit title="King Street - Crown Passage"/>
+    <exit title="Pall Mall - Crown Passage"/>
+    <exit title="Pall Mall - Crown Passage"/>
+  </exits>
+</zone>

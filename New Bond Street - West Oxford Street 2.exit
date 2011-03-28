@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="New Bond Street - West Oxford Street 2" status="green" reason="">
+  <nodes>
+    <node lat="51.51453003058276" lng="-0.14701155537796"/>
+    <node lat="51.51456675257168" lng="-0.14673662895393"/>
+  </nodes>
+  <zones>
+    <zone title="New Bond Street North"/>
+    <zone title="West Oxford Street 2"/>
+  </zones>
+</exit>

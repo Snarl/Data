@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Herbert Road">
+  <nodes maxlat="51.49885371518208" maxlng="-0.16025228017998" minlat="51.49826428737356" minlng="-0.16071093792152">
+    <node lat="51.49831438068482" lng="-0.16071093792152"/>
+    <node lat="51.49885371518208" lng="-0.16029519552421"/>
+    <node lat="51.49867171137476" lng="-0.16025228017998"/>
+    <node lat="51.4983077015798" lng="-0.16052854770851"/>
+    <node lat="51.49826428737356" lng="-0.16060096735191"/>
+  </nodes>
+  <exits>
+    <exit title="Hans Place - Herbert Crescent"/>
+    <exit title="Herbert Crescent - Pavilion Road"/>
+    <exit title="Hans Place - Herbert Crescent"/>
+    <exit title="Herbert Crescent - Pavilion Road"/>
+  </exits>
+</zone>

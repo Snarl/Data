@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Maddox St - St George St">
+  <nodes>
+    <node lat="51.51263630435768" lng="-0.14339325541687"/>
+    <node lat="51.51248940999947" lng="-0.14332888240051"/>
+  </nodes>
+  <zones>
+    <zone title="St George\'s St"/>
+    <zone title="Grosvendor St"/>
+  </zones>
+</exit>

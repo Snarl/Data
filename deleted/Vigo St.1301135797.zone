@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Vigo St">
+  <nodes maxlat="51.51036356183674" maxlng="-0.13844457978439" minlat="51.51006975798958" minlng="-0.13959792966079">
+    <node lat="51.51014654781434" lng="-0.13959792966079"/>
+    <node lat="51.51006975798958" lng="-0.13951209897232"/>
+    <node lat="51.51028009502736" lng="-0.13844457978439"/>
+    <node lat="51.51036356183674" lng="-0.13850895280075"/>
+  </nodes>
+  <exits>
+    <exit title="Vigo St - Regent St"/>
+    <exit title="Vigo St - Regent St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regent Street - Waterloo Place">
+  <nodes>
+    <node lat="51.50788202836304" lng="-0.13335106486511"/>
+    <node lat="51.50798636734265" lng="-0.13303456420135"/>
+  </nodes>
+  <zones>
+    <zone title="Waterloo Place"/>
+    <zone title="South Regent Street 2"/>
+  </zones>
+</exit>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Gerrard Street - Shaftesbury Avenue (East)">
+  <nodes>
+    <node lat="51.51245685943674" lng="-0.13044220918846"/>
+    <node lat="51.51251027565996" lng="-0.13023836130333"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

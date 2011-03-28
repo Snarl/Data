@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Henrietta Pl">
+  <nodes maxlat="51.51643619657444" maxlng="-0.14259395713043" minlat="51.51527114140346" minlng="-0.14881131762695">
+    <node lat="51.51536461397798" lng="-0.14881131762695"/>
+    <node lat="51.51527114140346" lng="-0.14869866484833"/>
+    <node lat="51.51557826485662" lng="-0.1468747627182"/>
+    <node lat="51.51591209234834" lng="-0.14487383479309"/>
+    <node lat="51.51634940266064" lng="-0.14259395713043"/>
+    <node lat="51.51643619657444" lng="-0.14261541480255"/>
+  </nodes>
+  <exits>
+    <exit title="Holles St - Henrietta Pl"/>
+    <exit title="Henrietta Pl-Marylebone Ln"/>
+    <exit title="Henrietta Pl-Marylebone Ln"/>
+    <exit title="Vere St-Henrietta Pl"/>
+    <exit title="Old Cavendish St-Henrietta Pl"/>
+    <exit title="Old Cavendish St-Henrietta Pl"/>
+    <exit title="Harewood Pl-Henrietta Pl"/>
+    <exit title="Harewood Pl-Henrietta Pl"/>
+    <exit title="John Pronce\'s St - Henrietta St"/>
+    <exit title="John Pronce\'s St - Henrietta St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Carlisle Place - Ashley Place">
+  <nodes>
+    <node lat="51.49617451234546" lng="-0.14155460113716"/>
+    <node lat="51.49602923477081" lng="-0.14150363916588"/>
+  </nodes>
+  <zones>
+    <zone title="Carlisle Place"/>
+    <zone title="Ashley Place"/>
+  </zones>
+</exit>

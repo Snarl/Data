@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Palace Place">
+  <nodes maxlat="51.49899814887452" maxlng="-0.14253628963661" minlat="51.49866586719947" minlng="-0.14279646391105">
+    <node lat="51.49899814887452" lng="-0.14264357799721"/>
+    <node lat="51.49898145136073" lng="-0.14253628963661"/>
+    <node lat="51.49866586719947" lng="-0.14265430683326"/>
+    <node lat="51.49868089506623" lng="-0.14279646391105"/>
+  </nodes>
+  <exits>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Warwick Row"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Knightsbridge - Trevor Place">
+  <nodes>
+    <node lat="51.50150855042768" lng="-0.16565827244949"/>
+    <node lat="51.50147181791264" lng="-0.16541687363815"/>
+  </nodes>
+  <zones>
+    <zone title="Knightsbridge"/>
+    <zone title="Trevor Place"/>
+  </zones>
+</exit>

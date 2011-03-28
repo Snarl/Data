@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Palace Place - Warwick Row">
+  <nodes>
+    <node lat="51.49867922530349" lng="-0.14279646391105"/>
+    <node lat="51.49865751838246" lng="-0.14265698904228"/>
+  </nodes>
+  <zones>
+    <zone title="Palace Place"/>
+    <zone title="Warwick Row"/>
+  </zones>
+</exit>

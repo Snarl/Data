@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Francis Street - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.49389760890291" lng="-0.14012900704574"/>
+    <node lat="51.49373729457966" lng="-0.13985273951721"/>
+  </nodes>
+  <zones>
+    <zone title="Francis Street"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

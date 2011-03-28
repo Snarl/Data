@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<zone title="Grosvendor St">
+  <nodes maxlat="51.5126296273307" maxlng="-0.14322427624893" minlat="51.5111239374832" minlng="-0.14979568833542">
+    <node lat="51.51123077299288" lng="-0.14979568833542"/>
+    <node lat="51.5111239374832" lng="-0.14975277299118"/>
+    <node lat="51.5115479394363" lng="-0.14757481927109"/>
+    <node lat="51.51169149825846" lng="-0.14670578355026"/>
+    <node lat="51.51195524468294" lng="-0.14547196740341"/>
+    <node lat="51.51218894277044" lng="-0.14436153287124"/>
+    <node lat="51.5125394876538" lng="-0.14322427624893"/>
+    <node lat="51.5126296273307" lng="-0.14329937810135"/>
+  </nodes>
+  <exits>
+    <exit title="Grosvenor St - Davies St (South)"/>
+    <exit title="Grosvenor St - Davies St (South)"/>
+    <exit title="Grosvenor St - Davies St (East)"/>
+    <exit title="Grosvenor St - Davies St (East)"/>
+    <exit title="Grosvenor St - Davies St (North)"/>
+    <exit title="Grosvenor St - Davies St (North)"/>
+    <exit title="Grosvenor St - Davies St (North)"/>
+    <exit title="Grosvenor St - Davies St (West)"/>
+    <exit title="Grosvenor St - Davies St (East)"/>
+    <exit title="Grosvenor St - Davies St (North)"/>
+    <exit title="Grosvenor St - Davies St (South)"/>
+    <exit title="Grosvenor St - Davies St (West)"/>
+    <exit title="Grosvenor St - Davies St (East)"/>
+    <exit title="Grosvenor St - Davies St (East)"/>
+    <exit title="Avery Row - Grosvenor St"/>
+    <exit title="Avery Row - Grosvenor St"/>
+    <exit title="Maddox St - St George St"/>
+  </exits>
+</zone>

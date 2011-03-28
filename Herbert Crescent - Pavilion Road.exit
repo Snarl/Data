@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Herbert Crescent - Pavilion Road">
+  <nodes>
+    <node lat="51.49884954074" lng="-0.16030592436027"/>
+    <node lat="51.4986541788086" lng="-0.16026032680702"/>
+  </nodes>
+  <zones>
+    <zone title="Pavilion Road"/>
+    <zone title="Herbert Road"/>
+  </zones>
+</exit>

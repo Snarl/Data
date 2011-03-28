@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Harriet Street - Sloane Street">
+  <nodes>
+    <node lat="51.50026463747734" lng="-0.15974668378067"/>
+    <node lat="51.50014608829126" lng="-0.15971315616798"/>
+  </nodes>
+  <zones>
+    <zone title="Harriet Street"/>
+    <zone title="Sloane Street Upper"/>
+  </zones>
+</exit>

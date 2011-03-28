@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Wilton Row - Wilton Crescent">
+  <nodes>
+    <node lat="51.50082481994358" lng="-0.1543500792427"/>
+    <node lat="51.5007747293915" lng="-0.1542052399559"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

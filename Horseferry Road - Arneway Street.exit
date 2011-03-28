@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horseferry Road - Arneway Street">
+  <nodes>
+    <node lat="51.4949788808283" lng="-0.1319804560585"/>
+    <node lat="51.49497637598078" lng="-0.13184768671226"/>
+  </nodes>
+  <zones>
+    <zone title="Arneway Street"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

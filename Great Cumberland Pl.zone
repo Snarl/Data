@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Great Cumberland Pl">
+  <nodes maxlat="51.51655553798918" maxlng="-0.15888033026886" minlat="51.5133507383449" minlng="-0.16052184218597">
+    <node lat="51.51652549403956" lng="-0.16052184218597"/>
+    <node lat="51.51655553798918" lng="-0.16034481639099"/>
+    <node lat="51.51531370488505" lng="-0.15980837458801"/>
+    <node lat="51.5152936750414" lng="-0.15952942485046"/>
+    <node lat="51.51512008269426" lng="-0.15929875487518"/>
+    <node lat="51.51497987300783" lng="-0.15931484812927"/>
+    <node lat="51.51484300123096" lng="-0.15934703463745"/>
+    <node lat="51.51473283584355" lng="-0.15954015368652"/>
+    <node lat="51.51339413817944" lng="-0.15888033026886"/>
+    <node lat="51.5133507383449" lng="-0.15905199164581"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford St-Great Cumberland St"/>
+    <exit title="Oxford St-Great Cumberland St"/>
+    <exit title="Seymour St-Great Cumberland Pl"/>
+    <exit title="Seymour St-Great Cumberland Pl"/>
+    <exit title="Seymour St-Great Cumberland Pl"/>
+    <exit title="Seymour St-Great Cumberland Pl"/>
+    <exit title="Seymour St-Great Cumberland St"/>
+    <exit title="Seymour St-Great Cumberland St"/>
+  </exits>
+</zone>

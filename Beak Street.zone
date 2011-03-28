@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Beak Street">
+  <nodes maxlat="51.51289503758675" maxlng="-0.13621029967499" minlat="51.51166478969569" minlng="-0.13917414063644">
+    <node lat="51.51169149827951" lng="-0.13917414063644"/>
+    <node lat="51.51195023687466" lng="-0.13856527919006"/>
+    <node lat="51.51252446437801" lng="-0.13729927653503"/>
+    <node lat="51.51256285723783" lng="-0.13714370841217"/>
+    <node lat="51.51289503758675" lng="-0.13624785060119"/>
+    <node lat="51.51284996803321" lng="-0.13621029967499"/>
+    <node lat="51.51256285723781" lng="-0.13704983109665"/>
+    <node lat="51.51166478969569" lng="-0.13913927191925"/>
+  </nodes>
+  <exits>
+    <exit title="Beak Street - Regent Street"/>
+    <exit title="Beak Street - Regent Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rutherford Street - Regency Street">
+  <nodes>
+    <node lat="51.49449460774365" lng="-0.13247934693527"/>
+    <node lat="51.49426081889558" lng="-0.1324672769947"/>
+  </nodes>
+  <zones>
+    <zone title="Rutherford Street"/>
+    <zone title="Regency Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Glasshouse St-Air St">
+  <nodes>
+    <node lat="51.51052548274303" lng="-0.13654423469734"/>
+    <node lat="51.51031180816513" lng="-0.13643694633674"/>
+  </nodes>
+  <zones>
+    <zone title="Glasshouse Street"/>
+    <zone title="Air Street"/>
+  </zones>
+</exit>

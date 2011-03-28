@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Carnaby Street - Ganton St (South)">
+  <nodes>
+    <node lat="51.5130218997825" lng="-0.13881472462845"/>
+    <node lat="51.51307865381364" lng="-0.1386806141777"/>
+  </nodes>
+  <zones>
+    <zone title="Ganton Street"/>
+    <zone title="Carnaby Street"/>
+  </zones>
+</exit>

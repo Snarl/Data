@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Henrietta Pl-Marylebone Ln">
+  <nodes>
+    <node lat="51.5152623783874" lng="-0.14861551636886"/>
+    <node lat="51.51540091805421" lng="-0.14875767344665"/>
+  </nodes>
+  <zones>
+    <zone title="Henrietta Pl"/>
+    <zone title="Marlyebone Ln"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Greycoat Place West - Artillery Row">
+  <nodes>
+    <node lat="51.49646590102625" lng="-0.1357811462326"/>
+    <node lat="51.49650013281218" lng="-0.13555718177986"/>
+  </nodes>
+  <zones>
+    <zone title="Artillery Row"/>
+    <zone title="Greycoat Place West"/>
+  </zones>
+</exit>

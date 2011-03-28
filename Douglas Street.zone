@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Douglas Street">
+  <nodes maxlat="51.49181139114006" maxlng="-0.13227281684112" minlat="51.49060228471302" minlng="-0.13454464787674">
+    <node lat="51.49181139114006" lng="-0.13446149939728"/>
+    <node lat="51.49069079773542" lng="-0.13227549905014"/>
+    <node lat="51.49060228471302" lng="-0.13227281684112"/>
+    <node lat="51.49175127058362" lng="-0.13454464787674"/>
+  </nodes>
+  <exits>
+    <exit title="Douglas Street - Regency Street"/>
+    <exit title="Douglas Street - Regency Street"/>
+    <exit title="Hide Place - Douglas Street"/>
+    <exit title="Chapter Street - Douglas Street (NE)"/>
+    <exit title="Chapter Street - Douglas Street (SE)"/>
+    <exit title="Chapter Street - Douglas Street (SW)"/>
+    <exit title="Chapter Street - Douglas Street (SE)"/>
+    <exit title="Chapter Street - Douglas Street (NW)"/>
+    <exit title="Douglas Street - Vincent Square"/>
+  </exits>
+</zone>

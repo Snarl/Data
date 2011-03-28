@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<zone title="Trafalga Sq">
+  <nodes maxlat="51.50876681533245" maxlng="-0.12688157672119" minlat="51.50700056312893" minlng="-0.12942431086731">
+    <node lat="51.50700056312893" lng="-0.12802687997055"/>
+    <node lat="51.5070539857498" lng="-0.12769696826172"/>
+    <node lat="51.50716416970756" lng="-0.12739119643402"/>
+    <node lat="51.50727101450308" lng="-0.12740728968811"/>
+    <node lat="51.50760156400248" lng="-0.12688157672119"/>
+    <node lat="51.50795214418446" lng="-0.12695131415558"/>
+    <node lat="51.50864661886601" lng="-0.12700495833587"/>
+    <node lat="51.50876681533245" lng="-0.12738583201599"/>
+    <node lat="51.50841958023091" lng="-0.12942431086731"/>
+    <node lat="51.50820255694862" lng="-0.12919364089203"/>
+    <node lat="51.50758486964084" lng="-0.12891469115448"/>
+    <node lat="51.50741792568776" lng="-0.1289361488266"/>
+    <node lat="51.50735782571493" lng="-0.12821731681061"/>
+    <node lat="51.50710907776199" lng="-0.1284318935318"/>
+  </nodes>
+  <exits>
+    <exit title="Trafalgar Square - South Charing Cross Road"/>
+    <exit title="Trafalgar Square - South Charing Cross Road"/>
+    <exit title="Trafalgar Square - South Charing Cross Road"/>
+    <exit title="Trafalga Sq - Northumberland Avenue"/>
+    <exit title="Trafalga Sq - The Mall"/>
+    <exit title="Upper Whitehall - Trafalga Sq"/>
+    <exit title="Pall Mall End - Trafalgar Square"/>
+    <exit title="Pall Mall End - Trafalgar Square"/>
+    <exit title="Trafalgar Square - Strand"/>
+    <exit title="Trafalgar Square - Strand"/>
+    <exit title="Trafalgar Square - Strand"/>
+    <exit title="Trafalgar Square - Strand"/>
+    <exit title="Trafalgar Square - Strand"/>
+    <exit title="Strand - Charing Cross - Trafalgar Square"/>
+    <exit title="Strand - Charing Cross - Trafalgar Square"/>
+    <exit title="Strand - Charing Cross - Trafalgar Square"/>
+    <exit title="Cockspur Street - Trafalgar Square"/>
+    <exit title="Cockspur Street - Trafalgar Square"/>
+  </exits>
+</zone>

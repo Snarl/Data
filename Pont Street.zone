@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<zone title="Pont Street">
+  <nodes maxlat="51.49818664263144" maxlng="-0.15467194432449" minlat="51.49666043742394" minlng="-0.16622421855163">
+    <node lat="51.49811651178368" lng="-0.16622421855163"/>
+    <node lat="51.49818664263144" lng="-0.16604182833862"/>
+    <node lat="51.49714802713744" lng="-0.16367075556946"/>
+    <node lat="51.49689755362104" lng="-0.16288218611908"/>
+    <node lat="51.4972381972664" lng="-0.15922365302276"/>
+    <node lat="51.49769572443105" lng="-0.15486104006004"/>
+    <node lat="51.49759136188727" lng="-0.15467194432449"/>
+    <node lat="51.49746362180836" lng="-0.15616593474579"/>
+    <node lat="51.49738848041826" lng="-0.15703497046661"/>
+    <node lat="51.49728161245004" lng="-0.15758750552368"/>
+    <node lat="51.49666043742394" lng="-0.16289827937317"/>
+    <node lat="51.4967205515061" lng="-0.16311285609436"/>
+    <node lat="51.49707455504864" lng="-0.16377804393005"/>
+  </nodes>
+  <exits>
+    <exit title="Hans Place - Pont Street"/>
+    <exit title="Hans Place - Pont Street"/>
+    <exit title="West Pont Street - Pavilion Road"/>
+    <exit title="West Pont Street - Pavilion Road"/>
+    <exit title="East Pont Street - Pavilion Road"/>
+    <exit title="East Pont Street - Pavilion Road"/>
+    <exit title="Chesham Place - Pont Street"/>
+    <exit title="Lowndes Street - Pont Street"/>
+    <exit title="North Cadogan Lane - Pont Street"/>
+    <exit title="North Cadogan Place - Pont Street"/>
+    <exit title="Pont Street - Lowndes Place"/>
+    <exit title="South Cadogan Lane - Pont Street"/>
+    <exit title="South Cadogan Street - Pont Street"/>
+    <exit title="South Cadogan Street - Pont Street"/>
+    <exit title="Sloane Street - Pont Street"/>
+    <exit title="North Cadogan Place - Pont Street"/>
+    <exit title="Sloane Street North - Pont Street"/>
+    <exit title="North Cadogan Lane - Pont Street"/>
+    <exit title="North Cadogan Place - Pont Street"/>
+    <exit title="South Cadogan Lane - Pont Street"/>
+    <exit title="South Cadogan Street - Pont Street"/>
+    <exit title="East Pont Street - Pavilion Road"/>
+    <exit title="North Pavilion Road - Pont Street"/>
+    <exit title="Pont Street - Brompton Road"/>
+    <exit title="Pont Street - South Pavilion Road"/>
+    <exit title="West Pont Street - Pavilion Road"/>
+    <exit title="Pont Street - South Pavilion Road"/>
+    <exit title="Sloane Street Lower - Pont Street"/>
+    <exit title="Cadogan Place Park Lower - Pont Street"/>
+    <exit title="Cadogan Lane South - Pont Street"/>
+  </exits>
+</zone>

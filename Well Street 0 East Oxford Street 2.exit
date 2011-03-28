@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Well Street 0 East Oxford Street 2">
+  <nodes>
+    <node lat="51.5159488132727" lng="-0.13699216360283"/>
+    <node lat="51.51595882805158" lng="-0.13677758688164"/>
+  </nodes>
+  <zones>
+    <zone title="Wells St"/>
+    <zone title="East Oxford Street 2"/>
+  </zones>
+</exit>

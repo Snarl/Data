@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Chesterfield gardens">
+  <nodes maxlat="51.507260162998" maxlng="-0.1492351066513" minlat="51.50654563349318" minlng="-0.14968035334778">
+    <node lat="51.5072034017181" lng="-0.14968035334778"/>
+    <node lat="51.507260162998" lng="-0.14951942080688"/>
+    <node lat="51.50657568402518" lng="-0.1492351066513"/>
+    <node lat="51.50654563349318" lng="-0.14940140361023"/>
+  </nodes>
+  <exits>
+    <exit title="Chesterfield gardens - Curzon Street"/>
+    <exit title="Chesterfield gardens - Curzon Street"/>
+  </exits>
+</zone>

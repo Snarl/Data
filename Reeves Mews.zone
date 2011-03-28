@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Reeves Mews">
+  <nodes maxlat="51.5100680886979" maxlng="-0.15209300035667" minlat="51.50965826253864" minlng="-0.15399602765274">
+    <node lat="51.50972837562574" lng="-0.15399602765274"/>
+    <node lat="51.50965826253864" lng="-0.15396384114456"/>
+    <node lat="51.5098936417613" lng="-0.15260127896499"/>
+    <node lat="51.50995123436412" lng="-0.15209300035667"/>
+    <node lat="51.5100680886979" lng="-0.15216273779106"/>
+  </nodes>
+  <exits>
+    <exit title="Park Street - Reeves Mews"/>
+    <exit title="Park Street - Reeves Mews"/>
+    <exit title="Park Street - Reeves Mews"/>
+    <exit title="Park Street - Reeves Mews"/>
+    <exit title="Reeves Mews - Park St"/>
+    <exit title="Reeves Mews-S Audley St"/>
+    <exit title="Reeves Mews-S Audley St"/>
+    <exit title="Reevs Mews - South Audley St (West)"/>
+    <exit title="Reevs Mews - South Audley St (West)"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Halkin Place - Belgrave Mews West">
+  <nodes>
+    <node lat="51.49867171136894" lng="-0.15595001692009"/>
+    <node lat="51.49858488360848" lng="-0.15581858867836"/>
+  </nodes>
+  <zones>
+    <zone title="West Halkin Street"/>
+    <zone title="Belgrave Mews West"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cockspur Street - B327">
+  <nodes>
+    <node lat="51.50853393435426" lng="-0.13197106832695"/>
+    <node lat="51.50839036558202" lng="-0.13182622904014"/>
+  </nodes>
+  <zones>
+    <zone title="B327"/>
+    <zone title="Cockspur Street"/>
+  </zones>
+</exit>

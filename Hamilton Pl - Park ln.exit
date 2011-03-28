@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hamilton Pl - Park ln">
+  <nodes>
+    <node lat="51.50499299570556" lng="-0.15060035103988"/>
+    <node lat="51.50499299570556" lng="-0.15038040990066"/>
+  </nodes>
+  <zones>
+    <zone title="Park ln"/>
+    <zone title="Hamilton Pl"/>
+  </zones>
+</exit>

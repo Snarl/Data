@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Trigon Road">
+  <nodes maxlat="51.48128574582353" maxlng="-0.11545268410873" minlat="51.48000160781139" minlng="-0.11635390633774">
+    <node lat="51.48000160781139" lng="-0.11550498718452"/>
+    <node lat="51.48011311001373" lng="-0.11545268410873"/>
+    <node lat="51.48058834853031" lng="-0.1158067356987"/>
+    <node lat="51.48103852596727" lng="-0.11612591857147"/>
+    <node lat="51.48116380646729" lng="-0.11578527802658"/>
+    <node lat="51.48124398580672" lng="-0.11559484118652"/>
+    <node lat="51.48128574582353" lng="-0.1156632375164"/>
+    <node lat="51.48110784788649" lng="-0.11624661797714"/>
+    <node lat="51.4810694285226" lng="-0.11624661797714"/>
+    <node lat="51.48103810836286" lng="-0.11635390633774"/>
+    <node lat="51.48088276006344" lng="-0.1161125075264"/>
+    <node lat="51.4804400980285" lng="-0.11588451976013"/>
+    <node lat="51.48011603328646" lng="-0.11567262524795"/>
+    <node lat="51.48006591997647" lng="-0.11569408292007"/>
+  </nodes>
+  <exits>
+    <exit title="Trigon Road - Palfrey Place"/>
+    <exit title="Fentiman Road - Trigon Place"/>
+    <exit title="Alley - Trigon Road"/>
+    <exit title="Trigon Road - Claylands Road"/>
+  </exits>
+</zone>

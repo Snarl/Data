@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<zone title="Whitcomb Street">
+  <nodes maxlat="51.51171653757195" maxlng="-0.12979713792038" minlat="51.50815414393357" minlng="-0.13246861809921">
+    <node lat="51.51166312041803" lng="-0.13246861809921"/>
+    <node lat="51.51171653757195" lng="-0.13231841439438"/>
+    <node lat="51.51095199858906" lng="-0.13173905724716"/>
+    <node lat="51.50983187573127" lng="-0.130990720932"/>
+    <node lat="51.50938615599564" lng="-0.13062862271499"/>
+    <node lat="51.50881188893418" lng="-0.13022092694473"/>
+    <node lat="51.50842959667717" lng="-0.1300170790596"/>
+    <node lat="51.50820422637445" lng="-0.12979713792038"/>
+    <node lat="51.50815414393357" lng="-0.12993929499817"/>
+    <node lat="51.50867165983468" lng="-0.1303228508873"/>
+    <node lat="51.50868334560977" lng="-0.13027457112503"/>
+    <node lat="51.50929267115676" lng="-0.13066349143219"/>
+    <node lat="51.50933273611267" lng="-0.13078150862884"/>
+    <node lat="51.50970500464344" lng="-0.13106850499344"/>
+    <node lat="51.50978346443895" lng="-0.13119188660812"/>
+    <node lat="51.51029094581028" lng="-0.13159958237839"/>
+    <node lat="51.5104595485675" lng="-0.1315834891243"/>
+  </nodes>
+  <exits>
+    <exit title="Whitecomb Street - Pall Mall End"/>
+    <exit title="Whitecomb Street - Pall Mall End"/>
+    <exit title="Whitecomb - Shaftesbury Avenue "/>
+    <exit title="Whitecomb - Shaftesbury Avenue "/>
+  </exits>
+</zone>

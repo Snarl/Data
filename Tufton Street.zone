@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<zone title="Tufton Street">
+  <nodes maxlat="51.4978794005332" maxlng="-0.12799201125335" minlat="51.49493629700942" minlng="-0.12872425431442">
+    <node lat="51.4978794005332" lng="-0.12862501258087"/>
+    <node lat="51.4978493442662" lng="-0.12848017329407"/>
+    <node lat="51.49765564784784" lng="-0.12860087269974"/>
+    <node lat="51.49750369577114" lng="-0.12862501258087"/>
+    <node lat="51.49719645046384" lng="-0.12855527514648"/>
+    <node lat="51.4970094305671" lng="-0.12852040642929"/>
+    <node lat="51.49620289847224" lng="-0.12833801621628"/>
+    <node lat="51.49541806058032" lng="-0.1281261217041"/>
+    <node lat="51.49493629700942" lng="-0.12799201125335"/>
+    <node lat="51.49493796690884" lng="-0.12817440146637"/>
+    <node lat="51.49528196497252" lng="-0.12823609227371"/>
+    <node lat="51.49592820674446" lng="-0.12840507144165"/>
+    <node lat="51.4966145154936" lng="-0.12857136840057"/>
+    <node lat="51.49744274781498" lng="-0.12872425431442"/>
+    <node lat="51.49757132285406" lng="-0.12871620768738"/>
+  </nodes>
+  <exits>
+    <exit title="Bennett\'s Yard - Tufton Street"/>
+    <exit title="Dean Trench Street - Tufton Street"/>
+    <exit title="Tufton Street - Horseferry Road"/>
+    <exit title="Romney Street - Tufton Street (N)"/>
+    <exit title="Romney Street - Tufton Street (E)"/>
+    <exit title="Romney Street - Tufton Street (S)"/>
+    <exit title="Romney Street - Tufton Street (W)"/>
+    <exit title="Romney Street - Tufton Street (W)"/>
+    <exit title="Great Peter Street - Tufton Street (N)"/>
+    <exit title="Great Peter Street - Tufton Street (E)"/>
+    <exit title="Great Peter Street - Tufton Street (S)"/>
+    <exit title="Great Peter Street - Tufton Street (W)"/>
+    <exit title="Tufton Street - Little Smith Street"/>
+    <exit title="Great College Street - Tufton Street"/>
+    <exit title="Tufton Street - Little Smith Street"/>
+  </exits>
+</zone>

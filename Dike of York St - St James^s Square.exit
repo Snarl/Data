@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dike of York St - St James's Square">
+  <nodes>
+    <node lat="51.50771007715284" lng="-0.1358347904129"/>
+    <node lat="51.50776683780154" lng="-0.1356550824089"/>
+  </nodes>
+  <zones>
+    <zone title="Duke of York St"/>
+    <zone title="St James\'s Square"/>
+  </zones>
+</exit>

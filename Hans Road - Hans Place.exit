@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hans Road - Hans Place">
+  <nodes>
+    <node lat="51.49817912856726" lng="-0.16159740800094"/>
+    <node lat="51.49826929665638" lng="-0.16149548405838"/>
+  </nodes>
+  <zones>
+    <zone title="Hans Road"/>
+    <zone title="Hans Place"/>
+  </zones>
+</exit>

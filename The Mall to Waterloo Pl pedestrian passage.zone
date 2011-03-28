@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<zone title="The Mall to Waterloo Pl pedestrian passage">
+  <nodes maxlat="51.50644963869684" maxlng="-0.13122675532532" minlat="51.50581189361206" minlng="-0.1319616805954">
+    <node lat="51.50644963869684" lng="-0.13171759957504"/>
+    <node lat="51.50590538559645" lng="-0.13122675532532"/>
+    <node lat="51.50581189361206" lng="-0.13147888297271"/>
+    <node lat="51.50637117316006" lng="-0.1319616805954"/>
+  </nodes>
+  <exits/>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Sherwood St-Glasshouse St">
+  <nodes>
+    <node lat="51.51045203221992" lng="-0.13546062225532"/>
+    <node lat="51.51040529091627" lng="-0.13513875717354"/>
+  </nodes>
+  <zones>
+    <zone title="Glasshouse Street"/>
+    <zone title="Sherwood Street"/>
+  </zones>
+</exit>

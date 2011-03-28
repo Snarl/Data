@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Allington Street - Warwick Row">
+  <nodes>
+    <node lat="51.4973417257095" lng="-0.14340532535743"/>
+    <node lat="51.4973550842016" lng="-0.14324707502556"/>
+  </nodes>
+  <zones>
+    <zone title="Allington Street"/>
+    <zone title="Warwick Row"/>
+  </zones>
+</exit>

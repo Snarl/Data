@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Vauxhall Street (south)">
+  <nodes maxlat="51.48852176158006" maxlng="-0.11543122643661" minlat="51.48483061413859" minlng="-0.11734632367325">
+    <node lat="51.48484397629716" lng="-0.11566726082992"/>
+    <node lat="51.48852176158006" lng="-0.11734632367325"/>
+    <node lat="51.48850673036385" lng="-0.11708346718979"/>
+    <node lat="51.48483061413859" lng="-0.11543122643661"/>
+  </nodes>
+  <exits>
+    <exit title="VAuxhall Street (south) - (north)"/>
+    <exit title="Kennington Lane (south) - Vauxhall Street (south)"/>
+    <exit title="Kennington Lane (middle) - Vauxhall Street"/>
+    <exit title="Kennington Lane (middle) - Vauxhall Street"/>
+    <exit title="Kennington Lane (middle) - Vauxhall Street"/>
+    <exit title="Kennington Lane (south) - Vauxhall Street (south)"/>
+    <exit title="Kennington Lane (south) - Vauxhall Street (south)"/>
+    <exit title="Kennington Lane (south) - Vauxhall Street (south)"/>
+  </exits>
+</zone>

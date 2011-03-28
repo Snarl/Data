@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Park ln">
+  <nodes maxlat="51.50520335618398" maxlng="-0.15026775712204" minlat="51.50500635195792" minlng="-0.15084711426925">
+    <node lat="51.5051866609436" lng="-0.15084711426925"/>
+    <node lat="51.50520335618398" lng="-0.15026775712204"/>
+    <node lat="51.50500635195792" lng="-0.15027312154007"/>
+    <node lat="51.50502304726434" lng="-0.15083638543319"/>
+  </nodes>
+  <exits>
+    <exit title="Hamilton Pl - Park ln"/>
+    <exit title="Hamilton Pl - Park ln"/>
+  </exits>
+</zone>

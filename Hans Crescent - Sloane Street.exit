@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hans Crescent - Sloane Street">
+  <nodes>
+    <node lat="51.49923859234836" lng="-0.15974534267616"/>
+    <node lat="51.49912504973286" lng="-0.15971315616798"/>
+  </nodes>
+  <zones>
+    <zone title="Sloane Street Upper"/>
+    <zone title="Hans Crescent"/>
+  </zones>
+</exit>

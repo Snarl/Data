@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Church Pl - Piccadily ">
+  <nodes>
+    <node lat="51.50906146221886" lng="-0.13658580893707"/>
+    <node lat="51.5090230664082" lng="-0.13670382613373"/>
+  </nodes>
+  <zones>
+    <zone title="Church Pl"/>
+  </zones>
+</exit>

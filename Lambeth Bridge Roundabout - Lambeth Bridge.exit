@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lambeth Bridge Roundabout - Lambeth Bridge">
+  <nodes>
+    <node lat="51.49481230816254" lng="-0.12471703404617"/>
+    <node lat="51.4946352979501" lng="-0.12475458497238"/>
+  </nodes>
+  <zones>
+    <zone title="Lambeth Bridge Roundabout"/>
+    <zone title="Lambeth Bridge"/>
+  </zones>
+</exit>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<zone title="Piccadily Place 1">
+  <nodes maxlat="51.50778019326295" maxlng="-0.14056754821968" minlat="51.50312475179766" minlng="-0.14989627117347">
+    <node lat="51.50340023494882" lng="-0.14905673975181"/>
+    <node lat="51.50312475179766" lng="-0.14968705887031"/>
+    <node lat="51.50335515599972" lng="-0.14989627117347"/>
+    <node lat="51.50432350874954" lng="-0.14779878372383"/>
+    <node lat="51.5044503948264" lng="-0.14749301189613"/>
+    <node lat="51.50489115424274" lng="-0.14667225593757"/>
+    <node lat="51.50519166958222" lng="-0.14601779693794"/>
+    <node lat="51.50564243887546" lng="-0.14515949005317"/>
+    <node lat="51.5060164070528" lng="-0.14442992920112"/>
+    <node lat="51.50644045654056" lng="-0.14353943580818"/>
+    <node lat="51.5068210960267" lng="-0.14273477310371"/>
+    <node lat="51.50705148153934" lng="-0.14233780616951"/>
+    <node lat="51.50743545480506" lng="-0.14155996555519"/>
+    <node lat="51.50776182953675" lng="-0.14072713965606"/>
+    <node lat="51.50778019326295" lng="-0.14065606111717"/>
+    <node lat="51.50768712250391" lng="-0.14056754821968"/>
+    <node lat="51.50769463495056" lng="-0.14063996786308"/>
+  </nodes>
+  <exits>
+    <exit title="Piccadily Place 1 - Arlington St"/>
+    <exit title="Piccadily Place 1 - Arlington St"/>
+    <exit title="Piccadily Place 1 - Arlington St West"/>
+    <exit title="Piccadily Place 1 - Arlington St West"/>
+    <exit title="Piccadily Place 1 - Arlington St West"/>
+    <exit title="Piccadily Place 1 - Arlington St"/>
+    <exit title="Hamilton Pl - Piccadily Place 1"/>
+    <exit title="Hamilton Pl - Piccadily Place 1"/>
+    <exit title="Old Park Lane - Piccadily place 1"/>
+    <exit title="Old Park Lane - Piccadily place 1"/>
+    <exit title="Old Park Lane - Piccadily place 1"/>
+    <exit title="Down St - Piccadily Place 1"/>
+    <exit title="Down St - Piccadily Place 1"/>
+    <exit title="White Horse St - Piccadily Place 1"/>
+    <exit title="White Horse St - Piccadily Place 1"/>
+    <exit title="Clarges st- Piccadily Place 1"/>
+    <exit title="Clarges st- Piccadily Place 1"/>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Stralton St - Piccadily Place 1"/>
+    <exit title="Stralton St - Piccadily Place 1"/>
+    <exit title="Berkeley St - Piccadily Place 1"/>
+    <exit title="Berkeley St - Piccadily Place 1"/>
+    <exit title="Half Moon St - Piccadily Place 1"/>
+    <exit title="St James\'s St - Piccadily place 1"/>
+    <exit title="St James\'s St - Piccadily place 1"/>
+  </exits>
+</zone>

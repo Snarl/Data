@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hanway Place - Oxford Street">
+  <nodes>
+    <node lat="51.516366093861" lng="-0.13272745126915"/>
+    <node lat="51.51637277031934" lng="-0.13259870523643"/>
+  </nodes>
+  <zones>
+    <zone title="Hanway Place"/>
+    <zone title="East Oxford Street 2"/>
+  </zones>
+</exit>

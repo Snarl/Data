@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pall Mall - Cockspur Street">
+  <nodes>
+    <node lat="51.50773929221734" lng="-0.13134343141746"/>
+    <node lat="51.50763912625844" lng="-0.13103765958977"/>
+  </nodes>
+  <zones>
+    <zone title="Cockspur Street"/>
+    <zone title="Pall Mall"/>
+  </zones>
+</exit>

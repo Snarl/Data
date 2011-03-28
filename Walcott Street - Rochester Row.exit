@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Walcott Street - Rochester Row">
+  <nodes>
+    <node lat="51.49334903092984" lng="-0.13747227901649"/>
+    <node lat="51.4932638629909" lng="-0.13755006307792"/>
+  </nodes>
+  <zones>
+    <zone title="Rochester Row"/>
+    <zone title="Walcott Street"/>
+  </zones>
+</exit>

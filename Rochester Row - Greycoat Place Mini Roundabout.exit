@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rochester Row - Greycoat Place Mini Roundabout">
+  <nodes>
+    <node lat="51.4960375840675" lng="-0.13500196451378"/>
+    <node lat="51.49623796677128" lng="-0.135221905653"/>
+  </nodes>
+  <zones>
+    <zone title="Rochester Row"/>
+    <zone title="Greycoat Place Mini Roundabout"/>
+  </zones>
+</exit>

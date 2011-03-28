@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<zone title="Buckingham Gate">
+  <nodes maxlat="51.50026046320294" maxlng="-0.13556656951141" minlat="51.49757549875366" minlng="-0.14328596705627">
+    <node lat="51.49925528981202" lng="-0.14328596705627"/>
+    <node lat="51.49918850009694" lng="-0.14299628848266"/>
+    <node lat="51.49932875838558" lng="-0.14273879641723"/>
+    <node lat="51.5000634376074" lng="-0.14100072497558"/>
+    <node lat="51.49968274167088" lng="-0.14049646968078"/>
+    <node lat="51.49922857393774" lng="-0.13902661914062"/>
+    <node lat="51.49904824137668" lng="-0.13837216014099"/>
+    <node lat="51.49876104360264" lng="-0.13757822627258"/>
+    <node lat="51.4984938812579" lng="-0.13691303843689"/>
+    <node lat="51.4982467546947" lng="-0.13635513896179"/>
+    <node lat="51.49787272275304" lng="-0.1359796296997"/>
+    <node lat="51.49757549875366" lng="-0.13583210820389"/>
+    <node lat="51.49762225321908" lng="-0.13556656951141"/>
+    <node lat="51.498086455667" lng="-0.13578651065063"/>
+    <node lat="51.49839369497484" lng="-0.13615129107666"/>
+    <node lat="51.49866753696012" lng="-0.13674137705993"/>
+    <node lat="51.49893469828698" lng="-0.13739583605957"/>
+    <node lat="51.49924861084492" lng="-0.13817904109192"/>
+    <node lat="51.49945565837006" lng="-0.13893005961609"/>
+    <node lat="51.49982967732144" lng="-0.14009950274658"/>
+    <node lat="51.50014358371512" lng="-0.14061448687744"/>
+    <node lat="51.50026046320294" lng="-0.1410221826477"/>
+    <node lat="51.4994623373068" lng="-0.14304993266296"/>
+  </nodes>
+  <exits>
+    <exit title="Buckingham Gate - Victoria Street"/>
+    <exit title="Vandon Street - Buckingham Gate"/>
+    <exit title="Seaforth Place - Buckingham Gate"/>
+    <exit title="St James\' Court - Buckingham Gate"/>
+    <exit title="St James\' Court - Buckingham Gate"/>
+    <exit title="Buckingham Gate - Spenser Street"/>
+    <exit title="Petty France - Buckingham Gate"/>
+    <exit title="Castle Lane - Buckingham Gate"/>
+    <exit title="Petty France - Buckingham Gate"/>
+    <exit title="Wilfred Street - Buckingham Gate"/>
+    <exit title="Stafford Place - Buckingham Gate"/>
+    <exit title="Buckingham Gate - Buckingham Palace Gardens"/>
+    <exit title="Buckingham Gate - Buckingham Palace Gardens"/>
+    <exit title="Buckingham Gate - Buckingham Palace Road"/>
+  </exits>
+</zone>

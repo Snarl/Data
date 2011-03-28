@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Windmill St-Panton St">
+  <nodes>
+    <node lat="51.50936612353604" lng="-0.13233718985748"/>
+    <node lat="51.50919918610964" lng="-0.13214407080841"/>
+  </nodes>
+  <zones>
+    <zone title="Panton Street"/>
+    <zone title="Cockspur Street"/>
+  </zones>
+</exit>

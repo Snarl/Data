@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Portland St - Margaret St">
+  <nodes>
+    <node lat="51.51650212651008" lng="-0.14137623423767"/>
+    <node lat="51.51672912486641" lng="-0.14148352259826"/>
+  </nodes>
+  <zones>
+    <zone title="Great Portland St"/>
+    <zone title="Margaret St"/>
+  </zones>
+</exit>

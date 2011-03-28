@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ganton St-Kingly St">
+  <nodes>
+    <node lat="51.51282492937268" lng="-0.13948259467315"/>
+    <node lat="51.51274814406244" lng="-0.13938067073059"/>
+  </nodes>
+  <zones>
+    <zone title="Ganton Street"/>
+    <zone title="Kingly Street"/>
+  </zones>
+</exit>

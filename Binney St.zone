@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Binney St">
+  <nodes maxlat="51.51490809883522" maxlng="-0.14976081961822" minlat="51.51244183606878" minlng="-0.15103218669128">
+    <node lat="51.51417950103043" lng="-0.15063253754806"/>
+    <node lat="51.51410772559614" lng="-0.15059766883087"/>
+    <node lat="51.51286248726996" lng="-0.1499914895935"/>
+    <node lat="51.51244183606878" lng="-0.14976081961822"/>
+    <node lat="51.51245185161872" lng="-0.14991638774109"/>
+    <node lat="51.51490309133055" lng="-0.15103218669128"/>
+    <node lat="51.51490809883522" lng="-0.15094903821182"/>
+  </nodes>
+  <exits>
+    <exit title="Binney St - Oxford Street"/>
+    <exit title="Binney St - West Oxford Street 1"/>
+    <exit title="Binney St - West Oxford Street 1"/>
+  </exits>
+</zone>

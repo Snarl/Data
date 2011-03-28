@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Belgrave Mews North">
+  <nodes maxlat="51.50066786936208" maxlng="-0.15438763016891" minlat="51.49979628289916" minlng="-0.15580383652878">
+    <node lat="51.49987309003874" lng="-0.15580383652878"/>
+    <node lat="51.50066786936208" lng="-0.15453246945572"/>
+    <node lat="51.50059774233226" lng="-0.15438763016891"/>
+    <node lat="51.49979628289916" lng="-0.15571264142227"/>
+  </nodes>
+  <exits>
+    <exit title="Wilton Crescent - Belgrave Mews North"/>
+    <exit title="Belgrade Mews South - Wilton Crescent"/>
+    <exit title="Belgrave Mews North - Wilton Crescent"/>
+  </exits>
+</zone>

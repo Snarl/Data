@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Grosvenor - Park lane 1">
+  <nodes>
+    <node lat="51.51007476600786" lng="-0.1561686169548"/>
+    <node lat="51.50992118598694" lng="-0.15601304883194"/>
+  </nodes>
+  <zones>
+    <zone title="Park Lane 1"/>
+    <zone title="Upper Grosvendor St"/>
+  </zones>
+</exit>

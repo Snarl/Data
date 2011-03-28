@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="West Eaton Place - Eaton Place">
+  <nodes>
+    <node lat="51.49508575419453" lng="-0.15549538249206"/>
+    <node lat="51.49492544404974" lng="-0.15521643275451"/>
+  </nodes>
+  <zones>
+    <zone title="West Eaton Place"/>
+    <zone title="Eaton Place 2"/>
+  </zones>
+</exit>

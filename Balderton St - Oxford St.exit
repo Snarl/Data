@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Balderton St - Oxford St">
+  <nodes>
+    <node lat="51.51384232241478" lng="-0.15263614768219"/>
+    <node lat="51.51389573701342" lng="-0.1523142826004"/>
+  </nodes>
+  <zones>
+    <zone title="Balderton Street"/>
+    <zone title="West Oxford Street 1"/>
+  </zones>
+</exit>

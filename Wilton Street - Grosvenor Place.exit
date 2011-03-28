@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Wilton Street - Grosvenor Place">
+  <nodes>
+    <node lat="51.49912338003224" lng="-0.14822927827072"/>
+    <node lat="51.49895640507774" lng="-0.14803615922165"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

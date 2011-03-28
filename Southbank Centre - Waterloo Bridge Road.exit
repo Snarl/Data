@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Southbank Centre - Waterloo Bridge Road">
+  <nodes>
+    <node lat="51.507190880929" lng="-0.11619565600586"/>
+    <node lat="51.50618252142269" lng="-0.11513350123596"/>
+  </nodes>
+  <zones>
+    <zone title="Waterloo Bridge Road"/>
+    <zone title="Southbank Centre"/>
+  </zones>
+</exit>

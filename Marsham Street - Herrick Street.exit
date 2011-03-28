@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marsham Street - Herrick Street">
+  <nodes>
+    <node lat="51.49202055996152" lng="-0.12896162981224"/>
+    <node lat="51.49197379975014" lng="-0.12882215494346"/>
+  </nodes>
+  <zones>
+    <zone title="Marsham Street"/>
+    <zone title="Herrick Street"/>
+  </zones>
+</exit>

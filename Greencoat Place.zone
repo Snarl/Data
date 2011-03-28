@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<zone title="Greencoat Place">
+  <nodes maxlat="51.49640328183068" maxlng="-0.13561350816917" minlat="51.49394854191102" minlng="-0.13770965451431">
+    <node lat="51.49640328183068" lng="-0.13578516954612"/>
+    <node lat="51.4963481768748" lng="-0.13561350816917"/>
+    <node lat="51.49561677751408" lng="-0.13613922113609"/>
+    <node lat="51.4955132451495" lng="-0.13634306902122"/>
+    <node lat="51.49461901631062" lng="-0.13707933539581"/>
+    <node lat="51.49394854191102" lng="-0.13765064591598"/>
+    <node lat="51.49398945532612" lng="-0.13770965451431"/>
+    <node lat="51.49481940525028" lng="-0.13700423354339"/>
+    <node lat="51.495495711419" lng="-0.13647852057647"/>
+    <node lat="51.49561093295106" lng="-0.13642219418716"/>
+    <node lat="51.49568774714392" lng="-0.13622639292907"/>
+    <node lat="51.49614695972748" lng="-0.13592866772842"/>
+  </nodes>
+  <exits>
+    <exit title="Greycoat Place West - Greencoat Place"/>
+    <exit title="Greycoat Place West - Greencoat Place"/>
+    <exit title="Greencoat Place - Stillington Street"/>
+    <exit title="Greencoat Place  - Emery Hill Street (N)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (W)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (N)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (E)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (W)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (S)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (S)"/>
+    <exit title="Greencoat Row - Greencoat Place"/>
+  </exits>
+</zone>

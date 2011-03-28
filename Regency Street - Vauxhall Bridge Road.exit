@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regency Street - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.49009124390624" lng="-0.13224599475097"/>
+    <node lat="51.49000941004178" lng="-0.13208238000107"/>
+  </nodes>
+  <zones>
+    <zone title="Regency Street"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

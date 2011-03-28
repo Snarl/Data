@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Windmill Street - Shaftesbury Avenue (South)">
+  <nodes>
+    <node lat="51.5104737378229" lng="-0.13393444532585"/>
+    <node lat="51.51065736382114" lng="-0.1337627839489"/>
+  </nodes>
+  <zones>
+    <zone title="Great Windmill Street"/>
+    <zone title="Shaftesbury Avenue"/>
+  </zones>
+</exit>

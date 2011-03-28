@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Abingdon Street">
+  <nodes maxlat="51.497598875987" maxlng="-0.12556058878135" minlat="51.49704282842292" minlng="-0.12586233729553">
+    <node lat="51.4975905269806" lng="-0.12586233729553"/>
+    <node lat="51.49704282842292" lng="-0.12579930538368"/>
+    <node lat="51.49705117753572" lng="-0.12556058878135"/>
+    <node lat="51.497598875987" lng="-0.12561825627517"/>
+  </nodes>
+  <exits>
+    <exit title="St Margret Street - Abingdon Street"/>
+    <exit title="Abingdon Street - Victoria Tower Gardens"/>
+    <exit title="Abingdon Street - Milbank"/>
+  </exits>
+</zone>

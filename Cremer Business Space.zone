@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Cremer Business Space">
+  <nodes maxlat="51.53062227460384" maxlng="-0.07599202508163" minlat="51.52951014429349" minlng="-0.07674974912834">
+    <node lat="51.52986806466496" lng="-0.07640776747894"/>
+    <node lat="51.53033861303966" lng="-0.07608858460617"/>
+    <node lat="51.53060892586401" lng="-0.07599202508163"/>
+    <node lat="51.53062227460384" lng="-0.07652042025757"/>
+    <node lat="51.53003158911961" lng="-0.07674840802383"/>
+    <node lat="51.52967617297421" lng="-0.07674840802383"/>
+    <node lat="51.52951014429349" lng="-0.07674974912834"/>
+    <node lat="51.52958189545593" lng="-0.07665855402183"/>
+  </nodes>
+  <exits>
+    <exit title="Hackspace - Street"/>
+    <exit title="Hackspace Back Gates"/>
+  </exits>
+</zone>

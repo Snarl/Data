@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lanesborough Place - Knightsbridge">
+  <nodes>
+    <node lat="51.50260592069786" lng="-0.15315314346981"/>
+    <node lat="51.50264599153378" lng="-0.153098158185"/>
+  </nodes>
+  <zones>
+    <zone title="Knightsbridge"/>
+    <zone title="Lanesborough Place"/>
+  </zones>
+</exit>

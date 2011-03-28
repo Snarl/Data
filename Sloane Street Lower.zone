@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Sloane Street Lower">
+  <nodes maxlat="51.49713466858118" maxlng="-0.15760359877777" minlat="51.4927394921763" minlng="-0.15915391558838">
+    <node lat="51.49713466858118" lng="-0.15883205050659"/>
+    <node lat="51.49708457397335" lng="-0.15915391558838"/>
+    <node lat="51.4927394921763" lng="-0.15794692153167"/>
+    <node lat="51.49278625160231" lng="-0.15760359877777"/>
+  </nodes>
+  <exits>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Street - Pont Street"/>
+    <exit title="Sloane Street Lower - Pont Street"/>
+  </exits>
+</zone>

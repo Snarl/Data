@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Albert Gate">
+  <nodes maxlat="51.50254706660272" maxlng="-0.15834522957039" minlat="51.50143675507672" minlng="-0.15870196336937">
+    <node lat="51.50195434727434" lng="-0.15856248850059"/>
+    <node lat="51.50143675507672" lng="-0.15870196336937"/>
+    <node lat="51.5014634696566" lng="-0.15834522957039"/>
+    <node lat="51.50167885538478" lng="-0.15839082712364"/>
+    <node lat="51.50233669386444" lng="-0.15835327619743"/>
+    <node lat="51.50254706660272" lng="-0.15840423816871"/>
+    <node lat="51.50253871849668" lng="-0.15862954372597"/>
+  </nodes>
+  <exits>
+    <exit title="Knightsbridge - South Albert Gate"/>
+    <exit title="Hyde Park - Albert Gate"/>
+    <exit title="Knightsbridge - North Albert Gate"/>
+    <exit title="Lowndes Square - Albert Gate"/>
+    <exit title="Hyde Park - Albert Gate"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Peter Street - Greycoat Place">
+  <nodes>
+    <node lat="51.4965018026523" lng="-0.13358039373588"/>
+    <node lat="51.49661284704521" lng="-0.13362867349815"/>
+  </nodes>
+  <zones>
+    <zone title="Greycoat Place"/>
+    <zone title="Great Peter Street"/>
+  </zones>
+</exit>

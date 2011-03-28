@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chesham Place - Pont Street">
+  <nodes>
+    <node lat="51.49744859353514" lng="-0.15617398137283"/>
+    <node lat="51.49759219678344" lng="-0.15467730874252"/>
+  </nodes>
+  <zones>
+    <zone title="Pont Street"/>
+    <zone title="Chesham Place"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Kennington Lane (south) - Vauxhall Street (south)">
+  <nodes>
+    <node lat="51.48692007417834" lng="-0.11661408061218"/>
+    <node lat="51.48675472471907" lng="-0.11653763765526"/>
+  </nodes>
+  <zones>
+    <zone title="Kennington Lane (south)"/>
+    <zone title="Vauxhall Street (south)"/>
+  </zones>
+</exit>

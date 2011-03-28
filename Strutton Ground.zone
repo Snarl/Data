@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Strutton Ground">
+  <nodes maxlat="51.49776877805948" maxlng="-0.13363403791618" minlat="51.4965731883618" minlng="-0.13405380362701">
+    <node lat="51.49768779287616" lng="-0.13405380362701"/>
+    <node lat="51.49737887899952" lng="-0.13399211281967"/>
+    <node lat="51.49708749615368" lng="-0.13391835207176"/>
+    <node lat="51.4965731883618" lng="-0.13378960603904"/>
+    <node lat="51.49660992482514" lng="-0.13363403791618"/>
+    <node lat="51.49740142143416" lng="-0.13385666126442"/>
+    <node lat="51.49759010952516" lng="-0.13384861463737"/>
+    <node lat="51.49768194857888" lng="-0.13382447475624"/>
+    <node lat="51.49776877805948" lng="-0.13389957660866"/>
+  </nodes>
+  <exits>
+    <exit title="Strutton Ground - Greycoat Place"/>
+    <exit title="Old Pye Street - Strutton Ground"/>
+    <exit title="Strutton Ground - Victoria Street"/>
+    <exit title="Strutton Ground - Victoria Street"/>
+  </exits>
+</zone>

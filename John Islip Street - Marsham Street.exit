@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Islip Street - Marsham Street">
+  <nodes>
+    <node lat="51.49190198933212" lng="-0.12856466287803"/>
+    <node lat="51.49196711971604" lng="-0.12851101869774"/>
+  </nodes>
+  <zones>
+    <zone title="Marsham Street"/>
+    <zone title="John Islip Street"/>
+  </zones>
+</exit>

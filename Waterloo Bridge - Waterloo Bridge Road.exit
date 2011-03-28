@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Waterloo Bridge - Waterloo Bridge Road">
+  <nodes>
+    <node lat="51.50746467005537" lng="-0.11541245097351"/>
+    <node lat="51.50721091433552" lng="-0.11619565600586"/>
+  </nodes>
+  <zones>
+    <zone title="Waterloo Bridge Road"/>
+    <zone title="Waterloo Bridge"/>
+  </zones>
+</exit>

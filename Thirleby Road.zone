@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Thirleby Road">
+  <nodes maxlat="51.49688419497106" maxlng="-0.13765735143852" minlat="51.49550155598632" minlng="-0.13942760938835">
+    <node lat="51.4968374397485" lng="-0.13942760938835"/>
+    <node lat="51.49676229732606" lng="-0.13940346950722"/>
+    <node lat="51.4966737960919" lng="-0.13919962162208"/>
+    <node lat="51.4963381577743" lng="-0.13890994304847"/>
+    <node lat="51.49589230603786" lng="-0.13846737856102"/>
+    <node lat="51.49561510762864" lng="-0.13819915765953"/>
+    <node lat="51.49568357245274" lng="-0.13800335640144"/>
+    <node lat="51.49550155598632" lng="-0.13779146188926"/>
+    <node lat="51.49561844737854" lng="-0.13765735143852"/>
+    <node lat="51.49637823412128" lng="-0.13840836996269"/>
+    <node lat="51.4964016119741" lng="-0.13866049761009"/>
+    <node lat="51.49662203113944" lng="-0.1388965320034"/>
+    <node lat="51.49688419497106" lng="-0.13917816394996"/>
+  </nodes>
+  <exits>
+    <exit title="Thirleby Road - Francis Street"/>
+    <exit title="Thirleby Road - Victoria Street"/>
+    <exit title="Ambrosden Avenue - Thirleby Road"/>
+    <exit title="Howick Place - Thirleby Road"/>
+  </exits>
+</zone>

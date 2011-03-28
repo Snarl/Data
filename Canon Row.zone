@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Canon Row">
+  <nodes maxlat="51.50197020887565" maxlng="-0.12532589549255" minlat="51.50110532601553" minlng="-0.12558338755798">
+    <node lat="51.50196686959117" lng="-0.12532589549255"/>
+    <node lat="51.50197020887565" lng="-0.12553510779571"/>
+    <node lat="51.50110532601553" lng="-0.12558338755798"/>
+    <node lat="51.50111200471053" lng="-0.12545464152527"/>
+    <node lat="51.50162292197736" lng="-0.12542781943512"/>
+    <node lat="51.5016329399057" lng="-0.1253527175827"/>
+  </nodes>
+  <exits>
+    <exit title="Bridge Street - Canon Row"/>
+    <exit title="Canon Row - Derby Gate"/>
+    <exit title="Derby Gate - Canon Row"/>
+  </exits>
+</zone>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Willow Place">
+  <nodes maxlat="51.49450713209878" maxlng="-0.13782230729294" minlat="51.49295742407822" minlng="-0.13916341180038">
+    <node lat="51.49442029640474" lng="-0.13916341180038"/>
+    <node lat="51.49450713209878" lng="-0.13901857251358"/>
+    <node lat="51.494024523935" lng="-0.13868597859573"/>
+    <node lat="51.49365379723894" lng="-0.13839630002212"/>
+    <node lat="51.49346008299126" lng="-0.13824073189926"/>
+    <node lat="51.49310271144314" lng="-0.13793496007156"/>
+    <node lat="51.4930910216723" lng="-0.13782230729294"/>
+    <node lat="51.49295742407822" lng="-0.13798055762481"/>
+    <node lat="51.49423159519164" lng="-0.13905612343979"/>
+  </nodes>
+  <exits>
+    <exit title="Willow Place - Francis Street"/>
+    <exit title="Willow Place - Rochester Row"/>
+    <exit title="Greencoat Place - Willow Place"/>
+    <exit title="Willow Place - Francis Street"/>
+  </exits>
+</zone>

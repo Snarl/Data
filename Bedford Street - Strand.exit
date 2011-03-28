@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bedford Street - Strand">
+  <nodes>
+    <node lat="51.50971835949686" lng="-0.12354759091568"/>
+    <node lat="51.50979014184716" lng="-0.12338397616577"/>
+  </nodes>
+  <zones>
+    <zone title="Bedford Street"/>
+    <zone title="Strand - Charing Cross"/>
+  </zones>
+</exit>

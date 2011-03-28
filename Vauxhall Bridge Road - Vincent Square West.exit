@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vauxhall Bridge Road - Vincent Square West">
+  <nodes>
+    <node lat="51.4926392932432" lng="-0.13755006307792"/>
+    <node lat="51.49258251375091" lng="-0.1374374102993"/>
+  </nodes>
+  <zones>
+    <zone title="Vauxhall Bridge Road"/>
+    <zone title="Vincent Square West"/>
+  </zones>
+</exit>

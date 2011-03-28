@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St James's Park Broadway - Dacre Street">
+  <nodes>
+    <node lat="51.49909248970889" lng="-0.1333483826561"/>
+    <node lat="51.4989739374738" lng="-0.13345835322571"/>
+  </nodes>
+  <zones>
+    <zone title="Dacre Street"/>
+    <zone title="St James\'s Park Broadway"/>
+  </zones>
+</exit>

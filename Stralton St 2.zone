@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Stralton St 2">
+  <nodes maxlat="51.50814997031134" maxlng="-0.143417395298" minlat="51.50774596990468" minlng="-0.14421669358444">
+    <node lat="51.50814997031134" lng="-0.14351395482254"/>
+    <node lat="51.5080965489755" lng="-0.143417395298"/>
+    <node lat="51.50796299536182" lng="-0.14368561619949"/>
+    <node lat="51.50774596990468" lng="-0.1441201340599"/>
+    <node lat="51.50781942479052" lng="-0.14421669358444"/>
+  </nodes>
+  <exits>
+    <exit title="Stratton St-Berkely St"/>
+    <exit title="Stratton St-Berkely St"/>
+  </exits>
+</zone>

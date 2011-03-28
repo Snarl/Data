@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Waverton St">
+  <nodes maxlat="51.50863159421602" maxlng="-0.14932227844429" minlat="51.50731608950662" minlng="-0.14996064418983">
+    <node lat="51.50858818984422" lng="-0.14996064418983"/>
+    <node lat="51.50863159421602" lng="-0.14982116932106"/>
+    <node lat="51.50797217718682" lng="-0.14957440609169"/>
+    <node lat="51.50732944507516" lng="-0.14932227844429"/>
+    <node lat="51.50731608950662" lng="-0.14949125761223"/>
+  </nodes>
+  <exits>
+    <exit title="Waverton St - South St"/>
+    <exit title="Waverton St - South St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="North Charing Cross Road - Palace Theatre">
+  <nodes>
+    <node lat="51.51351849515567" lng="-0.12946454400253"/>
+    <node lat="51.51355187952446" lng="-0.12921778077316"/>
+  </nodes>
+  <zones>
+    <zone title="North Charing Cross Road"/>
+    <zone title="Palace Theatre"/>
+  </zones>
+</exit>

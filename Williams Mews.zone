@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Williams Mews">
+  <nodes maxlat="51.50150938536655" maxlng="-0.15759018773269" minlat="51.50037066365379" minlng="-0.15843240136337">
+    <node lat="51.50146263488857" lng="-0.15843240136337"/>
+    <node lat="51.5013925090817" lng="-0.15840826148224"/>
+    <node lat="51.50143091132266" lng="-0.15797106141281"/>
+    <node lat="51.50037066365379" lng="-0.15766528958511"/>
+    <node lat="51.50050090012939" lng="-0.15759018773269"/>
+    <node lat="51.50144760793906" lng="-0.15785036200714"/>
+    <node lat="51.50150938536655" lng="-0.15795765036773"/>
+  </nodes>
+  <exits>
+    <exit title="William Mews - Lowndes Squares"/>
+    <exit title="Lowndes Square - William Mews"/>
+  </exits>
+</zone>

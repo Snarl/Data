@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Hans Road">
+  <nodes maxlat="51.49911503130334" maxlng="-0.16148743743133" minlat="51.4981833030697" minlng="-0.16441104525757">
+    <node lat="51.49911503130334" lng="-0.16427693480682"/>
+    <node lat="51.49859740685838" lng="-0.16320405120086"/>
+    <node lat="51.49850723941838" lng="-0.16275880450439"/>
+    <node lat="51.49855399292804" lng="-0.16223309153747"/>
+    <node lat="51.49841707179998" lng="-0.16199169272613"/>
+    <node lat="51.49825009425784" lng="-0.16148743743133"/>
+    <node lat="51.4981833030697" lng="-0.16153035277557"/>
+    <node lat="51.49831020624346" lng="-0.16215798968506"/>
+    <node lat="51.49842041134456" lng="-0.16294655913543"/>
+    <node lat="51.49841707179998" lng="-0.16302702540588"/>
+    <node lat="51.49857069059844" lng="-0.16348300093841"/>
+    <node lat="51.4990449018841" lng="-0.16441104525757"/>
+  </nodes>
+  <exits>
+    <exit title="Hans Road - Basil Street"/>
+    <exit title="Hans Road - Hans Place"/>
+    <exit title="Hans Road - Hans Place"/>
+    <exit title="Hans Road - Basil Street"/>
+    <exit title="Hans Road - Basil Street"/>
+    <exit title="Hans Road - Hans Place"/>
+    <exit title="Brompton Road - Hans Road"/>
+  </exits>
+</zone>

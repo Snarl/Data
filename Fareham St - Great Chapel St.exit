@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fareham St - Great Chapel St">
+  <nodes>
+    <node lat="51.51548729649591" lng="-0.13431129569244"/>
+    <node lat="51.51540216992402" lng="-0.13427910918426"/>
+  </nodes>
+  <zones>
+    <zone title="Great Chapel Street"/>
+    <zone title="Fareham Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chesham Place - Lowndes Place">
+  <nodes>
+    <node lat="51.49751705560531" lng="-0.15459281915855"/>
+    <node lat="51.49759470148724" lng="-0.15467060321998"/>
+  </nodes>
+  <zones>
+    <zone title="Lowndes Place"/>
+    <zone title="Chesham Place"/>
+  </zones>
+</exit>

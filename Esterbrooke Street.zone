@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Esterbrooke Street">
+  <nodes maxlat="51.4922105228242" maxlng="-0.1323398720665" minlat="51.4917896809487" minlng="-0.13357368821335">
+    <node lat="51.49188487171292" lng="-0.13235060090256"/>
+    <node lat="51.4917896809487" lng="-0.1323398720665"/>
+    <node lat="51.49214205278372" lng="-0.13357368821335"/>
+    <node lat="51.4922105228242" lng="-0.13352809066009"/>
+    <node lat="51.49208193266334" lng="-0.13308016175461"/>
+  </nodes>
+  <exits>
+    <exit title="Regency Street - Esterbrooke Street"/>
+    <exit title="Chapter Street - Esterbrooke Street (NE)"/>
+    <exit title="Chapter Street - Esterbrooke Street (NW)"/>
+    <exit title="Chapter Street - Esterbrooke Street (SW)"/>
+    <exit title="Esterbrooke Street - Hide Place"/>
+    <exit title="Esterbrooke Street - Hide Place"/>
+    <exit title="Chapter Street - Esterbrooke Street (SE)"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regency Street - Vincent Street (N)">
+  <nodes>
+    <node lat="51.49297328882572" lng="-0.13240022176933"/>
+    <node lat="51.49297829874082" lng="-0.13218832725715"/>
+  </nodes>
+  <zones>
+    <zone title="Regency Street"/>
+    <zone title="Vincent Street"/>
+  </zones>
+</exit>

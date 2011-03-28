@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cork St - Burlington Gardens" status="green" reason="">
+  <nodes>
+    <node lat="51.50974089581262" lng="-0.14108253235054"/>
+    <node lat="51.50980433135244" lng="-0.1408947777195"/>
+  </nodes>
+  <zones>
+    <zone title="Cork St"/>
+    <zone title="Burlington Gardens"/>
+  </zones>
+</exit>

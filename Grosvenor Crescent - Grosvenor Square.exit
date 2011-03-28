@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Grosvenor Crescent - Grosvenor Square">
+  <nodes>
+    <node lat="51.50022039027258" lng="-0.15366343373489"/>
+    <node lat="51.50022706909728" lng="-0.15330938214493"/>
+  </nodes>
+  <zones>
+    <zone title="Grosvenor Crescent"/>
+    <zone title="Belgrave Square Gardens"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bulinca Street">
+  <nodes>
+    <node lat="51.4919145144134" lng="-0.12829241866302"/>
+    <node lat="51.49173916296544" lng="-0.12844530457687"/>
+  </nodes>
+  <zones>
+    <zone title="Bulinca Street"/>
+    <zone title="John Islip Street"/>
+  </zones>
+</exit>

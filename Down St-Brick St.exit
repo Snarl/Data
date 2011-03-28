@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Down St-Brick St">
+  <nodes>
+    <node lat="51.50500133911059" lng="-0.14829231018257"/>
+    <node lat="51.505029721131" lng="-0.14810991996956"/>
+  </nodes>
+  <zones>
+    <zone title="Down St"/>
+    <zone title="Brick St"/>
+  </zones>
+</exit>

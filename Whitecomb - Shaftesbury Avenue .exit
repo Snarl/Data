@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Whitecomb - Shaftesbury Avenue ">
+  <nodes>
+    <node lat="51.51163891569586" lng="-0.13248605245781"/>
+    <node lat="51.51172571858536" lng="-0.13229829782676"/>
+  </nodes>
+  <zones>
+    <zone title="Shaftesbury Avenue"/>
+    <zone title="Whitcomb Street"/>
+  </zones>
+</exit>

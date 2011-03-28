@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Belgrave Mews West">
+  <nodes maxlat="51.4988194851658" maxlng="-0.15459684247207" minlat="51.49770407342724" minlng="-0.15634027833175">
+    <node lat="51.49879276903608" lng="-0.15634027833175"/>
+    <node lat="51.49770407342724" lng="-0.15475777501297"/>
+    <node lat="51.49781761958268" lng="-0.15459684247207"/>
+    <node lat="51.4988194851658" lng="-0.15620616788101"/>
+  </nodes>
+  <exits>
+    <exit title="Belgrave Mews Way - Lowndes Place"/>
+    <exit title="Chesham Mews - Belgrave Mews Way"/>
+    <exit title="Belgrave Mews Way - Lowndes Place"/>
+    <exit title="Chesham Mews - Belgrave Mews Way"/>
+    <exit title="West Halkin Street - Belgrave Mews Way"/>
+    <exit title="Halkin Place - Belgrave Mews West"/>
+  </exits>
+</zone>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<zone title="Savile Row">
+  <nodes maxlat="51.51270975142704" maxlng="-0.13846603745651" minlat="51.5100822782226" minlng="-0.14263150805664">
+    <node lat="51.51032099392715" lng="-0.13846603745651"/>
+    <node lat="51.5100822782226" lng="-0.13970790023041"/>
+    <node lat="51.51119237909928" lng="-0.14082906359863"/>
+    <node lat="51.51189682006258" lng="-0.14148084038925"/>
+    <node lat="51.51206875542116" lng="-0.14166323060226"/>
+    <node lat="51.51214554187656" lng="-0.14179734105301"/>
+    <node lat="51.51267469719111" lng="-0.14263150805664"/>
+    <node lat="51.51270975142704" lng="-0.14247593993377"/>
+    <node lat="51.51251611816771" lng="-0.14223990554046"/>
+    <node lat="51.51211048720645" lng="-0.1415264379425"/>
+    <node lat="51.51173156119371" lng="-0.14113215321731"/>
+    <node lat="51.51075668859659" lng="-0.1401933800621"/>
+    <node lat="51.51018410815165" lng="-0.13958183640671"/>
+    <node lat="51.51040112199514" lng="-0.13851163500976"/>
+  </nodes>
+  <exits>
+    <exit title="Saville Row-Conduit St"/>
+    <exit title="Saville Row-Conduit St"/>
+    <exit title="New Burlington Pl-Saville Row"/>
+    <exit title="New Burlington Pl-Saville Row"/>
+    <exit title="New Burlington St-Saville Row"/>
+    <exit title="New Burlington St-Saville Row"/>
+    <exit title="Boyle St-Saville Row"/>
+    <exit title="Boyle St-Saville Row"/>
+    <exit title="Burlington Gardens - Savile Row"/>
+    <exit title="Savile Row - Sackville St"/>
+    <exit title="Savile Row - Sackville St"/>
+  </exits>
+</zone>

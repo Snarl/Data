@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Osbert Street - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.49139263312239" lng="-0.13496307248306"/>
+    <node lat="51.49134002715662" lng="-0.13484237307739"/>
+  </nodes>
+  <zones>
+    <zone title="Osbert Street"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ramillies Street - East Oxford Street 1">
+  <nodes>
+    <node lat="51.51546059003222" lng="-0.13929618114662"/>
+    <node lat="51.51545892088432" lng="-0.1392210792942"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 1"/>
+    <zone title="Ramillies Street"/>
+  </zones>
+</exit>

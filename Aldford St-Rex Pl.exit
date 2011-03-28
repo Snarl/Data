@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Aldford St-Rex Pl">
+  <nodes>
+    <node lat="51.50858902178143" lng="-0.15292046183777"/>
+    <node lat="51.50863075675429" lng="-0.15273270720672"/>
+  </nodes>
+  <zones>
+    <zone title="Rex Pl"/>
+    <zone title="Aldford St"/>
+  </zones>
+</exit>

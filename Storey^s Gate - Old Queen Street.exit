@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Storey's Gate - Old Queen Street">
+  <nodes>
+    <node lat="51.50094086284304" lng="-0.12967912072372"/>
+    <node lat="51.50083483804605" lng="-0.12969789618683"/>
+  </nodes>
+  <zones>
+    <zone title="Storey\'s Gate"/>
+    <zone title="Old Queen Street"/>
+  </zones>
+</exit>

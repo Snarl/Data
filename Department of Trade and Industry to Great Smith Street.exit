@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Department of Trade and Industry to Great Smith Street">
+  <nodes>
+    <node lat="51.49858822314152" lng="-0.13008815759849"/>
+    <node lat="51.49870844614163" lng="-0.13005597109031"/>
+  </nodes>
+  <zones>
+    <zone title="Department of Trade and Industry"/>
+    <zone title="Great Smith Street"/>
+  </zones>
+</exit>

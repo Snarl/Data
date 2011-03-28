@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Ermin's Hill - St James's Park Broadway">
+  <nodes>
+    <node lat="51.49918599547958" lng="-0.13352272624206"/>
+    <node lat="51.49905575524648" lng="-0.13359782809448"/>
+  </nodes>
+  <zones>
+    <zone title="St James\'s Park Broadway"/>
+    <zone title="St Ermin\'s Hill"/>
+  </zones>
+</exit>

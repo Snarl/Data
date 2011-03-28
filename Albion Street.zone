@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<zone title="Albion Street">
+  <nodes maxlat="51.51426379537997" maxlng="-0.16647902840805" minlat="51.51259791156024" minlng="-0.16710666531753">
+    <node lat="51.514220396374" lng="-0.16710666531753"/>
+    <node lat="51.51259791156024" lng="-0.16670969838333"/>
+    <node lat="51.51261460408502" lng="-0.16647902840805"/>
+    <node lat="51.51426379537997" lng="-0.16689208859634"/>
+  </nodes>
+  <exits>
+    <exit title="Bayswater Rd - Albion St"/>
+  </exits>
+</zone>

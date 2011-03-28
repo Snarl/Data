@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bury St - Jermyn St">
+  <nodes>
+    <node lat="51.50757902655588" lng="-0.13925192469787"/>
+    <node lat="51.50762577075914" lng="-0.13912317866516"/>
+  </nodes>
+  <zones>
+    <zone title="Bury St"/>
+    <zone title="Jermyn St"/>
+  </zones>
+</exit>

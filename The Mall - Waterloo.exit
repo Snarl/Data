@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="The Mall - Waterloo">
+  <nodes>
+    <node lat="51.50644963869691" lng="-0.13141987437439"/>
+    <node lat="51.50626265676971" lng="-0.13206360453796"/>
+  </nodes>
+  <zones>
+    <zone title="The Mall"/>
+    <zone title="Waterloo Place"/>
+  </zones>
+</exit>

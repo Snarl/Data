@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Swallow St - Regent Street South 1">
+  <nodes>
+    <node lat="51.5099378795573" lng="-0.13786388153267"/>
+    <node lat="51.50990449253992" lng="-0.1377619575901"/>
+  </nodes>
+  <zones>
+    <zone title="Swallow St"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Whitehall - King Charles Street">
+  <nodes>
+    <node lat="51.50226823903315" lng="-0.12639341468048"/>
+    <node lat="51.5020311507763" lng="-0.12640816683006"/>
+  </nodes>
+  <zones>
+    <zone title="Whitehall"/>
+    <zone title="King Charles Street"/>
+  </zones>
+</exit>

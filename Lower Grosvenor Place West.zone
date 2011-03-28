@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Lower Grosvenor Place West">
+  <nodes maxlat="51.4983436017533" maxlng="-0.14402223343086" minlat="51.49807393228426" minlng="-0.14693511242103">
+    <node lat="51.49833107843868" lng="-0.14693511242103"/>
+    <node lat="51.49807393228426" lng="-0.14679563755226"/>
+    <node lat="51.49814740276214" lng="-0.14646840805244"/>
+    <node lat="51.49816243079983" lng="-0.14565569872093"/>
+    <node lat="51.49821085444314" lng="-0.14522386306953"/>
+    <node lat="51.49812903515376" lng="-0.1445345353527"/>
+    <node lat="51.49808395099275" lng="-0.14414293283653"/>
+    <node lat="51.49824258025055" lng="-0.14402223343086"/>
+    <node lat="51.49823423135601" lng="-0.14431459421348"/>
+    <node lat="51.4983436017533" lng="-0.14507634157371"/>
+    <node lat="51.49830853646368" lng="-0.14655692094993"/>
+  </nodes>
+  <exits>
+    <exit title="Lower Grosvenor Place West - Buckingham Palace Road"/>
+    <exit title="Lower Grosvenor Place West - Buckingham Palace Road"/>
+    <exit title="Lower Grosvenor Place - Hobart Place"/>
+  </exits>
+</zone>

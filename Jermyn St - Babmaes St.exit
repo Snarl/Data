@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Jermyn St - Babmaes St">
+  <nodes>
+    <node lat="51.50891622572296" lng="-0.13521788233948"/>
+    <node lat="51.50888116856798" lng="-0.13532517070007"/>
+  </nodes>
+  <zones>
+    <zone title="Jermyn St"/>
+    <zone title="Babmaes St"/>
+  </zones>
+</exit>

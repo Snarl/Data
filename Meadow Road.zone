@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Meadow Road">
+  <nodes maxlat="51.48279785025615" maxlng="-0.11659798735809" minlat="51.48130787860254" minlng="-0.11978445166778">
+    <node lat="51.48130787860254" lng="-0.11965034121704"/>
+    <node lat="51.48255732001063" lng="-0.1182931434555"/>
+    <node lat="51.48261077128593" lng="-0.1177888881607"/>
+    <node lat="51.48268760738443" lng="-0.1172846328659"/>
+    <node lat="51.48212970755281" lng="-0.11697349662018"/>
+    <node lat="51.4818123363395" lng="-0.11672136897278"/>
+    <node lat="51.48182569938249" lng="-0.11659798735809"/>
+    <node lat="51.48222658885158" lng="-0.11683938616943"/>
+    <node lat="51.48279785025615" lng="-0.11720953101349"/>
+    <node lat="51.48258404565612" lng="-0.11850235575866"/>
+    <node lat="51.48136133134229" lng="-0.11978445166778"/>
+  </nodes>
+  <exits>
+    <exit title="Fentiman Road - Meadow Road"/>
+    <exit title="Meadow Road - Meadow Mews"/>
+    <exit title="Claylands Road - Meadow Road"/>
+    <exit title="Claylands Road - Meadow Road (south junction)"/>
+    <exit title="Gate. Shortcut - Meadow Road"/>
+    <exit title="Meadow Road - Ashmole Street "/>
+  </exits>
+</zone>

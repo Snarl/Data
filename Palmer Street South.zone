@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Palmer Street South">
+  <nodes maxlat="51.49853604291408" maxlng="-0.13402429932785" minlat="51.49767986133498" minlng="-0.13492820376587">
+    <node lat="51.49850598708008" lng="-0.13488797063064"/>
+    <node lat="51.49853604291408" lng="-0.13465193623733"/>
+    <node lat="51.49818789495558" lng="-0.1346640061779"/>
+    <node lat="51.49818372050348" lng="-0.13402429932785"/>
+    <node lat="51.49795245526047" lng="-0.1340873312397"/>
+    <node lat="51.49770950025754" lng="-0.13476727122497"/>
+    <node lat="51.49767986133498" lng="-0.13492820376587"/>
+  </nodes>
+  <exits>
+    <exit title="Palmer Street - Victoria Street"/>
+    <exit title="Palmer Street South - Caxton Street"/>
+    <exit title="Palmer Street South - Caxton Street"/>
+    <exit title="Palmer Street South - Caxton Street"/>
+    <exit title="Palmer Street - Caxton Street"/>
+    <exit title="Palmer Street South - Broadway"/>
+  </exits>
+</zone>

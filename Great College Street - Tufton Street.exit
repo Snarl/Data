@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great College Street - Tufton Street">
+  <nodes>
+    <node lat="51.49787981937002" lng="-0.12862098926735"/>
+    <node lat="51.49785811206828" lng="-0.12851906532478"/>
+  </nodes>
+  <zones>
+    <zone title="Great College Street"/>
+    <zone title="Tufton Street"/>
+  </zones>
+</exit>

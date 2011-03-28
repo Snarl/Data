@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Atterbury Street">
+  <nodes maxlat="51.49111958244714" maxlng="-0.12689498776626" minlat="51.49016263965722" minlng="-0.12969320232105">
+    <node lat="51.49016263965722" lng="-0.12702641600799"/>
+    <node lat="51.49031294613712" lng="-0.12689498776626"/>
+    <node lat="51.49098514405328" lng="-0.1290809881134"/>
+    <node lat="51.49111958244714" lng="-0.12962681764793"/>
+    <node lat="51.4910369154071" lng="-0.12969320232105"/>
+    <node lat="51.4908874463381" lng="-0.12918894702625"/>
+  </nodes>
+  <exits>
+    <exit title="Atterbury Street - Milbank"/>
+    <exit title="Atterbury Street - Milbank"/>
+    <exit title="John Islip Street - Atterbury Street (SE)"/>
+    <exit title="John Islip Street - Atterbury Street (SW)"/>
+    <exit title="John Islip Street - Atterbury Street (NW)"/>
+    <exit title="John Islip Street - Atterbury Street (NE)"/>
+    <exit title="Afterbury Street - Herrick Street"/>
+    <exit title="Atterbury Street - John Islip Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St James's St - Bennet Street">
+  <nodes>
+    <node lat="51.50726266725828" lng="-0.14020142668915"/>
+    <node lat="51.50714914463398" lng="-0.14008340949249"/>
+  </nodes>
+  <zones>
+    <zone title="St James\'s St"/>
+    <zone title="Bennett Street"/>
+  </zones>
+</exit>

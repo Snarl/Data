@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Thirleby Road - Francis Street">
+  <nodes>
+    <node lat="51.49550155600663" lng="-0.13780487293434"/>
+    <node lat="51.49562846664708" lng="-0.13765466922951"/>
+  </nodes>
+  <zones>
+    <zone title="Thirleby Road"/>
+    <zone title="Francis Street"/>
+  </zones>
+</exit>

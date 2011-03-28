@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Seymour Street">
+  <nodes maxlat="51.51505081249101" maxlng="-0.15673456305694" minlat="51.5137188010191" minlng="-0.16396982187462">
+    <node lat="51.51386402220667" lng="-0.16386253351402"/>
+    <node lat="51.5137188010191" lng="-0.16396982187462"/>
+    <node lat="51.51383564568916" lng="-0.16333279723358"/>
+    <node lat="51.51386736061933" lng="-0.16311419719887"/>
+    <node lat="51.51409771050064" lng="-0.16175029391479"/>
+    <node lat="51.5141795011208" lng="-0.16129700059128"/>
+    <node lat="51.51445157906577" lng="-0.15965548867416"/>
+    <node lat="51.51491310634186" lng="-0.15673456305694"/>
+    <node lat="51.51505081249101" lng="-0.15680161828232"/>
+    <node lat="51.51441485698402" lng="-0.16053257102203"/>
+    <node lat="51.51427631431815" lng="-0.16149280184936"/>
+  </nodes>
+  <exits>
+    <exit title="Seymour St-Great Cumberland Pl"/>
+    <exit title="Seymour St-Great Cumberland Pl"/>
+    <exit title="Seymour St-Great Cumberland Pl"/>
+    <exit title="Seymour St-Great Cumberland Pl"/>
+    <exit title="Seymour St-Great Cumberland St"/>
+    <exit title="Seymour St-Great Cumberland St"/>
+    <exit title="Seymour St-Edgware Rd"/>
+    <exit title="Seymour St-Seymour Pl"/>
+    <exit title="Seymour St-Seymour Pl"/>
+  </exits>
+</zone>

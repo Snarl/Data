@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Bruton St">
+  <nodes maxlat="51.51113812656033" maxlng="-0.1433637511177" minlat="51.51002301632054" minlng="-0.14561948889923">
+    <node lat="51.5101432091558" lng="-0.14561948889923"/>
+    <node lat="51.51002301632054" lng="-0.14545319194031"/>
+    <node lat="51.51102461359208" lng="-0.1433637511177"/>
+    <node lat="51.51113812656033" lng="-0.14347506279182"/>
+  </nodes>
+  <exits>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+  </exits>
+</zone>

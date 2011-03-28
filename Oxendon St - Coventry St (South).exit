@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxendon St - Coventry St (South)">
+  <nodes>
+    <node lat="51.5101548945731" lng="-0.13236535305214"/>
+    <node lat="51.5102116521761" lng="-0.13211858982277"/>
+  </nodes>
+  <zones>
+    <zone title="Coventry Street"/>
+    <zone title="Oxendon Street"/>
+  </zones>
+</exit>

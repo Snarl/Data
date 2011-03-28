@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<zone title="Francis Street">
+  <nodes maxlat="51.49666628183504" maxlng="-0.13680843228531" minlat="51.49373228467396" minlng="-0.14012364262771">
+    <node lat="51.49390094870476" lng="-0.14012364262771"/>
+    <node lat="51.4940646023163" lng="-0.14003244752121"/>
+    <node lat="51.49433012070138" lng="-0.13950673455429"/>
+    <node lat="51.49456891893432" lng="-0.13922242039871"/>
+    <node lat="51.49472923033292" lng="-0.13885763997268"/>
+    <node lat="51.49487284214878" lng="-0.13870743626785"/>
+    <node lat="51.49509827838894" lng="-0.1383024227066"/>
+    <node lat="51.49546732345716" lng="-0.13782767171097"/>
+    <node lat="51.49614528986848" lng="-0.13707128876877"/>
+    <node lat="51.49639242782578" lng="-0.13705519551468"/>
+    <node lat="51.49660616768126" lng="-0.13717321271133"/>
+    <node lat="51.49666628183504" lng="-0.1369693648262"/>
+    <node lat="51.496432504125" lng="-0.13689962739181"/>
+    <node lat="51.49625216050092" lng="-0.13685134762954"/>
+    <node lat="51.49613527073388" lng="-0.13680843228531"/>
+    <node lat="51.4957011061174" lng="-0.13733950967026"/>
+    <node lat="51.49550072105348" lng="-0.13755945080948"/>
+    <node lat="51.49505653102124" lng="-0.13816026562881"/>
+    <node lat="51.4945555596255" lng="-0.13894883507919"/>
+    <node lat="51.49404122326476" lng="-0.13980177754593"/>
+    <node lat="51.49393601738516" lng="-0.13991979474258"/>
+    <node lat="51.49373228467396" lng="-0.13985005730819"/>
+  </nodes>
+  <exits>
+    <exit title="Morpeth Terrace - Francis Street"/>
+    <exit title="Willow Place - Francis Street"/>
+    <exit title="Francis Street - Stillington Street"/>
+    <exit title="Ambroseden Avenue - Francis Street"/>
+    <exit title="Thirleby Road - Francis Street"/>
+    <exit title="Francis Street - Emery Hill Street"/>
+    <exit title="Greencoat Row - Francis Street"/>
+    <exit title="Francis Street - Howick Place"/>
+    <exit title="Carlisle Place - Francis Street"/>
+    <exit title="King\'s Scholars Passage"/>
+    <exit title="Willow Place - Francis Street"/>
+    <exit title="Francis Street - Vauxhall Bridge Road"/>
+  </exits>
+</zone>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Tenderden St">
+  <nodes maxlat="51.51419118539846" maxlng="-0.14445541018677" minlat="51.5139608359884" minlng="-0.14548537844848">
+    <node lat="51.5140142504481" lng="-0.14548537844848"/>
+    <node lat="51.5139608359884" lng="-0.14546392077636"/>
+    <node lat="51.5141210791796" lng="-0.14445541018677"/>
+    <node lat="51.51419118539846" lng="-0.14446613902282"/>
+  </nodes>
+  <exits>
+    <exit title="Tenderden St - Hanover Square"/>
+    <exit title="Tenderden St - Hanover Square"/>
+    <exit title="Tenterden St - Dering St"/>
+    <exit title="Tenterden St - Dering St"/>
+  </exits>
+</zone>

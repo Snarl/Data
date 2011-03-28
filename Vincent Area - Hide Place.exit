@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vincent Area - Hide Place">
+  <nodes>
+    <node lat="51.49283468095601" lng="-0.13321695441437"/>
+    <node lat="51.49287810033394" lng="-0.13301847094726"/>
+  </nodes>
+  <zones>
+    <zone title="Vincent Street"/>
+    <zone title="Hide Place"/>
+  </zones>
+</exit>

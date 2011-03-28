@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Shepherds Place - Upper Brook Street">
+  <nodes>
+    <node lat="51.51161721499196" lng="-0.15412611478996"/>
+    <node lat="51.51164392360368" lng="-0.15400541538429"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Brook St"/>
+    <zone title="Shepherds Pl"/>
+  </zones>
+</exit>

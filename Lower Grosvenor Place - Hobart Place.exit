@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lower Grosvenor Place - Hobart Place">
+  <nodes>
+    <node lat="51.49806975788633" lng="-0.14679966086578"/>
+    <node lat="51.49832523428861" lng="-0.14693108910751"/>
+  </nodes>
+  <zones>
+    <zone title="Lower Grosvenor Place West"/>
+    <zone title="Hobart Place"/>
+  </zones>
+</exit>

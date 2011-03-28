@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<zone title="Buckingham Palace Road">
+  <nodes maxlat="51.4992569595352" maxlng="-0.14297885412407" minlat="51.4941585358762" minlng="-0.14686537498665">
+    <node lat="51.4992569595352" lng="-0.1432913314743"/>
+    <node lat="51.4991834908459" lng="-0.14297885412407"/>
+    <node lat="51.499036553112" lng="-0.14313442224693"/>
+    <node lat="51.49885538491306" lng="-0.14325914496612"/>
+    <node lat="51.49853145103876" lng="-0.14342812413406"/>
+    <node lat="51.49813446192674" lng="-0.14368963951301"/>
+    <node lat="51.4979841812344" lng="-0.14382911438179"/>
+    <node lat="51.49702905236396" lng="-0.14453185314369"/>
+    <node lat="51.4962392191408" lng="-0.14506293052864"/>
+    <node lat="51.49537756728802" lng="-0.14562619442177"/>
+    <node lat="51.49459271518534" lng="-0.14616800064277"/>
+    <node lat="51.4941585358762" lng="-0.14645231479835"/>
+    <node lat="51.49428879010282" lng="-0.14686537498665"/>
+    <node lat="51.4957516197049" lng="-0.14569593185615"/>
+    <node lat="51.49694389129998" lng="-0.14493418449592"/>
+  </nodes>
+  <exits>
+    <exit title="Palace Street - Buckingham Palace Road"/>
+    <exit title="Palace Street - Buckingham Palace Road"/>
+    <exit title="Lower Grosvenor Place West - Buckingham Palace Road"/>
+    <exit title="Lower Grosvenor Place West - Buckingham Palace Road"/>
+    <exit title="Lower Grosvenor Place West - Warwick Row"/>
+    <exit title="Allington Street - Buckingham Palace Road"/>
+    <exit title="Buckingham Palace Road - Victoria Street"/>
+    <exit title="Buckingham Gate - Buckingham Palace Road"/>
+    <exit title="Buckingham Palace Road - Royal Mews"/>
+  </exits>
+</zone>

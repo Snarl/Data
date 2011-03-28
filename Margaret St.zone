@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Margaret St">
+  <nodes maxlat="51.51732165200935" maxlng="-0.13788399810028" minlat="51.51634022257881" minlng="-0.14254031295013">
+    <node lat="51.51646039874731" lng="-0.14254031295013"/>
+    <node lat="51.51634022257881" lng="-0.14248666876983"/>
+    <node lat="51.51720147811324" lng="-0.13788399810028"/>
+    <node lat="51.51732165200935" lng="-0.13809857482147"/>
+  </nodes>
+  <exits>
+    <exit title="Great Portland St - Margaret St"/>
+    <exit title="Wells St - Margaret St"/>
+  </exits>
+</zone>

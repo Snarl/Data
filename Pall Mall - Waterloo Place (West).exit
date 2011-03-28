@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pall Mall - Waterloo Place (West)">
+  <nodes>
+    <node lat="51.50717251696544" lng="-0.13288838381004"/>
+    <node lat="51.50701475351791" lng="-0.13275293225479"/>
+  </nodes>
+  <zones>
+    <zone title="Waterloo Place"/>
+    <zone title="Pall Mall"/>
+  </zones>
+</exit>

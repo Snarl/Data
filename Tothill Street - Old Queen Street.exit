@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Tothill Street - Old Queen Street">
+  <nodes>
+    <node lat="51.49979628289852" lng="-0.13231304997635"/>
+    <node lat="51.49980797094986" lng="-0.13211456650924"/>
+  </nodes>
+  <zones>
+    <zone title="Tothill Street"/>
+    <zone title="Old Queen Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Farm street 2">
+  <nodes maxlat="51.50965575845058" maxlng="-0.14722613209915" minlat="51.50919501259714" minlng="-0.14785376900863">
+    <node lat="51.50959232270388" lng="-0.14785376900863"/>
+    <node lat="51.50965575845058" lng="-0.14776793832016"/>
+    <node lat="51.50923173888678" lng="-0.14722613209915"/>
+    <node lat="51.50919501259714" lng="-0.14729586953354"/>
+  </nodes>
+  <exits>
+    <exit title="Farm St - Hill St."/>
+    <exit title="Farm St - Hill St."/>
+  </exits>
+</zone>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Gilbert St">
+  <nodes maxlat="51.51415446310106" maxlng="-0.14936921710205" minlat="51.51253197593888" minlng="-0.15021143073272">
+    <node lat="51.51414110953314" lng="-0.15021143073272"/>
+    <node lat="51.51415446310106" lng="-0.15007195586395"/>
+    <node lat="51.51253197593888" lng="-0.14936921710205"/>
+    <node lat="51.51253865295922" lng="-0.14949259871673"/>
+  </nodes>
+  <exits>
+    <exit title="West oxford Street 1 - Gilbert Street"/>
+    <exit title="West oxford Street 1 - Gilbert Street"/>
+    <exit title="West oxford Street 1 - Gilbert Street"/>
+  </exits>
+</zone>

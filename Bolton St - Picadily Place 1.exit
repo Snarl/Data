@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bolton St - Picadily Place 1" status="green" reason="">
+  <nodes>
+    <node lat="51.50640539741192" lng="-0.14372853154373"/>
+    <node lat="51.50651224398672" lng="-0.14351931924057"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadily Place 1"/>
+    <zone title="Bolton St"/>
+  </zones>
+</exit>

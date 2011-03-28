@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<zone title="Horseferry Road">
+  <nodes maxlat="51.4964266596779" maxlng="-0.12561959737968" minlat="51.4946958321826" minlng="-0.13380167597961">
+    <node lat="51.49484946352312" lng="-0.12563032621574"/>
+    <node lat="51.4946958321826" lng="-0.12561959737968"/>
+    <node lat="51.4947108613583" lng="-0.12608093733024"/>
+    <node lat="51.49472422062144" lng="-0.12622845882606"/>
+    <node lat="51.4947492692293" lng="-0.12676490062904"/>
+    <node lat="51.49475260904266" lng="-0.12694997305107"/>
+    <node lat="51.49476095857494" lng="-0.12893212551307"/>
+    <node lat="51.49477264791758" lng="-0.12978506797981"/>
+    <node lat="51.49480103630864" lng="-0.13148022407722"/>
+    <node lat="51.49481606544966" lng="-0.13200861925316"/>
+    <node lat="51.49485948294036" lng="-0.13243777269554"/>
+    <node lat="51.49490123048862" lng="-0.13263357395363"/>
+    <node lat="51.49501311372934" lng="-0.13276231998634"/>
+    <node lat="51.4951892875292" lng="-0.13294068688583"/>
+    <node lat="51.49544144031422" lng="-0.13320354336929"/>
+    <node lat="51.49569192183222" lng="-0.13334570044708"/>
+    <node lat="51.49597579922204" lng="-0.13352272624206"/>
+    <node lat="51.49637823413904" lng="-0.13380167597961"/>
+    <node lat="51.4964266596779" lng="-0.13354150170517"/>
+    <node lat="51.49550155600406" lng="-0.13296482676697"/>
+    <node lat="51.49533623766604" lng="-0.13287363166046"/>
+    <node lat="51.49511581228288" lng="-0.13266710156631"/>
+    <node lat="51.49500726908892" lng="-0.13251958007049"/>
+    <node lat="51.49497721092794" lng="-0.13232109660339"/>
+    <node lat="51.49497554102918" lng="-0.13188121432495"/>
+    <node lat="51.4949538323439" lng="-0.13066349143219"/>
+    <node lat="51.49494882264554" lng="-0.12917218321991"/>
+    <node lat="51.49491876444602" lng="-0.12687084788513"/>
+  </nodes>
+  <exits>
+    <exit title="Horseferry Road - Lambeth Bridge Roundabout"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Horseferry Road - Lambeth Bridge Roundabout"/>
+    <exit title="Dean Ryle Street - Horseferry Street"/>
+    <exit title="Dean Bradley Street - Horseferry Road"/>
+    <exit title="Dean Ryle Street - Horseferry Street"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Marsham Street - Horseferry Road (N)"/>
+    <exit title="Marsham Street - Horseferry Road (S)"/>
+    <exit title="Marsham Street - Horseferry Road (S)"/>
+    <exit title="Marsham Street - Horseferry Road (E)"/>
+    <exit title="Tufton Street - Horseferry Road"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Horseferry Road - Lambeth Bridge Roundabout"/>
+    <exit title="Elverton Street - Horseferry Road"/>
+    <exit title="Horseferry Road - Medway Street"/>
+    <exit title="Horseferry Road - Monck Street"/>
+    <exit title="Marsham Street - Horseferry Road (W)"/>
+    <exit title="Regency Street - Horseferry Road"/>
+    <exit title="Horseferry Road - Medway Street"/>
+    <exit title="Horseferry Road - Arneway Street"/>
+    <exit title="Horseferry - Chadwick Street"/>
+    <exit title="Horseferry - Chadwick Street"/>
+    <exit title="Horseferry - Greycoat Place"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Seymour St-Seymour Pl">
+  <nodes>
+    <node lat="51.51437229271302" lng="-0.16118703002167"/>
+    <node lat="51.51443238343301" lng="-0.1607793342514"/>
+  </nodes>
+  <zones>
+    <zone title="Seymour Street"/>
+    <zone title="Seymour Pl"/>
+  </zones>
+</exit>

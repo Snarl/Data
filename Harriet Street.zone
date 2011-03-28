@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Harriet Street">
+  <nodes maxlat="51.500350627346" maxlng="-0.15893933886719" minlat="51.50015443699463" minlng="-0.15973863715362">
+    <node lat="51.500350627346" lng="-0.15898225421142"/>
+    <node lat="51.50023040867769" lng="-0.15893933886719"/>
+    <node lat="51.50015443699463" lng="-0.15970779174995"/>
+    <node lat="51.50026380278406" lng="-0.15973863715362"/>
+  </nodes>
+  <exits>
+    <exit title="Harriet Street - Lowndes Square"/>
+    <exit title="Harriet Street - Harriet Walk N"/>
+    <exit title="Harriet Stree - Harriet Walk S"/>
+    <exit title="Harriet Street - Sloane Street"/>
+  </exits>
+</zone>

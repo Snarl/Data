@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Rathbone Place">
+  <nodes maxlat="51.51790666068226" maxlng="-0.1328816782875" minlat="51.51629098363942" minlng="-0.13450709695053">
+    <node lat="51.51629098363942" lng="-0.13308016175461"/>
+    <node lat="51.51631435127782" lng="-0.1328816782875"/>
+    <node lat="51.51770971138284" lng="-0.13409940118026"/>
+    <node lat="51.51790666068226" lng="-0.13433007115555"/>
+    <node lat="51.51788329386076" lng="-0.13450709695053"/>
+    <node lat="51.51751276123178" lng="-0.13412622327041"/>
+    <node lat="51.51692190566874" lng="-0.13358978146744"/>
+  </nodes>
+  <exits>
+    <exit title="Rathbone Pl - Oxford St (North)"/>
+    <exit title="Rathbone Pl - Oxford St (North)"/>
+  </exits>
+</zone>

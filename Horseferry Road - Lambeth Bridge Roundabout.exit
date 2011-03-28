@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horseferry Road - Lambeth Bridge Roundabout">
+  <nodes>
+    <node lat="51.4948486285699" lng="-0.1256236206932"/>
+    <node lat="51.49469499722656" lng="-0.1256236206932"/>
+  </nodes>
+  <zones>
+    <zone title="Lambeth Bridge Roundabout"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

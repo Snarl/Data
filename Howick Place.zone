@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Howick Place">
+  <nodes maxlat="51.49712798928298" maxlng="-0.13573957199287" minlat="51.49660199307754" minlng="-0.13907355779838">
+    <node lat="51.49679235430992" lng="-0.13907355779838"/>
+    <node lat="51.4966337200048" lng="-0.13888848537636"/>
+    <node lat="51.49660199307754" lng="-0.13717187160682"/>
+    <node lat="51.49666878658294" lng="-0.13695997709465"/>
+    <node lat="51.4968457888989" lng="-0.13573957199287"/>
+    <node lat="51.49695766736672" lng="-0.13573957199287"/>
+    <node lat="51.49678233531752" lng="-0.13696265930366"/>
+    <node lat="51.49712798928298" lng="-0.13713700288963"/>
+    <node lat="51.49709292305814" lng="-0.13730598205757"/>
+    <node lat="51.49675227832708" lng="-0.13713700288963"/>
+    <node lat="51.4967622973261" lng="-0.1383922767086"/>
+  </nodes>
+  <exits>
+    <exit title="Howick Place - Artillery Row"/>
+    <exit title="Francis Street - Howick Place"/>
+    <exit title="Howick Place - Victoria Street"/>
+    <exit title="Howick Place - Thirleby Road"/>
+  </exits>
+</zone>

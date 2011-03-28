@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Knightsbridge - North Park Road">
+  <nodes>
+    <node lat="51.5018057487787" lng="-0.1626702916069"/>
+    <node lat="51.50182578455284" lng="-0.16284731740188"/>
+  </nodes>
+  <zones>
+    <zone title="Knightsbridge"/>
+    <zone title="Edinburgh Gate"/>
+  </zones>
+</exit>

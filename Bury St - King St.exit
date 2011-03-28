@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bury St - King St">
+  <nodes>
+    <node lat="51.50632108870348" lng="-0.13806907052231"/>
+    <node lat="51.50636783419724" lng="-0.13794568890762"/>
+  </nodes>
+  <zones>
+    <zone title="King Street"/>
+    <zone title="Bury St"/>
+  </zones>
+</exit>

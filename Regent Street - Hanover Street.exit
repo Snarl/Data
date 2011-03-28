@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Regent Street - Hanover Street">
+  <nodes>
+    <node lat="51.51385984918558" lng="-0.14166591281128"/>
+    <node lat="51.51394664784314" lng="-0.14174101466369"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

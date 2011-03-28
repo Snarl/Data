@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<zone title="Pall Mall">
+  <nodes maxlat="51.50776016014868" maxlng="-0.13101217860412" minlat="51.50500217823819" minlng="-0.13817904109192">
+    <node lat="51.50776016014868" lng="-0.13126430625152"/>
+    <node lat="51.5076599942356" lng="-0.13101217860412"/>
+    <node lat="51.50701558826283" lng="-0.13281462306213"/>
+    <node lat="51.50547966163149" lng="-0.13716516608429"/>
+    <node lat="51.5052993538052" lng="-0.13703642005157"/>
+    <node lat="51.50513240147802" lng="-0.13746557349396"/>
+    <node lat="51.50500217823819" lng="-0.13781962508392"/>
+    <node lat="51.50507897660415" lng="-0.13808784598541"/>
+    <node lat="51.50521587771809" lng="-0.13817904109192"/>
+    <node lat="51.50534943938407" lng="-0.13801274413299"/>
+  </nodes>
+  <exits>
+    <exit title="Pall Mall - Marlborough Rd"/>
+    <exit title="Pall Mall - St James\'s Square (North)"/>
+    <exit title="Pall Mall - St James\'s Square (South)"/>
+    <exit title="Pall Mall - St James\'s Square (South)"/>
+    <exit title="Pall Mall - Waterloo Place (West)"/>
+    <exit title="Pall Mall - Marlborough Rd"/>
+    <exit title="Pall Mall - Marlborough Rd"/>
+    <exit title="St James\'s St - Pall Mall"/>
+    <exit title="St James\'s St - Pall Mall"/>
+    <exit title="St James\'s St - Pall Mall"/>
+    <exit title="St James\'s St - Pall Mall"/>
+    <exit title="Pall Mall - Crown Passage"/>
+    <exit title="Pall Mall - Crown Passage"/>
+    <exit title="Lugsmoor Lane - Pall Mall"/>
+    <exit title="Lugsmoor Lane - Pall Mall"/>
+    <exit title="Pall Mall - Cockspur Street"/>
+    <exit title="Waterloo Place - Pall Mall (East)"/>
+    <exit title="Waterloo Place - Pall Mall (East)"/>
+    <exit title="Waterloo Place - Pall Mall (East)"/>
+    <exit title="Waterloo Place - Pall Mall (East)"/>
+    <exit title="Pall Mall - Cockspur Street"/>
+    <exit title="Pall Mall - Cockspur Street"/>
+    <exit title="Pall Mall - Carlton Gardens"/>
+    <exit title="Pall Mall - Carlton Gardens"/>
+  </exits>
+</zone>

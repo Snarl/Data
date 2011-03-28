@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Trevor Street - Trevor Square">
+  <nodes>
+    <node lat="51.50008096953661" lng="-0.16469535941314"/>
+    <node lat="51.50013523512495" lng="-0.16426620597076"/>
+  </nodes>
+  <zones>
+    <zone title="Trevor Square"/>
+    <zone title="Trevor Street"/>
+  </zones>
+</exit>

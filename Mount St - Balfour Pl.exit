@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Mount St - Balfour Pl">
+  <nodes>
+    <node lat="51.50926888253746" lng="-0.15264486486149"/>
+    <node lat="51.509315625007" lng="-0.1524678390665"/>
+  </nodes>
+  <zones>
+    <zone title="Balfour Pl"/>
+    <zone title="Mount Street"/>
+  </zones>
+</exit>

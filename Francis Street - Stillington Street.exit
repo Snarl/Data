@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Francis Street - Stillington Street">
+  <nodes>
+    <node lat="51.4948820266235" lng="-0.13841641658973"/>
+    <node lat="51.49478183240132" lng="-0.13859344238472"/>
+  </nodes>
+  <zones>
+    <zone title="Francis Street"/>
+    <zone title="Stillington Street"/>
+  </zones>
+</exit>

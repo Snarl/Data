@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Air St-Picadilly Place" status="red" reason="">
+  <nodes>
+    <node lat="51.50942622085962" lng="-0.1360869180603"/>
+    <node lat="51.50955309272725" lng="-0.13574359530639"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadilly Place 2"/>
+    <zone title="Air Street"/>
+  </zones>
+</exit>

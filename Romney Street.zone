@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Romney Street">
+  <nodes maxlat="51.49538549786216" maxlng="-0.1270451914711" minlat="51.49521516943466" minlng="-0.1290622126503">
+    <node lat="51.49538549786216" lng="-0.1290622126503"/>
+    <node lat="51.49536211948822" lng="-0.1282709609909"/>
+    <node lat="51.49528363485946" lng="-0.12705860251617"/>
+    <node lat="51.49521516943466" lng="-0.1270451914711"/>
+    <node lat="51.49527194564784" lng="-0.12826023215484"/>
+    <node lat="51.49531369281834" lng="-0.1290622126503"/>
+  </nodes>
+  <exits>
+    <exit title="Dean Bradley Street - Romney Street"/>
+    <exit title="Dean Bradley Street - Romney Street"/>
+    <exit title="Marsham Street - Romney Street"/>
+    <exit title="Romney Street - Tufton Street (N)"/>
+    <exit title="Romney Street - Tufton Street (E)"/>
+    <exit title="Romney Street - Tufton Street (S)"/>
+    <exit title="Romney Street - Tufton Street (W)"/>
+    <exit title="Romney Street - Tufton Street (W)"/>
+  </exits>
+</zone>

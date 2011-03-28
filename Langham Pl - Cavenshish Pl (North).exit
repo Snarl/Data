@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Langham Pl - Cavenshish Pl (North)">
+  <nodes>
+    <node lat="51.5174318111351" lng="-0.1430740725441"/>
+    <node lat="51.51749857411224" lng="-0.14269856328201"/>
+  </nodes>
+  <zones>
+    <zone title="Langham Pl"/>
+    <zone title="Cavendish Pl"/>
+  </zones>
+</exit>

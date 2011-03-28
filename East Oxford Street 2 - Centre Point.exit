@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="East Oxford Street 2 - Centre Point">
+  <nodes>
+    <node lat="51.51647291706345" lng="-0.13063935155105"/>
+    <node lat="51.51628096891807" lng="-0.1306473981781"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 2"/>
+    <zone title="Centre Point"/>
+  </zones>
+</exit>

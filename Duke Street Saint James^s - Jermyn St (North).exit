@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Duke Street Saint James's - Jermyn St (North)">
+  <nodes>
+    <node lat="51.50794797056866" lng="-0.13843385094833"/>
+    <node lat="51.50798803670708" lng="-0.13831449264717"/>
+  </nodes>
+  <zones>
+    <zone title="Jermyn St"/>
+    <zone title="Duke Street Saint James\'s "/>
+  </zones>
+</exit>

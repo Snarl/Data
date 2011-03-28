@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Peter Street - Monck Street">
+  <nodes>
+    <node lat="51.49675895767909" lng="-0.1309531700058"/>
+    <node lat="51.49676229734517" lng="-0.1307385932846"/>
+  </nodes>
+  <zones>
+    <zone title="Great Peter Street"/>
+    <zone title="Monck Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Cureton Street">
+  <nodes maxlat="51.49070374066482" maxlng="-0.12980250233841" minlat="51.49032547165366" minlng="-0.13126564735603">
+    <node lat="51.49032547165366" lng="-0.12986419314575"/>
+    <node lat="51.49040897501658" lng="-0.12980250233841"/>
+    <node lat="51.49054425013992" lng="-0.13022226804924"/>
+    <node lat="51.49063025818862" lng="-0.13047439569664"/>
+    <node lat="51.49069789547218" lng="-0.13069031352234"/>
+    <node lat="51.49070374066482" lng="-0.1307372521801"/>
+    <node lat="51.49065697910278" lng="-0.13095182890129"/>
+    <node lat="51.49060103217086" lng="-0.13126564735603"/>
+    <node lat="51.49049498332046" lng="-0.13120261544418"/>
+    <node lat="51.49060687737592" lng="-0.1307198178215"/>
+  </nodes>
+  <exits>
+    <exit title="Cureton Street - John Islip Street"/>
+    <exit title="Cureton Street - John Islip Street"/>
+    <exit title="Herrick Street - Cureton Street"/>
+    <exit title="Erasmus Street - Cureton Street"/>
+    <exit title="Cureton Street - Causton Street"/>
+    <exit title="Erasmus Street - Cureton Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Whitehall Place - Scotland Place">
+  <nodes>
+    <node lat="51.50597049597203" lng="-0.12568799370956"/>
+    <node lat="51.50602058081319" lng="-0.12548414582443"/>
+  </nodes>
+  <zones>
+    <zone title="Whitehall Place"/>
+    <zone title="Scotland Place"/>
+  </zones>
+</exit>

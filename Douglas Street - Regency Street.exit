@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Douglas Street - Regency Street">
+  <nodes>
+    <node lat="51.49069873050078" lng="-0.13227549905014"/>
+    <node lat="51.4905901767891" lng="-0.13226745242309"/>
+  </nodes>
+  <zones>
+    <zone title="Regency Street"/>
+    <zone title="Douglas Street"/>
+  </zones>
+</exit>

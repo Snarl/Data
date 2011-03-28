@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="West oxford Street 1 - Gilbert Street">
+  <nodes>
+    <node lat="51.51413777112858" lng="-0.15021947735977"/>
+    <node lat="51.5141578014805" lng="-0.15003708714676"/>
+  </nodes>
+  <zones>
+    <zone title="Gilbert St"/>
+    <zone title="West Oxford Street 1"/>
+  </zones>
+</exit>

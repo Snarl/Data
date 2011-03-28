@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<zone title="Northumberland Avenue">
+  <nodes maxlat="51.50753812539483" maxlng="-0.12209651583862" minlat="51.50635948679177" minlng="-0.12740192527008">
+    <node lat="51.50648302824568" lng="-0.12209651583862"/>
+    <node lat="51.50635948679177" lng="-0.12215552443695"/>
+    <node lat="51.5066967207806" lng="-0.12371120566559"/>
+    <node lat="51.50674012695432" lng="-0.12377021426391"/>
+    <node lat="51.50694380152479" lng="-0.12490747088623"/>
+    <node lat="51.50693378476392" lng="-0.125046945755"/>
+    <node lat="51.50695047936414" lng="-0.12519178504181"/>
+    <node lat="51.50727268395017" lng="-0.12740192527008"/>
+    <node lat="51.50753812539483" lng="-0.12698081845474"/>
+    <node lat="51.50738787571044" lng="-0.12695667857361"/>
+    <node lat="51.5073377923722" lng="-0.12687621230316"/>
+    <node lat="51.50704730792482" lng="-0.1252454292221"/>
+    <node lat="51.50686032845029" lng="-0.1240920793457"/>
+    <node lat="51.50679354988054" lng="-0.12362001055908"/>
+    <node lat="51.50678687201819" lng="-0.12348053569031"/>
+    <node lat="51.50682360024902" lng="-0.12339470500183"/>
+  </nodes>
+  <exits>
+    <exit title="Northumberland Ave - Great Scotland Yard"/>
+    <exit title="Northumberland Avenue - Craven St"/>
+    <exit title="Northumberland Avenue - Whitehall Place"/>
+    <exit title="Northumberland Avenue - Craven St"/>
+    <exit title="Northumblerand Ave - Northumberland St"/>
+    <exit title="Trafalga Sq - Northumberland Avenue"/>
+    <exit title="Victoria Embankment - Northumberland Ave"/>
+  </exits>
+</zone>

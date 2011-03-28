@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<zone title="South Charing Cross Road">
+  <nodes maxlat="51.51314458855326" maxlng="-0.12712029332351" minlat="51.50867082510976" minlng="-0.12921241635513">
+    <node lat="51.51310118848097" lng="-0.12921241635513"/>
+    <node lat="51.51314458855326" lng="-0.12892273778152"/>
+    <node lat="51.51214303789079" lng="-0.12840238923263"/>
+    <node lat="51.51182921415251" lng="-0.12826827878189"/>
+    <node lat="51.5114285849621" lng="-0.1282521855278"/>
+    <node lat="51.51044035122872" lng="-0.12826827878189"/>
+    <node lat="51.50981267813145" lng="-0.12786058301162"/>
+    <node lat="51.50954224184419" lng="-0.12738314980697"/>
+    <node lat="51.50898800937528" lng="-0.12714175099563"/>
+    <node lat="51.50867082510976" lng="-0.12712029332351"/>
+    <node lat="51.50876097244139" lng="-0.127388514225"/>
+    <node lat="51.50941536994632" lng="-0.12762454861831"/>
+    <node lat="51.50960233893564" lng="-0.12791959160995"/>
+    <node lat="51.50953556438469" lng="-0.1285579573555"/>
+    <node lat="51.50989614579716" lng="-0.12853649968338"/>
+    <node lat="51.5112082374056" lng="-0.12852577084732"/>
+    <node lat="51.51199948049155" lng="-0.12856868619156"/>
+  </nodes>
+  <exits>
+    <exit title="Palace Theatre - South Charing Cross Road"/>
+    <exit title="Palace Theatre - South Charing Cross Road"/>
+    <exit title="Trafalgar Square - South Charing Cross Road"/>
+    <exit title="Trafalgar Square - South Charing Cross Road"/>
+    <exit title="Trafalgar Square - South Charing Cross Road"/>
+  </exits>
+</zone>

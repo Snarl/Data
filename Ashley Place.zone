@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Ashley Place">
+  <nodes maxlat="51.4963723896571" maxlng="-0.14013705367279" minlat="51.49598832316698" minlng="-0.14154253119659">
+    <node lat="51.49617534725336" lng="-0.14154253119659"/>
+    <node lat="51.49603173954112" lng="-0.14150498027038"/>
+    <node lat="51.49613527072802" lng="-0.14080224150848"/>
+    <node lat="51.49598832316698" lng="-0.14061985129547"/>
+    <node lat="51.4963723896571" lng="-0.14013705367279"/>
+    <node lat="51.49622878256566" lng="-0.14120993727875"/>
+  </nodes>
+  <exits>
+    <exit title="Carlisle Place - Ashley Place"/>
+    <exit title="Ashley Place - Morpeth Terrace"/>
+    <exit title="Ashley Place - Outside Westminster Cathedral"/>
+  </exits>
+</zone>

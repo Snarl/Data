@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="New Burlington Street">
+  <nodes maxlat="51.51200866151527" maxlng="-0.13988492602539" minlat="51.51153792370859" minlng="-0.14103022927475">
+    <node lat="51.51161304176988" lng="-0.14103022927475"/>
+    <node lat="51.51153792370859" lng="-0.14096585625839"/>
+    <node lat="51.51193020555195" lng="-0.13988492602539"/>
+    <node lat="51.51200866151527" lng="-0.13997075671386"/>
+  </nodes>
+  <exits>
+    <exit title="New Burlington St - Regent St"/>
+    <exit title="New Burlington St - Regent St"/>
+    <exit title="New Burlington St-Saville Row"/>
+    <exit title="New Burlington St-Saville Row"/>
+  </exits>
+</zone>

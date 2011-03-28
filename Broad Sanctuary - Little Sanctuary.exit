@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Broad Sanctuary - Little Sanctuary">
+  <nodes>
+    <node lat="51.50023207821328" lng="-0.12861428374481"/>
+    <node lat="51.50021204173844" lng="-0.12835679167938"/>
+  </nodes>
+  <zones>
+    <zone title="Broad Santuary"/>
+    <zone title="Little Santuary"/>
+  </zones>
+</exit>

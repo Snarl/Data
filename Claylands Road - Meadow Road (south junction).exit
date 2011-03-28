@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Claylands Road - Meadow Road (south junction)">
+  <nodes>
+    <node lat="51.48182904014263" lng="-0.11660335177612"/>
+    <node lat="51.48180899557814" lng="-0.11673209780884"/>
+  </nodes>
+  <zones>
+    <zone title="Claylands Road"/>
+    <zone title="Meadow Road"/>
+  </zones>
+</exit>

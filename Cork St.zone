@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Cork St">
+  <nodes maxlat="51.51083431177774" maxlng="-0.14088538998794" minlat="51.5097225328179" minlng="-0.1420655619545">
+    <node lat="51.5107575231122" lng="-0.1420655619545"/>
+    <node lat="51.51083431177774" lng="-0.14189390057754"/>
+    <node lat="51.5097592586823" lng="-0.14088538998794"/>
+    <node lat="51.5097225328179" lng="-0.14102486485672"/>
+  </nodes>
+  <exits>
+    <exit title="Cork St - Burlington Gardens"/>
+    <exit title="Cork St - Burlington Gardens"/>
+    <exit title="Burlington Arcade - Burlington Gardens (East)"/>
+    <exit title="Burlington Arcade - Burlington Gardens (East)"/>
+    <exit title="Burlington Gardens - Cork St"/>
+    <exit title="Burlington Gardens - Cork St"/>
+    <exit title="Burlington Gardens - Cork St"/>
+    <exit title="Cork St - Burlington Gardens"/>
+    <exit title="Cork St - Burlington Gardens"/>
+  </exits>
+</zone>

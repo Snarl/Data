@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bressenden Place - Warwick Row">
+  <nodes>
+    <node lat="51.49797624976098" lng="-0.14292789215278"/>
+    <node lat="51.49779424244974" lng="-0.14306200260353"/>
+  </nodes>
+  <zones>
+    <zone title="Warwick Row"/>
+    <zone title="Bressenden Place"/>
+  </zones>
+</exit>

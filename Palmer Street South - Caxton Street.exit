@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Palmer Street South - Caxton Street">
+  <nodes>
+    <node lat="51.49850723941353" lng="-0.13488528842163"/>
+    <node lat="51.4985306161744" lng="-0.13465461844635"/>
+  </nodes>
+  <zones>
+    <zone title="Caxton Street"/>
+    <zone title="Palmer Street South"/>
+  </zones>
+</exit>

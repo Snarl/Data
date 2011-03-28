@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Coventry Street - Leicester Square">
+  <nodes>
+    <node lat="51.51043450858106" lng="-0.13170821184349"/>
+    <node lat="51.51029762314659" lng="-0.13170821184349"/>
+  </nodes>
+  <zones>
+    <zone title="Coventry Street"/>
+    <zone title="Leicester Square"/>
+  </zones>
+</exit>

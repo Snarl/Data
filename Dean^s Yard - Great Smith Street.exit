@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean's Yard - Great Smith Street">
+  <nodes>
+    <node lat="51.49835946460856" lng="-0.12980518454742"/>
+    <node lat="51.49823924068796" lng="-0.12977299803924"/>
+  </nodes>
+  <zones>
+    <zone title="Dean\'s Yard"/>
+    <zone title="Great Smith Street"/>
+  </zones>
+</exit>

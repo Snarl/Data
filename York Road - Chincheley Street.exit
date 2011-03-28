@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="York Road - Chincheley Street" status="orange" reason="">
+  <nodes>
+    <node lat="51.50279667426458" lng="-0.11626807564926"/>
+    <node lat="51.50256209318776" lng="-0.11645717138481"/>
+  </nodes>
+  <zones>
+    <zone title="York Road"/>
+    <zone title="Chincheley Street"/>
+  </zones>
+</exit>

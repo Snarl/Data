@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Walcott Street">
+  <nodes maxlat="51.49334485463862" maxlng="-0.13708469981384" minlat="51.49308434041806" minlng="-0.13754335755539">
+    <node lat="51.49334485463862" lng="-0.13746825570297"/>
+    <node lat="51.49317618855034" lng="-0.13708469981384"/>
+    <node lat="51.49308434041806" lng="-0.13716248387527"/>
+    <node lat="51.4932680364976" lng="-0.13754335755539"/>
+  </nodes>
+  <exits>
+    <exit title="Vincent Square - Walcott Street"/>
+    <exit title="Walcott Street - Rochester Row"/>
+  </exits>
+</zone>

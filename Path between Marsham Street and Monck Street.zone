@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Path between Marsham Street and Monck Street">
+  <nodes maxlat="51.49637823412244" maxlng="-0.12952355260086" minlat="51.49626468438122" minlng="-0.13073591107559">
+    <node lat="51.49635485625768" lng="-0.13073591107559"/>
+    <node lat="51.49626468438122" lng="-0.13073054665756"/>
+    <node lat="51.49628806229224" lng="-0.12952355260086"/>
+    <node lat="51.49637823412244" lng="-0.12954232806396"/>
+  </nodes>
+  <exits>
+    <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
+    <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
+    <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
+    <exit title="Path between Marsham Street and Monck Street to Monck Street"/>
+  </exits>
+</zone>

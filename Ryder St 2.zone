@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Ryder St 2">
+  <nodes maxlat="51.5072443032812" maxlng="-0.13769624346924" minlat="51.5068753535693" minlng="-0.13851699942779">
+    <node lat="51.50696550445346" lng="-0.13851699942779"/>
+    <node lat="51.5068753535693" lng="-0.1384284865303"/>
+    <node lat="51.50699722416658" lng="-0.13809321040344"/>
+    <node lat="51.50715248349642" lng="-0.13769624346924"/>
+    <node lat="51.5072443032812" lng="-0.1377793919487"/>
+  </nodes>
+  <exits>
+    <exit title="Duke Street Saint James\'s - Ryder St."/>
+    <exit title="Duke Street Saint James\'s - Ryder St."/>
+    <exit title="Ryder St - Bury St"/>
+    <exit title="Ryder St - Bury St"/>
+  </exits>
+</zone>

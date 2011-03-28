@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Seymour St-Great Cumberland Pl">
+  <nodes>
+    <node lat="51.51461265511729" lng="-0.1597171794815"/>
+    <node lat="51.51437896946361" lng="-0.15960989112091"/>
+  </nodes>
+  <zones>
+    <zone title="Seymour Street"/>
+    <zone title="Great Cumberland Pl"/>
+  </zones>
+</exit>

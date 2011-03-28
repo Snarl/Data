@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cureton Street - John Islip Street">
+  <nodes>
+    <node lat="51.49041064508222" lng="-0.1298011612339"/>
+    <node lat="51.49032630668798" lng="-0.12986687535476"/>
+  </nodes>
+  <zones>
+    <zone title="John Islip Street"/>
+    <zone title="Cureton Street"/>
+  </zones>
+</exit>

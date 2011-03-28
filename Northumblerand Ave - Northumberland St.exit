@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Northumblerand Ave - Northumberland St">
+  <nodes>
+    <node lat="51.50705899411651" lng="-0.12527493352127"/>
+    <node lat="51.50711575557633" lng="-0.12559679860306"/>
+  </nodes>
+  <zones>
+    <zone title="Northumberland Avenue"/>
+    <zone title="Northumberland Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Duncannon Street" status="red" reason="50-60 kettled in Duncannon Street.&#10;">
+  <nodes maxlat="51.50864995766013" maxlng="-0.12563703173828" minlat="51.5085564713072" minlng="-0.12699959391784">
+    <node lat="51.50861990849619" lng="-0.12699422949981"/>
+    <node lat="51.50864995766013" lng="-0.12563703173828"/>
+    <node lat="51.5085931981116" lng="-0.12570676917267"/>
+    <node lat="51.5085564713072" lng="-0.12699959391784"/>
+  </nodes>
+  <exits>
+    <exit title="Duncannon Street - Charing Cross"/>
+    <exit title="Duncannon Street - Charing Cross"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vandon Street - Buckingham Gate">
+  <nodes>
+    <node lat="51.49878525511545" lng="-0.13703239673805"/>
+    <node lat="51.49872430887582" lng="-0.13687548751068"/>
+  </nodes>
+  <zones>
+    <zone title="Vandon Street"/>
+    <zone title="Buckingham Gate"/>
+  </zones>
+</exit>

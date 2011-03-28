@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Outside Wesminster Cathedral">
+  <nodes maxlat="51.4967723163229" maxlng="-0.13960731739235" minlat="51.49616282334256" minlng="-0.14043343776893">
+    <node lat="51.49669383412272" lng="-0.14043343776893"/>
+    <node lat="51.49635819595268" lng="-0.14017862791252"/>
+    <node lat="51.49616282334256" lng="-0.14018667453956"/>
+    <node lat="51.49633982762284" lng="-0.13960731739235"/>
+    <node lat="51.49655523756552" lng="-0.13984066957664"/>
+    <node lat="51.4967723163229" lng="-0.13993722910118"/>
+  </nodes>
+  <exits>
+    <exit title="Morpeth Place - Westminster Cathedral"/>
+    <exit title="Victoria Street - Outside Westminster Cathedral"/>
+    <exit title="Ambrosden Avenue - Outside Westminster Cathedral"/>
+    <exit title="Ashley Place - Outside Westminster Cathedral"/>
+  </exits>
+</zone>

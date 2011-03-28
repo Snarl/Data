@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Green Street">
+  <nodes maxlat="51.51297683036694" maxlng="-0.15353468770218" minlat="51.51216557303724" minlng="-0.15762237424087">
+    <node lat="51.51224569786092" lng="-0.15762237424087"/>
+    <node lat="51.51216557303724" lng="-0.15757945889663"/>
+    <node lat="51.51286666046626" lng="-0.15353468770218"/>
+    <node lat="51.51297683036694" lng="-0.1535561453743"/>
+    <node lat="51.51261293483298" lng="-0.15560535306167"/>
+  </nodes>
+  <exits>
+    <exit title="N Audley St - Green St"/>
+    <exit title="N Audley St - Green St"/>
+    <exit title="Green Street - Park lane"/>
+    <exit title="Green Street - Park lane"/>
+    <exit title="Green Street - Park lane"/>
+    <exit title="Green St - Park St (South)"/>
+    <exit title="Green St - Park St (South)"/>
+    <exit title="Green Street - Park Street (East)"/>
+    <exit title="Green Street - Park Street (East)"/>
+    <exit title="Green Street - Park Street (North)"/>
+    <exit title="Green Street - Park Street (North)"/>
+    <exit title="Green Street - Park Street (West)"/>
+    <exit title="Green Street - Park Street (West)"/>
+  </exits>
+</zone>

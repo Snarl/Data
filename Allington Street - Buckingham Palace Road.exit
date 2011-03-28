@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Allington Street - Buckingham Palace Road">
+  <nodes>
+    <node lat="51.49728161245245" lng="-0.1443360518856"/>
+    <node lat="51.49714134786395" lng="-0.14444602245521"/>
+  </nodes>
+  <zones>
+    <zone title="Allington Street"/>
+    <zone title="Buckingham Palace Road"/>
+  </zones>
+</exit>

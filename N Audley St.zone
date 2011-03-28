@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<zone title="N Audley St">
+  <nodes maxlat="51.51377638877398" maxlng="-0.1527997624321" minlat="51.51190015854244" minlng="-0.15388337487411">
+    <node lat="51.51375635825434" lng="-0.15388337487411"/>
+    <node lat="51.51377638877398" lng="-0.15365806931686"/>
+    <node lat="51.51319550012848" lng="-0.15343276375961"/>
+    <node lat="51.5129184069582" lng="-0.15333083981704"/>
+    <node lat="51.5126045885613" lng="-0.15315381402206"/>
+    <node lat="51.51230078358574" lng="-0.15301433915329"/>
+    <node lat="51.51196025252354" lng="-0.1527997624321"/>
+    <node lat="51.51190015854244" lng="-0.15304652566147"/>
+  </nodes>
+  <exits>
+    <exit title="N Audley St - Green St"/>
+    <exit title="N Audley St - Green St"/>
+    <exit title="N Row - N Audley St"/>
+    <exit title="N Row - N Audley St"/>
+    <exit title="N Row - N Audley St"/>
+    <exit title="N Row - N Audley St"/>
+    <exit title="N Audley St - Oxford St "/>
+    <exit title="N Audley St - Oxford St "/>
+    <exit title="N Audley St - Oxford St "/>
+    <exit title="North Row - North Audley St (East)"/>
+    <exit title="North Row - North Audley St (East)"/>
+    <exit title="Providence Court to N Audley Street"/>
+    <exit title="Providence Court to N Audley Street"/>
+    <exit title="Lee\'s Place - N Audley Street"/>
+    <exit title="N Audley St - Grosvenor Square"/>
+    <exit title="N Audley St - Grosvenor Square"/>
+  </exits>
+</zone>

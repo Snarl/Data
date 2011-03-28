@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hyde Park - Notting Hill Gate">
+  <nodes>
+    <node lat="51.50989948451609" lng="-0.1922604214592"/>
+    <node lat="51.5097258716124" lng="-0.19250182027054"/>
+  </nodes>
+  <zones>
+    <zone title="Hyde Park South"/>
+    <zone title="Notting Hill Gate"/>
+  </zones>
+</exit>

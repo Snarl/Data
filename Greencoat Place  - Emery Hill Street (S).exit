@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Greencoat Place  - Emery Hill Street (S)">
+  <nodes>
+    <node lat="51.49491625960422" lng="-0.13693047279548"/>
+    <node lat="51.49488954118657" lng="-0.13684866542053"/>
+  </nodes>
+  <zones>
+    <zone title="Greencoat Place"/>
+    <zone title="Emery Hill Street"/>
+  </zones>
+</exit>

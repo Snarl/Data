@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Piccadilly Arcade - Knightsbridge">
+  <nodes>
+    <node lat="51.5031022122214" lng="-0.15231160039139"/>
+    <node lat="51.5030287497308" lng="-0.15227941388321"/>
+  </nodes>
+  <zones>
+    <zone title="Picadilly Arcade"/>
+    <zone title="Knightsbridge"/>
+  </zones>
+</exit>

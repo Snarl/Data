@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Oxendon Street">
+  <nodes maxlat="51.51022918029543" maxlng="-0.13118652219009" minlat="51.50912907222892" minlng="-0.13234523648453">
+    <node lat="51.51019579349156" lng="-0.13234523648453"/>
+    <node lat="51.51022918029543" lng="-0.13216284627151"/>
+    <node lat="51.50918416173202" lng="-0.13118652219009"/>
+    <node lat="51.50912907222892" lng="-0.13132599705887"/>
+  </nodes>
+  <exits>
+    <exit title="Orange St-Oxendon St"/>
+    <exit title="Orange St-Oxendon St"/>
+    <exit title="Oxendon St - Coventry St (South)"/>
+    <exit title="Oxendon St - Coventry St (South)"/>
+  </exits>
+</zone>

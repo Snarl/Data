@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Islip Street - Atterbury Street (NW)">
+  <nodes>
+    <node lat="51.49103608038598" lng="-0.12928081268501"/>
+    <node lat="51.49093754775686" lng="-0.12936664337349"/>
+  </nodes>
+  <zones>
+    <zone title="Atterbury Street"/>
+    <zone title="John Islip Street"/>
+  </zones>
+</exit>

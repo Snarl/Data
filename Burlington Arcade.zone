@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Burlington Arcade">
+  <nodes maxlat="51.50965742780134" maxlng="-0.13944236153793" minlat="51.50822175512396" minlng="-0.14094439858627">
+    <node lat="51.50959065333114" lng="-0.14094439858627"/>
+    <node lat="51.50965742780134" lng="-0.14078883046341"/>
+    <node lat="51.5085389425158" lng="-0.13973204011154"/>
+    <node lat="51.50826515984482" lng="-0.13944236153793"/>
+    <node lat="51.50822175512396" lng="-0.13962475175094"/>
+  </nodes>
+  <exits>
+    <exit title="Burlington Arcade - Piccadily Place 2"/>
+    <exit title="Burlington Arcade - Piccadily Place 2"/>
+    <exit title="Burlington Arcade - Piccadily Place 2"/>
+    <exit title="Burlington Arcade - Burlington Gardens (South)"/>
+    <exit title="Burlington Arcade - Burlington Gardens (South)"/>
+  </exits>
+</zone>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Little Argyll Street">
+  <nodes maxlat="51.5146719109344" maxlng="-0.14088538998794" minlat="51.51435309705227" minlng="-0.14155326003265">
+    <node lat="51.51445157906554" lng="-0.14155326003265"/>
+    <node lat="51.51435309705227" lng="-0.14151302689743"/>
+    <node lat="51.51458678283867" lng="-0.14088538998794"/>
+    <node lat="51.5146719109344" lng="-0.1409497630043"/>
+  </nodes>
+  <exits>
+    <exit title="Argyll Street - Little Argyll Street"/>
+    <exit title="Little Argyll Street - Regents Street"/>
+    <exit title="Little Argyll Street - Regents Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Orange Street">
+  <nodes maxlat="51.50955810084108" maxlng="-0.12854186410141" minlat="51.50883526042069" minlng="-0.13191876525116">
+    <node lat="51.50888033394613" lng="-0.13191876525116"/>
+    <node lat="51.50883526042069" lng="-0.1318731676979"/>
+    <node lat="51.50930769552722" lng="-0.13072786444854"/>
+    <node lat="51.50921254114707" lng="-0.1304864656372"/>
+    <node lat="51.50941286592666" lng="-0.13002780789566"/>
+    <node lat="51.50938281726589" lng="-0.1298373710556"/>
+    <node lat="51.50948297939142" lng="-0.12921778077316"/>
+    <node lat="51.50947797129038" lng="-0.12904611939621"/>
+    <node lat="51.50947964065745" lng="-0.12861964816284"/>
+    <node lat="51.50950468115624" lng="-0.12854186410141"/>
+    <node lat="51.50954140719628" lng="-0.12857136840057"/>
+    <node lat="51.50955810084108" lng="-0.12951818818283"/>
+    <node lat="51.50953806846661" lng="-0.12966570967865"/>
+    <node lat="51.50939283348833" lng="-0.1306125294609"/>
+  </nodes>
+  <exits>
+    <exit title="Orange St-Oxendon St"/>
+    <exit title="Orange St-Oxendon St"/>
+    <exit title="Great Windmill St-Orange St"/>
+    <exit title="Great Windmill St-Orange St"/>
+  </exits>
+</zone>

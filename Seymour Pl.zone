@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Seymour Pl">
+  <nodes maxlat="51.52092171461209" maxlng="-0.16086516493988" minlat="51.51436561596122" minlng="-0.16413209552002">
+    <node lat="51.51436561596122" lng="-0.16109047049713"/>
+    <node lat="51.51439899970924" lng="-0.16086516493988"/>
+    <node lat="51.51626177407559" lng="-0.16171274298858"/>
+    <node lat="51.51793086202149" lng="-0.16241548175049"/>
+    <node lat="51.51920600399711" lng="-0.16297874564361"/>
+    <node lat="51.51978014003669" lng="-0.16328988188934"/>
+    <node lat="51.52092171461209" lng="-0.163949705307"/>
+    <node lat="51.52087164615175" lng="-0.16413209552002"/>
+    <node lat="51.51834144828232" lng="-0.16283390635681"/>
+  </nodes>
+  <exits>
+    <exit title="Seymour Pl-Upper Berkely St"/>
+    <exit title="Seymour Pl-Upper Berkely St"/>
+    <exit title="Seymour Pl-Upper Berkely St"/>
+    <exit title="Seymour Pl-Upper Berkely St"/>
+    <exit title="Upper Berkely St-Seymour Pl"/>
+    <exit title="Upper Berkely St-Seymour Pl"/>
+    <exit title="Seymour St-Seymour Pl"/>
+    <exit title="Seymour St-Seymour Pl"/>
+  </exits>
+</zone>

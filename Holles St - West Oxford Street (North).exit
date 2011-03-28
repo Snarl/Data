@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Holles St - West Oxford Street (North)">
+  <nodes>
+    <node lat="51.51512759381438" lng="-0.14454124087524"/>
+    <node lat="51.51518100690596" lng="-0.1442086469574"/>
+  </nodes>
+  <zones>
+    <zone title="Holles St"/>
+    <zone title="West Oxford Street 2"/>
+  </zones>
+</exit>

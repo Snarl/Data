@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stable Yard Rd - The Mall">
+  <nodes>
+    <node lat="51.50318485735324" lng="-0.13816697115135"/>
+    <node lat="51.50327167635018" lng="-0.13795239443016"/>
+  </nodes>
+  <zones>
+    <zone title="The Mall"/>
+    <zone title="Stable Yard Road"/>
+  </zones>
+</exit>

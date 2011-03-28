@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Erasmus Street - Marsham Street">
+  <nodes>
+    <node lat="51.49247062454388" lng="-0.12905684823227"/>
+    <node lat="51.49282633107" lng="-0.12914536112976"/>
+  </nodes>
+  <zones>
+    <zone title="Erasmus Street"/>
+    <zone title="Marsham Street"/>
+  </zones>
+</exit>

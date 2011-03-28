@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Emery Hill Street">
+  <nodes maxlat="51.49550573069424" maxlng="-0.13638732546997" minlat="51.49476763819188" minlng="-0.13767746800613">
+    <node lat="51.49485948293258" lng="-0.13638732546997"/>
+    <node lat="51.49476763819188" lng="-0.1364651095314"/>
+    <node lat="51.49489956057964" lng="-0.13686475867462"/>
+    <node lat="51.49492794889164" lng="-0.13696400040817"/>
+    <node lat="51.4954289161946" lng="-0.13767746800613"/>
+    <node lat="51.49550573069424" lng="-0.13755140418243"/>
+    <node lat="51.4952368793792" lng="-0.13714102620315"/>
+    <node lat="51.49504150196286" lng="-0.13681379670334"/>
+    <node lat="51.4949880652587" lng="-0.13677892798614"/>
+  </nodes>
+  <exits>
+    <exit title="Emery Hill Street - Rochester Row"/>
+    <exit title="Francis Street - Emery Hill Street"/>
+    <exit title="Greencoat Place  - Emery Hill Street (N)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (W)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (N)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (E)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (W)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (S)"/>
+    <exit title="Greencoat Place  - Emery Hill Street (S)"/>
+  </exits>
+</zone>

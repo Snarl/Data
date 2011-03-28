@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Elverton Street - Horseferry Road">
+  <nodes>
+    <node lat="51.49515755959729" lng="-0.13292325252723"/>
+    <node lat="51.49506237566678" lng="-0.13281328195762"/>
+  </nodes>
+  <zones>
+    <zone title="Horseferry Road"/>
+    <zone title="Elverton Street"/>
+  </zones>
+</exit>

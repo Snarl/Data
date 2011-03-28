@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxford St - Great Portlans St">
+  <nodes>
+    <node lat="51.51550649166507" lng="-0.14098463172149"/>
+    <node lat="51.51554655115638" lng="-0.14048037642669"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 1"/>
+    <zone title="Great Portland St"/>
+  </zones>
+</exit>

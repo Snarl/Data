@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Embankment - Richmond Terrace">
+  <nodes>
+    <node lat="51.50317734418972" lng="-0.1238935958786"/>
+    <node lat="51.50299702725317" lng="-0.12395796889496"/>
+  </nodes>
+  <zones>
+    <zone title="Richmond Terrace"/>
+    <zone title="Victoria Embankment"/>
+  </zones>
+</exit>

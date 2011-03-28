@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="East Oxford Street 2 - Berwick Street">
+  <nodes>
+    <node lat="51.51574808437302" lng="-0.13678898626995"/>
+    <node lat="51.51576060290149" lng="-0.13668169790935"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 2"/>
+    <zone title="Berwick Street"/>
+  </zones>
+</exit>

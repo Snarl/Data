@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Claylands Road - Meadow Road">
+  <nodes>
+    <node lat="51.4823969658088" lng="-0.11848089808655"/>
+    <node lat="51.48233683283779" lng="-0.1185452711029"/>
+  </nodes>
+  <zones>
+    <zone title="Claylands Road"/>
+    <zone title="Meadow Road"/>
+  </zones>
+</exit>

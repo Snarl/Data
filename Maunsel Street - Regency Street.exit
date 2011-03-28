@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Maunsel Street - Regency Street">
+  <nodes>
+    <node lat="51.49477181296694" lng="-0.13249678129387"/>
+    <node lat="51.49467495832149" lng="-0.13248605245781"/>
+  </nodes>
+  <zones>
+    <zone title="Maunsel Street"/>
+    <zone title="Regency Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Lord N Street">
+  <nodes maxlat="51.49714218276562" maxlng="-0.12704921478462" minlat="51.49627470350454" minlng="-0.12725038046074">
+    <node lat="51.49713800821772" lng="-0.12720612401199"/>
+    <node lat="51.49714218276562" lng="-0.1271001767559"/>
+    <node lat="51.49629223693508" lng="-0.12704921478462"/>
+    <node lat="51.49627470350454" lng="-0.1271900307579"/>
+    <node lat="51.49685664281032" lng="-0.12725038046074"/>
+  </nodes>
+  <exits>
+    <exit title="Great Peter Street - Lord N Street (N)"/>
+    <exit title="Great Peter Street - Lord N Street (W)"/>
+    <exit title="Great Peter Street - Lord N Street (E)"/>
+    <exit title="Great Peter Street - Lord N Street (S)"/>
+    <exit title="Lord N Street - Smith Square"/>
+    <exit title="Cowley Street - Lord N Street"/>
+  </exits>
+</zone>

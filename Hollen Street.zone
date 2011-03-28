@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Hollen Street">
+  <nodes maxlat="51.5155774303408" maxlng="-0.13445479387474" minlat="51.5152819909645" minlng="-0.13541234249305">
+    <node lat="51.51536461403391" lng="-0.13541234249305"/>
+    <node lat="51.5152819909645" lng="-0.1353479694767"/>
+    <node lat="51.51552067942286" lng="-0.13445479387474"/>
+    <node lat="51.5155774303408" lng="-0.13450307363701"/>
+    <node lat="51.5154956422307" lng="-0.13491345161628"/>
+  </nodes>
+  <exits>
+    <exit title="Hollen Street - Wardour Street"/>
+    <exit title="Hollen Street - Wardour Street"/>
+    <exit title="Hollen St - Great Chapel St"/>
+    <exit title="Hollen St - Great Chapel St"/>
+  </exits>
+</zone>

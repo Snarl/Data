@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Upper Horse Guards Ave">
+  <nodes maxlat="51.50624095346042" maxlng="-0.12422618979645" minlat="51.50512572335613" minlng="-0.12493965739441">
+    <node lat="51.50613744522867" lng="-0.12461242789459"/>
+    <node lat="51.50624095346042" lng="-0.12422618979645"/>
+    <node lat="51.50512572335613" lng="-0.12469825858307"/>
+    <node lat="51.50516913102639" lng="-0.12493965739441"/>
+  </nodes>
+  <exits>
+    <exit title="Horse Guards Ave - Upper Horse Guards Ave"/>
+    <exit title="Whitehall Place - Upper Horse Guards Ave"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Islip Street - Bessborough Gardens">
+  <nodes>
+    <node lat="51.4894194503351" lng="-0.13085124606323"/>
+    <node lat="51.48935097610262" lng="-0.13068226689529"/>
+  </nodes>
+  <zones>
+    <zone title="John Islip Street"/>
+    <zone title="Bessborough Gardens"/>
+  </zones>
+</exit>

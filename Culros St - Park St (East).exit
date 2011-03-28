@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Culros St - Park St (East)">
+  <nodes>
+    <node lat="51.51093864407232" lng="-0.1545646559639"/>
+    <node lat="51.51083180787756" lng="-0.15450028294754"/>
+  </nodes>
+  <zones>
+    <zone title="Park Street"/>
+    <zone title="Culross St"/>
+  </zones>
+</exit>

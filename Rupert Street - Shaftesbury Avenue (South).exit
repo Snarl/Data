@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rupert Street - Shaftesbury Avenue (South)">
+  <nodes>
+    <node lat="51.5113818446299" lng="-0.13311905378532"/>
+    <node lat="51.51145195506448" lng="-0.1329527568264"/>
+  </nodes>
+  <zones>
+    <zone title="Shaftesbury Avenue"/>
+    <zone title="Rupert Street"/>
+  </zones>
+</exit>

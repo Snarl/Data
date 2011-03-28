@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Buckingham Gate - Victoria Street">
+  <nodes>
+    <node lat="51.49762058341867" lng="-0.13556120509338"/>
+    <node lat="51.49757549875472" lng="-0.13583076709938"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Gate"/>
+    <zone title="Victoria Street"/>
+  </zones>
+</exit>

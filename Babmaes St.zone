@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Babmaes St">
+  <nodes maxlat="51.50890662675" maxlng="-0.13491412216854" minlat="51.50850847596222" minlng="-0.13531108910274">
+    <node lat="51.50888158592248" lng="-0.13531108910274"/>
+    <node lat="51.50890662675" lng="-0.1352319639368"/>
+    <node lat="51.5087705714214" lng="-0.13510992342663"/>
+    <node lat="51.50867541591946" lng="-0.13502811605167"/>
+    <node lat="51.50854019460118" lng="-0.13491412216854"/>
+    <node lat="51.50850847596222" lng="-0.13502141052913"/>
+  </nodes>
+  <exits>
+    <exit title="Jermyn St - Babmaes St"/>
+    <exit title="Jermyn St - Babmaes St"/>
+  </exits>
+</zone>

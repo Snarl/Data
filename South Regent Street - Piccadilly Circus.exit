@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="South Regent Street - Piccadilly Circus" status="green" reason="">
+  <nodes>
+    <node lat="51.51006475001756" lng="-0.13533858174515"/>
+    <node lat="51.50992285542" lng="-0.13522056454849"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

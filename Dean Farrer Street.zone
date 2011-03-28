@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Dean Farrer Street">
+  <nodes maxlat="51.49963598930884" maxlng="-0.13191876525116" minlat="51.49869258339082" minlng="-0.13215479964447">
+    <node lat="51.49963598930884" lng="-0.13205555791092"/>
+    <node lat="51.49963098012546" lng="-0.1319268118782"/>
+    <node lat="51.49903154387098" lng="-0.13197509164047"/>
+    <node lat="51.49885288028678" lng="-0.13200459593963"/>
+    <node lat="51.49873933671036" lng="-0.13191876525116"/>
+    <node lat="51.49869258339082" lng="-0.13205019349289"/>
+    <node lat="51.49882616417658" lng="-0.13215479964447"/>
+  </nodes>
+  <exits>
+    <exit title="Dacre Street - Dean Farar Street"/>
+    <exit title="Dean Farrar Street - Tothill Street"/>
+    <exit title="Dean Farrar Street - Victoria Street"/>
+  </exits>
+</zone>

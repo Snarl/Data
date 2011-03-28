@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Brewer Street - Glasshouse St">
+  <nodes>
+    <node lat="51.51056888958346" lng="-0.13717187160682"/>
+    <node lat="51.51058892150466" lng="-0.13729525322151"/>
+  </nodes>
+  <zones>
+    <zone title="Glasshouse Street"/>
+    <zone title="Brewer Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Milbank - Thorney Street">
+  <nodes>
+    <node lat="51.49313026590088" lng="-0.12534332985115"/>
+    <node lat="51.49305595235146" lng="-0.12534869426918"/>
+  </nodes>
+  <zones>
+    <zone title="Thorney Street"/>
+    <zone title="Milbank South"/>
+  </zones>
+</exit>

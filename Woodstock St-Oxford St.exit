@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Woodstock St-Oxford St">
+  <nodes>
+    <node lat="51.514401086187" lng="-0.14785376900863"/>
+    <node lat="51.5144394774652" lng="-0.14753726834488"/>
+  </nodes>
+  <zones>
+    <zone title="Woodstock St"/>
+    <zone title="West Oxford Street 2"/>
+  </zones>
+</exit>

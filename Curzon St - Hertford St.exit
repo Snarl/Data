@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Curzon St - Hertford St">
+  <nodes>
+    <node lat="51.50666040981132" lng="-0.14794027024936"/>
+    <node lat="51.50667710451172" lng="-0.14774715120029"/>
+  </nodes>
+  <zones>
+    <zone title="Curzon Street 2"/>
+    <zone title="Hertford Street"/>
+  </zones>
+</exit>

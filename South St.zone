@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<zone title="South St" status="red" reason="">
+  <nodes maxlat="51.50890036654722" maxlng="-0.149361170475" minlat="51.5078920448736" minlng="-0.15377072209549">
+    <node lat="51.5078920448736" lng="-0.15360978955459"/>
+    <node lat="51.50825597811746" lng="-0.15178856963348"/>
+    <node lat="51.50851974443142" lng="-0.1504233252449"/>
+    <node lat="51.50867499857316" lng="-0.14973667973709"/>
+    <node lat="51.50886530938004" lng="-0.149361170475"/>
+    <node lat="51.50890036654722" lng="-0.14947918767166"/>
+    <node lat="51.50800222680468" lng="-0.15377072209549"/>
+  </nodes>
+  <exits>
+    <exit title="South St - Park lane"/>
+    <exit title="South St - Park lane"/>
+    <exit title="South St - St Audley Street (West)"/>
+    <exit title="South St - St Audley Street (South)"/>
+    <exit title="South St - St Audley Street (East)"/>
+    <exit title="South St - St Audley Street (East)"/>
+    <exit title="South St - St Audley Street (North)"/>
+    <exit title="South St - St Audley Street (South)"/>
+    <exit title="South St - St Audley Street (East)"/>
+    <exit title="Waverton St - South St"/>
+    <exit title="Waverton St - South St"/>
+    <exit title="Rex Pl - South St"/>
+    <exit title="Rex Pl - South St"/>
+    <exit title="Park St - South St"/>
+    <exit title="Park St - South St"/>
+    <exit title="Balfour Mews-South St"/>
+    <exit title="Balfour Mews-South St"/>
+    <exit title="south st-s audley st"/>
+    <exit title="south st-s audley st"/>
+    <exit title="Audley St-South St"/>
+    <exit title="Audley St-South St"/>
+    <exit title="Chesterfueld Hill-South St"/>
+    <exit title="Chesterfueld Hill-South St"/>
+    <exit title="South St - Farm St"/>
+    <exit title="South St-Farm St"/>
+    <exit title="South St-Farm St"/>
+    <exit title="South Street - Balfour Pl"/>
+    <exit title="South Street - Balfour Pl"/>
+    <exit title="South Audley St - South Street (North)"/>
+    <exit title="South Audley St - South Street (North)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Audley St - South Street (West)"/>
+    <exit title="South Street - South Audley Street (North)"/>
+    <exit title="South Street - South Audley Street (North)"/>
+    <exit title="South Street - South Audley Street (North)"/>
+    <exit title="South Street - South Audley Street (North)"/>
+  </exits>
+</zone>

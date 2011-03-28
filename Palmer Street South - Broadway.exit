@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Palmer Street South - Broadway">
+  <nodes>
+    <node lat="51.49817912861237" lng="-0.13402564043236"/>
+    <node lat="51.49795203781979" lng="-0.1340873312397"/>
+  </nodes>
+  <zones>
+    <zone title="St James\'s Park Broadway"/>
+    <zone title="Palmer Street South"/>
+  </zones>
+</exit>

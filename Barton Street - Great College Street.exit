@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Barton Street - Great College Street">
+  <nodes>
+    <node lat="51.49773997407174" lng="-0.12785790080261"/>
+    <node lat="51.4976982291234" lng="-0.12773451918792"/>
+  </nodes>
+  <zones>
+    <zone title="Great College Street"/>
+    <zone title="Barton Street"/>
+  </zones>
+</exit>

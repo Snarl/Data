@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Medway Street - Monck Street">
+  <nodes>
+    <node lat="51.49547650780956" lng="-0.13087538594436"/>
+    <node lat="51.49535627628452" lng="-0.13086733931732"/>
+  </nodes>
+  <zones>
+    <zone title="Monck Street"/>
+    <zone title="Medway Street"/>
+  </zones>
+</exit>

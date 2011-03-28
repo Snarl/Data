@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="VAuxhall Street (south) - (north)">
+  <nodes>
+    <node lat="51.48851090580931" lng="-0.11738119239044"/>
+    <node lat="51.48849921486102" lng="-0.11706469172668"/>
+  </nodes>
+  <zones>
+    <zone title="Vauxhall Street (south)"/>
+    <zone title="Vauxhall Street (north)"/>
+  </zones>
+</exit>

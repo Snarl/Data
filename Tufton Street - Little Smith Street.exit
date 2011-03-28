@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Tufton Street - Little Smith Street">
+  <nodes>
+    <node lat="51.49753584091072" lng="-0.12873632425499"/>
+    <node lat="51.49744734117852" lng="-0.12873095983696"/>
+  </nodes>
+  <zones>
+    <zone title="Little Smith Street"/>
+    <zone title="Tufton Street"/>
+  </zones>
+</exit>

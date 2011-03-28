@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<zone title="West Oxford Street 1" status="orange" reason="Crammed, scuffles between protesters and police.">
+  <nodes maxlat="51.51434137254707" maxlng="-0.14969275856447" minlat="51.51333487819453" minlng="-0.15822486544084">
+    <node lat="51.51352850797365" lng="-0.15822486544084"/>
+    <node lat="51.51333487819453" lng="-0.15812562370729"/>
+    <node lat="51.51355020781141" lng="-0.15657262468767"/>
+    <node lat="51.51379387529771" lng="-0.15378849173021"/>
+    <node lat="51.51422119078774" lng="-0.14969275856447"/>
+    <node lat="51.51434137254707" lng="-0.14975713158083"/>
+    <node lat="51.51426796333834" lng="-0.15112237596941"/>
+  </nodes>
+  <exits>
+    <exit title="West Oxford Street 1 - West Oxford Street 2"/>
+    <exit title="West Oxford Street 1 - West Oxford Street 2"/>
+    <exit title="Park lane - Oxford St"/>
+    <exit title="Park lane - Oxford St"/>
+    <exit title="Park Street - Oxford Street"/>
+    <exit title="N Audley St - Oxford St "/>
+    <exit title="N Audley St - Oxford St "/>
+    <exit title="N Audley St - Oxford St "/>
+    <exit title="Balderton St - Oxford St"/>
+    <exit title="Balderton St - Oxford St"/>
+    <exit title="Duke St - Oxforf St"/>
+    <exit title="Duke St - Oxforf St"/>
+    <exit title="Duke St - Oxforf St"/>
+    <exit title="Binney St - Oxford Street"/>
+    <exit title="West Oxford Street 1 - West Oxford Street 2"/>
+    <exit title="West oxford Street 1 - Gilbert Street"/>
+    <exit title="West oxford Street 1 - Gilbert Street"/>
+    <exit title="West oxford Street 1 - Gilbert Street"/>
+    <exit title="Oxford Street - South Portman Street"/>
+    <exit title="Oxford Street - North Portman Street"/>
+    <exit title="Oxford St-Duke St"/>
+    <exit title="Oxford St-Duke St"/>
+    <exit title="Oxford St-Orchard St"/>
+    <exit title="Oxford St-Orchard St"/>
+    <exit title="James St-Oxford St"/>
+    <exit title="James St-Oxford St"/>
+    <exit title="Binney St - West Oxford Street 1"/>
+    <exit title="Binney St - West Oxford Street 1"/>
+  </exits>
+</zone>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Lambeth Bridge Roundabout">
+  <nodes maxlat="51.49507740471554" maxlng="-0.1247223984642" minlat="51.49445619965026" minlng="-0.1256222795887">
+    <node lat="51.49507740471554" lng="-0.12532053107452"/>
+    <node lat="51.49507406492598" lng="-0.1250281702919"/>
+    <node lat="51.4948219101087" lng="-0.1247223984642"/>
+    <node lat="51.49462486100248" lng="-0.12475994939041"/>
+    <node lat="51.49449460773582" lng="-0.12479213589859"/>
+    <node lat="51.49445619965026" lng="-0.12532321328354"/>
+    <node lat="51.49469833703998" lng="-0.12561825627517"/>
+    <node lat="51.49485363827502" lng="-0.1256222795887"/>
+  </nodes>
+  <exits>
+    <exit title="Milbank - Lambeth Bridge Roundabout"/>
+    <exit title="Victoria Tower Gardens - Lambeth Bridge Roundabout"/>
+    <exit title="Lambeth Bridge Roundabout - Lambeth Bridge"/>
+    <exit title="Lambeth Bridge Roundabout - Milbank South"/>
+    <exit title="Horseferry Road - Lambeth Bridge Roundabout"/>
+    <exit title="Lambeth Bridge Roundabout - Lambeth Bridge"/>
+    <exit title="Horseferry Road - Lambeth Bridge Roundabout"/>
+    <exit title="Horseferry Road - Lambeth Bridge Roundabout"/>
+  </exits>
+</zone>

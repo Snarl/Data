@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Lewisham Street">
+  <nodes maxlat="51.50069875861668" maxlng="-0.12972203606796" minlat="51.50050090006793" minlng="-0.13179001921844">
+    <node lat="51.50069875861668" lng="-0.12972203606796"/>
+    <node lat="51.50054180760205" lng="-0.12975958699417"/>
+    <node lat="51.50050090006793" lng="-0.13179001921844"/>
+    <node lat="51.50059523779538" lng="-0.13174173945617"/>
+    <node lat="51.50060859533392" lng="-0.13101486081314"/>
+  </nodes>
+  <exits>
+    <exit title="Old Queen Street - Lewisham Street"/>
+    <exit title="Storey\'s Gate - Lewisham Street"/>
+  </exits>
+</zone>

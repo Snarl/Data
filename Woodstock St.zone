@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Woodstock St">
+  <nodes maxlat="51.51442821038706" maxlng="-0.14700350875091" minlat="51.51378056172452" minlng="-0.14780817145538">
+    <node lat="51.51441819527166" lng="-0.14780817145538"/>
+    <node lat="51.51442821038706" lng="-0.14765260333252"/>
+    <node lat="51.51383397639558" lng="-0.14700350875091"/>
+    <node lat="51.51378056172452" lng="-0.14715907687378"/>
+  </nodes>
+  <exits>
+    <exit title="Woodstock St-Oxford St"/>
+    <exit title="Woodstock St-Oxford St"/>
+  </exits>
+</zone>

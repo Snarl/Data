@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Stillington Street">
+  <nodes maxlat="51.49488620136378" maxlng="-0.13722283357811" minlat="51.49373061472936" minlng="-0.13857734913063">
+    <node lat="51.4947893469614" lng="-0.13857734913063"/>
+    <node lat="51.49488620136378" lng="-0.13841641658973"/>
+    <node lat="51.49451214184474" lng="-0.13821793312263"/>
+    <node lat="51.4941531086158" lng="-0.13793093675804"/>
+    <node lat="51.49398778538742" lng="-0.13771367782783"/>
+    <node lat="51.49393935725752" lng="-0.1376358937664"/>
+    <node lat="51.49381912167802" lng="-0.13722283357811"/>
+    <node lat="51.49373061472936" lng="-0.13730329984855"/>
+    <node lat="51.49389593889036" lng="-0.13780219072532"/>
+    <node lat="51.4939727559733" lng="-0.13792289013099"/>
+    <node lat="51.4942583139944" lng="-0.1382125687046"/>
+  </nodes>
+  <exits>
+    <exit title="Francis Street - Stillington Street"/>
+    <exit title="Stillington Street - Greencoat Place South"/>
+    <exit title="Greencoat Place - Stillington Street"/>
+    <exit title="Rochester Row - Stillington Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Page Street">
+  <nodes maxlat="51.49399863997094" maxlng="-0.12622711772156" minlat="51.49385669534038" minlng="-0.13226745242309">
+    <node lat="51.49399863997094" lng="-0.1262351643486"/>
+    <node lat="51.49391180330828" lng="-0.12622711772156"/>
+    <node lat="51.49391347324566" lng="-0.12664017790985"/>
+    <node lat="51.4938967738691" lng="-0.12718198413086"/>
+    <node lat="51.49388341436344" lng="-0.12891469115448"/>
+    <node lat="51.49385669534038" lng="-0.13226208800506"/>
+    <node lat="51.49394353210804" lng="-0.13226745242309"/>
+  </nodes>
+  <exits>
+    <exit title="Page Street - Thorney Street"/>
+    <exit title="Marsham Street - Page Street (E)"/>
+    <exit title="Marsham Street - Page Street (S)"/>
+    <exit title="Marsham Street - Page Street (W)"/>
+    <exit title="Marsham Street - Page Street (N)"/>
+    <exit title="Marsham Street - Page Street (E)"/>
+    <exit title="Marsham Street - Page Street (S)"/>
+    <exit title="Page Street - Thorney Street"/>
+    <exit title="Page Street - Thorney Street"/>
+    <exit title="Dean Ryle Street - Page Street"/>
+    <exit title="John Islip Street - Page Street"/>
+    <exit title="Page Street - Thorney Street"/>
+    <exit title="Regency Street - Page Street"/>
+  </exits>
+</zone>

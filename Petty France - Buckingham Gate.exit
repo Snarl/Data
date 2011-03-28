@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Petty France - Buckingham Gate">
+  <nodes>
+    <node lat="51.49917764676188" lng="-0.13799396866989"/>
+    <node lat="51.4991158661736" lng="-0.13785583490562"/>
+  </nodes>
+  <zones>
+    <zone title="Petty France"/>
+    <zone title="Buckingham Gate"/>
+  </zones>
+</exit>

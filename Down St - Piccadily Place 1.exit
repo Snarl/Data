@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Down St - Piccadily Place 1">
+  <nodes>
+    <node lat="51.50442535148106" lng="-0.14767137879562"/>
+    <node lat="51.50451216811462" lng="-0.14746753091049"/>
+  </nodes>
+  <zones>
+    <zone title="Down St"/>
+    <zone title="Piccadily Place 1"/>
+  </zones>
+</exit>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Chapel Street">
+  <nodes maxlat="51.50062445740496" maxlng="-0.14983055705261" minlat="51.49936883210616" minlng="-0.15184757823181">
+    <node lat="51.4994489794354" lng="-0.15184757823181"/>
+    <node lat="51.50062445740496" lng="-0.15000221842956"/>
+    <node lat="51.5004908818898" lng="-0.14983055705261"/>
+    <node lat="51.49936883210616" lng="-0.15164909476471"/>
+  </nodes>
+  <exits>
+    <exit title="Chapel Street - Grosvenor Pl"/>
+    <exit title="Chapel Street - Grosvenor Pl"/>
+    <exit title="Headfort Place - Chapel Street"/>
+    <exit title="Montrose Place - Chapel Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Marlborough Rd">
+  <nodes maxlat="51.50518332198487" maxlng="-0.13602992111873" minlat="51.50387564818387" minlng="-0.13741863483619">
+    <node lat="51.50513824480199" lng="-0.13741863483619"/>
+    <node lat="51.50518332198487" lng="-0.13729257101249"/>
+    <node lat="51.50399669202038" lng="-0.13602992111873"/>
+    <node lat="51.50387564818387" lng="-0.13634910399151"/>
+  </nodes>
+  <exits>
+    <exit title="Pall Mall - Marlborough Rd"/>
+    <exit title="The Mall - Marlborough Rd"/>
+    <exit title="The Mall - Marlborough Rd"/>
+    <exit title="Pall Mall - Marlborough Rd"/>
+    <exit title="Pall Mall - Marlborough Rd"/>
+    <exit title="The Mall - Marlborough Rd"/>
+    <exit title="The Mall - Marlborough Rd"/>
+  </exits>
+</zone>

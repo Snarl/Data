@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Parliament Square - Great George Steet">
+  <nodes>
+    <node lat="51.50128732010482" lng="-0.12808857077789"/>
+    <node lat="51.50109363829727" lng="-0.12803492659759"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

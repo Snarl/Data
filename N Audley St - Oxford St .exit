@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="N Audley St - Oxford St ">
+  <nodes>
+    <node lat="51.51375552355834" lng="-0.15392360800934"/>
+    <node lat="51.51380226142464" lng="-0.15362320059967"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 1"/>
+    <zone title="N Audley St"/>
+  </zones>
+</exit>

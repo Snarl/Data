@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chesterfield gardens - Curzon Street">
+  <nodes>
+    <node lat="51.50654688568646" lng="-0.14941548520756"/>
+    <node lat="51.50658695305698" lng="-0.14922236615848"/>
+  </nodes>
+  <zones>
+    <zone title="Chesterfield gardens"/>
+    <zone title="Curzon Street 2"/>
+  </zones>
+</exit>

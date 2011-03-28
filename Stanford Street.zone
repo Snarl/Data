@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Stanford Street">
+  <nodes maxlat="51.49207149513814" maxlng="-0.13506499642563" minlat="51.49165733205965" minlng="-0.1356014382286">
+    <node lat="51.49202306497239" lng="-0.13506499642563"/>
+    <node lat="51.49165733205965" lng="-0.13552097195816"/>
+    <node lat="51.49170910265023" lng="-0.1356014382286"/>
+    <node lat="51.49207149513814" lng="-0.13516155595016"/>
+  </nodes>
+  <exits>
+    <exit title="Vincent Square - Stanford Street"/>
+    <exit title="Stanford Street - Vauxhall Bridge Road"/>
+  </exits>
+</zone>

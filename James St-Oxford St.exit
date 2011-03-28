@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="James St-Oxford St" status="green" reason="">
+  <nodes>
+    <node lat="51.51432555543175" lng="-0.15042064303589"/>
+    <node lat="51.51434892407848" lng="-0.15012560004425"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 1"/>
+    <zone title="James St"/>
+  </zones>
+</exit>

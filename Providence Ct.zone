@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Providence Ct">
+  <nodes maxlat="51.51281574844155" maxlng="-0.15202728623581" minlat="51.51249525231177" minlng="-0.15313503855896">
+    <node lat="51.51249525231177" lng="-0.15308407658767"/>
+    <node lat="51.51259039983563" lng="-0.15313503855896"/>
+    <node lat="51.51281574844155" lng="-0.15207824820709"/>
+    <node lat="51.51269055490921" lng="-0.15202728623581"/>
+  </nodes>
+  <exits>
+    <exit title="Providence Court to N Audley Street"/>
+    <exit title="Providence Court to N Audley Street"/>
+  </exits>
+</zone>

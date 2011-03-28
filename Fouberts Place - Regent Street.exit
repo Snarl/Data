@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fouberts Place - Regent Street">
+  <nodes>
+    <node lat="51.51319883858734" lng="-0.14048842305374"/>
+    <node lat="51.51313540777406" lng="-0.14042941445541"/>
+  </nodes>
+  <zones>
+    <zone title="Fouberts Place"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

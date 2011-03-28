@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="West Halkin Street - Lowndes Street">
+  <nodes>
+    <node lat="51.49866085790792" lng="-0.15722808951568"/>
+    <node lat="51.49853395571046" lng="-0.15704569930267"/>
+  </nodes>
+  <zones>
+    <zone title="Lowndes Street"/>
+    <zone title="West Halkin Street"/>
+  </zones>
+</exit>

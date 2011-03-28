@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="John Adam Street">
+  <nodes maxlat="51.5095530927281" maxlng="-0.12209115142059" minlat="51.50839787794892" minlng="-0.12435493582916">
+    <node lat="51.50946628569892" lng="-0.12209115142059"/>
+    <node lat="51.50891872985689" lng="-0.12327132338714"/>
+    <node lat="51.50864494946812" lng="-0.12377557868194"/>
+    <node lat="51.50839787794892" lng="-0.12421546096039"/>
+    <node lat="51.50845797654986" lng="-0.12435493582916"/>
+    <node lat="51.50883859918171" lng="-0.12368974799347"/>
+    <node lat="51.50895211759666" lng="-0.12352881545257"/>
+    <node lat="51.5095530927281" lng="-0.12223062628937"/>
+  </nodes>
+  <exits>
+    <exit title="John Adam Street - Villers Street"/>
+    <exit title="John Adam Street George Court"/>
+  </exits>
+</zone>

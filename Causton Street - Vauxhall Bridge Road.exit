@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Causton Street - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.48974428402168" lng="-0.13151375168991"/>
+    <node lat="51.48968249064693" lng="-0.13138232344818"/>
+  </nodes>
+  <zones>
+    <zone title="Causton Street"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Edgware Rd-Upper Berkeley St">
+  <nodes>
+    <node lat="51.515180172428" lng="-0.16269979590606"/>
+    <node lat="51.5149665196821" lng="-0.16236720198822"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Berkely St"/>
+    <zone title="Edgware Rd"/>
+  </zones>
+</exit>

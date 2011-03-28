@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Eaton Road - Belgrave Place">
+  <nodes>
+    <node lat="51.49753208385082" lng="-0.15226868504715"/>
+    <node lat="51.4973517445773" lng="-0.15197900647354"/>
+  </nodes>
+  <zones>
+    <zone title="Eaton Place"/>
+    <zone title="Belgrave Place"/>
+  </zones>
+</exit>

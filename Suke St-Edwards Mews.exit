@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Suke St-Edwards Mews">
+  <nodes>
+    <node lat="51.51551400282828" lng="-0.15226332062912"/>
+    <node lat="51.51526696856079" lng="-0.15215603226852"/>
+  </nodes>
+  <zones>
+    <zone title="Duke St"/>
+    <zone title="Edwards Mews"/>
+  </zones>
+</exit>

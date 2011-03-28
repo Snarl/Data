@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="South Street - Balfour Pl">
+  <nodes>
+    <node lat="51.50835405597966" lng="-0.15218888932895"/>
+    <node lat="51.508394121761" lng="-0.15200649911594"/>
+  </nodes>
+  <zones>
+    <zone title="Balfour Pl"/>
+    <zone title="South St"/>
+  </zones>
+</exit>

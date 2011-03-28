@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Berners St - East Oxford Street 2">
+  <nodes>
+    <node lat="51.51603226969372" lng="-0.13614458555412"/>
+    <node lat="51.51603894620094" lng="-0.13588709348869"/>
+  </nodes>
+  <zones>
+    <zone title="Berners St "/>
+    <zone title="East Oxford Street 2"/>
+  </zones>
+</exit>

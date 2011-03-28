@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Piccadily Place 2 - Swallow St" status="red" reason="">
+  <nodes>
+    <node lat="51.50902223176924" lng="-0.13720539921951"/>
+    <node lat="51.50906229696296" lng="-0.13708738202286"/>
+  </nodes>
+  <zones>
+    <zone title="Swallow St"/>
+    <zone title="Piccadily Place 2"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vincent Square - Bloombury Street">
+  <nodes>
+    <node lat="51.49248231447456" lng="-0.13597694749069"/>
+    <node lat="51.49243722472908" lng="-0.13588977569771"/>
+  </nodes>
+  <zones>
+    <zone title="Vincent Square South"/>
+    <zone title="Bloomburg Street"/>
+  </zones>
+</exit>

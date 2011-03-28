@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Villiers Street - Embankment">
+  <nodes>
+    <node lat="51.50732276736049" lng="-0.12260613555145"/>
+    <node lat="51.50744964508561" lng="-0.12290654296112"/>
+  </nodes>
+  <zones>
+    <zone title="Embankment"/>
+    <zone title="Villiers Street"/>
+  </zones>
+</exit>

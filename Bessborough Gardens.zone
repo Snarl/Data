@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Bessborough Gardens">
+  <nodes maxlat="51.48942529568236" maxlng="-0.1289549242897" minlat="51.48818272303906" minlng="-0.13159958237839">
+    <node lat="51.4885601747617" lng="-0.1289549242897"/>
+    <node lat="51.48828293176566" lng="-0.1292606961174"/>
+    <node lat="51.488566855295" lng="-0.12987760419082"/>
+    <node lat="51.48818272303906" lng="-0.13030139321518"/>
+    <node lat="51.48878063184448" lng="-0.13159958237839"/>
+    <node lat="51.48942529568236" lng="-0.13085392827224"/>
+  </nodes>
+  <exits>
+    <exit title="John Islip Street - Bessborough Gardens"/>
+    <exit title="Bessborough Gardens - Milbank"/>
+    <exit title="Vauxhal Bridge Road - Bessborough Gardens"/>
+  </exits>
+</zone>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Piccadilly Arcade - Wellington Arch">
+  <nodes>
+    <node lat="51.50331925979728" lng="-0.15107241982651"/>
+    <node lat="51.50336600837062" lng="-0.15065935963821"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

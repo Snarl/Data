@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Motcomb Street - Wilton Crescent">
+  <nodes>
+    <node lat="51.4997670627566" lng="-0.15611094946098"/>
+    <node lat="51.49969693434066" lng="-0.15599561447334"/>
+  </nodes>
+  <zones>
+    <zone title="Wilton Crescent"/>
+    <zone title="Motcomb Street"/>
+  </zones>
+</exit>

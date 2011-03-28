@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="New Burlington St-Saville Row">
+  <nodes>
+    <node lat="51.51165477397226" lng="-0.14103291148376"/>
+    <node lat="51.51152790795738" lng="-0.14091221207809"/>
+  </nodes>
+  <zones>
+    <zone title="New Burlington Street"/>
+    <zone title="Savile Row"/>
+  </zones>
+</exit>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Eaton Gate">
+  <nodes maxlat="51.49435600466401" maxlng="-0.15415696019363" minlat="51.49282299128171" minlng="-0.15694109315109">
+    <node lat="51.49435600466401" lng="-0.15440908784103"/>
+    <node lat="51.49420905136695" lng="-0.15415696019363"/>
+    <node lat="51.49368469142321" lng="-0.15491334313583"/>
+    <node lat="51.49313694593262" lng="-0.15582529420089"/>
+    <node lat="51.49282299128171" lng="-0.15671578759384"/>
+    <node lat="51.49286641067079" lng="-0.15694109315109"/>
+    <node lat="51.49306012744125" lng="-0.15645829552841"/>
+  </nodes>
+  <exits>
+    <exit title="Kings Road - Eaton Gate"/>
+    <exit title="Sloane Square - Eaton Gate"/>
+  </exits>
+</zone>

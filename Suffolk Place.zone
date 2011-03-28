@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Suffolk Place">
+  <nodes maxlat="51.50833110164604" maxlng="-0.13071445340347" minlat="51.508050640049" minlng="-0.13130453938675">
+    <node lat="51.5081641604272" lng="-0.13130453938675"/>
+    <node lat="51.508050640049" lng="-0.13121870869827"/>
+    <node lat="51.50824429228858" lng="-0.13071445340347"/>
+    <node lat="51.50833110164604" lng="-0.13077882641983"/>
+  </nodes>
+  <exits>
+    <exit title="Suffolk Place - Cockspur Street"/>
+    <exit title="Suffolk Place - Cockspur Street"/>
+  </exits>
+</zone>

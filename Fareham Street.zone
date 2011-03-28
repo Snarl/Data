@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Fareham Street">
+  <nodes maxlat="51.51555573147481" maxlng="-0.13385800236892" minlat="51.51541051568047" minlng="-0.13431129569244">
+    <node lat="51.5154756124731" lng="-0.13431129569244"/>
+    <node lat="51.51541051568047" lng="-0.13428179139328"/>
+    <node lat="51.51550398796899" lng="-0.13385800236892"/>
+    <node lat="51.51555573147481" lng="-0.13388214225006"/>
+  </nodes>
+  <exits>
+    <exit title="Fareham St - Great Chapel St"/>
+    <exit title="Fareham St - Great Chapel St"/>
+    <exit title="Fareham St - Dean St"/>
+    <exit title="Fareham St - Dean St"/>
+  </exits>
+</zone>

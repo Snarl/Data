@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Conduit Street - Regent Street 1">
+  <nodes>
+    <node lat="51.51293593389182" lng="-0.14076066726875"/>
+    <node lat="51.51312789613338" lng="-0.14095244521332"/>
+  </nodes>
+  <zones>
+    <zone title="Conduit Street"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

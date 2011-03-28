@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<zone title="Milbank South">
+  <nodes maxlat="51.49449627765608" maxlng="-0.12480286473465" minlat="51.48856267996884" minlng="-0.12955573910904">
+    <node lat="51.49445452973696" lng="-0.12538758629989"/>
+    <node lat="51.49449627765608" lng="-0.12480286473465"/>
+    <node lat="51.4929849786238" lng="-0.12500134820175"/>
+    <node lat="51.49291483977254" lng="-0.12489942425918"/>
+    <node lat="51.4918293437925" lng="-0.12531784886551"/>
+    <node lat="51.49120642442746" lng="-0.12577918881607"/>
+    <node lat="51.4898219431334" lng="-0.12692717427444"/>
+    <node lat="51.48956808916732" lng="-0.12736169213485"/>
+    <node lat="51.48928417187208" lng="-0.12816099042129"/>
+    <node lat="51.48856267996884" lng="-0.12896833533478"/>
+    <node lat="51.4888365810173" lng="-0.12955573910904"/>
+    <node lat="51.48938771838426" lng="-0.12848285550308"/>
+    <node lat="51.4897083770593" lng="-0.12762454861831"/>
+    <node lat="51.48987872606108" lng="-0.12729329580498"/>
+    <node lat="51.49022610244942" lng="-0.1269553374691"/>
+    <node lat="51.4911496431477" lng="-0.12625796312523"/>
+    <node lat="51.49187944417258" lng="-0.12571749800873"/>
+    <node lat="51.4926944026771" lng="-0.12538490409088"/>
+    <node lat="51.4933891098992" lng="-0.12532053107452"/>
+  </nodes>
+  <exits>
+    <exit title="Lambeth Bridge Roundabout - Milbank South"/>
+    <exit title="Milbank - Thorney Street"/>
+    <exit title="Milbank South - Tory HQ"/>
+    <exit title="Milbank - Thorney Street"/>
+    <exit title="Milbank South - Tory HQ"/>
+    <exit title="Atterbury Street - Milbank"/>
+    <exit title="Atterbury Street - Milbank"/>
+    <exit title="Ponsonby Place - Milbank"/>
+    <exit title="Bessborough Gardens - Milbank"/>
+    <exit title="Ponsonby Place - Milbank"/>
+    <exit title="Milbank - Thorney Street"/>
+    <exit title="Milbank - Thorney Street"/>
+    <exit title="Ponsonby Place - Milbank"/>
+    <exit title="Ponsonby Place - Milbank"/>
+  </exits>
+</zone>

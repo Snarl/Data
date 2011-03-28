@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fynes Street - Rutherford Street">
+  <nodes>
+    <node lat="51.49381661678083" lng="-0.13303322309685"/>
+    <node lat="51.49376818846905" lng="-0.13309357279968"/>
+  </nodes>
+  <zones>
+    <zone title="Rutherford Street"/>
+    <zone title="Fynes Street"/>
+  </zones>
+</exit>

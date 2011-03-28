@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Erasmus Street">
+  <nodes maxlat="51.49284136086112" maxlng="-0.12905953044128" minlat="51.49065864915998" minlng="-0.13095048779678">
+    <node lat="51.49284136086112" lng="-0.12915474886131"/>
+    <node lat="51.49246978954778" lng="-0.12905953044128"/>
+    <node lat="51.49251571425612" lng="-0.12919632310104"/>
+    <node lat="51.49228358525604" lng="-0.1293867599411"/>
+    <node lat="51.49183268382056" lng="-0.1297837268753"/>
+    <node lat="51.4912615356" lng="-0.13029334658813"/>
+    <node lat="51.49070541072024" lng="-0.13073591107559"/>
+    <node lat="51.49065864915998" lng="-0.13095048779678"/>
+  </nodes>
+  <exits>
+    <exit title="Erasmus Street - Cureton Street"/>
+    <exit title="St Oswulf Street - Erasmus Street"/>
+    <exit title="Erasmus Street - Marsham Street"/>
+    <exit title="Erasmus Street - Cureton Street"/>
+    <exit title="Erasmus Street - Marsham Street"/>
+  </exits>
+</zone>

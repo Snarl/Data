@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Titchfield St - Eastcastle St">
+  <nodes>
+    <node lat="51.51643536207236" lng="-0.13982055300903"/>
+    <node lat="51.51627846525842" lng="-0.13977763766479"/>
+  </nodes>
+  <zones>
+    <zone title="Great Titchfiels St"/>
+    <zone title="Eastcastle St"/>
+  </zones>
+</exit>

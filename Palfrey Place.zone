@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Palfrey Place">
+  <nodes maxlat="51.48074912669431" maxlng="-0.11464533919525" minlat="51.47998573856626" minlng="-0.11550364608001">
+    <node lat="51.47998573856626" lng="-0.11545670742225"/>
+    <node lat="51.48020790754548" lng="-0.11519116872978"/>
+    <node lat="51.48019788490809" lng="-0.11512411350441"/>
+    <node lat="51.48042172328545" lng="-0.11486393922996"/>
+    <node lat="51.48045513190429" lng="-0.11492294782829"/>
+    <node lat="51.48072574081448" lng="-0.11464533919525"/>
+    <node lat="51.48074912669431" lng="-0.11471775883865"/>
+    <node lat="51.48009765841256" lng="-0.11546073073578"/>
+    <node lat="51.47999910214415" lng="-0.11550364608001"/>
+  </nodes>
+  <exits>
+    <exit title="Trigon Road - Palfrey Place"/>
+    <exit title="Fentiman Road  - Palfrey Place"/>
+    <exit title="Fentiman Road  - Palfrey Place"/>
+    <exit title="Claylands Road - Palfrey Place"/>
+  </exits>
+</zone>

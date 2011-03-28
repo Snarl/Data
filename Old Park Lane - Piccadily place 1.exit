@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Park Lane - Piccadily place 1">
+  <nodes>
+    <node lat="51.5038209695637" lng="-0.14894274586868"/>
+    <node lat="51.50394785703986" lng="-0.14870134705734"/>
+  </nodes>
+  <zones>
+    <zone title="Old Park Lane"/>
+    <zone title="Piccadily Place 1"/>
+  </zones>
+</exit>

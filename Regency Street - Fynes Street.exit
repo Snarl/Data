@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regency Street - Fynes Street">
+  <nodes>
+    <node lat="51.49373979943397" lng="-0.13244581932258"/>
+    <node lat="51.49366799179779" lng="-0.13243509048652"/>
+  </nodes>
+  <zones>
+    <zone title="Fynes Street"/>
+    <zone title="Regency Street"/>
+  </zones>
+</exit>

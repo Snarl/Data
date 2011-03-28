@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Horse Guards Ave">
+  <nodes maxlat="51.50517580912584" maxlng="-0.12334642523956" minlat="51.50465491442976" minlng="-0.12627003306579">
+    <node lat="51.50496210945806" lng="-0.12627003306579"/>
+    <node lat="51.50517580912584" lng="-0.12496647948456"/>
+    <node lat="51.50512572335613" lng="-0.12470898741913"/>
+    <node lat="51.50502221259091" lng="-0.12471435183716"/>
+    <node lat="51.50480517312626" lng="-0.12334642523956"/>
+    <node lat="51.50465491442976" lng="-0.12340006941986"/>
+    <node lat="51.50480517312626" lng="-0.12485382670593"/>
+    <node lat="51.5048252075817" lng="-0.12546537036133"/>
+    <node lat="51.50475174786872" lng="-0.12619493121338"/>
+  </nodes>
+  <exits>
+    <exit title="Horse Guards Ave - Upper Horse Guards Ave"/>
+    <exit title="Horse Guards Ave - Victoria Embankment"/>
+    <exit title="Horse Guards Ave - Whitehall Gardens"/>
+    <exit title="Upper Whitehall - Horse Guards Ave"/>
+  </exits>
+</zone>

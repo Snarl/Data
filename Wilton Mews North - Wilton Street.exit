@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Wilton Mews North - Wilton Street">
+  <nodes>
+    <node lat="51.49831187601544" lng="-0.14974740857315"/>
+    <node lat="51.49837866701514" lng="-0.14965084904861"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

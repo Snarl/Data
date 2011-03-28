@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="South Regent Street 2 - Charls II St">
+  <nodes>
+    <node lat="51.50799554912962" lng="-0.13345298880768"/>
+    <node lat="51.50810406139304" lng="-0.13312307709884"/>
+  </nodes>
+  <zones>
+    <zone title="Charles II Street"/>
+    <zone title="South Regent Street 2"/>
+  </zones>
+</exit>

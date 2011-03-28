@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Bennett Street">
+  <nodes maxlat="51.50726099781375" maxlng="-0.14009145611953" minlat="51.5069421320652" minlng="-0.14070836419296">
+    <node lat="51.50701725770431" lng="-0.14070836419296"/>
+    <node lat="51.5069421320652" lng="-0.14065203780365"/>
+    <node lat="51.50717585586889" lng="-0.14009145611953"/>
+    <node lat="51.50726099781375" lng="-0.14016119355392"/>
+  </nodes>
+  <exits>
+    <exit title="St James\'s St - Bennet Street"/>
+    <exit title="St James\'s St - Bennet Street"/>
+    <exit title="Arlington St - Bennett St"/>
+    <exit title="Arlington St - Bennett St"/>
+  </exits>
+</zone>

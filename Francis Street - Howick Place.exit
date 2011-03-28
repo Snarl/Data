@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Francis Street - Howick Place">
+  <nodes>
+    <node lat="51.49666377709384" lng="-0.13697204703521"/>
+    <node lat="51.4966044978618" lng="-0.13716650718879"/>
+  </nodes>
+  <zones>
+    <zone title="Howick Place"/>
+    <zone title="Francis Street"/>
+  </zones>
+</exit>

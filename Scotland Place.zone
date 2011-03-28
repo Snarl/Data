@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Scotland Place">
+  <nodes maxlat="51.50634112249312" maxlng="-0.12549219245147" minlat="51.50597049597218" minlng="-0.12585160845947">
+    <node lat="51.50629103800431" lng="-0.12585160845947"/>
+    <node lat="51.50634112249312" lng="-0.12566921824646"/>
+    <node lat="51.50601056384952" lng="-0.12549219245147"/>
+    <node lat="51.50597049597218" lng="-0.12567458266449"/>
+  </nodes>
+  <exits>
+    <exit title="Great Scotland Yard - Scotland Place"/>
+    <exit title="Whitehall Place - Scotland Place"/>
+  </exits>
+</zone>

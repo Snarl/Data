@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Embankment - Derby Gate">
+  <nodes>
+    <node lat="51.50203198559511" lng="-0.1242892217083"/>
+    <node lat="51.50192262404882" lng="-0.12429860943985"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Embankment"/>
+    <zone title="Derby Gate"/>
+  </zones>
+</exit>

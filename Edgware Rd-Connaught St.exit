@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Edgware Rd-Connaught St">
+  <nodes>
+    <node lat="51.51507334618031" lng="-0.16338644141388"/>
+    <node lat="51.51486636961247" lng="-0.16302166098785"/>
+  </nodes>
+  <zones>
+    <zone title="Edgware Rd"/>
+    <zone title="Connaught St"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Erasmus Street - Cureton Street">
+  <nodes>
+    <node lat="51.4906594841875" lng="-0.13095182890129"/>
+    <node lat="51.49070708077438" lng="-0.13073188776207"/>
+  </nodes>
+  <zones>
+    <zone title="Erasmus Street"/>
+    <zone title="Cureton Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Chadwick Street">
+  <nodes maxlat="51.4967685592157" maxlng="-0.13196704501343" minlat="51.49605636998123" minlng="-0.13336447591018">
+    <node lat="51.49616324082216" lng="-0.13336447591018"/>
+    <node lat="51.49605636998123" lng="-0.13329876178932"/>
+    <node lat="51.49633273078264" lng="-0.13196704501343"/>
+    <node lat="51.4967685592157" lng="-0.1321252953453"/>
+    <node lat="51.49675102596839" lng="-0.13224197143745"/>
+    <node lat="51.49641497076386" lng="-0.13214809412193"/>
+  </nodes>
+  <exits>
+    <exit title="Horseferry - Chadwick Street"/>
+    <exit title="Horseferry - Chadwick Street"/>
+    <exit title="Chadwick Street - Great Peter Street"/>
+  </exits>
+</zone>

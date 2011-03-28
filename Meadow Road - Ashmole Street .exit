@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Meadow Road - Ashmole Street ">
+  <nodes>
+    <node lat="51.4820921242471" lng="-0.11676696652603"/>
+    <node lat="51.48221740185287" lng="-0.11682061070633"/>
+  </nodes>
+  <zones>
+    <zone title="Meadow Road"/>
+    <zone title="Ashmole Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Cadogan Place Park Lower">
+  <nodes maxlat="51.49728829171024" maxlng="-0.15697059745025" minlat="51.49462653093" minlng="-0.15883741492462">
+    <node lat="51.49713466858948" lng="-0.15883741492462"/>
+    <node lat="51.49728829171024" lng="-0.15759286994171"/>
+    <node lat="51.49475344400666" lng="-0.15697059745025"/>
+    <node lat="51.49462653093" lng="-0.15812394732666"/>
+  </nodes>
+  <exits>
+    <exit title="South Cadogan Street - Pont Street"/>
+    <exit title="South Cadogan Street - Pont Street"/>
+    <exit title="South Cadogan Street - Pont Street"/>
+    <exit title="Cadogan Place Park Lower - Pont Street"/>
+  </exits>
+</zone>

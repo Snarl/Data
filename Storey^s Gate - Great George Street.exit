@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Storey's Gate - Great George Street">
+  <nodes>
+    <node lat="51.50120550633856" lng="-0.12964693421554"/>
+    <node lat="51.50118547029171" lng="-0.12936798447799"/>
+  </nodes>
+  <zones>
+    <zone title="Storey\'s Gate"/>
+    <zone title="Great George Street"/>
+  </zones>
+</exit>

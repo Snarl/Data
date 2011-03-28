@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Balfour Mews">
+  <nodes maxlat="51.50874594508106" maxlng="-0.15198705310058" minlat="51.50836031345128" minlng="-0.15231696480942">
+    <node lat="51.50871756537539" lng="-0.15231696480942"/>
+    <node lat="51.50874594508106" lng="-0.15218553656769"/>
+    <node lat="51.50838702397241" lng="-0.15198705310058"/>
+    <node lat="51.50836031345128" lng="-0.15212116355133"/>
+  </nodes>
+  <exits>
+    <exit title="Balfour Mews-South St"/>
+    <exit title="Balfour Mews-South St"/>
+    <exit title="Alford St-Balfour Mews"/>
+    <exit title="Alford St-Balfour Mews"/>
+    <exit title="Alford St-Balfour Mews"/>
+  </exits>
+</zone>

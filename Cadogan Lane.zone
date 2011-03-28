@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Cadogan Lane">
+  <nodes maxlat="51.497731625095" maxlng="-0.15629333967399" minlat="51.49482107517214" minlng="-0.15715164655876">
+    <node lat="51.49771826671324" lng="-0.15715164655876"/>
+    <node lat="51.497731625095" lng="-0.1569612097187"/>
+    <node lat="51.49767986134388" lng="-0.15691561216545"/>
+    <node lat="51.49764646534422" lng="-0.15704972261619"/>
+    <node lat="51.49747948497896" lng="-0.15700144285393"/>
+    <node lat="51.49736760779196" lng="-0.15673053974342"/>
+    <node lat="51.49733087193934" lng="-0.15672785753441"/>
+    <node lat="51.49731751344012" lng="-0.15692634100151"/>
+    <node lat="51.49677148143442" lng="-0.15671712869835"/>
+    <node lat="51.49675311327158" lng="-0.15675199741554"/>
+    <node lat="51.49530534478912" lng="-0.15637648815346"/>
+    <node lat="51.49482107517214" lng="-0.15629333967399"/>
+    <node lat="51.49483109459566" lng="-0.15643549675178"/>
+    <node lat="51.495347091929" lng="-0.15651864523124"/>
+  </nodes>
+  <exits>
+    <exit title="North Cadogan Lane - Pont Street"/>
+    <exit title="South Cadogan Lane - Pont Street"/>
+    <exit title="North Cadogan Lane - Pont Street"/>
+    <exit title="South Cadogan Lane - Pont Street"/>
+    <exit title="Cadogan Lane South - Pont Street"/>
+  </exits>
+</zone>

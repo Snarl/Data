@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="New Burlington St - Regent St">
+  <nodes>
+    <node lat="51.51203536989574" lng="-0.14006195182037"/>
+    <node lat="51.51183505664742" lng="-0.13989029044342"/>
+  </nodes>
+  <zones>
+    <zone title="New Burlington Street"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

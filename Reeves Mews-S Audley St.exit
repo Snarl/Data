@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Reeves Mews-S Audley St">
+  <nodes>
+    <node lat="51.51011451407727" lng="-0.15226566756201"/>
+    <node lat="51.50984741828893" lng="-0.15219056570959"/>
+  </nodes>
+  <zones>
+    <zone title="St Audley Street"/>
+    <zone title="Reeves Mews"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Northumberland Ave - Great Scotland Yard">
+  <nodes>
+    <node lat="51.50693879314465" lng="-0.12518105620575"/>
+    <node lat="51.50693879314462" lng="-0.12488064879608"/>
+  </nodes>
+  <zones>
+    <zone title="Great Scotland Yard"/>
+    <zone title="Northumberland Avenue"/>
+  </zones>
+</exit>

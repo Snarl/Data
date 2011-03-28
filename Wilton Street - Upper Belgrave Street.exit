@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Wilton Street - Upper Belgrave Street">
+  <nodes>
+    <node lat="51.49808478588424" lng="-0.15005318040085"/>
+    <node lat="51.49796122166106" lng="-0.14987615460586"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

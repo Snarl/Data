@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Wellington Arch - Buckingham Palace Gardens">
+  <nodes>
+    <node lat="51.50242768853936" lng="-0.15004781598282"/>
+    <node lat="51.50208040512734" lng="-0.15107778424453"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

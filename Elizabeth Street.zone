@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<zone title="Elizabeth Street">
+  <nodes maxlat="51.51241846653588" maxlng="-0.17520827764702" minlat="51.51241846653588" minlng="-0.17520827764702">
+    <node lat="51.51241846653588" lng="-0.17520827764702"/>
+  </nodes>
+  <exits/>
+</zone>

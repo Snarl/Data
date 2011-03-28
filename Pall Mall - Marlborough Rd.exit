@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pall Mall - Marlborough Rd">
+  <nodes>
+    <node lat="51.50513407098791" lng="-0.13742265814972"/>
+    <node lat="51.50518833055938" lng="-0.1372751366539"/>
+  </nodes>
+  <zones>
+    <zone title="Marlborough Rd"/>
+    <zone title="Pall Mall"/>
+  </zones>
+</exit>

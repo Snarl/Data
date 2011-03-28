@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Causton Street - Regency Street">
+  <nodes>
+    <node lat="51.491074491353" lng="-0.13211724871826"/>
+    <node lat="51.49098263898622" lng="-0.13211456650924"/>
+  </nodes>
+  <zones>
+    <zone title="Causton Street"/>
+    <zone title="Regency Street"/>
+  </zones>
+</exit>

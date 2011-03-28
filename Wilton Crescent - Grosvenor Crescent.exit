@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Wilton Crescent - Grosvenor Crescent">
+  <nodes>
+    <node lat="51.50022706909728" lng="-0.15367416257095"/>
+    <node lat="51.50058104540548" lng="-0.1537546288414"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

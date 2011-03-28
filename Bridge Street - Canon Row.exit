@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bridge Street - Canon Row" status="green" reason="">
+  <nodes>
+    <node lat="51.50111367438507" lng="-0.12558875197601"/>
+    <node lat="51.50111033503784" lng="-0.1254600059433"/>
+  </nodes>
+  <zones>
+    <zone title="Bridge Street"/>
+    <zone title="Canon Row"/>
+  </zones>
+</exit>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<zone title="West Oxford Street 2" status="orange" reason="Strong indications of impending kettle">
+  <nodes maxlat="51.51531286528877" maxlng="-0.14233814144563" minlat="51.51421121078875" minlng="-0.14977590704393">
+    <node lat="51.51421121078875" lng="-0.14970348740053"/>
+    <node lat="51.51428966282366" lng="-0.14896319771242"/>
+    <node lat="51.51436978391133" lng="-0.1484911289258"/>
+    <node lat="51.51464519907542" lng="-0.14601813221407"/>
+    <node lat="51.51513259637562" lng="-0.14236496353578"/>
+    <node lat="51.51531286528877" lng="-0.14233814144563"/>
+    <node lat="51.51506583244259" lng="-0.14445172214937"/>
+    <node lat="51.5150174267086" lng="-0.14479236269426"/>
+    <node lat="51.51469861524477" lng="-0.14716343546343"/>
+    <node lat="51.51460013376558" lng="-0.14789567852449"/>
+    <node lat="51.51453503572177" lng="-0.14857159519624"/>
+    <node lat="51.51434141022106" lng="-0.14977590704393"/>
+  </nodes>
+  <exits>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
+    <exit title="West Oxford Street 1 - West Oxford Street 2"/>
+    <exit title="Davies St - West Oxford Street 2"/>
+    <exit title="Davies St - West Oxford Street 2"/>
+    <exit title="New Bond Street - West Oxford Street 2"/>
+    <exit title="New Bond Street - West Oxford Street 2"/>
+    <exit title="West Oxford Street - Dering St"/>
+    <exit title="West Oxford Street - Dering St"/>
+    <exit title="West Oxford Street - Dering St"/>
+    <exit title="Holles St - West oxford Street"/>
+    <exit title="Holles St - West oxford Street 2 (West)"/>
+    <exit title="Holles St - West oxford Street 2 (West)"/>
+    <exit title="Holles St - West oxford Street 2 (West)"/>
+    <exit title="Holles St - West oxford street (East)"/>
+    <exit title="Holles St - West oxford street (East)"/>
+    <exit title="Holles St - West Oxford Street (North)"/>
+    <exit title="Holles St - West Oxford Street (North)"/>
+    <exit title="Holles St - West Oxford Street (South)"/>
+    <exit title="Holles St - West Oxford Street (South)"/>
+    <exit title="Swallow Pl - West Oxford Street 2"/>
+    <exit title="Swallow Pl - West Oxford Street 2"/>
+    <exit title="New Bond Street - West Oxford Street 2"/>
+    <exit title="Stratford Pl-Oxford St"/>
+    <exit title="Stratford Pl-Oxford St"/>
+    <exit title="Marylebone Le-Oxford St"/>
+    <exit title="Woodstock St-Oxford St"/>
+    <exit title="Woodstock St-Oxford St"/>
+    <exit title="Oxford St-Vere St"/>
+    <exit title="Oxford St-Vere St"/>
+    <exit title="Chapel Pl-Oxford St"/>
+    <exit title="Old Cavendish St-Oxford St"/>
+    <exit title="John Prince\'s St-Oxford St"/>
+    <exit title="John Prince\'s St-Oxford St"/>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
+    <exit title="John Prince\'s St - West Oxford Street 2"/>
+    <exit title="John Prince\'s St - West Oxford Street 2"/>
+  </exits>
+</zone>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<zone title="Victoria Street">
+  <nodes maxlat="51.49947068598012" maxlng="-0.12962547654342" minlat="51.49640161199554" minlng="-0.1449301611824">
+    <node lat="51.49947068598012" lng="-0.12989906186294"/>
+    <node lat="51.49933042812824" lng="-0.12962547654342"/>
+    <node lat="51.49777420490432" lng="-0.13389555329513"/>
+    <node lat="51.49769071503214" lng="-0.134051121418"/>
+    <node lat="51.49740350870386" lng="-0.13547269219589"/>
+    <node lat="51.49698939406788" lng="-0.1379242312355"/>
+    <node lat="51.49703948878034" lng="-0.13802615517807"/>
+    <node lat="51.49677231634438" lng="-0.13995198125076"/>
+    <node lat="51.49655189790574" lng="-0.14138964528274"/>
+    <node lat="51.4964550470426" lng="-0.14166859502029"/>
+    <node lat="51.49640161199554" lng="-0.14211920613479"/>
+    <node lat="51.49644168828672" lng="-0.14216212147903"/>
+    <node lat="51.49648844391522" lng="-0.14318672532272"/>
+    <node lat="51.496558577268" lng="-0.14424351567459"/>
+    <node lat="51.49653519949572" lng="-0.14457074517441"/>
+    <node lat="51.49651182171148" lng="-0.14469949120712"/>
+    <node lat="51.49644168828672" lng="-0.1449301611824"/>
+    <node lat="51.49682575095684" lng="-0.14466730469894"/>
+    <node lat="51.49680905264718" lng="-0.14455465192032"/>
+    <node lat="51.49660867245398" lng="-0.14247325772476"/>
+    <node lat="51.49677899567436" lng="-0.14143256062698"/>
+    <node lat="51.49691926137794" lng="-0.14050988072586"/>
+    <node lat="51.49701611125472" lng="-0.13947991246414"/>
+    <node lat="51.49743356526488" lng="-0.13674405926895"/>
+    <node lat="51.49761724381808" lng="-0.13558534497452"/>
+    <node lat="51.49765063983916" lng="-0.13525275105667"/>
+    <node lat="51.4976439606369" lng="-0.13511864060592"/>
+    <node lat="51.49770407342194" lng="-0.13477531785202"/>
+  </nodes>
+  <exits>
+    <exit title="Broad Sanctuary - Victoria Street"/>
+    <exit title="Great Smith Street - Victoria Street"/>
+    <exit title="Victoria Street - Artillery Row"/>
+    <exit title="Victoria Street - Artillery Row"/>
+    <exit title="Buckingham Gate - Victoria Street"/>
+    <exit title="Victoria Street - Artillery Row"/>
+    <exit title="St James\' Park Broadway - Victoria Street"/>
+    <exit title="Palmer Street - Victoria Street"/>
+    <exit title="Dean Farrar Street - Victoria Street"/>
+    <exit title="Victoria Street - Abbey Street Orchard"/>
+    <exit title="Victoria Street - Abbey Street Orchard"/>
+    <exit title="Strutton Ground - Victoria Street"/>
+    <exit title="Strutton Ground - Victoria Street"/>
+    <exit title="Palace Street - Victoria Street"/>
+    <exit title="Allington Street - Victoria Street"/>
+    <exit title="Bressenenden Place - Victoria Street"/>
+    <exit title="Victoria Street - Carlisle Place"/>
+    <exit title="Howick Place - Victoria Street"/>
+    <exit title="Victoria Street - Outside Westminster Cathedral"/>
+    <exit title="Thirleby Road - Victoria Street"/>
+    <exit title="Vauxhall Bridge Road - Victoria Street"/>
+    <exit title="Buckingham Palace Road - Victoria Street"/>
+  </exits>
+</zone>

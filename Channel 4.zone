@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Channel 4">
+  <nodes maxlat="51.49632980854926" maxlng="-0.1311167847557" minlat="51.49547316804986" minlng="-0.13326791638565">
+    <node lat="51.4960509429416" lng="-0.13326791638565"/>
+    <node lat="51.49632980854926" lng="-0.13194826955032"/>
+    <node lat="51.49622460795156" lng="-0.13190535420608"/>
+    <node lat="51.4963014211103" lng="-0.13121334428024"/>
+    <node lat="51.49548318733004" lng="-0.1311167847557"/>
+    <node lat="51.49547316804986" lng="-0.13182488793564"/>
+    <node lat="51.49547316804986" lng="-0.13291922921371"/>
+  </nodes>
+  <exits>
+    <exit title="Channel 4 - Elizabeth Court"/>
+    <exit title="Medway Street - Channel 4"/>
+  </exits>
+</zone>

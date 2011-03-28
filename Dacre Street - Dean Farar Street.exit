@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dacre Street - Dean Farar Street">
+  <nodes>
+    <node lat="51.49888293590074" lng="-0.13215882295799"/>
+    <node lat="51.49881280612434" lng="-0.13216955179405"/>
+  </nodes>
+  <zones>
+    <zone title="Dacre Street"/>
+    <zone title="Dean Farrer Street"/>
+  </zones>
+</exit>

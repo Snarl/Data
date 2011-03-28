@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bloombury Street - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.49210573022508" lng="-0.13644499296379"/>
+    <node lat="51.49205646509306" lng="-0.13634977454376"/>
+  </nodes>
+  <zones>
+    <zone title="Bloomburg Street"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

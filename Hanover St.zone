@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Hanover St">
+  <nodes maxlat="51.51399255081107" maxlng="-0.14162567967605" minlat="51.51358693299644" minlng="-0.14310894126129">
+    <node lat="51.51358693299644" lng="-0.1430392038269"/>
+    <node lat="51.51372881618182" lng="-0.14310894126129"/>
+    <node lat="51.51399255081107" lng="-0.14176515454483"/>
+    <node lat="51.5138706989253" lng="-0.14162567967605"/>
+  </nodes>
+  <exits>
+    <exit title="Hanover Street - Regent Street 1"/>
+    <exit title="Hanover Street - Regent Street 1"/>
+    <exit title="Hanover St - Hanover Square"/>
+    <exit title="Hanover St - Hanover Square"/>
+  </exits>
+</zone>

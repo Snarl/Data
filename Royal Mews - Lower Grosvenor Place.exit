@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Royal Mews - Lower Grosvenor Place">
+  <nodes>
+    <node lat="51.49833859242614" lng="-0.14683721179199"/>
+    <node lat="51.4982484244741" lng="-0.14406917208862"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

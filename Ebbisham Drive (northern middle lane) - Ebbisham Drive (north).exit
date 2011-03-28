@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ebbisham Drive (northern middle lane) - Ebbisham Drive (north)">
+  <nodes>
+    <node lat="51.48397626309126" lng="-0.11893687361908"/>
+    <node lat="51.48399964730429" lng="-0.11881349200439"/>
+  </nodes>
+  <zones>
+    <zone title="Ebbisham Drive (northern middle lane))"/>
+    <zone title="Ebbisham Drive (north half)"/>
+  </zones>
+</exit>

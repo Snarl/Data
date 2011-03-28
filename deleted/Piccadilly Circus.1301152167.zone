@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<zone title="Piccadilly Circus" status="orange" reason="2 marches colliding">
+  <nodes maxlat="51.5101632413019" maxlng="-0.13390628213119" minlat="51.50962237128394" minlng="-0.13533589953613">
+    <node lat="51.51005807263461" lng="-0.13533589953613"/>
+    <node lat="51.50992953282273" lng="-0.13522056454849"/>
+    <node lat="51.50975758939042" lng="-0.13506499642563"/>
+    <node lat="51.50962237128394" lng="-0.13496843690109"/>
+    <node lat="51.50970750865704" lng="-0.13443467730713"/>
+    <node lat="51.50977929102446" lng="-0.13446418160629"/>
+    <node lat="51.50996959721859" lng="-0.13390628213119"/>
+    <node lat="51.51013653182213" lng="-0.13418254965973"/>
+    <node lat="51.5101632413019" lng="-0.13457683438492"/>
+    <node lat="51.51014320919354" lng="-0.13497648352813"/>
+  </nodes>
+  <exits>
+    <exit title="South Regent Street - Piccadilly Circus"/>
+    <exit title="South Regent Street - Piccadilly Circus"/>
+    <exit title="South Regent Street - Piccadilly Circus"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Piccadilly Circus - Coventry Street"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Picadilly Circus-Glasshouse St"/>
+    <exit title="Picadilly Circus-Glasshouse St"/>
+    <exit title="Shaftesbury Avenus-Picadilly Circus"/>
+    <exit title="Shaftesbury Avenus-Picadilly Circus"/>
+  </exits>
+</zone>

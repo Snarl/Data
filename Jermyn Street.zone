@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Jermyn Street">
+  <nodes maxlat="51.50973171436323" maxlng="-0.13298628443908" minlat="51.50923758177183" minlng="-0.13416645640564">
+    <node lat="51.50930435675954" lng="-0.13416645640564"/>
+    <node lat="51.50973171436323" lng="-0.1331150304718"/>
+    <node lat="51.50967161744243" lng="-0.13298628443908"/>
+    <node lat="51.50923758177183" lng="-0.1341235410614"/>
+  </nodes>
+  <exits>
+    <exit title="South Regent Street 2 - Jermyn St"/>
+    <exit title="South Regent Street 2 - Jermyn St"/>
+    <exit title="South Regent Street - Jermyn St (South)"/>
+    <exit title="South Regent Street - Jermyn St (South)"/>
+    <exit title="South Regent Street - Jermyn St (North)"/>
+    <exit title="South Regent Street - Jermyn St (North)"/>
+    <exit title="South Regent Street 2 - Jermyn St"/>
+    <exit title="Cockspur Street - Jermyn St"/>
+    <exit title="Cockspur Street - Jermyn St"/>
+    <exit title="St Alban\'s Street - Jermyn St"/>
+    <exit title="St Alban\'s Street - Jermyn St"/>
+  </exits>
+</zone>

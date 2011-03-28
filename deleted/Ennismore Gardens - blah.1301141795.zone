@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ennismore Gardens - blah">
+  <nodes>
+    <node lat="51.50154444812904" lng="-0.17011342162323"/>
+    <node lat="51.50107026285074" lng="-0.17000613326263"/>
+  </nodes>
+  <zones>
+    <zone title="Ennismore Gardens"/>
+    <zone title="blah"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Carnaby St - Noel St">
+  <nodes>
+    <node lat="51.51403678472502" lng="-0.13966230267715"/>
+    <node lat="51.5141235830455" lng="-0.13935653084945"/>
+  </nodes>
+  <zones>
+    <zone title="Carnaby Street"/>
+    <zone title="Great Marlborough Street"/>
+  </zones>
+</exit>

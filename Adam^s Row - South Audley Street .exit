@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Adam's Row - South Audley Street ">
+  <nodes>
+    <node lat="51.5099771092997" lng="-0.15181270951462"/>
+    <node lat="51.5100739314283" lng="-0.15186635369491"/>
+  </nodes>
+  <zones>
+    <zone title="Adam\'s Row"/>
+    <zone title="St Audley Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Newman St - East Oxford Street 2">
+  <nodes>
+    <node lat="51.51613742456174" lng="-0.13480079883766"/>
+    <node lat="51.51616746876734" lng="-0.13463986629677"/>
+  </nodes>
+  <zones>
+    <zone title=" Newman St"/>
+    <zone title="East Oxford Street 2"/>
+  </zones>
+</exit>

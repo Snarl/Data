@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Douglas Street - Vincent Square">
+  <nodes>
+    <node lat="51.49181431366915" lng="-0.1344293128891"/>
+    <node lat="51.49174083298301" lng="-0.1345553767128"/>
+  </nodes>
+  <zones>
+    <zone title="Douglas Street"/>
+    <zone title="Vincent Square South"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Nazrul - Cremer">
+  <nodes>
+    <node lat="51.5306206060114" lng="-0.07652042025757"/>
+    <node lat="51.53063395474784" lng="-0.07670281047058"/>
+  </nodes>
+  <zones>
+    <zone title="Cremer Street"/>
+    <zone title="Nazrul St"/>
+  </zones>
+</exit>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Cowley Street">
+  <nodes maxlat="51.49725656383858" maxlng="-0.12694594973755" minlat="51.49713550209914" minlng="-0.12798396462631">
+    <node lat="51.49725656383858" lng="-0.12797055358124"/>
+    <node lat="51.49725071948612" lng="-0.12781096214485"/>
+    <node lat="51.49722066280458" lng="-0.12694594973755"/>
+    <node lat="51.49713550209914" lng="-0.12695399636459"/>
+    <node lat="51.49713967664724" lng="-0.12721282953453"/>
+    <node lat="51.49715053047048" lng="-0.12798396462631"/>
+  </nodes>
+  <exits>
+    <exit title="Cowley Street - Lord N Street"/>
+    <exit title="Cowley Street - Barton Street"/>
+  </exits>
+</zone>

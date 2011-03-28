@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bressenden Place - Allington Street">
+  <nodes>
+    <node lat="51.49744358411296" lng="-0.14229489082527"/>
+    <node lat="51.49735174457893" lng="-0.14221442455482"/>
+  </nodes>
+  <zones>
+    <zone title="Allington Street"/>
+    <zone title="Bressenden Place"/>
+  </zones>
+</exit>

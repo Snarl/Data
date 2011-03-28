@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Carteret Street">
+  <nodes maxlat="51.50048754249525" maxlng="-0.13244179600906" minlat="51.49977207192541" minlng="-0.13279718870353">
+    <node lat="51.50048587279872" lng="-0.13256517762375"/>
+    <node lat="51.50048754249525" lng="-0.13244179600906"/>
+    <node lat="51.50031138917319" lng="-0.13251689786148"/>
+    <node lat="51.4997787508158" lng="-0.13269124144745"/>
+    <node lat="51.49977207192541" lng="-0.13279718870353"/>
+  </nodes>
+  <exits>
+    <exit title="Carteret Street - Queen Anne\'s Gate"/>
+    <exit title="Carteret Street - Tothill Street"/>
+  </exits>
+</zone>

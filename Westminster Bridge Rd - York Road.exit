@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Westminster Bridge Rd - York Road">
+  <nodes>
+    <node lat="51.50156448401783" lng="-0.1171947788639"/>
+    <node lat="51.50148517523884" lng="-0.11689303034973"/>
+  </nodes>
+  <zones>
+    <zone title="Wesminster Bridge Rd"/>
+    <zone title="York Road"/>
+  </zones>
+</exit>

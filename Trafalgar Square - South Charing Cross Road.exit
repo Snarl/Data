@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Trafalgar Square - South Charing Cross Road">
+  <nodes>
+    <node lat="51.50877766637213" lng="-0.12741533631515"/>
+    <node lat="51.50868084148874" lng="-0.12713102215957"/>
+  </nodes>
+  <zones>
+    <zone title="Trafalga Sq"/>
+    <zone title="South Charing Cross Road"/>
+  </zones>
+</exit>

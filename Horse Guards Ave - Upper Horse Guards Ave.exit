@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horse Guards Ave - Upper Horse Guards Ave">
+  <nodes>
+    <node lat="51.50512655811897" lng="-0.12467277759743"/>
+    <node lat="51.50517998293707" lng="-0.12497318500709"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Horse Guards Ave"/>
+    <zone title="Horse Guards Ave"/>
+  </zones>
+</exit>

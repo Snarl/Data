@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Vandon Street">
+  <nodes maxlat="51.49881238868102" maxlng="-0.13612044567299" minlat="51.49858363127744" minlng="-0.13703507894706">
+    <node lat="51.49878734230598" lng="-0.13703507894706"/>
+    <node lat="51.49878567254712" lng="-0.13645840400886"/>
+    <node lat="51.49881238868102" lng="-0.13615263218117"/>
+    <node lat="51.49878066327028" lng="-0.13613385671806"/>
+    <node lat="51.49858363127744" lng="-0.13612044567299"/>
+    <node lat="51.49858530104366" lng="-0.13620091194343"/>
+    <node lat="51.49873057047148" lng="-0.13621968740654"/>
+    <node lat="51.4987272309496" lng="-0.13688487524223"/>
+  </nodes>
+  <exits>
+    <exit title="Caxton Street - Vandon Street"/>
+    <exit title="Vandon Street - Buckingham Gate"/>
+  </exits>
+</zone>

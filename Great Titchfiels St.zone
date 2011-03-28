@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Great Titchfiels St">
+  <nodes maxlat="51.51800263143156" maxlng="-0.13928947562408" minlat="51.5156525417385" minlng="-0.14052329177093">
+    <node lat="51.51790248803744" lng="-0.14052329177093"/>
+    <node lat="51.51800263143156" lng="-0.14015851134491"/>
+    <node lat="51.51567257142432" lng="-0.13928947562408"/>
+    <node lat="51.5156525417385" lng="-0.13950405234527"/>
+    <node lat="51.51698783484832" lng="-0.14004049414825"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford St-Great Titchfield St"/>
+    <exit title="Oxford St-Great Titchfield St"/>
+    <exit title="Great Titchfield St - Eastcastle St"/>
+    <exit title="Great Titchfield St - Cavendish St (West)"/>
+    <exit title="Great Titchfield St - Cavendish St (West)"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Atterbury Street - Milbank">
+  <nodes>
+    <node lat="51.4901501140946" lng="-0.12703848594856"/>
+    <node lat="51.49031545124074" lng="-0.12688828224373"/>
+  </nodes>
+  <zones>
+    <zone title="Atterbury Street"/>
+    <zone title="Milbank South"/>
+  </zones>
+</exit>

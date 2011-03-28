@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Reevs Mews - South Audley St (West)">
+  <nodes>
+    <node lat="51.51008853814782" lng="-0.1522143703146"/>
+    <node lat="51.50991492596452" lng="-0.15212853962612"/>
+  </nodes>
+  <zones>
+    <zone title="St Audley Street"/>
+    <zone title="Reeves Mews"/>
+  </zones>
+</exit>

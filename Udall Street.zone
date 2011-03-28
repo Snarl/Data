@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Udall Street">
+  <nodes maxlat="51.49278207665407" maxlng="-0.13646779174042" minlat="51.49234955009383" minlng="-0.13705251330566">
+    <node lat="51.49278207665407" lng="-0.13655630463791"/>
+    <node lat="51.49273197726264" lng="-0.13646779174042"/>
+    <node lat="51.49234955009383" lng="-0.13693986052704"/>
+    <node lat="51.49240131989831" lng="-0.13705251330566"/>
+  </nodes>
+  <exits>
+    <exit title="Udall Street - Vauxhall Bridge Road"/>
+    <exit title="Vincent Square - Udall Street"/>
+  </exits>
+</zone>

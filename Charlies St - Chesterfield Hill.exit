@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Charlies St - Chesterfield Hill">
+  <nodes>
+    <node lat="51.50765248172078" lng="-0.14787254447174"/>
+    <node lat="51.50769922584866" lng="-0.14773843402099"/>
+  </nodes>
+  <zones>
+    <zone title="Charles street 1"/>
+    <zone title="Chesterfield Hill"/>
+  </zones>
+</exit>

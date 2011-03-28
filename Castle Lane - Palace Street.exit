@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Castle Lane - Palace Street">
+  <nodes>
+    <node lat="51.49820250554168" lng="-0.13984335178566"/>
+    <node lat="51.49813571428381" lng="-0.1397602033062"/>
+  </nodes>
+  <zones>
+    <zone title="Palace Street"/>
+    <zone title="Castle Lane"/>
+  </zones>
+</exit>

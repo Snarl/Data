@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regent St-Air St">
+  <nodes>
+    <node lat="51.51003135876081" lng="-0.1365013193531"/>
+    <node lat="51.5100447135335" lng="-0.13625455612373"/>
+  </nodes>
+  <zones>
+    <zone title="Regent Street South 1"/>
+    <zone title="Air Street"/>
+  </zones>
+</exit>

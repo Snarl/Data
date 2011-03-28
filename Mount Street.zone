@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<zone title="Mount Street">
+  <nodes maxlat="51.51039861792966" maxlng="-0.14739511126709" minlat="51.50894627474581" minlng="-0.15471754187774">
+    <node lat="51.51039861792966" lng="-0.14739511126709"/>
+    <node lat="51.51025672437193" lng="-0.14755067938995"/>
+    <node lat="51.50996792788352" lng="-0.14921096677017"/>
+    <node lat="51.50989614581331" lng="-0.14943895453644"/>
+    <node lat="51.50947880595561" lng="-0.15165714139175"/>
+    <node lat="51.5094470879701" lng="-0.15190926903915"/>
+    <node lat="51.50909985805317" lng="-0.15366343373489"/>
+    <node lat="51.5090814948589" lng="-0.15390751475525"/>
+    <node lat="51.50894627474581" lng="-0.15437958354187"/>
+    <node lat="51.50895629106426" lng="-0.15471754187774"/>
+    <node lat="51.50899969508535" lng="-0.15455124491882"/>
+    <node lat="51.50911154371842" lng="-0.1539531123085"/>
+    <node lat="51.50919501266866" lng="-0.15371707791519"/>
+  </nodes>
+  <exits>
+    <exit title="Mount Street - Park St (South)"/>
+    <exit title="Mount Street - Park St (South)"/>
+    <exit title="Mount Street - Park Street (West)"/>
+    <exit title="Mount Street - Park Street (West)"/>
+    <exit title="Mount Street - Park Street (East)"/>
+    <exit title="Mount Street - Park Street (East)"/>
+    <exit title="Mount St - South Audley St (East)"/>
+    <exit title="Mount St - South Audley St (East)"/>
+    <exit title="Mount St - South Audley St (South)"/>
+    <exit title="Mount St - South Audley St (South)"/>
+    <exit title="Mount St - South Audley St (West)"/>
+    <exit title="Mount St - South Audley St (West)"/>
+    <exit title="Mount St - South Audley St (West)"/>
+    <exit title="Mount St - South Audley St (North)"/>
+    <exit title="Mount St - South Audley St (North)"/>
+    <exit title="Rex Pl - Mount St"/>
+    <exit title="Rex Pl - Mount St"/>
+    <exit title="Mount St - Balfour Pl"/>
+    <exit title="Mount St - Balfour Pl"/>
+    <exit title="Mount St - Balfour Pl"/>
+  </exits>
+</zone>

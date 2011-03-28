@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Holles St - Henrietta Pl">
+  <nodes>
+    <node lat="51.51585784560133" lng="-0.14487919921112"/>
+    <node lat="51.51593128740863" lng="-0.14457879180145"/>
+  </nodes>
+  <zones>
+    <zone title="Holles St"/>
+    <zone title="Henrietta Pl"/>
+  </zones>
+</exit>

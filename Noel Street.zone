@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<zone title="Noel Street">
+  <nodes maxlat="51.51530202081329" maxlng="-0.13547269219589" minlat="51.51478124188253" minlng="-0.13719601148796">
+    <node lat="51.51488723423084" lng="-0.13719601148796"/>
+    <node lat="51.51478124188253" lng="-0.13711822742653"/>
+    <node lat="51.51525278075257" lng="-0.13547269219589"/>
+    <node lat="51.51530202081329" lng="-0.13550890201759"/>
+    <node lat="51.51511507521548" lng="-0.13613117450905"/>
+    <node lat="51.51512842849791" lng="-0.13627869600487"/>
+  </nodes>
+  <exits>
+    <exit title="Great Marlborough Street - Noel Street"/>
+    <exit title="Noel Street - Wardour Street"/>
+    <exit title="Noel Street - Wardour Street"/>
+    <exit title="North Berwick Street - Noel Street"/>
+    <exit title="North Berwick Street - Noel Street"/>
+    <exit title="South Berwick Street - Noel Street"/>
+    <exit title="South Berwick Street - Noel Street"/>
+    <exit title="East Noel Street - Berwick Street"/>
+    <exit title="East Noel Street - Berwick Street"/>
+    <exit title="West Noel Street - Berwick Street"/>
+    <exit title="West Noel Street - Berwick Street"/>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Poland Street - Noel Street"/>
+  </exits>
+</zone>

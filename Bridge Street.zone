@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Bridge Street">
+  <nodes maxlat="51.50123889972975" maxlng="-0.12359318846893" minlat="51.50076721580169" minlng="-0.12601790541839">
+    <node lat="51.5012055063379" lng="-0.12359318846893"/>
+    <node lat="51.50123889972975" lng="-0.12438175791931"/>
+    <node lat="51.50109530797118" lng="-0.1243978511734"/>
+    <node lat="51.50110198666766" lng="-0.12545464152527"/>
+    <node lat="51.50110866536314" lng="-0.12601790541839"/>
+    <node lat="51.50076721580169" lng="-0.12597364896965"/>
+    <node lat="51.50083817741257" lng="-0.12582478636932"/>
+    <node lat="51.50080812309675" lng="-0.12363073939514"/>
+  </nodes>
+  <exits>
+    <exit title="Bridge Street - Westminster Bridge"/>
+    <exit title="Bridge Street - Canon Row"/>
+    <exit title="Parliament Square - Bridge Street"/>
+    <exit title="Victoria Embankment - Bridge Street"/>
+    <exit title="Parliament Square - Bridge Street"/>
+  </exits>
+</zone>

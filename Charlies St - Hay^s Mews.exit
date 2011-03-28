@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Charlies St - Hay's Mews">
+  <nodes>
+    <node lat="51.50838702675746" lng="-0.14625249022674"/>
+    <node lat="51.50844044775274" lng="-0.14613447303009"/>
+  </nodes>
+  <zones>
+    <zone title="Hay\'s Mews"/>
+    <zone title="Charles Street 2"/>
+  </zones>
+</exit>

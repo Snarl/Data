@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Palace Theatre">
+  <nodes maxlat="51.51355187952446" maxlng="-0.12880472058487" minlat="51.51309117307378" minlng="-0.1295664679451">
+    <node lat="51.51309117307378" lng="-0.1292070519371"/>
+    <node lat="51.51313791162171" lng="-0.12891737336349"/>
+    <node lat="51.5133782805394" lng="-0.12880472058487"/>
+    <node lat="51.51350180296205" lng="-0.12891200894546"/>
+    <node lat="51.51355187952446" lng="-0.1292070519371"/>
+    <node lat="51.51352183359361" lng="-0.12947527283859"/>
+    <node lat="51.51336158829444" lng="-0.1295664679451"/>
+    <node lat="51.51311120388591" lng="-0.12942699307632"/>
+  </nodes>
+  <exits>
+    <exit title="North Charing Cross Road - Palace Theatre"/>
+    <exit title="North Charing Cross Road - Palace Theatre"/>
+    <exit title="Palace Theatre - South Charing Cross Road"/>
+    <exit title="Palace Theatre - South Charing Cross Road"/>
+  </exits>
+</zone>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Wilton Place">
+  <nodes maxlat="51.50227408274218" maxlng="-0.15505281800461" minlat="51.50059774233246" minlng="-0.15671578759384">
+    <node lat="51.50226406495476" lng="-0.15671578759384"/>
+    <node lat="51.50227408274218" lng="-0.15646902436447"/>
+    <node lat="51.50171308325484" lng="-0.15619007462692"/>
+    <node lat="51.50186335165184" lng="-0.15524593705368"/>
+    <node lat="51.50198690529596" lng="-0.15527275914383"/>
+    <node lat="51.50200694099046" lng="-0.15517619961929"/>
+    <node lat="51.5016863688213" lng="-0.15505281800461"/>
+    <node lat="51.50165297575732" lng="-0.15534786099624"/>
+    <node lat="51.50160956473762" lng="-0.15534786099624"/>
+    <node lat="51.50150938530344" lng="-0.15601304883194"/>
+    <node lat="51.50126895376296" lng="-0.15593258256149"/>
+    <node lat="51.5012522570811" lng="-0.15610424393844"/>
+    <node lat="51.50090162534904" lng="-0.15575019234848"/>
+    <node lat="51.50059774233246" lng="-0.15614715928268"/>
+  </nodes>
+  <exits>
+    <exit title="Knightsbridge - Willton Pl"/>
+    <exit title="Knightsbridge - Willton Pl"/>
+    <exit title="Knightsbridge - Willton Pl"/>
+    <exit title="Kinnerton Street - Wilton Place"/>
+    <exit title="Old Barrack Yard - Wilton Place"/>
+  </exits>
+</zone>

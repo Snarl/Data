@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Conduit St">
+  <nodes maxlat="51.51310452691392" maxlng="-0.14078614825439" minlat="51.51111475626648" minlng="-0.14325378054809">
+    <node lat="51.51121491458432" lng="-0.14325378054809"/>
+    <node lat="51.51111475626648" lng="-0.14314112776947"/>
+    <node lat="51.51220647005024" lng="-0.14175710791778"/>
+    <node lat="51.51293426470504" lng="-0.14078614825439"/>
+    <node lat="51.51310452691392" lng="-0.1409309875412"/>
+  </nodes>
+  <exits>
+    <exit title="Conduit Street - Regent Street 1"/>
+    <exit title="Conduit Street - Regent Street 1"/>
+  </exits>
+</zone>

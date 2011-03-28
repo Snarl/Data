@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<zone title="Burlington Gardens">
+  <nodes maxlat="51.51014988649948" maxlng="-0.13976959103775" minlat="51.50947212840826" minlng="-0.14155594224167">
+    <node lat="51.5095222094004" lng="-0.14155594224167"/>
+    <node lat="51.50947212840826" lng="-0.14139500970077"/>
+    <node lat="51.51003303237548" lng="-0.13976959103775"/>
+    <node lat="51.51014988649948" lng="-0.13986615056228"/>
+  </nodes>
+  <exits>
+    <exit title="Burlington Gardens - Old Bond St."/>
+    <exit title="Burlington Gardens - Old Bond St."/>
+    <exit title="Burlington Gardens - New Bond Street South"/>
+    <exit title="Burlington Gardens - New Bond Street South"/>
+    <exit title="Burlington Gardens - Savile Row"/>
+    <exit title="Burlington Gardens - Savile Row"/>
+    <exit title="Old Burlington St - Burlington Gardens"/>
+    <exit title="Old Burlington St - Burlington Gardens"/>
+    <exit title="Burlington Gardens - Savile Row"/>
+    <exit title="Burlington Arcade - Burlington Gardens (South)"/>
+    <exit title="Burlington Arcade - Burlington Gardens (South)"/>
+    <exit title="Cork St - Burlington Gardens"/>
+    <exit title="Cork St - Burlington Gardens"/>
+    <exit title="Burlington Arcade - Burlington Gardens (East)"/>
+    <exit title="Burlington Arcade - Burlington Gardens (East)"/>
+    <exit title="Burlington Gardens - Cork St"/>
+    <exit title="Burlington Gardens - Cork St"/>
+    <exit title="Burlington Gardens - Cork St"/>
+    <exit title="Cork St - Burlington Gardens"/>
+    <exit title="Cork St - Burlington Gardens"/>
+  </exits>
+</zone>

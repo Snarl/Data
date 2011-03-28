@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Portland St-Eastcastle St">
+  <nodes>
+    <node lat="51.51627178865549" lng="-0.14079419488144"/>
+    <node lat="51.51599805245455" lng="-0.14065472001266"/>
+  </nodes>
+  <zones>
+    <zone title="Great Portland St"/>
+    <zone title="Eastcastle St"/>
+  </zones>
+</exit>

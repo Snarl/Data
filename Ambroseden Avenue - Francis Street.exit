@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ambroseden Avenue - Francis Street">
+  <nodes>
+    <node lat="51.49520097676453" lng="-0.13817769998741"/>
+    <node lat="51.49510412303096" lng="-0.13831181043815"/>
+  </nodes>
+  <zones>
+    <zone title="Ambrosden Avenue"/>
+    <zone title="Francis Street"/>
+  </zones>
+</exit>

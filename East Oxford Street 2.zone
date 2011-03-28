@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<zone title="East Oxford Street 2" status="orange" reason="Crammed, scuffles between protesters and police.">
+  <nodes maxlat="51.51646624061774" maxlng="-0.13063666934204" minlat="51.51574851721787" minlng="-0.13690767401886">
+    <node lat="51.51574851721787" lng="-0.13680038565826"/>
+    <node lat="51.5161574540295" lng="-0.132970191185"/>
+    <node lat="51.51629599097395" lng="-0.13064203376007"/>
+    <node lat="51.51646624061774" lng="-0.13063666934204"/>
+    <node lat="51.5163377188867" lng="-0.13259468192291"/>
+    <node lat="51.51622421887461" lng="-0.13380704039764"/>
+    <node lat="51.51593212195478" lng="-0.13690767401886"/>
+  </nodes>
+  <exits>
+    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
+    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
+    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
+    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
+    <exit title="East Oxford Street 2 - Centre Point"/>
+    <exit title="East Oxford Street 2 - Centre Point"/>
+    <exit title="East Oxford Street 2 - Wardour Street"/>
+    <exit title="East Oxford Street 2 - Berwick Street"/>
+    <exit title="East Oxford Street 2 - Berwick Street"/>
+    <exit title="Great Chapel Street - East Oxford Street 1"/>
+    <exit title="Great Chapel Street - East Oxford Street 1"/>
+    <exit title="Dean St - East Oxford Street 1"/>
+    <exit title="Dean St - East Oxford Street 1"/>
+    <exit title="Soho Street - East Oxford Street 1"/>
+    <exit title="Soho Street - East Oxford Street 1"/>
+    <exit title="Rathbone Pl - Oxford St (North)"/>
+    <exit title="Rathbone Pl - Oxford St (North)"/>
+    <exit title="Hanway Place - Oxford Street"/>
+    <exit title="Hanway Place - Oxford Street"/>
+    <exit title="Well Street 0 East Oxford Street 2"/>
+    <exit title="Well Street 0 East Oxford Street 2"/>
+    <exit title="Berners St - East Oxford Street 2"/>
+    <exit title="Berners St - East Oxford Street 2"/>
+    <exit title="Newman St - East Oxford Street 2"/>
+    <exit title="Newman St - East Oxford Street 2"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Afterbury Street - Herrick Street">
+  <nodes>
+    <node lat="51.49111624236788" lng="-0.12962011212539"/>
+    <node lat="51.49104109051404" lng="-0.12969789618683"/>
+  </nodes>
+  <zones>
+    <zone title="Herrick Street"/>
+    <zone title="Atterbury Street"/>
+  </zones>
+</exit>

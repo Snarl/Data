@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Kennington Lane (south)">
+  <nodes maxlat="51.48695514822891" maxlng="-0.11654031986427" minlat="51.48612839551084" minlng="-0.12548951024246">
+    <node lat="51.48684324514966" lng="-0.12548951024246"/>
+    <node lat="51.48632882177382" lng="-0.1235690485878"/>
+    <node lat="51.48620188524288" lng="-0.12322572583389"/>
+    <node lat="51.48612839551084" lng="-0.12128380650711"/>
+    <node lat="51.48663614033262" lng="-0.11750725621414"/>
+    <node lat="51.48675305445785" lng="-0.11654031986427"/>
+    <node lat="51.48691923901999" lng="-0.11661273950767"/>
+    <node lat="51.48622443331313" lng="-0.12114164942932"/>
+    <node lat="51.48632047075866" lng="-0.12316671723556"/>
+    <node lat="51.48650753451016" lng="-0.12370315903854"/>
+    <node lat="51.48695514822891" lng="-0.12537685746383"/>
+  </nodes>
+  <exits>
+    <exit title="Kennington Lane (south) - Vauxhall Street (south)"/>
+    <exit title="Kennington Lane - Oval Way"/>
+    <exit title="Kennington Lane - Oval Way"/>
+    <exit title="Kennington Lane (south) - Vauxhall Street (south)"/>
+    <exit title="Kennington Lane (south) - Vauxhall Street (south)"/>
+    <exit title="Kennington Lane (south) - Vauxhall Street (south)"/>
+  </exits>
+</zone>

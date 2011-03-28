@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Clarges st- Piccadily Place 1">
+  <nodes>
+    <node lat="51.50615497477054" lng="-0.14427033776474"/>
+    <node lat="51.50623511016552" lng="-0.14407721871567"/>
+  </nodes>
+  <zones>
+    <zone title="Clarges St"/>
+    <zone title="Piccadily Place 1"/>
+  </zones>
+</exit>

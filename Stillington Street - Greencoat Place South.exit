@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stillington Street - Greencoat Place South">
+  <nodes>
+    <node lat="51.49396190140758" lng="-0.13793093675804"/>
+    <node lat="51.49388007449093" lng="-0.13778609747123"/>
+  </nodes>
+  <zones>
+    <zone title="Stillington Street"/>
+    <zone title="Greencoat Place South"/>
+  </zones>
+</exit>

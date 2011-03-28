@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hyde Park - Albert Gate">
+  <nodes>
+    <node lat="51.50253537925182" lng="-0.15864027256202"/>
+    <node lat="51.50254372735846" lng="-0.15839082712364"/>
+  </nodes>
+  <zones>
+    <zone title="South Carriage Drive (Hyde Park)"/>
+    <zone title="Albert Gate"/>
+  </zones>
+</exit>

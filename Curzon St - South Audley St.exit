@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Curzon St - South Audley St">
+  <nodes>
+    <node lat="51.50643670023596" lng="-0.15032743627262"/>
+    <node lat="51.5063866158522" lng="-0.15055274182987"/>
+  </nodes>
+  <zones>
+    <zone title="St Audley Street"/>
+    <zone title="Curzon Street 2"/>
+  </zones>
+</exit>

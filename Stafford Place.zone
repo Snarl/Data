@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Stafford Place">
+  <nodes maxlat="51.49975787927188" maxlng="-0.14101279491615" minlat="51.49892968901974" minlng="-0.142066903059">
+    <node lat="51.49975787927188" lng="-0.14129442686271"/>
+    <node lat="51.49971613617176" lng="-0.14118982071113"/>
+    <node lat="51.49968775084186" lng="-0.14120859617424"/>
+    <node lat="51.49956252123404" lng="-0.14132661337089"/>
+    <node lat="51.49945398862892" lng="-0.14101279491615"/>
+    <node lat="51.49939554788838" lng="-0.14105302805137"/>
+    <node lat="51.49950742009758" lng="-0.14142049068641"/>
+    <node lat="51.49914675646856" lng="-0.14164847845268"/>
+    <node lat="51.49892968901974" lng="-0.14177186006737"/>
+    <node lat="51.49896642358378" lng="-0.14197302574348"/>
+    <node lat="51.49939554788836" lng="-0.14173162693214"/>
+    <node lat="51.49945231889452" lng="-0.14193279260826"/>
+    <node lat="51.49960593420372" lng="-0.142066903059"/>
+    <node lat="51.49967773248586" lng="-0.14189524168205"/>
+    <node lat="51.4994640070341" lng="-0.14164043182564"/>
+  </nodes>
+  <exits>
+    <exit title="Stafford Place - Buckingham Gate"/>
+    <exit title="Stafford Place - Palace Street"/>
+    <exit title="Stafford Place - Palace Street"/>
+    <exit title="Stafford Place - Palace Street"/>
+  </exits>
+</zone>

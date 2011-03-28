@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<zone title="Oxford Circus" status="orange" reason="">
+  <nodes maxlat="51.51547644453066" maxlng="-0.14164076710176" minlat="51.51503078001976" minlng="-0.14237569237184">
+    <node lat="51.51531453695424" lng="-0.14235155249071"/>
+    <node lat="51.51543972327514" lng="-0.14222280645799"/>
+    <node lat="51.51547644453066" lng="-0.14189557695818"/>
+    <node lat="51.51538464133633" lng="-0.14169709349108"/>
+    <node lat="51.51520771102168" lng="-0.14164076710176"/>
+    <node lat="51.51506416328026" lng="-0.14176146650743"/>
+    <node lat="51.51503078001976" lng="-0.14212088251543"/>
+    <node lat="51.51512592224769" lng="-0.14237569237184"/>
+  </nodes>
+  <exits>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="North Regents St-Oxford St"/>
+    <exit title="North Regents St-Oxford St"/>
+    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="Oxford Circus - North Regent Street"/>
+    <exit title="Oxford Circus - North Regent Street"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
+    <exit title="North Regents St-Oxford St"/>
+  </exits>
+</zone>

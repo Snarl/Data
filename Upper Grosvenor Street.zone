@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Upper Grosvenor Street">
+  <nodes maxlat="51.51074333396522" maxlng="-0.15243766421509" minlat="51.50994873036227" minlng="-0.15633223170471">
+    <node lat="51.50999547213434" lng="-0.15633223170471"/>
+    <node lat="51.51074333396522" lng="-0.15250203723144"/>
+    <node lat="51.51066988379335" lng="-0.15243766421509"/>
+    <node lat="51.50994873036227" lng="-0.15622494334411"/>
+  </nodes>
+  <exits>
+    <exit title="Upper Grosvenor St - Park St (East)"/>
+    <exit title="Upper Grosvenor St - Park St (East)"/>
+    <exit title="Upper Grosvenor Street - Park St (West)"/>
+    <exit title="Upper Grosvenor Street - Park St (West)"/>
+    <exit title="Upper Grosvenor Street - Park St (South)"/>
+    <exit title="Upper Grosvenor Street - Park St (South)"/>
+    <exit title="Upper Grosvenor Street - Park St (North)"/>
+    <exit title="Upper Grosvenor Street - Park St (North)"/>
+  </exits>
+</zone>

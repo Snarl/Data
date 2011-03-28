@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Derby St - Curzon St">
+  <nodes>
+    <node lat="51.506385781112" lng="-0.1500002067728"/>
+    <node lat="51.50639997169326" lng="-0.14990230614376"/>
+  </nodes>
+  <zones>
+    <zone title="Curzon Street 2"/>
+    <zone title="Derby St"/>
+  </zones>
+</exit>

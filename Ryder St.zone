@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Ryder St">
+  <nodes maxlat="51.50686700626408" maxlng="-0.13843653315735" minlat="51.50655815460392" minlng="-0.13917950505447">
+    <node lat="51.50663995876096" lng="-0.13917950505447"/>
+    <node lat="51.50655815460392" lng="-0.13909903878402"/>
+    <node lat="51.5066983902118" lng="-0.13872352952194"/>
+    <node lat="51.50674513531848" lng="-0.13856259698105"/>
+    <node lat="51.50678186358298" lng="-0.13843653315735"/>
+    <node lat="51.50686700626408" lng="-0.13853309268188"/>
+  </nodes>
+  <exits>
+    <exit title="Ryder St - St James\'s St"/>
+    <exit title="Ryder St - St James\'s St"/>
+    <exit title="Ryder St - Bury st (West)"/>
+    <exit title="Ryder St - Bury st (West)"/>
+  </exits>
+</zone>

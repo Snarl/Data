@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Morpeth Terrace - Francis Street">
+  <nodes>
+    <node lat="51.49446120941023" lng="-0.13936323637199"/>
+    <node lat="51.49457977338326" lng="-0.13921035045814"/>
+  </nodes>
+  <zones>
+    <zone title="Morpeth Terrace"/>
+    <zone title="Francis Street"/>
+  </zones>
+</exit>

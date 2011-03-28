@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Panton Street">
+  <nodes maxlat="51.50991200467077" maxlng="-0.13037381285858" minlat="51.50924258992013" minlng="-0.13231304997635">
+    <node lat="51.50991200467077" lng="-0.13055620307159"/>
+    <node lat="51.50989698050748" lng="-0.13037381285858"/>
+    <node lat="51.50980015800283" lng="-0.13090757245254"/>
+    <node lat="51.50924258992013" lng="-0.13222990149688"/>
+    <node lat="51.50930268740684" lng="-0.13231304997635"/>
+    <node lat="51.50977177895385" lng="-0.13119725102615"/>
+    <node lat="51.50982686767985" lng="-0.13095585221481"/>
+  </nodes>
+  <exits>
+    <exit title="Great Windmill St-Panton St"/>
+    <exit title="Great Windmill St-Panton St"/>
+  </exits>
+</zone>

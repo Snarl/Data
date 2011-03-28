@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fentiman Road - Trigon Place">
+  <nodes>
+    <node lat="51.48007594264289" lng="-0.11568871850204"/>
+    <node lat="51.4800024430381" lng="-0.11550901049804"/>
+  </nodes>
+  <zones>
+    <zone title="Fentiman Road (east)"/>
+    <zone title="Trigon Road"/>
+  </zones>
+</exit>

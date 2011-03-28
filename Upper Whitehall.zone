@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<zone title="Upper Whitehall">
+  <nodes maxlat="51.50715582244673" maxlng="-0.12597096676063" minlat="51.50407307469217" minlng="-0.12765941733551">
+    <node lat="51.50409143990506" lng="-0.12597096676063"/>
+    <node lat="51.50425088303295" lng="-0.12599644774627"/>
+    <node lat="51.50431766532914" lng="-0.12606618518066"/>
+    <node lat="51.50473171338099" lng="-0.12618956679535"/>
+    <node lat="51.50499550009719" lng="-0.12628612631988"/>
+    <node lat="51.50563325660836" lng="-0.12653825396728"/>
+    <node lat="51.5060506316916" lng="-0.12681720370483"/>
+    <node lat="51.50637785108328" lng="-0.12705323809814"/>
+    <node lat="51.50659822200245" lng="-0.12718198413086"/>
+    <node lat="51.50668837343491" lng="-0.12719807738495"/>
+    <node lat="51.50695548774317" lng="-0.12732682341766"/>
+    <node lat="51.50715582244673" lng="-0.12738583201599"/>
+    <node lat="51.50706233302803" lng="-0.12765941733551"/>
+    <node lat="51.50686867576478" lng="-0.12754676455688"/>
+    <node lat="51.50635113938432" lng="-0.12731073016357"/>
+    <node lat="51.50582024111837" lng="-0.12711224669647"/>
+    <node lat="51.50560654447285" lng="-0.12702641600799"/>
+    <node lat="51.5052392510218" lng="-0.1269191276474"/>
+    <node lat="51.50522255579459" lng="-0.12684402579498"/>
+    <node lat="51.50407307469217" lng="-0.12651143187713"/>
+  </nodes>
+  <exits>
+    <exit title="Upper Whitehall - Craig\'s Court"/>
+    <exit title="Upper Whitehall - Great Scotland Yard"/>
+    <exit title="Upper Whitehall - Horse Guards Ave"/>
+    <exit title="Upper Whitehall - Trafalga Sq"/>
+    <exit title="Upper Whitehall - Whitehall Place"/>
+    <exit title="Upper Whitehall - Whitehall"/>
+  </exits>
+</zone>

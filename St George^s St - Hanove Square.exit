@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St George's St - Hanove Square">
+  <nodes>
+    <node lat="51.51332486533872" lng="-0.14382106775474"/>
+    <node lat="51.51342835724236" lng="-0.14326316827965"/>
+  </nodes>
+  <zones>
+    <zone title="Hannover Square"/>
+    <zone title="St George\'s St"/>
+  </zones>
+</exit>

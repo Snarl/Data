@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<zone title="East Oxford Street 1" status="orange" reason="Strong indication of impending kettle">
+  <nodes maxlat="51.51593212195519" maxlng="-0.13678697461319" minlat="51.51519769856794" minlng="-0.14170882815552">
+    <node lat="51.51538798212783" lng="-0.14170882815552"/>
+    <node lat="51.51519769856794" lng="-0.14164713734817"/>
+    <node lat="51.51575185549279" lng="-0.13678697461319"/>
+    <node lat="51.51593212195519" lng="-0.13689426297378"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
+    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
+    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
+    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
+    <exit title="East Oxford Street 1 - Poland Street"/>
+    <exit title="East Oxford Street 1 - Poland Street"/>
+    <exit title="Argyll St - East Oxfod Street 1"/>
+    <exit title="Argyll St - East Oxfod Street 1"/>
+    <exit title="Hills Pl - East Oxford Street 1"/>
+    <exit title="Hills Pl - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Oxford St - Great Portlans St"/>
+    <exit title="Oxford St-Great Titchfield St"/>
+    <exit title="Oxford St-Great Titchfield St"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="Winsley St - East Oxford Street 1"/>
+    <exit title="Winsley St - East Oxford Street 1"/>
+    <exit title="Adam and Eve Ct - East Oxford Street 1"/>
+    <exit title="Adam and Eve Ct - East Oxford Street 1"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Knightsbridge - South Park Road">
+  <nodes>
+    <node lat="51.50162876572444" lng="-0.16278294438553"/>
+    <node lat="51.5015920333063" lng="-0.16260055417251"/>
+  </nodes>
+  <zones>
+    <zone title="Edinburgh Gate"/>
+    <zone title="Knightsbridge"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lowndes Square - Albert Gate">
+  <nodes>
+    <node lat="51.50144677304422" lng="-0.15870464557838"/>
+    <node lat="51.5014751572786" lng="-0.15833450073433"/>
+  </nodes>
+  <zones>
+    <zone title="Albert Gate"/>
+    <zone title="Lowndes Square"/>
+  </zones>
+</exit>

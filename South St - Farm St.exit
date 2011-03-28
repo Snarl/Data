@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="South St - Farm St">
+  <nodes>
+    <node lat="51.50884861269203" lng="-0.14933166617584"/>
+    <node lat="51.5089187270251" lng="-0.14946041220855"/>
+  </nodes>
+  <zones>
+    <zone title="South St"/>
+    <zone title="Farm Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<zone title="Thorney Street">
+  <nodes maxlat="51.49472672548172" maxlng="-0.12533796543312" minlat="51.4930567873363" minlng="-0.12627405637932">
+    <node lat="51.4947150361273" lng="-0.1260728907032"/>
+    <node lat="51.49472672548172" lng="-0.12627405637932"/>
+    <node lat="51.4940019798403" lng="-0.12623114103508"/>
+    <node lat="51.49326219302774" lng="-0.12616945022774"/>
+    <node lat="51.4930567873363" lng="-0.12611312383842"/>
+    <node lat="51.49305678733632" lng="-0.12535137647819"/>
+    <node lat="51.49313026590132" lng="-0.12533796543312"/>
+    <node lat="51.4931235860367" lng="-0.1259468268795"/>
+    <node lat="51.49356111510398" lng="-0.12600583547783"/>
+    <node lat="51.49388675424124" lng="-0.12603265756798"/>
+  </nodes>
+  <exits>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Page Street - Thorney Street"/>
+    <exit title="Milbank - Thorney Street"/>
+    <exit title="Milbank - Thorney Street"/>
+    <exit title="Page Street - Thorney Street"/>
+    <exit title="Page Street - Thorney Street"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Milbank - Thorney Street"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+    <exit title="Milbank - Thorney Street"/>
+    <exit title="Page Street - Thorney Street"/>
+    <exit title="Horseferry Road - Thorney Street"/>
+  </exits>
+</zone>

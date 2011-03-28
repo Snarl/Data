@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chesterfueld Hill-South St">
+  <nodes>
+    <node lat="51.50881439018072" lng="-0.14938799256515"/>
+    <node lat="51.50886948006436" lng="-0.14925924653244"/>
+  </nodes>
+  <zones>
+    <zone title="Chesterfield Hill"/>
+    <zone title="South St"/>
+  </zones>
+</exit>

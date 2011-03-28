@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Regent St - Margaret St">
+  <nodes>
+    <node lat="51.51643202384794" lng="-0.14266369456482"/>
+    <node lat="51.51629849466907" lng="-0.14262077922058"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

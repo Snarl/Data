@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Grosvenor St - Davies St (West)">
+  <nodes>
+    <node lat="51.5114043801778" lng="-0.14795837516021"/>
+    <node lat="51.51163808109122" lng="-0.14809785002899"/>
+  </nodes>
+  <zones>
+    <zone title="Davies Street"/>
+    <zone title="Grosvendor St"/>
+  </zones>
+</exit>

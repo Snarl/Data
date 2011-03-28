@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="South Molton Street - Brook St">
+  <nodes>
+    <node lat="51.51304443448266" lng="-0.14678222650718"/>
+    <node lat="51.51310786542262" lng="-0.14648181909752"/>
+  </nodes>
+  <zones>
+    <zone title="South Molton Street"/>
+    <zone title="Brook Street"/>
+  </zones>
+</exit>

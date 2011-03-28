@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Ryle Street - Page Street">
+  <nodes>
+    <node lat="51.49400197984098" lng="-0.12708542460632"/>
+    <node lat="51.49399196023524" lng="-0.12665627116394"/>
+  </nodes>
+  <zones>
+    <zone title="Dean Ryle Street"/>
+    <zone title="Page Street"/>
+  </zones>
+</exit>

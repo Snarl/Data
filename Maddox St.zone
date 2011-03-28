@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Maddox St">
+  <nodes maxlat="51.51364785935936" maxlng="-0.1413467299385" minlat="51.51269222414154" minlng="-0.14252690190506">
+    <node lat="51.51269222414154" lng="-0.14244643563461"/>
+    <node lat="51.51276233255944" lng="-0.14252690190506"/>
+    <node lat="51.51364785935936" lng="-0.14144597167206"/>
+    <node lat="51.51354269873625" lng="-0.1413467299385"/>
+  </nodes>
+  <exits>
+    <exit title="Maddox St - Regent Street 1"/>
+    <exit title="Maddox St - Regent Street 1"/>
+    <exit title="Maddox St - Regent Street 1"/>
+  </exits>
+</zone>

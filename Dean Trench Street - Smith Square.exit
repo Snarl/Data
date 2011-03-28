@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Trench Street - Smith Square">
+  <nodes>
+    <node lat="51.49597997387306" lng="-0.12762723082733"/>
+    <node lat="51.49586475327386" lng="-0.12759504431915"/>
+  </nodes>
+  <zones>
+    <zone title="Smith Square"/>
+    <zone title="Dean Trench Street"/>
+  </zones>
+</exit>

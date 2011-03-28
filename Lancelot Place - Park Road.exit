@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lancelot Place - Park Road">
+  <nodes>
+    <node lat="51.50127479755396" lng="-0.16255763882828"/>
+    <node lat="51.5011378845997" lng="-0.16246107930374"/>
+  </nodes>
+  <zones>
+    <zone title="Lancelot Place"/>
+    <zone title="Edinburgh Gate"/>
+  </zones>
+</exit>

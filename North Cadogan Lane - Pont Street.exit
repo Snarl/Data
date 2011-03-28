@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="North Cadogan Lane - Pont Street">
+  <nodes>
+    <node lat="51.49747197083892" lng="-0.15710739011001"/>
+    <node lat="51.49748532929286" lng="-0.1569786440773"/>
+  </nodes>
+  <zones>
+    <zone title="Pont Street"/>
+    <zone title="Cadogan Lane"/>
+  </zones>
+</exit>

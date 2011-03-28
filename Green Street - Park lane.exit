@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Green Street - Park lane">
+  <nodes>
+    <node lat="51.51215973050274" lng="-0.15761969203186"/>
+    <node lat="51.5122431938684" lng="-0.1576626073761"/>
+  </nodes>
+  <zones>
+    <zone title="Green Street"/>
+    <zone title="Park Lane 1"/>
+  </zones>
+</exit>

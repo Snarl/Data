@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Halkin Street - Grosvenor Crescent">
+  <nodes>
+    <node lat="51.50045414855452" lng="-0.15315917844009"/>
+    <node lat="51.50024042674372" lng="-0.15332011098099"/>
+  </nodes>
+  <zones>
+    <zone title="Halkin Street"/>
+    <zone title="Grosvenor Crescent"/>
+  </zones>
+</exit>

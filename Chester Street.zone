@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Chester Street">
+  <nodes maxlat="51.49990397983142" maxlng="-0.14896286243629" minlat="51.49865835326506" minlng="-0.15115422720146">
+    <node lat="51.49876855752434" lng="-0.15115422720146"/>
+    <node lat="51.49865835326506" lng="-0.15098524803352"/>
+    <node lat="51.49956168637896" lng="-0.14948052877617"/>
+    <node lat="51.49975370497374" lng="-0.14896286243629"/>
+    <node lat="51.49990397983142" lng="-0.14913452381325"/>
+    <node lat="51.49970695269474" lng="-0.14961463922691"/>
+  </nodes>
+  <exits>
+    <exit title="Upper Belgrave Street - Chester Street"/>
+    <exit title="Upper Belgrave Street - Chester Street"/>
+    <exit title="Chester Street - Grosvenor Place"/>
+  </exits>
+</zone>

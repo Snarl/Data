@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Montrose Place - Chapel Street">
+  <nodes>
+    <node lat="51.4998046315064" lng="-0.15127894992065"/>
+    <node lat="51.49986975059948" lng="-0.15118507260513"/>
+  </nodes>
+  <zones>
+    <zone title="Montrose Place"/>
+    <zone title="Chapel Street"/>
+  </zones>
+</exit>

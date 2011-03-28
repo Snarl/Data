@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ponsonby Place - Causton Street">
+  <nodes>
+    <node lat="51.49029457537168" lng="-0.13105509394836"/>
+    <node lat="51.49013591845326" lng="-0.13097730988693"/>
+  </nodes>
+  <zones>
+    <zone title="Ponsonby Place"/>
+    <zone title="Causton Street"/>
+  </zones>
+</exit>

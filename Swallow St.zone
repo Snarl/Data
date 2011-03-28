@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Swallow St">
+  <nodes maxlat="51.50995874638224" maxlng="-0.13708335870933" minlat="51.5090155541566" minlng="-0.13792557234001">
+    <node lat="51.50979514983838" lng="-0.13792557234001"/>
+    <node lat="51.50995874638224" lng="-0.13782096618843"/>
+    <node lat="51.50912406399068" lng="-0.13719601148796"/>
+    <node lat="51.50902390107608" lng="-0.13708335870933"/>
+    <node lat="51.5090155541566" lng="-0.13717455381584"/>
+  </nodes>
+  <exits>
+    <exit title="Piccadily Place 2 - Swallow St"/>
+    <exit title="Piccadily Place 2 - Swallow St"/>
+    <exit title="Swallow St - Regent Street South 1"/>
+  </exits>
+</zone>

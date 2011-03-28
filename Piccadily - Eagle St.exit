@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Piccadily - Eagle St" status="red" reason="">
+  <nodes>
+    <node lat="51.50938156516526" lng="-0.13563295418453"/>
+    <node lat="51.50934984711204" lng="-0.1357000094099"/>
+  </nodes>
+  <zones>
+    <zone title="Eagle Pl"/>
+  </zones>
+</exit>

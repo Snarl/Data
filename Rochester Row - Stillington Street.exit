@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rochester Row - Stillington Street">
+  <nodes>
+    <node lat="51.49382997630617" lng="-0.13723356241417"/>
+    <node lat="51.493724769939" lng="-0.13732207531166"/>
+  </nodes>
+  <zones>
+    <zone title="Stillington Street"/>
+    <zone title="Rochester Row"/>
+  </zones>
+</exit>

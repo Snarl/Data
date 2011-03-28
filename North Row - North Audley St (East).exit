@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="North Row - North Audley St (East)">
+  <nodes>
+    <node lat="51.51344254563834" lng="-0.15351323003006"/>
+    <node lat="51.51359277535588" lng="-0.15356687421036"/>
+  </nodes>
+  <zones>
+    <zone title="North Row"/>
+    <zone title="N Audley St"/>
+  </zones>
+</exit>

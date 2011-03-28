@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Whitehall">
+  <nodes maxlat="51.5040922746869" maxlng="-0.12598571891021" minlat="51.50104354804024" minlng="-0.12661872023773">
+    <node lat="51.50407223990921" lng="-0.12650070304107"/>
+    <node lat="51.5040922746869" lng="-0.12598571891021"/>
+    <node lat="51.50318068338508" lng="-0.12603399867248"/>
+    <node lat="51.50274658587949" lng="-0.12601254100036"/>
+    <node lat="51.50204534271212" lng="-0.12604472750854"/>
+    <node lat="51.50162459163219" lng="-0.12607691401672"/>
+    <node lat="51.50119047930351" lng="-0.12606618518066"/>
+    <node lat="51.50104354804024" lng="-0.1260018121643"/>
+    <node lat="51.50115708587619" lng="-0.12661872023773"/>
+    <node lat="51.50195184280784" lng="-0.12640950793457"/>
+    <node lat="51.50285678025327" lng="-0.12635049933624"/>
+    <node lat="51.50327418076809" lng="-0.12644705886078"/>
+  </nodes>
+  <exits>
+    <exit title="Parliament Square - Whitehall"/>
+    <exit title="Downing Street - Whitehall"/>
+    <exit title="Downing Street - Whitehall"/>
+    <exit title="Upper Whitehall - Whitehall"/>
+    <exit title="Whitehall - Derby Gate"/>
+    <exit title="Whitehall - King Charles Street"/>
+    <exit title="Whitehall - Richmond Terrace"/>
+    <exit title="Whitehall - Whitehall Gardens"/>
+  </exits>
+</zone>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Allington Street">
+  <nodes maxlat="51.49744692372888" maxlng="-0.14221442455482" minlat="51.49664707872473" minlng="-0.14444602245521">
+    <node lat="51.49727994263257" lng="-0.14433068746757"/>
+    <node lat="51.4973684426898" lng="-0.14304054493141"/>
+    <node lat="51.49741018794019" lng="-0.14283401483726"/>
+    <node lat="51.49744692372888" lng="-0.14229489082527"/>
+    <node lat="51.49735675401286" lng="-0.14221442455482"/>
+    <node lat="51.49732001815146" lng="-0.14271063322258"/>
+    <node lat="51.49705451718214" lng="-0.14276159519386"/>
+    <node lat="51.49664707872473" lng="-0.14283937925529"/>
+    <node lat="51.49666544693029" lng="-0.14301372284126"/>
+    <node lat="51.49728328226046" lng="-0.14289302343559"/>
+    <node lat="51.49713967803891" lng="-0.14444602245521"/>
+  </nodes>
+  <exits>
+    <exit title="Allington Street - Victoria Street"/>
+    <exit title="Allington Street - Warwick Row"/>
+    <exit title="Bressenden Place - Allington Street"/>
+    <exit title="Allington Street - Buckingham Palace Road"/>
+    <exit title="Allington Street - Warwick Row"/>
+  </exits>
+</zone>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<zone title="Great Peter Street - Greycoat Place">
+  <nodes maxlat="51.49684328417028" maxlng="-0.13326925749016" minlat="51.49671303724273" minlng="-0.13348919862938">
+    <node lat="51.49671303724273" lng="-0.13348919862938"/>
+    <node lat="51.49684328417028" lng="-0.13337118143272"/>
+    <node lat="51.49675311326008" lng="-0.13326925749016"/>
+  </nodes>
+  <exits/>
+</zone>

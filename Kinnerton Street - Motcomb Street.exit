@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Kinnerton Street - Motcomb Street">
+  <nodes>
+    <node lat="51.49950324577416" lng="-0.15657765382957"/>
+    <node lat="51.49956669556764" lng="-0.15647304767799"/>
+  </nodes>
+  <zones>
+    <zone title="Kinnerton Street"/>
+    <zone title="Motcomb Street"/>
+  </zones>
+</exit>

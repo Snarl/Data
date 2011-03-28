@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Department of Trade and Industry">
+  <nodes maxlat="51.49921605086806" maxlng="-0.1299272250576" minlat="51.49815074232576" minlng="-0.13230902666282">
+    <node lat="51.49833942731472" lng="-0.13230902666282"/>
+    <node lat="51.49815074232576" lng="-0.1321427297039"/>
+    <node lat="51.49838284144942" lng="-0.13157678360176"/>
+    <node lat="51.49845297188737" lng="-0.1303054165287"/>
+    <node lat="51.49854647897011" lng="-0.13010156864357"/>
+    <node lat="51.49921605086806" lng="-0.1299272250576"/>
+  </nodes>
+  <exits>
+    <exit title="Department of Trade and Industry to Great Smith Street"/>
+  </exits>
+</zone>

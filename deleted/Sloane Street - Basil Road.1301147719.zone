@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Sloane Street - Basil Road">
+  <nodes>
+    <node lat="51.50121051530332" lng="-0.16027910227012"/>
+    <node lat="51.50105523572684" lng="-0.16024155134392"/>
+  </nodes>
+  <zones>
+    <zone title="Sloane Street Upper"/>
+    <zone title="Basil Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Soho Street">
+  <nodes maxlat="51.51617080702766" maxlng="-0.13244179600906" minlat="51.51568175169674" minlng="-0.13293264025879">
+    <node lat="51.51568175169674" lng="-0.1325919997139"/>
+    <node lat="51.51572348017222" lng="-0.13244179600906"/>
+    <node lat="51.51617080702766" lng="-0.1327556144638"/>
+    <node lat="51.51615745405076" lng="-0.13293264025879"/>
+  </nodes>
+  <exits>
+    <exit title="Soho Street - East Oxford Street 1"/>
+    <exit title="Soho Street - East Oxford Street 1"/>
+    <exit title="Soho Street - Soho Square"/>
+    <exit title="Soho Street - Soho Square"/>
+  </exits>
+</zone>

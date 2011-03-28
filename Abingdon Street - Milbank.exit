@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Abingdon Street - Milbank">
+  <nodes>
+    <node lat="51.49703948877126" lng="-0.12580601090622"/>
+    <node lat="51.49705451717426" lng="-0.1255512010498"/>
+  </nodes>
+  <zones>
+    <zone title="Abingdon Street"/>
+    <zone title="Milbank North"/>
+  </zones>
+</exit>

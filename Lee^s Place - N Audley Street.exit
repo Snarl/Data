@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lee's Place - N Audley Street">
+  <nodes>
+    <node lat="51.51235753852478" lng="-0.15325707906914"/>
+    <node lat="51.51225654808643" lng="-0.15320745820236"/>
+  </nodes>
+  <zones>
+    <zone title="N Audley St"/>
+    <zone title="Lees Pl 3"/>
+  </zones>
+</exit>

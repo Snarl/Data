@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Belgrave Mews Way - Lowndes Place">
+  <nodes>
+    <node lat="51.49772912038952" lng="-0.15482751244735"/>
+    <node lat="51.49783932689564" lng="-0.15459684247207"/>
+  </nodes>
+  <zones>
+    <zone title="Belgrave Mews West"/>
+    <zone title="Lowndes Place"/>
+  </zones>
+</exit>

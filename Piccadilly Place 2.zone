@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Piccadilly Place 2">
+  <nodes maxlat="51.50971168206596" maxlng="-0.13497111911011" minlat="51.5078503092666" minlng="-0.14068422431183">
+    <node lat="51.50787201180913" lng="-0.14068422431183"/>
+    <node lat="51.5078503092666" lng="-0.14035967702102"/>
+    <node lat="51.50880354196713" lng="-0.13748703116607"/>
+    <node lat="51.50962153661541" lng="-0.13497111911011"/>
+    <node lat="51.50971168206596" lng="-0.13504622096252"/>
+    <node lat="51.50909735397998" lng="-0.1368969451828"/>
+    <node lat="51.50878350926089" lng="-0.13791618460846"/>
+    <node lat="51.50844629071717" lng="-0.13897297496032"/>
+  </nodes>
+  <exits>
+    <exit title="Air St-Picadilly Place"/>
+    <exit title="Air St-Picadilly Place"/>
+    <exit title="Picadilly Circus-Picadilly Pl"/>
+    <exit title="Picadilly Circus-Picadilly Pl"/>
+  </exits>
+</zone>

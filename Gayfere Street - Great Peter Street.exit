@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Gayfere Street - Great Peter Street">
+  <nodes>
+    <node lat="51.49686415704242" lng="-0.12779755109977"/>
+    <node lat="51.49686916652986" lng="-0.12768892163467"/>
+  </nodes>
+  <zones>
+    <zone title="Great Peter Street"/>
+    <zone title="Gayfere Street"/>
+  </zones>
+</exit>

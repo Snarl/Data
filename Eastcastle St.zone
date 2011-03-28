@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Eastcastle St">
+  <nodes maxlat="51.51716142007741" maxlng="-0.1353305351181" minlat="51.51569260110134" minlng="-0.14304456824493">
+    <node lat="51.51581945551798" lng="-0.14304456824493"/>
+    <node lat="51.51569260110134" lng="-0.14295873755646"/>
+    <node lat="51.51611322228431" lng="-0.1402657997055"/>
+    <node lat="51.51624675200632" lng="-0.14008340949249"/>
+    <node lat="51.51682760174202" lng="-0.13634977454376"/>
+    <node lat="51.51702121667453" lng="-0.1353305351181"/>
+    <node lat="51.51716142007741" lng="-0.13548073882293"/>
+    <node lat="51.51644036940794" lng="-0.1399224769516"/>
+    <node lat="51.51628013437566" lng="-0.14035163039398"/>
+  </nodes>
+  <exits>
+    <exit title="Great Portland St-Eastcastle St"/>
+    <exit title="Great Portland St-Eastcastle St"/>
+    <exit title="Great Portland St - Eastcastle St"/>
+    <exit title="Great Titchfield St - Eastcastle St"/>
+    <exit title="Eastcastle St - Wells St"/>
+    <exit title="Eastcastle St - Wells St"/>
+  </exits>
+</zone>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<zone title="Shaftesbury Avenue" status="orange" reason="Packed, HSBC being smashed up. Scuffles etc.">
+  <nodes maxlat="51.5169728130318" maxlng="-0.12577918881607" minlat="51.51015906797784" minlng="-0.13450441474151">
+    <node lat="51.51338245362587" lng="-0.12880203837585"/>
+    <node lat="51.51357441398576" lng="-0.12848553771209"/>
+    <node lat="51.51416865136324" lng="-0.12778548115921"/>
+    <node lat="51.51492645969362" lng="-0.12694594973755"/>
+    <node lat="51.51513343598842" lng="-0.12673405522537"/>
+    <node lat="51.51551233370424" lng="-0.12670723313522"/>
+    <node lat="51.51563418119861" lng="-0.12674210185241"/>
+    <node lat="51.51571429992139" lng="-0.12646315211487"/>
+    <node lat="51.51582279380054" lng="-0.12652216071319"/>
+    <node lat="51.5161783180859" lng="-0.12637463921737"/>
+    <node lat="51.51659559657109" lng="-0.12611178273391"/>
+    <node lat="51.51684763092437" lng="-0.12591329926681"/>
+    <node lat="51.51687934375745" lng="-0.12577918881607"/>
+    <node lat="51.5169728130318" lng="-0.126127875988"/>
+    <node lat="51.51647542075933" lng="-0.12626198643875"/>
+    <node lat="51.51622004610648" lng="-0.12645778769684"/>
+    <node lat="51.5160214203866" lng="-0.12658653372955"/>
+    <node lat="51.51585951474727" lng="-0.12661872023773"/>
+    <node lat="51.51582947033854" lng="-0.12668041104507"/>
+    <node lat="51.51578774196019" lng="-0.12665358895492"/>
+    <node lat="51.51549731138786" lng="-0.12706128472519"/>
+    <node lat="51.515462259297" lng="-0.12703982705307"/>
+    <node lat="51.51519352570429" lng="-0.12706933135223"/>
+    <node lat="51.51491644468775" lng="-0.12723294610214"/>
+    <node lat="51.51435059327986" lng="-0.12783376092148"/>
+    <node lat="51.51429551002399" lng="-0.12794104928207"/>
+    <node lat="51.51404513074883" lng="-0.12826291436386"/>
+    <node lat="51.51281157542773" lng="-0.13001171464157"/>
+    <node lat="51.51277985976955" lng="-0.13009486312103"/>
+    <node lat="51.51256619576525" lng="-0.13072250003052"/>
+    <node lat="51.51248941001892" lng="-0.13091561907959"/>
+    <node lat="51.51226572906366" lng="-0.13146815413666"/>
+    <node lat="51.5122223281541" lng="-0.13166127318573"/>
+    <node lat="51.51188513506334" lng="-0.13241765612793"/>
+    <node lat="51.51180834816903" lng="-0.13251421565246"/>
+    <node lat="51.5115746481291" lng="-0.1330077421112"/>
+    <node lat="51.51091360438172" lng="-0.13388214225006"/>
+    <node lat="51.51068991568913" lng="-0.13408062571716"/>
+    <node lat="51.51016574534596" lng="-0.13450441474151"/>
+    <node lat="51.51015906797784" lng="-0.13439712638092"/>
+    <node lat="51.51080342949128" lng="-0.13391432875824"/>
+    <node lat="51.51088355671076" lng="-0.1337641250534"/>
+    <node lat="51.51142107316433" lng="-0.1331150304718"/>
+    <node lat="51.51166812828892" lng="-0.13248739356231"/>
+    <node lat="51.511721545437" lng="-0.13233182543945"/>
+    <node lat="51.51208210954819" lng="-0.13153789157104"/>
+    <node lat="51.51212551059137" lng="-0.13137695903015"/>
+    <node lat="51.51247939447723" lng="-0.13045427912903"/>
+    <node lat="51.51251611811929" lng="-0.13026652449798"/>
+    <node lat="51.5130803230801" lng="-0.12923655623626"/>
+    <node lat="51.51314709243641" lng="-0.12888786906433"/>
+  </nodes>
+  <exits>
+    <exit title="Shaftesbury Avenus-Picadilly Circus"/>
+    <exit title="Denman Street - Shaftesbury Avenue"/>
+    <exit title="Denman Street - Shaftesbury Avenue"/>
+    <exit title="Great Windmill Street - Shaftesbury Avenue (North)"/>
+    <exit title="Great Windmill Street - Shaftesbury Avenue (North)"/>
+    <exit title="Great Windmill Street - Shaftesbury Avenue (South)"/>
+    <exit title="Great Windmill Street - Shaftesbury Avenue (South)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (North)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (North)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (South)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (South)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (East)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (East)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
+    <exit title="Wardour Street - Shaftesbury Avenue "/>
+    <exit title="Wardour Street - Shaftesbury Avenue "/>
+    <exit title="Whitecomb - Shaftesbury Avenue "/>
+    <exit title="Whitecomb - Shaftesbury Avenue "/>
+    <exit title="Macclesfield Street - Shaftesbury Avenue "/>
+    <exit title="Macclesfield Street - Shaftesbury Avenue "/>
+    <exit title="Dean Street - Shaftesbury Avenue (East)"/>
+    <exit title="Dean Street - Shaftesbury Avenue (East)"/>
+  </exits>
+</zone>

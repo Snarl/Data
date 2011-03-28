@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Buckingham Gate - Spenser Street">
+  <nodes>
+    <node lat="51.49798125912499" lng="-0.13609764689636"/>
+    <node lat="51.49785769462118" lng="-0.13597694749069"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Gate"/>
+    <zone title="Spenser Street"/>
+  </zones>
+</exit>

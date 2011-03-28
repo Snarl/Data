@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Embankment - Hungerford Bridge" status="green" reason="">
+  <nodes>
+    <node lat="51.5069421320653" lng="-0.12174782866668"/>
+    <node lat="51.506447969219" lng="-0.12210188025665"/>
+  </nodes>
+  <zones>
+    <zone title="Hungerford Bridge"/>
+    <zone title="Embankment"/>
+  </zones>
+</exit>

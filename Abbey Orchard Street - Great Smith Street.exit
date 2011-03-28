@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Abbey Orchard Street - Great Smith Street">
+  <nodes>
+    <node lat="51.49852811151836" lng="-0.13009218091202"/>
+    <node lat="51.49832105977952" lng="-0.13010290974808"/>
+  </nodes>
+  <zones>
+    <zone title="Great Smith Street"/>
+    <zone title="Abbey Orchard Street"/>
+  </zones>
+</exit>

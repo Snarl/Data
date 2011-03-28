@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<zone title="Rochester Row">
+  <nodes maxlat="51.4962312873589" maxlng="-0.13501135224533" minlat="51.49279126153276" minlng="-0.13807711714935">
+    <node lat="51.4962312873589" lng="-0.13523129338455"/>
+    <node lat="51.49603925392386" lng="-0.13501135224533"/>
+    <node lat="51.49600251700064" lng="-0.13508913630676"/>
+    <node lat="51.49591234442712" lng="-0.13520715350342"/>
+    <node lat="51.49545479936092" lng="-0.13564167136383"/>
+    <node lat="51.49488202661864" lng="-0.13617274874878"/>
+    <node lat="51.49420571134478" lng="-0.13671857828331"/>
+    <node lat="51.49358866927344" lng="-0.13726709002685"/>
+    <node lat="51.4933540408" lng="-0.13746825570297"/>
+    <node lat="51.49279126153276" lng="-0.13788131589126"/>
+    <node lat="51.4928981400289" lng="-0.13807711714935"/>
+    <node lat="51.49305845730332" lng="-0.13784108275604"/>
+    <node lat="51.49395856153114" lng="-0.13713029736709"/>
+    <node lat="51.49489204602846" lng="-0.13636050337982"/>
+  </nodes>
+  <exits>
+    <exit title="Rochester Street - Rochester Row"/>
+    <exit title="Greycoat Street - Rochester Row"/>
+    <exit title="Rochester Row - Greycoat Place Mini Roundabout"/>
+    <exit title="Vane Street - Rochester Ro"/>
+    <exit title="Vincent Square North - Rochester Row"/>
+    <exit title="Emery Hill Street - Rochester Row"/>
+    <exit title="Walcott Street - Rochester Row"/>
+    <exit title="Willow Place - Rochester Row"/>
+    <exit title="Rochester Row - Stillington Street"/>
+    <exit title="Rochester Row - Vauxhall Bridge Road"/>
+  </exits>
+</zone>

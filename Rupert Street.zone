@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Rupert Street">
+  <nodes maxlat="51.51236588484445" maxlng="-0.13217357510757" minlat="51.51033768723124" minlng="-0.13385263795089">
+    <node lat="51.51236588484445" lng="-0.13375339621734"/>
+    <node lat="51.51159467960145" lng="-0.13303724641037"/>
+    <node lat="51.51140271089903" lng="-0.13296214455795"/>
+    <node lat="51.51036272725844" lng="-0.13217357510757"/>
+    <node lat="51.51033768723124" lng="-0.13232377881241"/>
+    <node lat="51.51133260038868" lng="-0.13306943291855"/>
+    <node lat="51.51149118353194" lng="-0.13314989918899"/>
+    <node lat="51.5123241532931" lng="-0.13385263795089"/>
+  </nodes>
+  <exits>
+    <exit title="Ruper Street - Coventry Street"/>
+    <exit title="Ruper Street - Coventry Street"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (North)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (North)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (South)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (South)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (East)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (East)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
+    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Trafalga Sq - Northumberland Avenue">
+  <nodes>
+    <node lat="51.50727268395104" lng="-0.12740058416557"/>
+    <node lat="51.5075356212383" lng="-0.12698752397728"/>
+  </nodes>
+  <zones>
+    <zone title="Northumberland Avenue"/>
+    <zone title="Trafalga Sq"/>
+  </zones>
+</exit>

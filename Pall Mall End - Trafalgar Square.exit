@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pall Mall End - Trafalgar Square">
+  <nodes>
+    <node lat="51.50843377015152" lng="-0.12951952928734"/>
+    <node lat="51.50816666450966" lng="-0.12926203722191"/>
+  </nodes>
+  <zones>
+    <zone title="Pall Mall End"/>
+    <zone title="Trafalga Sq"/>
+  </zones>
+</exit>

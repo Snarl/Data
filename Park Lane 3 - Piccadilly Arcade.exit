@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Park Lane 3 - Piccadilly Arcade">
+  <nodes>
+    <node lat="51.50332927735276" lng="-0.15108851308059"/>
+    <node lat="51.50336266918838" lng="-0.15064863080215"/>
+  </nodes>
+  <zones>
+    <zone title="Park lane 3"/>
+    <zone title="Picadilly Arcade"/>
+  </zones>
+</exit>

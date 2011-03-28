@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="S Audley St-Stanhope Gate">
+  <nodes>
+    <node lat="51.50680189286088" lng="-0.15072373265457"/>
+    <node lat="51.50667751753664" lng="-0.15066740626526"/>
+  </nodes>
+  <zones>
+    <zone title="St Audley Street"/>
+    <zone title="Stanhope Gate"/>
+  </zones>
+</exit>

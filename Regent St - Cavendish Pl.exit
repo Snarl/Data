@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regent St - Cavendish Pl">
+  <nodes>
+    <node lat="51.51720105856992" lng="-0.14299913832974"/>
+    <node lat="51.51728785086083" lng="-0.14254852721524"/>
+  </nodes>
+  <zones>
+    <zone title="North Regents St"/>
+    <zone title="Cavendish Pl"/>
+  </zones>
+</exit>

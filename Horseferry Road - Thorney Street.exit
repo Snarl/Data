@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horseferry Road - Thorney Street">
+  <nodes>
+    <node lat="51.49472672548172" lng="-0.12627003306579"/>
+    <node lat="51.4947125312653" lng="-0.12607154959869"/>
+  </nodes>
+  <zones>
+    <zone title="Horseferry Road"/>
+    <zone title="Thorney Street"/>
+  </zones>
+</exit>

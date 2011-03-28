@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="King St - Duke Street Saint James's">
+  <nodes>
+    <node lat="51.50669338184196" lng="-0.13709006423187"/>
+    <node lat="51.50663495038462" lng="-0.1372214924736"/>
+  </nodes>
+  <zones>
+    <zone title="Duke Street Saint James\'s"/>
+    <zone title="King Street"/>
+  </zones>
+</exit>

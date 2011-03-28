@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hide Place - Douglas Street">
+  <nodes>
+    <node lat="51.49162894171067" lng="-0.1341061067028"/>
+    <node lat="51.49156047079666" lng="-0.13395590299797"/>
+  </nodes>
+  <zones>
+    <zone title="Hide Place"/>
+    <zone title="Douglas Street"/>
+  </zones>
+</exit>

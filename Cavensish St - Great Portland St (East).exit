@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cavensish St - Great Portland St (East)">
+  <nodes>
+    <node lat="51.51771555311212" lng="-0.14149156922531"/>
+    <node lat="51.51751526484126" lng="-0.14138964528274"/>
+  </nodes>
+  <zones>
+    <zone title="Cavendish Pl"/>
+    <zone title="Great Portland St"/>
+  </zones>
+</exit>

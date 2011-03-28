@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Piccadilly Circus - South Regent Street 2" status="green" reason="">
+  <nodes>
+    <node lat="51.50965241978673" lng="-0.13482359761429"/>
+    <node lat="51.50971418609137" lng="-0.13449636811447"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

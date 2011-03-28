@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Savile Row - Sackville St">
+  <nodes>
+    <node lat="51.51015489458502" lng="-0.13906014675331"/>
+    <node lat="51.51019829746426" lng="-0.13888312095833"/>
+  </nodes>
+  <zones>
+    <zone title="Savile Row"/>
+    <zone title="Sackville St"/>
+  </zones>
+</exit>

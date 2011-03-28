@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="New Bond Street South" status="orange" reason="Crammed, scuffles between protesters and police.">
+  <nodes maxlat="51.5111089139042" maxlng="-0.14144597167206" minlat="51.50951636676383" minlng="-0.14336643332672">
+    <node lat="51.5111089139042" lng="-0.1431652676506"/>
+    <node lat="51.51102628311561" lng="-0.14336643332672"/>
+    <node lat="51.51036773560673" lng="-0.14263419026565"/>
+    <node lat="51.50951636676383" lng="-0.14157739991379"/>
+    <node lat="51.50958314134294" lng="-0.14144597167206"/>
+  </nodes>
+  <exits>
+    <exit title="Burlington Gardens - New Bond Street South"/>
+    <exit title="Burlington Gardens - New Bond Street South"/>
+    <exit title="New Bond Street North - New Bond Street South"/>
+  </exits>
+</zone>

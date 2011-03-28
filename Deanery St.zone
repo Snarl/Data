@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Deanery St">
+  <nodes maxlat="51.50771925900402" maxlng="-0.15154985303116" minlat="51.50661408191562" minlng="-0.15216676110458">
+    <node lat="51.50771925900402" lng="-0.15170542115402"/>
+    <node lat="51.50768920922622" lng="-0.15154985303116"/>
+    <node lat="51.50661408191562" lng="-0.15194681996536"/>
+    <node lat="51.50662743769" lng="-0.15216676110458"/>
+  </nodes>
+  <exits>
+    <exit title="Deanery St - Park lane"/>
+    <exit title="Deanery St - Park lane"/>
+  </exits>
+</zone>

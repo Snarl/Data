@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Catherine Place - Palace Street 2">
+  <nodes>
+    <node lat="51.49859657197085" lng="-0.14070434087944"/>
+    <node lat="51.49854480920206" lng="-0.14047635311317"/>
+  </nodes>
+  <zones>
+    <zone title="Catherine Place"/>
+    <zone title="Palace Street"/>
+  </zones>
+</exit>

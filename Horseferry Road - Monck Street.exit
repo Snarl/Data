@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horseferry Road - Monck Street">
+  <nodes>
+    <node lat="51.49495884204214" lng="-0.13085258716774"/>
+    <node lat="51.4949563371935" lng="-0.13066349143219"/>
+  </nodes>
+  <zones>
+    <zone title="Horseferry Road"/>
+    <zone title="Monck Street"/>
+  </zones>
+</exit>

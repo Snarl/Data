@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Vincent Square West">
+  <nodes maxlat="51.49467913169788" maxlng="-0.13562826031875" minlat="51.49257833738978" minlng="-0.13755140418243">
+    <node lat="51.49263511688728" lng="-0.13755140418243"/>
+    <node lat="51.49257833738978" lng="-0.13744411582184"/>
+    <node lat="51.49462235474626" lng="-0.13562826031875"/>
+    <node lat="51.49467913169788" lng="-0.13580260390472"/>
+  </nodes>
+  <exits>
+    <exit title="Vincent Square - Vane Street"/>
+    <exit title="Vincent Square North - West"/>
+    <exit title="Vincent Square North - West"/>
+    <exit title="Vincent Square West - South"/>
+    <exit title="Vincent Square - Walcott Street"/>
+    <exit title="Vauxhall Bridge Road - Vincent Square West"/>
+  </exits>
+</zone>

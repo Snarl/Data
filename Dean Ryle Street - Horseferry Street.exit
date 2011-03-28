@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Ryle Street - Horseferry Street">
+  <nodes>
+    <node lat="51.49475260904174" lng="-0.12694863194656"/>
+    <node lat="51.49474926922842" lng="-0.12676355952453"/>
+  </nodes>
+  <zones>
+    <zone title="Horseferry Road"/>
+    <zone title="Dean Ryle Street"/>
+  </zones>
+</exit>

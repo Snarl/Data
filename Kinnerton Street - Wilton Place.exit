@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Kinnerton Street - Wilton Place">
+  <nodes>
+    <node lat="51.50171391807938" lng="-0.15653742069435"/>
+    <node lat="51.5016705071177" lng="-0.15651864523124"/>
+  </nodes>
+  <zones>
+    <zone title="Wilton Place"/>
+    <zone title="Kinnerton Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Old Burlington St">
+  <nodes maxlat="51.51148534091542" maxlng="-0.14021483773422" minlat="51.5099729358517" minlng="-0.14177588338089">
+    <node lat="51.51141523053222" lng="-0.14177588338089"/>
+    <node lat="51.51148534091542" lng="-0.14164713734817"/>
+    <node lat="51.51001633890424" lng="-0.14021483773422"/>
+    <node lat="51.5099729358517" lng="-0.14034894818496"/>
+  </nodes>
+  <exits>
+    <exit title="Old Burlington St - Burlington Gardens"/>
+    <exit title="Old Burlington St - Burlington Gardens"/>
+  </exits>
+</zone>

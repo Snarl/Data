@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<zone title="Upper Belgrave Place">
+  <nodes maxlat="51.49907412248592" maxlng="-0.14723820203972" minlat="51.4960701463194" minlng="-0.15192938560676">
+    <node lat="51.49896391896548" lng="-0.15192938560676"/>
+    <node lat="51.49907412248592" lng="-0.15168262237739"/>
+    <node lat="51.4990707829892" lng="-0.15133393520546"/>
+    <node lat="51.49904907625468" lng="-0.15131515974235"/>
+    <node lat="51.49900900225604" lng="-0.15133661741447"/>
+    <node lat="51.49894388193314" lng="-0.151250786726"/>
+    <node lat="51.49888210102794" lng="-0.1513232063694"/>
+    <node lat="51.49809229991566" lng="-0.15008402580452"/>
+    <node lat="51.49796539613516" lng="-0.1499016355915"/>
+    <node lat="51.4978451711751" lng="-0.1497031521244"/>
+    <node lat="51.49780676591266" lng="-0.14944834226799"/>
+    <node lat="51.49766984253986" lng="-0.14924985880089"/>
+    <node lat="51.49738597570044" lng="-0.14907819742393"/>
+    <node lat="51.49621208405752" lng="-0.14723820203972"/>
+    <node lat="51.4960701463194" lng="-0.14736694807243"/>
+    <node lat="51.49769488952904" lng="-0.14993382209968"/>
+  </nodes>
+  <exits>
+    <exit title="Belgrave Square - Upper Belgrave Street"/>
+    <exit title="Belgrave Square - Upper Belgrave Street"/>
+    <exit title="Eaton Place - Upper Belgrave Street"/>
+    <exit title="Belgrave Square - Upper Belgrave Street"/>
+    <exit title="Eaton Place - Upper Belgrave Street"/>
+    <exit title="Upper Belgrave Street - Chester Street"/>
+    <exit title="Upper Belgrave Street - Chester Street"/>
+    <exit title="Eaton Place - Upper Belgrave Street"/>
+    <exit title="Hobart Place - Upper Belgrave Street"/>
+  </exits>
+</zone>

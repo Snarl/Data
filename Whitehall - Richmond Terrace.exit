@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Whitehall - Richmond Terrace">
+  <nodes>
+    <node lat="51.50323411048615" lng="-0.12602461094093"/>
+    <node lat="51.5030980382187" lng="-0.12602192873192"/>
+  </nodes>
+  <zones>
+    <zone title="Richmond Terrace"/>
+    <zone title="Whitehall"/>
+  </zones>
+</exit>

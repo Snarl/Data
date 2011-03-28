@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bayswater Rd - Porchester Terrace">
+  <nodes>
+    <node lat="51.51065903318943" lng="-0.18359152192306"/>
+    <node lat="51.51064317461029" lng="-0.1838329207344"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Porchester Terrace"/>
+  </zones>
+</exit>

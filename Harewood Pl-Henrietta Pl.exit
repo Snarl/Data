@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Harewood Pl-Henrietta Pl">
+  <nodes>
+    <node lat="51.51581486539154" lng="-0.14492211455536"/>
+    <node lat="51.51591167511315" lng="-0.14455733412933"/>
+  </nodes>
+  <zones>
+    <zone title="Henrietta Pl"/>
+    <zone title="Holles St"/>
+  </zones>
+</exit>

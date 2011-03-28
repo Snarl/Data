@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pall Mall - St James's Square (North)">
+  <nodes>
+    <node lat="51.50677685522265" lng="-0.13400820607376"/>
+    <node lat="51.50681358346156" lng="-0.13390225881767"/>
+  </nodes>
+  <zones>
+    <zone title="Pall Mall"/>
+    <zone title="St James\'s Square"/>
+  </zones>
+</exit>

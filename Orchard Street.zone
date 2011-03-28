@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Orchard Street">
+  <nodes maxlat="51.51531871234579" maxlng="-0.15371439570617" minlat="51.5139700166859" minlng="-0.15458611363601">
+    <node lat="51.51528866758033" lng="-0.15458611363601"/>
+    <node lat="51.51531871234579" lng="-0.15426961297226"/>
+    <node lat="51.51399171631333" lng="-0.15371439570617"/>
+    <node lat="51.5139700166859" lng="-0.1539718877716"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford St-Orchard St"/>
+    <exit title="Oxford St-Orchard St"/>
+  </exits>
+</zone>

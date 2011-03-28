@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Islip Street - Ponsonby Place (SW)">
+  <nodes>
+    <node lat="51.48990878758874" lng="-0.13023702019882"/>
+    <node lat="51.48984866452328" lng="-0.13006133550834"/>
+  </nodes>
+  <zones>
+    <zone title="John Islip Street"/>
+    <zone title="Ponsonby Place"/>
+  </zones>
+</exit>

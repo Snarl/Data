@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cadogan Park Upper - Sloane Street Upper">
+  <nodes>
+    <node lat="51.49725489541747" lng="-0.15889374131393"/>
+    <node lat="51.49837198792252" lng="-0.15921560639572"/>
+  </nodes>
+  <zones>
+    <zone title="Cadogan Place Park Upper"/>
+    <zone title="Sloane Street Upper"/>
+  </zones>
+</exit>

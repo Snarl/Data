@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<zone title="Grosvenor Place">
+  <nodes maxlat="51.50294526948064" maxlng="-0.14693779463005" minlat="51.4983043620192" minlng="-0.15256909245682">
+    <node lat="51.50294526948064" lng="-0.15237865561676"/>
+    <node lat="51.50288182439086" lng="-0.15256909245682"/>
+    <node lat="51.5027081847461" lng="-0.1524403464241"/>
+    <node lat="51.50255457989344" lng="-0.15235988015365"/>
+    <node lat="51.50241099228034" lng="-0.15229014271927"/>
+    <node lat="51.50227742200152" lng="-0.15219358319473"/>
+    <node lat="51.5021371727874" lng="-0.15206483716202"/>
+    <node lat="51.50201028026938" lng="-0.15192536229324"/>
+    <node lat="51.50190342313804" lng="-0.1517912518425"/>
+    <node lat="51.50178320856582" lng="-0.15161959046554"/>
+    <node lat="51.50161958266624" lng="-0.15141574258041"/>
+    <node lat="51.50144343371918" lng="-0.15113813394737"/>
+    <node lat="51.50137497754678" lng="-0.15103352779579"/>
+    <node lat="51.5010710976865" lng="-0.1505131792469"/>
+    <node lat="51.4983043620192" lng="-0.14724624866676"/>
+    <node lat="51.49833274821068" lng="-0.14693779463005"/>
+    <node lat="51.49966270502174" lng="-0.14818099850845"/>
+  </nodes>
+  <exits>
+    <exit title="Grosvenor Place - Hobart Place"/>
+    <exit title="Grosvenor Cresent - Grosvenor Pl"/>
+    <exit title="Grosvenor Cresent - Grosvenor Pl"/>
+    <exit title="Halkin Street - Grosvenor Pl"/>
+    <exit title="Halkin Street - Grosvenor Pl"/>
+    <exit title="Chapel Street - Grosvenor Pl"/>
+    <exit title="Chapel Street - Grosvenor Pl"/>
+    <exit title="Chester Street - Grosvenor Place"/>
+    <exit title="Grosvenor Place - Knightsbridge"/>
+  </exits>
+</zone>

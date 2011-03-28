@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Belgrave Street - Chester Street">
+  <nodes>
+    <node lat="51.49877523655935" lng="-0.15115422720146"/>
+    <node lat="51.49865918814436" lng="-0.15098256582451"/>
+  </nodes>
+  <zones>
+    <zone title="Chester Street"/>
+    <zone title="Upper Belgrave Place"/>
+  </zones>
+</exit>

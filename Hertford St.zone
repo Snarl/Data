@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Hertford St">
+  <nodes maxlat="51.50587950829614" maxlng="-0.1475962769432" minlat="51.50518499143728" minlng="-0.14995662087631">
+    <node lat="51.5052885018327" lng="-0.14995662087631"/>
+    <node lat="51.50518499143728" lng="-0.1498654257698"/>
+    <node lat="51.50574594818388" lng="-0.1475962769432"/>
+    <node lat="51.50587950829614" lng="-0.14763382786941"/>
+  </nodes>
+  <exits>
+    <exit title="Hertford St-Down St"/>
+    <exit title="Hertford St-Down St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bayswater Rd-Edgware Rd">
+  <nodes>
+    <node lat="51.51340415352023" lng="-0.16089735144806"/>
+    <node lat="51.51338412283691" lng="-0.15988884085846"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Edgware Rd"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Eagle Pl - Jermyn St">
+  <nodes>
+    <node lat="51.50899635625862" lng="-0.13530103081894"/>
+    <node lat="51.50896797670896" lng="-0.13539222592544"/>
+  </nodes>
+  <zones>
+    <zone title="Eagle Pl"/>
+    <zone title="Jermyn St"/>
+  </zones>
+</exit>

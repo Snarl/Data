@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="King Street">
+  <nodes maxlat="51.50694797513804" maxlng="-0.13613653892708" minlat="51.5060197460298" minlng="-0.13866854423713">
+    <node lat="51.5068311128016" lng="-0.13613653892708"/>
+    <node lat="51.50694797513804" lng="-0.1362491917057"/>
+    <node lat="51.50676433418904" lng="-0.13687146419716"/>
+    <node lat="51.5066341156131" lng="-0.13719332927894"/>
+    <node lat="51.50651391352034" lng="-0.13752592319679"/>
+    <node lat="51.5063436266795" lng="-0.13799262756538"/>
+    <node lat="51.5062067289538" lng="-0.1383735012455"/>
+    <node lat="51.50610322064428" lng="-0.13866854423713"/>
+    <node lat="51.5060197460298" lng="-0.13859880680275"/>
+  </nodes>
+  <exits>
+    <exit title="King St - Duke Street Saint James\'s"/>
+    <exit title="King St - Duke Street Saint James\'s"/>
+    <exit title="Bury St - King St"/>
+    <exit title="Bury St - King St"/>
+    <exit title="King Street - Crown Passage"/>
+    <exit title="King Street - Crown Passage"/>
+  </exits>
+</zone>

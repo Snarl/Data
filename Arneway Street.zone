@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Arneway Street">
+  <nodes maxlat="51.49534959674748" maxlng="-0.13182220572662" minlat="51.49497554103113" minlng="-0.13198313826751">
+    <node lat="51.49534959674748" lng="-0.1319804560585"/>
+    <node lat="51.49534792686274" lng="-0.13182220572662"/>
+    <node lat="51.49497554103113" lng="-0.13184634560776"/>
+    <node lat="51.49497721092954" lng="-0.13198313826751"/>
+  </nodes>
+  <exits>
+    <exit title="Arneway - Medway Street"/>
+    <exit title="Horseferry Road - Arneway Street"/>
+  </exits>
+</zone>

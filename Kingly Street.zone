@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Kingly Street">
+  <nodes maxlat="51.51387654126869" maxlng="-0.13844994420242" minlat="51.51198529166797" minlng="-0.14075932616424">
+    <node lat="51.51198529166797" lng="-0.13851699942779"/>
+    <node lat="51.51373799694598" lng="-0.14075932616424"/>
+    <node lat="51.51374968144113" lng="-0.14067617768478"/>
+    <node lat="51.51354603729498" lng="-0.14041868561935"/>
+    <node lat="51.51387654126869" lng="-0.13956574315262"/>
+    <node lat="51.51386986444444" lng="-0.13953892106247"/>
+    <node lat="51.51349929916577" lng="-0.14038649911117"/>
+    <node lat="51.51201033080917" lng="-0.13844994420242"/>
+  </nodes>
+  <exits>
+    <exit title="Fouberts Pl-Kingly St"/>
+    <exit title="Ganton St-Kingly St"/>
+    <exit title="Kingly St-Great Marlborough St"/>
+  </exits>
+</zone>

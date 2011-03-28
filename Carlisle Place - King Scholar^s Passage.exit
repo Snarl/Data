@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Carlisle Place - King Scholar's Passage">
+  <nodes>
+    <node lat="51.49591401429611" lng="-0.14161092752647"/>
+    <node lat="51.49585055941759" lng="-0.14154119009208"/>
+  </nodes>
+  <zones>
+    <zone title="Carlisle Place"/>
+    <zone title="King Scholar\'s Passage"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Knightsbridge - Brompton Road">
+  <nodes>
+    <node lat="51.50158201536896" lng="-0.16136137360763"/>
+    <node lat="51.5015419435975" lng="-0.16057280415725"/>
+  </nodes>
+  <zones>
+    <zone title="Knightsbridge"/>
+    <zone title="Brompton Road"/>
+  </zones>
+</exit>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Vere St">
+  <nodes maxlat="51.51545433082526" maxlng="-0.14694450015259" minlat="51.51471989973323" minlng="-0.1476311456604">
+    <node lat="51.51543263189459" lng="-0.1476311456604"/>
+    <node lat="51.51545433082526" lng="-0.14746753091049"/>
+    <node lat="51.51510714669391" lng="-0.14726904744339"/>
+    <node lat="51.51474159900345" lng="-0.14694450015259"/>
+    <node lat="51.51471989973323" lng="-0.14706519955826"/>
+    <node lat="51.51504038021142" lng="-0.1473977934761"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford St-Vere St"/>
+    <exit title="Oxford St-Vere St"/>
+    <exit title="Vere St-Henrietta Pl"/>
+  </exits>
+</zone>

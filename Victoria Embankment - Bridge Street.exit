@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Embankment - Bridge Street">
+  <nodes>
+    <node lat="51.50124223906797" lng="-0.12437102908325"/>
+    <node lat="51.50121301985357" lng="-0.12368572467994"/>
+  </nodes>
+  <zones>
+    <zone title="Bridge Street"/>
+    <zone title="Victoria Embankment"/>
+  </zones>
+</exit>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Vane Street">
+  <nodes maxlat="51.49419151557342" maxlng="-0.13633636349869" minlat="51.49399613367646" minlng="-0.13677892798614">
+    <node lat="51.49419151557342" lng="-0.13672528380584"/>
+    <node lat="51.49406126106848" lng="-0.13633636349869"/>
+    <node lat="51.49399613367646" lng="-0.13638464326095"/>
+    <node lat="51.49412638836746" lng="-0.13677892798614"/>
+  </nodes>
+  <exits>
+    <exit title="Vincent Square - Vane Street"/>
+    <exit title="Vane Street - Rochester Ro"/>
+  </exits>
+</zone>

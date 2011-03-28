@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Greycoat Lane - Elverton Street">
+  <nodes>
+    <node lat="51.49473340511317" lng="-0.13406855577659"/>
+    <node lat="51.49452800605091" lng="-0.13429117912483"/>
+  </nodes>
+  <zones>
+    <zone title="Greycoat Lane"/>
+    <zone title="Elverton Street"/>
+  </zones>
+</exit>

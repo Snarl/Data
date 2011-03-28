@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Charles street 1">
+  <nodes maxlat="51.5077518129167" maxlng="-0.14732939714622" minlat="51.50734280064376" minlng="-0.14883411640358">
+    <node lat="51.50738119787046" lng="-0.14883411640358"/>
+    <node lat="51.50734280064376" lng="-0.14883143419456"/>
+    <node lat="51.50764329981432" lng="-0.14732939714622"/>
+    <node lat="51.5077518129167" lng="-0.14745009655189"/>
+  </nodes>
+  <exits>
+    <exit title="Charlies St - Chesterfield Hill"/>
+    <exit title="Charlies St - Chesterfield Hill"/>
+    <exit title="Charles St-Chesterfield St"/>
+    <exit title="Charles St-Chesterfield St"/>
+  </exits>
+</zone>

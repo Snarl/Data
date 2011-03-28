@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Cremer Street">
+  <nodes maxlat="51.53073407014637" maxlng="-0.07391331309509" minlat="51.53026018864812" minlng="-0.0771212350769">
+    <node lat="51.53073407014637" lng="-0.07709977740478"/>
+    <node lat="51.53066065220894" lng="-0.07483599299621"/>
+    <node lat="51.5306139316417" lng="-0.07455704325866"/>
+    <node lat="51.53049379282004" lng="-0.07427809352112"/>
+    <node lat="51.53034028164208" lng="-0.07402060145569"/>
+    <node lat="51.5303069095784" lng="-0.07391331309509"/>
+    <node lat="51.53026018864812" lng="-0.07406351679992"/>
+    <node lat="51.53052049036336" lng="-0.07458922976684"/>
+    <node lat="51.53057388540304" lng="-0.07497546786499"/>
+    <node lat="51.53064730348037" lng="-0.0771212350769"/>
+  </nodes>
+  <exits>
+    <exit title="Nazrul - Cremer"/>
+    <exit title="Hackspace - Street"/>
+    <exit title="Hackspace - Street"/>
+    <exit title="Hackspace - Street"/>
+  </exits>
+</zone>

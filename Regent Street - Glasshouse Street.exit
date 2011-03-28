@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Regent Street - Glasshouse Street">
+  <nodes>
+    <node lat="51.51035438057014" lng="-0.13800737971496"/>
+    <node lat="51.51039778325934" lng="-0.13805565947723"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

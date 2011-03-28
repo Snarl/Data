@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Trevor Square - Lancelot Place">
+  <nodes>
+    <node lat="51.50019784918504" lng="-0.16385046357345"/>
+    <node lat="51.50005592385869" lng="-0.16379681939316"/>
+  </nodes>
+  <zones>
+    <zone title="Lancelot Place"/>
+    <zone title="Trevor Square"/>
+  </zones>
+</exit>

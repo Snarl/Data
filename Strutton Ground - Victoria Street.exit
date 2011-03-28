@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Strutton Ground - Victoria Street">
+  <nodes>
+    <node lat="51.4977675257206" lng="-0.13389957660866"/>
+    <node lat="51.49768821033405" lng="-0.13405782694053"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Strutton Ground"/>
+  </zones>
+</exit>

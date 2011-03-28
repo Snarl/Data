@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Blackburne's Mews - Upper Brook St">
+  <nodes>
+    <node lat="51.51140062421532" lng="-0.1539256196661"/>
+    <node lat="51.51141731717884" lng="-0.15375932270717"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Brook St"/>
+    <zone title="Blackburne\'s Mews"/>
+  </zones>
+</exit>

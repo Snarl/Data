@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Milbank South - Tory HQ">
+  <nodes>
+    <node lat="51.4928346809548" lng="-0.12536612862777"/>
+    <node lat="51.49235372507916" lng="-0.12553779000473"/>
+  </nodes>
+  <zones>
+    <zone title="Milbank South"/>
+    <zone title="Tory HQ"/>
+  </zones>
+</exit>

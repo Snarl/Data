@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Old Queen Street">
+  <nodes maxlat="51.50094002800522" maxlng="-0.12968448514175" minlat="51.49979461317906" minlng="-0.13229963893127">
+    <node lat="51.50094002800522" lng="-0.12968448514175"/>
+    <node lat="51.50083650773197" lng="-0.1297113072319"/>
+    <node lat="51.50075302346931" lng="-0.13078955525589"/>
+    <node lat="51.50070961159233" lng="-0.13158885354233"/>
+    <node lat="51.50062946647996" lng="-0.1317283284111"/>
+    <node lat="51.49980964067364" lng="-0.13213065976333"/>
+    <node lat="51.49979461317906" lng="-0.13229963893127"/>
+    <node lat="51.50063948462672" lng="-0.13190535420608"/>
+    <node lat="51.50083984709928" lng="-0.13174978608322"/>
+    <node lat="51.50086322266369" lng="-0.13082174176407"/>
+    <node lat="51.50082315026022" lng="-0.13075736874771"/>
+  </nodes>
+  <exits>
+    <exit title="Old Queen Street - Lewisham Street"/>
+    <exit title="Old Queen Street - Queen Anne\'s Gate"/>
+    <exit title="Storey\'s Gate - Old Queen Street"/>
+    <exit title="Tothill Street - Old Queen Street"/>
+    <exit title="Tothill Street - Old Queen Street"/>
+  </exits>
+</zone>

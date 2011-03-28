@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxford St-Orchard St">
+  <nodes>
+    <node lat="51.51405848433195" lng="-0.15367684477997"/>
+    <node lat="51.51403845393639" lng="-0.15412745589447"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 1"/>
+    <zone title="Orchard Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wardour St - Sheraton St">
+  <nodes>
+    <node lat="51.51486136210438" lng="-0.13498453015518"/>
+    <node lat="51.51476621932382" lng="-0.13490674609375"/>
+  </nodes>
+  <zones>
+    <zone title="Wardour Street"/>
+    <zone title="Sherador Street"/>
+  </zones>
+</exit>

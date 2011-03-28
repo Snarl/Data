@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<zone title="Wardour Street">
+  <nodes maxlat="51.51586452213623" maxlng="-0.13242570275497" minlat="51.51181502528215" minlng="-0.13593269104194">
+    <node lat="51.51584616166858" lng="-0.13593269104194"/>
+    <node lat="51.51586452213623" lng="-0.1357449364109"/>
+    <node lat="51.51581611725101" lng="-0.13575030082893"/>
+    <node lat="51.51527698350091" lng="-0.13534528726768"/>
+    <node lat="51.51475453511021" lng="-0.13491076940727"/>
+    <node lat="51.51423708830562" lng="-0.13456208223533"/>
+    <node lat="51.51398003190126" lng="-0.13432604784202"/>
+    <node lat="51.51364785946414" lng="-0.13408196682167"/>
+    <node lat="51.51304026140222" lng="-0.13365281337929"/>
+    <node lat="51.51260625782474" lng="-0.13336849922371"/>
+    <node lat="51.51248774074448" lng="-0.13314051145744"/>
+    <node lat="51.51187678865478" lng="-0.13242570275497"/>
+    <node lat="51.51181502528215" lng="-0.13250080460739"/>
+    <node lat="51.51230412212826" lng="-0.13303992861938"/>
+    <node lat="51.51254259415484" lng="-0.13339029217195"/>
+    <node lat="51.51259100251871" lng="-0.13348148727846"/>
+    <node lat="51.51317022964085" lng="-0.13388113642168"/>
+    <node lat="51.51397312306801" lng="-0.13444440031481"/>
+    <node lat="51.51407828269744" lng="-0.13455973530245"/>
+  </nodes>
+  <exits>
+    <exit title="East Oxford Street 2 - Wardour Street"/>
+    <exit title="Noel Street - Wardour Street"/>
+    <exit title="Noel Street - Wardour Street"/>
+    <exit title="Hollen Street - Wardour Street"/>
+    <exit title="Hollen Street - Wardour Street"/>
+    <exit title="Wardour Street - D\'Arblay Street"/>
+    <exit title="Wardour Street - D\'Arblay Street"/>
+    <exit title="Wardour St - Sheraton St"/>
+    <exit title="Wardour St - Sheraton St"/>
+    <exit title="Wardour Street - Shaftesbury Avenue "/>
+    <exit title="Wardour Street - Shaftesbury Avenue "/>
+  </exits>
+</zone>

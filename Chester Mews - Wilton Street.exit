@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chester Mews - Wilton Street">
+  <nodes>
+    <node lat="51.4992569595554" lng="-0.14918414468002"/>
+    <node lat="51.49918683035456" lng="-0.1491090428276"/>
+  </nodes>
+  <zones>
+    <zone title="Little Chester Street"/>
+    <zone title="Chester Mews"/>
+  </zones>
+</exit>

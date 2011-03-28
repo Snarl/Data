@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hanover Street - Regent Street 1">
+  <nodes>
+    <node lat="51.51384566082606" lng="-0.14163909072113"/>
+    <node lat="51.51397919719548" lng="-0.14175710791778"/>
+  </nodes>
+  <zones>
+    <zone title="Hanover St"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bayswater Rd - Queensborough Terrace">
+  <nodes>
+    <node lat="51.51054134570701" lng="-0.18481460923385"/>
+    <node lat="51.51052632175124" lng="-0.18497822398376"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Queensborough Terrace"/>
+  </zones>
+</exit>

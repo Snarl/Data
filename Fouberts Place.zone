@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Fouberts Place">
+  <nodes maxlat="51.51395165545433" maxlng="-0.13837752455902" minlat="51.51315460396258" minlng="-0.14047903532219">
+    <node lat="51.51315460396258" lng="-0.14046964759063"/>
+    <node lat="51.51379975771167" lng="-0.13901857251358"/>
+    <node lat="51.51389657171609" lng="-0.13841239327621"/>
+    <node lat="51.51395165545433" lng="-0.13837752455902"/>
+    <node lat="51.51383314187436" lng="-0.13904807681274"/>
+    <node lat="51.51328897697154" lng="-0.14029932731819"/>
+    <node lat="51.5132647731669" lng="-0.14027250522804"/>
+    <node lat="51.51316962705194" lng="-0.14047903532219"/>
+  </nodes>
+  <exits>
+    <exit title="Fouberts Place - Regent Street"/>
+    <exit title="Fouberts Place - Regent Street"/>
+    <exit title="Fouberts Pl-Kingly St"/>
+  </exits>
+</zone>

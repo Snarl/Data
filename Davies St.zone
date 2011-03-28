@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<zone title="Davies St" status="orange" reason="">
+  <nodes maxlat="51.51424960721492" maxlng="-0.14687878603172" minlat="51.50988279096212" minlng="-0.14923912996483">
+    <node lat="51.51421622335744" lng="-0.14923912996483"/>
+    <node lat="51.51424960721492" lng="-0.14894945139122"/>
+    <node lat="51.51330149614308" lng="-0.14848811144066"/>
+    <node lat="51.51264715445776" lng="-0.14816624635887"/>
+    <node lat="51.51204955868664" lng="-0.14795166963768"/>
+    <node lat="51.51163891570754" lng="-0.14780683035087"/>
+    <node lat="51.51103796809044" lng="-0.14747423643303"/>
+    <node lat="51.5104236578884" lng="-0.1472167443676"/>
+    <node lat="51.50988279096212" lng="-0.14687878603172"/>
+    <node lat="51.50990282318498" lng="-0.14713627809715"/>
+  </nodes>
+  <exits>
+    <exit title="Davies St - West Oxford Street 2"/>
+    <exit title="Davies St - West Oxford Street 2"/>
+    <exit title="Davies St - Brook St (South)"/>
+    <exit title="Davies St - Brook St (South)"/>
+    <exit title="Grosvenor St - Davies St (West)"/>
+    <exit title="Davies St - Brook St (North)"/>
+    <exit title="Davies St - Brook St (West)"/>
+    <exit title="Davies Street - Brook Street (East)"/>
+    <exit title="Grosvenor St - Davies St (East)"/>
+    <exit title="Grosvenor St - Davies St (North)"/>
+    <exit title="Grosvenor St - Davies St (South)"/>
+  </exits>
+</zone>

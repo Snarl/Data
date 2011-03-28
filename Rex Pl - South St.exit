@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rex Pl - South St">
+  <nodes>
+    <node lat="51.50823093696604" lng="-0.15271929616165"/>
+    <node lat="51.50827768050048" lng="-0.15257982129287"/>
+  </nodes>
+  <zones>
+    <zone title="Rex Pl"/>
+    <zone title="South St"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ryder St - Bury st (West)">
+  <nodes>
+    <node lat="51.50675765635784" lng="-0.13848615402412"/>
+    <node lat="51.50685949371772" lng="-0.13857734913063"/>
+  </nodes>
+  <zones>
+    <zone title="Bury St"/>
+    <zone title="Ryder St"/>
+  </zones>
+</exit>

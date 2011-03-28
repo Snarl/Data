@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Hide Place">
+  <nodes maxlat="51.49288018779882" maxlng="-0.13302115315628" minlat="51.49157090843882" minlng="-0.13409940118026">
+    <node lat="51.49284511830612" lng="-0.1331874501152"/>
+    <node lat="51.49288018779882" lng="-0.13302115315628"/>
+    <node lat="51.4918715116174" lng="-0.13377485388946"/>
+    <node lat="51.49157090843882" lng="-0.13396260852051"/>
+    <node lat="51.4916243491488" lng="-0.13409940118026"/>
+    <node lat="51.4927900090487" lng="-0.13324377650451"/>
+  </nodes>
+  <exits>
+    <exit title="Esterbrooke Street - Hide Place"/>
+    <exit title="Esterbrooke Street - Hide Place"/>
+    <exit title="Hide Place - Douglas Street"/>
+    <exit title="Vincent Area - Hide Place"/>
+  </exits>
+</zone>

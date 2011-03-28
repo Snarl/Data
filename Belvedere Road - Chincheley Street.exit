@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Belvedere Road - Chincheley Street">
+  <nodes>
+    <node lat="51.50285177142423" lng="-0.11747506970596"/>
+    <node lat="51.50300704487939" lng="-0.11741740221214"/>
+  </nodes>
+  <zones>
+    <zone title="Chincheley Street"/>
+    <zone title="Belvedere Road"/>
+  </zones>
+</exit>

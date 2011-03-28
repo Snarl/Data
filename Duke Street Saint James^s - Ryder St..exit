@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Duke Street Saint James's - Ryder St.">
+  <nodes>
+    <node lat="51.50714497100498" lng="-0.13770563120079"/>
+    <node lat="51.5072451380503" lng="-0.13779146188926"/>
+  </nodes>
+  <zones>
+    <zone title="Duke Street Saint James\'s"/>
+    <zone title="Ryder St 2"/>
+  </zones>
+</exit>

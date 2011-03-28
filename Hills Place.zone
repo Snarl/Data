@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Hills Place">
+  <nodes maxlat="51.51536127573124" maxlng="-0.14006463402939" minlat="51.5147486930019" minlng="-0.14032480830383">
+    <node lat="51.5153445842129" lng="-0.14032480830383"/>
+    <node lat="51.51536127573124" lng="-0.14022824877929"/>
+    <node lat="51.51495567010445" lng="-0.14014510029983"/>
+    <node lat="51.51484884333024" lng="-0.14006463402939"/>
+    <node lat="51.5147486930019" lng="-0.14008340949249"/>
+    <node lat="51.51500407590403" lng="-0.14025238866043"/>
+  </nodes>
+  <exits>
+    <exit title="Hills Pl - East Oxford Street 1"/>
+    <exit title="Hills Pl - East Oxford Street 1"/>
+  </exits>
+</zone>

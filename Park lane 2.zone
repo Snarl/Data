@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Park lane 2">
+  <nodes maxlat="51.50977595229778" maxlng="-0.15101207012367" minlat="51.50573593120714" minlng="-0.15679491275978">
+    <node lat="51.50977595229778" lng="-0.15679491275978"/>
+    <node lat="51.50970917800128" lng="-0.15589369053077"/>
+    <node lat="51.5090547847164" lng="-0.15496028179359"/>
+    <node lat="51.50735198263084" lng="-0.1531792950077"/>
+    <node lat="51.5066307766807" lng="-0.1522244285984"/>
+    <node lat="51.50573593120714" lng="-0.15101207012367"/>
+    <node lat="51.50580938933346" lng="-0.15196693653297"/>
+  </nodes>
+  <exits>
+    <exit title="Mount st - Park ln"/>
+    <exit title="Mount st - Park ln"/>
+    <exit title="South St - Park lane"/>
+    <exit title="South St - Park lane"/>
+    <exit title="Deanery St - Park lane"/>
+    <exit title="Deanery St - Park lane"/>
+    <exit title="Stanhope Gate - Park lane"/>
+    <exit title="Curzon St - Park lane"/>
+    <exit title="Curzon St - Park lane"/>
+    <exit title="Curzon St - Park lane"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Castle Lane - Buckingham Gate">
+  <nodes>
+    <node lat="51.49901401150582" lng="-0.13830108160209"/>
+    <node lat="51.49897560722829" lng="-0.13816965336036"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Gate"/>
+    <zone title="Castle Lane"/>
+  </zones>
+</exit>

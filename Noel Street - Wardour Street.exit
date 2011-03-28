@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Noel Street - Wardour Street">
+  <nodes>
+    <node lat="51.51530314108712" lng="-0.13551309296918"/>
+    <node lat="51.51525223187213" lng="-0.13547420093846"/>
+  </nodes>
+  <zones>
+    <zone title="Noel Street"/>
+    <zone title="Wardour Street"/>
+  </zones>
+</exit>

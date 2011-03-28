@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<zone title="Grosvenor Crescent">
+  <nodes maxlat="51.50226740421638" maxlng="-0.15197364205551" minlat="51.50021705085798" minlng="-0.15373317116928">
+    <node lat="51.50056434846972" lng="-0.15373317116928"/>
+    <node lat="51.50050090006514" lng="-0.1535936963005"/>
+    <node lat="51.50021705085798" lng="-0.15368489140701"/>
+    <node lat="51.50023040850734" lng="-0.15333620423507"/>
+    <node lat="51.50044079096882" lng="-0.15315917844009"/>
+    <node lat="51.50061109986916" lng="-0.15340594166946"/>
+    <node lat="51.50079142624642" lng="-0.1531967293663"/>
+    <node lat="51.50091832215826" lng="-0.15336839074325"/>
+    <node lat="51.50117879160718" lng="-0.15318600053024"/>
+    <node lat="51.50090830407282" lng="-0.15277830475998"/>
+    <node lat="51.50097509126758" lng="-0.15268710965347"/>
+    <node lat="51.50110198666802" lng="-0.15285340661239"/>
+    <node lat="51.50128898977202" lng="-0.15273002499771"/>
+    <node lat="51.5013624550672" lng="-0.15284267777633"/>
+    <node lat="51.50144927753612" lng="-0.15277294034195"/>
+    <node lat="51.50151606393812" lng="-0.15296069497299"/>
+    <node lat="51.50206370874262" lng="-0.15197364205551"/>
+    <node lat="51.50226740421638" lng="-0.15217212552261"/>
+    <node lat="51.50211045860398" lng="-0.15281049126816"/>
+    <node lat="51.5019635303068" lng="-0.15278366917801"/>
+    <node lat="51.50180658364788" lng="-0.15307334775162"/>
+    <node lat="51.50144259889054" lng="-0.15346495026779"/>
+    <node lat="51.50099512740694" lng="-0.15367952698898"/>
+  </nodes>
+  <exits>
+    <exit title="Grosvenor Cresent - Grosvenor Pl"/>
+    <exit title="Grosvenor Cresent - Grosvenor Pl"/>
+    <exit title="Grosvenor Crescent - Grosvenor Crescent Mews"/>
+    <exit title="Grosvenor Crescent - Grosvenor Square"/>
+    <exit title="Grosvenor Crescent - Halkin Street"/>
+    <exit title="Halkin Street - Grosvenor Crescent"/>
+    <exit title="Lanesborough Place - Grosvenor Crescent"/>
+  </exits>
+</zone>

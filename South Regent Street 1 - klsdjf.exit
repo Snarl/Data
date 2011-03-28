@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="South Regent Street 1 - klsdjf">
+  <nodes>
+    <node lat="51.51381644979519" lng="-0.1410583924694"/>
+    <node lat="51.51368625137457" lng="-0.14094305748176"/>
+  </nodes>
+  <zones>
+    <zone title="Regent Street South 1"/>
+    <zone title="Great Marlborough Street"/>
+  </zones>
+</exit>

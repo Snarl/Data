@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Trafalgar Square - Strand">
+  <nodes>
+    <node lat="51.5080397887812" lng="-0.12693387979698"/>
+    <node lat="51.50766583721056" lng="-0.1268480491085"/>
+  </nodes>
+  <zones>
+    <zone title="Charing Cross"/>
+    <zone title="Trafalga Sq"/>
+  </zones>
+</exit>

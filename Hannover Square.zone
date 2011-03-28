@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Hannover Square">
+  <nodes maxlat="51.51449915096903" maxlng="-0.14299762958717" minlat="51.51328396945055" minlng="-0.14464450592232">
+    <node lat="51.51425878796582" lng="-0.14464450592232"/>
+    <node lat="51.5135376913463" lng="-0.14426899666023"/>
+    <node lat="51.51336409230715" lng="-0.14419389480781"/>
+    <node lat="51.51328396945055" lng="-0.14414561504555"/>
+    <node lat="51.5134976300883" lng="-0.14299762958717"/>
+    <node lat="51.51449915096903" lng="-0.14346433395576"/>
+  </nodes>
+  <exits>
+    <exit title="Brook Street - Hanover Square"/>
+    <exit title="Brook Street - Hanover Square"/>
+    <exit title="Princes St - Hannover Square"/>
+    <exit title="Princes St - Hannover Square"/>
+    <exit title="Hanover St - Hanover Square"/>
+    <exit title="Hanover St - Hanover Square"/>
+    <exit title="St George\'s St - Hanove Square"/>
+    <exit title="St George\'s St - Hanove Square"/>
+    <exit title="Tenderden St - Hanover Square"/>
+    <exit title="Tenderden St - Hanover Square"/>
+  </exits>
+</zone>

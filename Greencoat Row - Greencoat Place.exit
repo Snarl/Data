@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Greencoat Row - Greencoat Place">
+  <nodes>
+    <node lat="51.49560508839787" lng="-0.13642755860519"/>
+    <node lat="51.49550155600673" lng="-0.13648656720352"/>
+  </nodes>
+  <zones>
+    <zone title="Greencoat Row"/>
+    <zone title="Greencoat Place"/>
+  </zones>
+</exit>

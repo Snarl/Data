@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Sevile Row">
+  <nodes maxlat="51.51209295974402" maxlng="-0.13871011847687" minlat="51.50920502888062" minlng="-0.1416337263031">
+    <node lat="51.51203620448484" lng="-0.1416337263031"/>
+    <node lat="51.51209295974402" lng="-0.14148888701629"/>
+    <node lat="51.51079424816954" lng="-0.14025507086944"/>
+    <node lat="51.50963906486134" lng="-0.13914463633728"/>
+    <node lat="51.50925177141568" lng="-0.13871011847687"/>
+    <node lat="51.50920502888062" lng="-0.13890323752594"/>
+  </nodes>
+  <exits>
+    <exit title="Burlington Gardens - Savile Row"/>
+    <exit title="Burlington Gardens - Savile Row"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lower Grosvenor Place West - Buckingham Palace Road">
+  <nodes>
+    <node lat="51.4982417453612" lng="-0.14402491563987"/>
+    <node lat="51.49808311610048" lng="-0.14413488620949"/>
+  </nodes>
+  <zones>
+    <zone title="Lower Grosvenor Place West"/>
+    <zone title="Buckingham Palace Road"/>
+  </zones>
+</exit>

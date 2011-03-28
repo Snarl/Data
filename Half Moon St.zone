@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Half Moon St">
+  <nodes maxlat="51.5069638349683" maxlng="-0.14459354395103" minlat="51.50586448280498" minlng="-0.1462270092411">
+    <node lat="51.506915420625" lng="-0.1462270092411"/>
+    <node lat="51.5069638349683" lng="-0.14616531843376"/>
+    <node lat="51.50654145982614" lng="-0.14555913919639"/>
+    <node lat="51.5059337669819" lng="-0.14459354395103"/>
+    <node lat="51.50586448280498" lng="-0.14472631329727"/>
+    <node lat="51.50592792374214" lng="-0.14476386422348"/>
+  </nodes>
+  <exits>
+    <exit title="Half Moon St - Piccadily Place 1"/>
+  </exits>
+</zone>

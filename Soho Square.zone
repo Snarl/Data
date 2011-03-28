@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Soho Square" status="orange" reason="Roving police lines around Soho Square, no &#10;kettles yet.">
+  <nodes maxlat="51.51587870976509" maxlng="-0.13128308171463" minlat="51.51467191093404" minlng="-0.13315258139801">
+    <node lat="51.51467191093404" lng="-0.13257590645981"/>
+    <node lat="51.51501909838275" lng="-0.13128308171463"/>
+    <node lat="51.51587870976509" lng="-0.13189194316101"/>
+    <node lat="51.51551984484989" lng="-0.13315258139801"/>
+  </nodes>
+  <exits>
+    <exit title="Soho Street - Soho Square"/>
+    <exit title="Soho Street - Soho Square"/>
+  </exits>
+</zone>

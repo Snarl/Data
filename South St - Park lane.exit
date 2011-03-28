@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="South St - Park lane">
+  <nodes>
+    <node lat="51.5080114085678" lng="-0.15379217976761"/>
+    <node lat="51.507884532407" lng="-0.15360442513656"/>
+  </nodes>
+  <zones>
+    <zone title="South St"/>
+    <zone title="Park lane 2"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St James' Park Broadway - Queen Anne's Gate">
+  <nodes>
+    <node lat="51.50041407578739" lng="-0.13401222938728"/>
+    <node lat="51.50041073638889" lng="-0.13382983917427"/>
+  </nodes>
+  <zones>
+    <zone title="Queen Anne\'s Gate"/>
+    <zone title="St James\'s Park Broadway"/>
+  </zones>
+</exit>

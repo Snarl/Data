@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Sherador Street">
+  <nodes maxlat="51.515047474163" maxlng="-0.13416645640564" minlat="51.51478708398677" minlng="-0.13498721236419">
+    <node lat="51.51484550498918" lng="-0.13498721236419"/>
+    <node lat="51.51478708398677" lng="-0.13492552155685"/>
+    <node lat="51.51499239174986" lng="-0.13416645640564"/>
+    <node lat="51.515047474163" lng="-0.13422278279495"/>
+  </nodes>
+  <exits>
+    <exit title="Wardour St - Sheraton St"/>
+    <exit title="Wardour St - Sheraton St"/>
+  </exits>
+</zone>

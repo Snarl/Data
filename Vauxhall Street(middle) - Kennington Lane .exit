@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Vauxhall Street(middle) - Kennington Lane ">
+  <nodes>
+    <node lat="51.486968509765" lng="-0.11637536400985"/>
+    <node lat="51.48679480949154" lng="-0.11627880448532"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

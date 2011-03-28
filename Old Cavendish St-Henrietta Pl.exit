@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Cavendish St-Henrietta Pl">
+  <nodes>
+    <node lat="51.51568133440341" lng="-0.14594135398102"/>
+    <node lat="51.51563793674801" lng="-0.14622030371856"/>
+  </nodes>
+  <zones>
+    <zone title="Henrietta Pl"/>
+    <zone title="Ole Cavendish St"/>
+  </zones>
+</exit>

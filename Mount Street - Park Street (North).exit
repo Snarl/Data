@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Mount Street - Park Street (North)">
+  <nodes>
+    <node lat="51.50916913730742" lng="-0.15397456998062"/>
+    <node lat="51.50922255738566" lng="-0.15372780675125"/>
+  </nodes>
+  <zones>
+    <zone title="Mount St"/>
+    <zone title="Park Street"/>
+  </zones>
+</exit>

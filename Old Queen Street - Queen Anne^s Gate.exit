@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Queen Street - Queen Anne's Gate">
+  <nodes>
+    <node lat="51.50061777863691" lng="-0.13192144746017"/>
+    <node lat="51.50048921219182" lng="-0.13197777384948"/>
+  </nodes>
+  <zones>
+    <zone title="Old Queen Street"/>
+    <zone title="Queen Anne\'s Gate"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Denman Street - Shaftesbury Avenue">
+  <nodes>
+    <node lat="51.51083765044478" lng="-0.13407928461265"/>
+    <node lat="51.51068741164128" lng="-0.13412219995689"/>
+  </nodes>
+  <zones>
+    <zone title="Denman Street"/>
+    <zone title="Shaftesbury Avenue"/>
+  </zones>
+</exit>

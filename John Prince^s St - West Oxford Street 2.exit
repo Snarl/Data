@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Prince's St - West Oxford Street 2">
+  <nodes>
+    <node lat="51.5152678031388" lng="-0.14289838785362"/>
+    <node lat="51.51530786284004" lng="-0.14259798044395"/>
+  </nodes>
+  <zones>
+    <zone title="John Prince\'s St"/>
+    <zone title="West Oxford Street 2"/>
+  </zones>
+</exit>

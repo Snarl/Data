@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Causton Street">
+  <nodes maxlat="51.49107323882036" maxlng="-0.13098535651397" minlat="51.48969376375776" minlng="-0.13211188430023">
+    <node lat="51.4909847265405" lng="-0.13210920209121"/>
+    <node lat="51.49094798554364" lng="-0.13159421796036"/>
+    <node lat="51.49033340447916" lng="-0.13133672589493"/>
+    <node lat="51.49007621320516" lng="-0.13119993323517"/>
+    <node lat="51.48999771947544" lng="-0.13119188660812"/>
+    <node lat="51.48975221693776" lng="-0.13150302285385"/>
+    <node lat="51.48969376375776" lng="-0.13137427682113"/>
+    <node lat="51.48994093669308" lng="-0.13107118720245"/>
+    <node lat="51.49001275020008" lng="-0.13105509394836"/>
+    <node lat="51.49014635642374" lng="-0.13098535651397"/>
+    <node lat="51.4902933228176" lng="-0.13106314057541"/>
+    <node lat="51.4906022847143" lng="-0.13127503508758"/>
+    <node lat="51.49094798554364" lng="-0.13139037007522"/>
+    <node lat="51.49103148776634" lng="-0.13152179831695"/>
+    <node lat="51.49107323882036" lng="-0.13211188430023"/>
+  </nodes>
+  <exits>
+    <exit title="Ponsonby Place - Causton Street"/>
+    <exit title="Cureton Street - Causton Street"/>
+    <exit title="Causton Street - Regency Street"/>
+    <exit title="Causton Street - Regency Street"/>
+    <exit title="Causton Street - Vauxhall Bridge Road"/>
+  </exits>
+</zone>

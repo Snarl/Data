@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Greencoat Place South">
+  <nodes maxlat="51.49396858114942" maxlng="-0.13778877968025" minlat="51.49360787369073" minlng="-0.13840300554466">
+    <node lat="51.49367634152968" lng="-0.13840300554466"/>
+    <node lat="51.49360787369073" lng="-0.13834667915535"/>
+    <node lat="51.4936679917987" lng="-0.13815356010628"/>
+    <node lat="51.49387840455233" lng="-0.13778877968025"/>
+    <node lat="51.49396858114942" lng="-0.13792825454902"/>
+  </nodes>
+  <exits>
+    <exit title="Greencoat Place - Willow Place"/>
+    <exit title="Stillington Street - Greencoat Place South"/>
+  </exits>
+</zone>

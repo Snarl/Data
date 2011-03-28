@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hertford St-Down St">
+  <nodes>
+    <node lat="51.50543875416776" lng="-0.14872146362495"/>
+    <node lat="51.50549217861981" lng="-0.1484961580677"/>
+  </nodes>
+  <zones>
+    <zone title="Down St"/>
+    <zone title="Hertford St"/>
+  </zones>
+</exit>

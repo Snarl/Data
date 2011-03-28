@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Brook St - Park lane">
+  <nodes>
+    <node lat="51.5109361400091" lng="-0.15684989804458"/>
+    <node lat="51.51106968490758" lng="-0.15695182198715"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Brook St"/>
+    <zone title="Park Lane 1"/>
+  </zones>
+</exit>

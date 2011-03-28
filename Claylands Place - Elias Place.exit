@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Claylands Place - Elias Place">
+  <nodes>
+    <node lat="51.48133042899693" lng="-0.11393187159729"/>
+    <node lat="51.48129200982054" lng="-0.11384604090881"/>
+  </nodes>
+  <zones>
+    <zone title="Claylands Place"/>
+    <zone title="Elias Place"/>
+  </zones>
+</exit>

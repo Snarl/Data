@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Brook Street - Park Street (South)">
+  <nodes>
+    <node lat="51.51121825323804" lng="-0.15498442167473"/>
+    <node lat="51.51127834811864" lng="-0.154673285429"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Brook St"/>
+    <zone title="Park Street"/>
+  </zones>
+</exit>

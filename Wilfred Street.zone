@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Wilfred Street">
+  <nodes maxlat="51.49917555955788" maxlng="-0.13867524975967" minlat="51.49841164501323" minlng="-0.14031005615425">
+    <node lat="51.49912630206658" lng="-0.13867524975967"/>
+    <node lat="51.49892259255302" lng="-0.13889787310791"/>
+    <node lat="51.49841164501323" lng="-0.140084750597"/>
+    <node lat="51.49850014287308" lng="-0.14031005615425"/>
+    <node lat="51.49866628461726" lng="-0.13991845363807"/>
+    <node lat="51.49892175767584" lng="-0.13926667684746"/>
+    <node lat="51.49917555955788" lng="-0.13884557003212"/>
+  </nodes>
+  <exits>
+    <exit title="Wilfred Street - Buckingham Gate"/>
+    <exit title="Wilfred Street - Catherine Place"/>
+    <exit title="Wilfred Street - Palace Street"/>
+  </exits>
+</zone>

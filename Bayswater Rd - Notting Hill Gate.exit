@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bayswater Rd - Notting Hill Gate">
+  <nodes>
+    <node lat="51.50986526279226" lng="-0.19249377364349"/>
+    <node lat="51.50977511764564" lng="-0.19244549388122"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Notting Hill Gate"/>
+  </zones>
+</exit>

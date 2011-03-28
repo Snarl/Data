@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fentiman Road - Miles Street">
+  <nodes>
+    <node lat="51.48261619994152" lng="-0.12399283761215"/>
+    <node lat="51.48268134359081" lng="-0.12392712349128"/>
+  </nodes>
+  <zones>
+    <zone title="Fentiman Road (west)"/>
+    <zone title="MIles Street"/>
+  </zones>
+</exit>

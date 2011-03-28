@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Oswulf Street - Erasmus Street">
+  <nodes>
+    <node lat="51.49177924335586" lng="-0.12982664221954"/>
+    <node lat="51.49168071233294" lng="-0.12992051953506"/>
+  </nodes>
+  <zones>
+    <zone title="Erasmus Street"/>
+    <zone title="St Oswufl Street"/>
+  </zones>
+</exit>

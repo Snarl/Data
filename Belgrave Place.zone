@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Belgrave Place">
+  <nodes maxlat="51.49813571428776" maxlng="-0.1512883376522" minlat="51.49670468807476" minlng="-0.15339118951988">
+    <node lat="51.49801048041542" lng="-0.15339118951988"/>
+    <node lat="51.49813571428776" lng="-0.15315783733558"/>
+    <node lat="51.49684495400704" lng="-0.1512883376522"/>
+    <node lat="51.49670468807476" lng="-0.1515216898365"/>
+  </nodes>
+  <exits>
+    <exit title="Belgrave Square - Belgrave Place"/>
+    <exit title="Belgrave Square - Belgrave Place"/>
+    <exit title="Eaton Road - Belgrave Place"/>
+    <exit title="Belgrave Square - Belgrave Place"/>
+    <exit title="Eaton Road - Belgrave Place"/>
+    <exit title="Belgrave Place - Eaton Square"/>
+    <exit title="Belgrave Place - Eccleston Mews"/>
+    <exit title="Belgrave Place - Eccleston Mews"/>
+    <exit title="Eaton Road - Belgrave Place"/>
+  </exits>
+</zone>

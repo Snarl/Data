@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cockspur Street - Trafalgar Square">
+  <nodes>
+    <node lat="51.50760573755548" lng="-0.12896699423027"/>
+    <node lat="51.50738537150914" lng="-0.12895626539421"/>
+  </nodes>
+  <zones>
+    <zone title="Cockspur Street"/>
+    <zone title="Trafalga Sq"/>
+  </zones>
+</exit>

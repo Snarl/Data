@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Eaton Place">
+  <nodes maxlat="51.4983118760147" maxlng="-0.15072641486358" minlat="51.49527946153412" minlng="-0.15557048434448">
+    <node lat="51.4983118760147" lng="-0.15092489833069"/>
+    <node lat="51.49818831240719" lng="-0.15072641486358"/>
+    <node lat="51.49527946153412" lng="-0.15541491622162"/>
+    <node lat="51.49549654636731" lng="-0.15557048434448"/>
+    <node lat="51.49546982828982" lng="-0.15544173831177"/>
+  </nodes>
+  <exits>
+    <exit title="Lyall Street - Eaton Place (2)"/>
+    <exit title="Eaton Place - Upper Belgrave Street"/>
+    <exit title="Eaton Road - Belgrave Place"/>
+  </exits>
+</zone>

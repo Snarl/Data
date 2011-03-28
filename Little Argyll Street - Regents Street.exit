@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Little Argyll Street - Regents Street">
+  <nodes>
+    <node lat="51.51446159417149" lng="-0.14154655451011"/>
+    <node lat="51.51433974354044" lng="-0.14149559253883"/>
+  </nodes>
+  <zones>
+    <zone title="Little Argyll Street"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

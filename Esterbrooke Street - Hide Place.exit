@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Esterbrooke Street - Hide Place">
+  <nodes>
+    <node lat="51.49220843532822" lng="-0.13352540845108"/>
+    <node lat="51.49213829528217" lng="-0.13357502931785"/>
+  </nodes>
+  <zones>
+    <zone title="Hide Place"/>
+    <zone title="Esterbrooke Street"/>
+  </zones>
+</exit>

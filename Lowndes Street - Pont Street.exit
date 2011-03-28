@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lowndes Street - Pont Street">
+  <nodes>
+    <node lat="51.4975688195413" lng="-0.15617398137283"/>
+    <node lat="51.49762225322" lng="-0.15568581933212"/>
+  </nodes>
+  <zones>
+    <zone title="Lowndes Street"/>
+    <zone title="Pont Street"/>
+  </zones>
+</exit>

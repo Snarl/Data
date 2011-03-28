@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Margret Street - Abingdon Street">
+  <nodes>
+    <node lat="51.49760221559762" lng="-0.12561959737968"/>
+    <node lat="51.49759386658582" lng="-0.12586367840004"/>
+  </nodes>
+  <zones>
+    <zone title="St Margaret Street"/>
+    <zone title="Abingdon Street"/>
+  </zones>
+</exit>

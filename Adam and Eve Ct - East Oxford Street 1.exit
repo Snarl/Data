@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Adam and Eve Ct - East Oxford Street 1">
+  <nodes>
+    <node lat="51.5158795443168" lng="-0.13744679803085"/>
+    <node lat="51.51589623563906" lng="-0.13730464095306"/>
+  </nodes>
+  <zones>
+    <zone title="Adam and Eve Ct"/>
+    <zone title="East Oxford Street 1"/>
+  </zones>
+</exit>

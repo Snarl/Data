@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Balderton Street">
+  <nodes maxlat="51.51390742151878" maxlng="-0.15185696596336" minlat="51.5126721932185" minlng="-0.15257579797935">
+    <node lat="51.51388071423414" lng="-0.15257579797935"/>
+    <node lat="51.51390742151878" lng="-0.15242559427452"/>
+    <node lat="51.51361364052638" lng="-0.15228611940574"/>
+    <node lat="51.51268888571608" lng="-0.15185696596336"/>
+    <node lat="51.5126721932185" lng="-0.15200180525017"/>
+  </nodes>
+  <exits>
+    <exit title="Balderton St - Oxford St"/>
+    <exit title="Balderton St - Oxford St"/>
+  </exits>
+</zone>

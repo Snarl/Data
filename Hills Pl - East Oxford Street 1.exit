@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hills Pl - East Oxford Street 1">
+  <nodes>
+    <node lat="51.5153320654636" lng="-0.14033151382637"/>
+    <node lat="51.51535710274568" lng="-0.14022422546577"/>
+  </nodes>
+  <zones>
+    <zone title="Hills Place"/>
+    <zone title="East Oxford Street 1"/>
+  </zones>
+</exit>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Bedford Street">
+  <nodes maxlat="51.5104161459223" maxlng="-0.12337861174774" minlat="51.50971502078022" minlng="-0.12421546096039">
+    <node lat="51.51037942058742" lng="-0.12421546096039"/>
+    <node lat="51.50971502078022" lng="-0.12354222649765"/>
+    <node lat="51.50979348055846" lng="-0.12337861174774"/>
+    <node lat="51.5104161459223" lng="-0.12409476155472"/>
+  </nodes>
+  <exits>
+    <exit title="Bedford Street - Strand"/>
+    <exit title="Bedford Street - Strand"/>
+    <exit title="Bedford Street - Strand"/>
+    <exit title="Bedford Street - Strand"/>
+  </exits>
+</zone>

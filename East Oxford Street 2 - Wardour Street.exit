@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="East Oxford Street 2 - Wardour Street">
+  <nodes>
+    <node lat="51.51583113946575" lng="-0.13593671435547"/>
+    <node lat="51.51583447773427" lng="-0.13573286647033"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 2"/>
+    <zone title="Wardour Street"/>
+  </zones>
+</exit>

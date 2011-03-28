@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Piccadily Place 2 - Piccadily Circus">
+  <nodes>
+    <node lat="51.50973087966668" lng="-0.13507438415718"/>
+    <node lat="51.5096106857436" lng="-0.13495636696052"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadily Place 2"/>
+    <zone title="Piccadilly Circus"/>
+  </zones>
+</exit>

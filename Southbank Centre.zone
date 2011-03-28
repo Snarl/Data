@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Southbank Centre">
+  <nodes maxlat="51.50716917806265" maxlng="-0.11509595030975" minlat="51.50433102177698" minlng="-0.11882958525848">
+    <node lat="51.50527264145822" lng="-0.11851844901275"/>
+    <node lat="51.50474506970747" lng="-0.11882958525848"/>
+    <node lat="51.50451133343498" lng="-0.11791763419342"/>
+    <node lat="51.50433102177698" lng="-0.11712370032501"/>
+    <node lat="51.50564661267057" lng="-0.11597571486664"/>
+    <node lat="51.50614078420784" lng="-0.11509595030975"/>
+    <node lat="51.50716917806265" lng="-0.11616883391571"/>
+    <node lat="51.50677017735791" lng="-0.11710760707092"/>
+    <node lat="51.50590204659994" lng="-0.1181483041687"/>
+  </nodes>
+  <exits>
+    <exit title="Hungerford Bridge - Embankment"/>
+    <exit title="Southbank Centre - Waterloo Bridge Road"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Barrack Yard - Grosvenor Crescent">
+  <nodes>
+    <node lat="51.50207038729906" lng="-0.15495625848007"/>
+    <node lat="51.5020002624274" lng="-0.15492407197189"/>
+  </nodes>
+  <zones>
+    <zone title="Grosvenor Mews"/>
+    <zone title="Old Barrack Yard"/>
+  </zones>
+</exit>

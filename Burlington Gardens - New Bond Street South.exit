@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Burlington Gardens - New Bond Street South">
+  <nodes>
+    <node lat="51.50951344529614" lng="-0.14160221034717"/>
+    <node lat="51.50962696202962" lng="-0.14146809989643"/>
+  </nodes>
+  <zones>
+    <zone title="New Bond Street South"/>
+    <zone title="Burlington Gardens"/>
+  </zones>
+</exit>

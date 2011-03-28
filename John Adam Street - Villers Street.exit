@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Adam Street - Villers Street">
+  <nodes>
+    <node lat="51.50839787794892" lng="-0.12422618979645"/>
+    <node lat="51.50847133178377" lng="-0.1243978511734"/>
+  </nodes>
+  <zones>
+    <zone title="John Adam Street"/>
+    <zone title="Villiers Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Princes St">
+  <nodes maxlat="51.51461515878348" maxlng="-0.14200118893814" minlat="51.5142846601688" minlng="-0.14342275971603">
+    <node lat="51.5143848115174" lng="-0.14342275971603"/>
+    <node lat="51.5142846601688" lng="-0.14339057320785"/>
+    <node lat="51.51451166957612" lng="-0.14200118893814"/>
+    <node lat="51.51461515878348" lng="-0.1421031128807"/>
+  </nodes>
+  <exits>
+    <exit title="Princes St - Regent Street 1"/>
+    <exit title="Princes St - Regent Street 1"/>
+    <exit title="Princes St - Regent Street 1"/>
+    <exit title="Swallow Pl - Princes St"/>
+    <exit title="Princes St - Hannover Square"/>
+    <exit title="Princes St - Hannover Square"/>
+  </exits>
+</zone>

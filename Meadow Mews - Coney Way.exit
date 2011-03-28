@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Meadow Mews - Coney Way">
+  <nodes>
+    <node lat="51.48161940698247" lng="-0.11900929326248"/>
+    <node lat="51.48157096571388" lng="-0.11884567851257"/>
+  </nodes>
+  <zones>
+    <zone title="Meadow Mews"/>
+    <zone title="Coney Way"/>
+  </zones>
+</exit>

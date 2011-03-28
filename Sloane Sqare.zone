@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Sloane Sqare">
+  <nodes maxlat="51.49286307071925" maxlng="-0.15653876179886" minlat="51.49208819534879" minlng="-0.15833584183883">
+    <node lat="51.49267603304263" lng="-0.15833584183883"/>
+    <node lat="51.4921716954831" lng="-0.15823391789627"/>
+    <node lat="51.49223515548287" lng="-0.1574828993721"/>
+    <node lat="51.4922919354078" lng="-0.15690890664291"/>
+    <node lat="51.49208819534879" lng="-0.15679088944626"/>
+    <node lat="51.49223849548041" lng="-0.15653876179886"/>
+    <node lat="51.49243889488509" lng="-0.15660313481521"/>
+    <node lat="51.49280963146139" lng="-0.15669969433975"/>
+    <node lat="51.49286307071925" lng="-0.15696791524124"/>
+  </nodes>
+  <exits>
+    <exit title="Sloane Square - Eaton Gate"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+    <exit title="Sloane Square - Sloane Street"/>
+  </exits>
+</zone>

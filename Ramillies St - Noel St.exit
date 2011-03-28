@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ramillies St - Noel St">
+  <nodes>
+    <node lat="51.51454755708004" lng="-0.13851968163681"/>
+    <node lat="51.51451083507568" lng="-0.13870743626785"/>
+  </nodes>
+  <zones>
+    <zone title="Ramillies Street"/>
+    <zone title="Great Marlborough Street"/>
+  </zones>
+</exit>

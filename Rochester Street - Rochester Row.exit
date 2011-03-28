@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rochester Street - Rochester Row">
+  <nodes>
+    <node lat="51.49540804267524" lng="-0.13567519897651"/>
+    <node lat="51.49547149816983" lng="-0.13561082596016"/>
+  </nodes>
+  <zones>
+    <zone title="Rochester Row"/>
+    <zone title="Rochester Street"/>
+  </zones>
+</exit>

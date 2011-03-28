@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Greycoat Place West - Greencoat Place">
+  <nodes>
+    <node lat="51.49639660245413" lng="-0.13579321617317"/>
+    <node lat="51.49634650703513" lng="-0.13561619037819"/>
+  </nodes>
+  <zones>
+    <zone title="Greycoat Place West"/>
+    <zone title="Greencoat Place"/>
+  </zones>
+</exit>

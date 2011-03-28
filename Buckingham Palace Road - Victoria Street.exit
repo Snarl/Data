@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Buckingham Palace Road - Victoria Street">
+  <nodes>
+    <node lat="51.4968324302761" lng="-0.14464316481781"/>
+    <node lat="51.49643500890438" lng="-0.14490065688324"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Buckingham Palace Road"/>
+  </zones>
+</exit>

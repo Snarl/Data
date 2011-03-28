@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ruper Street - Coventry Street">
+  <nodes>
+    <node lat="51.510358553879" lng="-0.13236535305214"/>
+    <node lat="51.5104086338967" lng="-0.13217759842109"/>
+  </nodes>
+  <zones>
+    <zone title="Coventry Street"/>
+    <zone title="Rupert Street"/>
+  </zones>
+</exit>

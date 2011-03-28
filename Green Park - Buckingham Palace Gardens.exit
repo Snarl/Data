@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Green Park - Buckingham Palace Gardens">
+  <nodes>
+    <node lat="51.5020536909091" lng="-0.14298824185562"/>
+    <node lat="51.50245440253836" lng="-0.14987615460586"/>
+  </nodes>
+  <zones>
+    <zone title="Green Park"/>
+    <zone title="Buckingham Palace Gardens"/>
+  </zones>
+</exit>

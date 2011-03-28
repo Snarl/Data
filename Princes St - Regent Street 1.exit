@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Princes St - Regent Street 1">
+  <nodes>
+    <node lat="51.5146535498811" lng="-0.14204678649139"/>
+    <node lat="51.51448663182924" lng="-0.14199314231109"/>
+  </nodes>
+  <zones>
+    <zone title="Regent Street South 1"/>
+    <zone title="Princes St"/>
+  </zones>
+</exit>

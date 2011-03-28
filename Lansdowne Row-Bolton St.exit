@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lansdowne Row-Bolton St" status="green" reason="">
+  <nodes>
+    <node lat="51.50746466632516" lng="-0.14513937348556"/>
+    <node lat="51.50757484928977" lng="-0.14493552560043"/>
+  </nodes>
+  <zones>
+    <zone title="Bolton St"/>
+    <zone title="Curzon street 3"/>
+  </zones>
+</exit>

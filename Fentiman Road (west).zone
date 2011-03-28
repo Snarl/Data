@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Fentiman Road (west)">
+  <nodes maxlat="51.48268259635066" maxlng="-0.11974421853256" minlat="51.48125275541127" minlng="-0.12399283761215">
+    <node lat="51.48262162858079" lng="-0.12399283761215"/>
+    <node lat="51.48251222046059" lng="-0.12377826089096"/>
+    <node lat="51.48237191042605" lng="-0.12328473443222"/>
+    <node lat="51.48212469645777" lng="-0.1225068938179"/>
+    <node lat="51.48184741433122" lng="-0.12158957833481"/>
+    <node lat="51.48167035377808" lng="-0.12110678071213"/>
+    <node lat="51.48143649916376" lng="-0.12040404195022"/>
+    <node lat="51.48125275541127" lng="-0.11983541363907"/>
+    <node lat="51.48135297936805" lng="-0.11974421853256"/>
+    <node lat="51.48167703532086" lng="-0.12072054261398"/>
+    <node lat="51.48194095547803" lng="-0.12159494275284"/>
+    <node lat="51.48233850321137" lng="-0.12296286935043"/>
+    <node lat="51.48268259635066" lng="-0.12392846459579"/>
+  </nodes>
+  <exits>
+    <exit title="Fentiman Road - Miles Street"/>
+    <exit title="Fentiman Road middle"/>
+    <exit title="Fentiman Road - Meadow Road"/>
+    <exit title="VAuxhall Park (south west exit)"/>
+    <exit title="VAuxhall Park (south exit)"/>
+  </exits>
+</zone>

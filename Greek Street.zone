@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<zone title="Greek Street" status="green" reason="Photographer bleeding, getting help from protesters.">
+  <nodes maxlat="51.51496985802244" maxlng="-0.12999025696945" minlat="51.51278820598787" minlng="-0.13159153575134">
+    <node lat="51.51493146719125" lng="-0.13159153575134"/>
+    <node lat="51.51496985802244" lng="-0.13146010750961"/>
+    <node lat="51.51318882322145" lng="-0.13022092694473"/>
+    <node lat="51.51282659862541" lng="-0.12999025696945"/>
+    <node lat="51.51278820598787" lng="-0.13011632079315"/>
+  </nodes>
+  <exits/>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pont Street - South Pavilion Road">
+  <nodes>
+    <node lat="51.4970044224854" lng="-0.1598432433052"/>
+    <node lat="51.49701778107638" lng="-0.15967694634628"/>
+  </nodes>
+  <zones>
+    <zone title="Pavilion Road"/>
+    <zone title="Pont Street"/>
+  </zones>
+</exit>

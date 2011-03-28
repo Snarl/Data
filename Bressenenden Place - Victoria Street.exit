@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bressenenden Place - Victoria Street">
+  <nodes>
+    <node lat="51.49669717381339" lng="-0.14195425028038"/>
+    <node lat="51.49677565600828" lng="-0.14147681707573"/>
+  </nodes>
+  <zones>
+    <zone title="Bressenden Place"/>
+    <zone title="Victoria Street"/>
+  </zones>
+</exit>

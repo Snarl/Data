@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marsham Street - Page Street (E)">
+  <nodes>
+    <node lat="51.49397233850164" lng="-0.12893883103561"/>
+    <node lat="51.49388383185048" lng="-0.12893480772209"/>
+  </nodes>
+  <zones>
+    <zone title="Marsham Street"/>
+    <zone title="Page Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Charles II Street - St James's Square">
+  <nodes>
+    <node lat="51.507589877949" lng="-0.13456342333984"/>
+    <node lat="51.50748637278153" lng="-0.13446149939728"/>
+  </nodes>
+  <zones>
+    <zone title="Charles II Street"/>
+    <zone title="St James\'s Square"/>
+  </zones>
+</exit>

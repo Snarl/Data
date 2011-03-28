@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Peter Street - Elizabeth Street">
+  <nodes>
+    <node lat="51.49679402416091" lng="-0.13180343026352"/>
+    <node lat="51.4967706465094" lng="-0.13170687073898"/>
+  </nodes>
+  <zones>
+    <zone title="Great Peter Street"/>
+    <zone title="Elizabeth Court"/>
+  </zones>
+</exit>

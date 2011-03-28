@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Craven St">
+  <nodes maxlat="51.50789162755996" maxlng="-0.12339872831535" minlat="51.50678645465191" minlng="-0.12589854711723">
+    <node lat="51.50696633922848" lng="-0.12406123394203"/>
+    <node lat="51.50773845753644" lng="-0.12554449552727"/>
+    <node lat="51.50757819189344" lng="-0.12577650660705"/>
+    <node lat="51.50765248176676" lng="-0.12589854711723"/>
+    <node lat="51.50789162755996" lng="-0.12545330042076"/>
+    <node lat="51.50682318288374" lng="-0.12339872831535"/>
+    <node lat="51.50678645465191" lng="-0.12347517127228"/>
+    <node lat="51.50679396724705" lng="-0.12362001055908"/>
+    <node lat="51.50685907635311" lng="-0.1240733038826"/>
+  </nodes>
+  <exits>
+    <exit title="Northumberland Avenue - Craven St"/>
+    <exit title="Northumberland Avenue - Craven St"/>
+    <exit title="Northumberland Street - Craven Street"/>
+  </exits>
+</zone>

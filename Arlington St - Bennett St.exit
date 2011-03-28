@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Arlington St - Bennett St">
+  <nodes>
+    <node lat="51.50702894389992" lng="-0.14071641082"/>
+    <node lat="51.50691542069326" lng="-0.14060912245941"/>
+  </nodes>
+  <zones>
+    <zone title="Bennett Street"/>
+    <zone title="Arlington Street"/>
+  </zones>
+</exit>

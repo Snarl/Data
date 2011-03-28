@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vincent Square - Stanford Street">
+  <nodes>
+    <node lat="51.49207316514291" lng="-0.13516692036819"/>
+    <node lat="51.49202473497895" lng="-0.1350596320076"/>
+  </nodes>
+  <zones>
+    <zone title="Vincent Square South"/>
+    <zone title="Stanford Street"/>
+  </zones>
+</exit>

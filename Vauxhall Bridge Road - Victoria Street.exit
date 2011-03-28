@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vauxhall Bridge Road - Victoria Street">
+  <nodes>
+    <node lat="51.4964550470397" lng="-0.14286217803192"/>
+    <node lat="51.4964383485942" lng="-0.14242229575348"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

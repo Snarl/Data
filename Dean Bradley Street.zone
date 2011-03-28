@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Dean Bradley Street">
+  <nodes maxlat="51.49562429195776" maxlng="-0.12678635830116" minlat="51.49491291979482" minlng="-0.12708944791984">
+    <node lat="51.49561928233342" lng="-0.12708944791984"/>
+    <node lat="51.49562429195776" lng="-0.12689364666176"/>
+    <node lat="51.49491291979482" lng="-0.12678635830116"/>
+    <node lat="51.49492126929772" lng="-0.1270089816494"/>
+  </nodes>
+  <exits>
+    <exit title="Smith Square - Dean Bradley Street"/>
+    <exit title="Smith Square - Dean Bradley Street"/>
+    <exit title="Dean Bradley Street - Romney Street"/>
+    <exit title="Dean Bradley Street - Romney Street"/>
+    <exit title="Dean Bradley Street - Horseferry Road"/>
+  </exits>
+</zone>

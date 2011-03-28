@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Pye Street - St Anne's Lane">
+  <nodes>
+    <node lat="51.49751455089797" lng="-0.13157410139274"/>
+    <node lat="51.497519560314" lng="-0.13146681303215"/>
+  </nodes>
+  <zones>
+    <zone title="Old Pye Street"/>
+    <zone title="St Anne\'s Lane"/>
+  </zones>
+</exit>

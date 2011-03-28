@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Howick Place - Artillery Row">
+  <nodes>
+    <node lat="51.49695599755967" lng="-0.13574091309738"/>
+    <node lat="51.49684495400274" lng="-0.13573957199287"/>
+  </nodes>
+  <zones>
+    <zone title="Howick Place"/>
+    <zone title="Artillery Row"/>
+  </zones>
+</exit>

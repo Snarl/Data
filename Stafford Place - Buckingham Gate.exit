@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stafford Place - Buckingham Gate">
+  <nodes>
+    <node lat="51.49968023708354" lng="-0.14189524168205"/>
+    <node lat="51.49961177826264" lng="-0.142066903059"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Gate"/>
+    <zone title="Stafford Place"/>
+  </zones>
+</exit>

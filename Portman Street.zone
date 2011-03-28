@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Portman Street">
+  <nodes maxlat="51.51497653467789" maxlng="-0.15584675187301" minlat="51.51373132010188" minlng="-0.15668628329468">
+    <node lat="51.51493146718369" lng="-0.15668628329468"/>
+    <node lat="51.51373132010188" lng="-0.15620616788101"/>
+    <node lat="51.51376971194459" lng="-0.15584675187301"/>
+    <node lat="51.51497653467789" lng="-0.15641001576614"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford Street - North Portman Street"/>
+    <exit title="Portman St-Bryanston St"/>
+    <exit title="Portman St-Bryanston St"/>
+  </exits>
+</zone>

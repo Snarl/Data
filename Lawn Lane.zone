@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Lawn Lane">
+  <nodes maxlat="51.48390276974879" maxlng="-0.12005267256927" minlat="51.48364136641557" minlng="-0.12303663009834">
+    <node lat="51.48378501316115" lng="-0.12285692209434"/>
+    <node lat="51.48364136641557" lng="-0.12005267256927"/>
+    <node lat="51.48373156326213" lng="-0.1201116811676"/>
+    <node lat="51.48390276974879" lng="-0.12302187794876"/>
+    <node lat="51.48367226723063" lng="-0.12303663009834"/>
+  </nodes>
+  <exits>
+    <exit title="VAuxhall Park (north exit)"/>
+    <exit title="VAuxhall Park (north east exit)"/>
+    <exit title="Lawn Lane - Ebbisham Drive"/>
+    <exit title="Lawn Lane - Ebbisham Drive"/>
+    <exit title="VAuxhall Park (north west exit)"/>
+  </exits>
+</zone>

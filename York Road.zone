@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="York Road">
+  <nodes maxlat="51.50425589170711" maxlng="-0.11435029620361" minlat="51.50148726231376" minlng="-0.11720148438644">
+    <node lat="51.50224569900279" lng="-0.11631367320251"/>
+    <node lat="51.50310054261728" lng="-0.11547682398987"/>
+    <node lat="51.50404886598973" lng="-0.11435029620361"/>
+    <node lat="51.50425589170711" lng="-0.11488673800659"/>
+    <node lat="51.50352795841118" lng="-0.11569140071106"/>
+    <node lat="51.50161874783875" lng="-0.11719611996841"/>
+    <node lat="51.5015628143598" lng="-0.11720148438644"/>
+    <node lat="51.50148726231376" lng="-0.11689571255874"/>
+  </nodes>
+  <exits>
+    <exit title="Westminster Bridge Rd - York Road"/>
+    <exit title="York Road - Chincheley Street"/>
+  </exits>
+</zone>

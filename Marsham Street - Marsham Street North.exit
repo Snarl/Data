@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marsham Street - Marsham Street North">
+  <nodes>
+    <node lat="51.49285054573262" lng="-0.12891200894546"/>
+    <node lat="51.49271026750856" lng="-0.12889725679588"/>
+  </nodes>
+  <zones>
+    <zone title="Marsham Street North"/>
+    <zone title="Marsham Street"/>
+  </zones>
+</exit>

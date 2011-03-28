@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Dean Ryle Street">
+  <nodes maxlat="51.49475010279434" maxlng="-0.12665627116394" minlat="51.49398861897828" minlng="-0.1270988356514">
+    <node lat="51.49475010279434" lng="-0.12694326752853"/>
+    <node lat="51.49474509307394" lng="-0.12677428836059"/>
+    <node lat="51.49445786818486" lng="-0.12673405522537"/>
+    <node lat="51.49412889326862" lng="-0.126667"/>
+    <node lat="51.49399529871616" lng="-0.12665627116394"/>
+    <node lat="51.49399362878182" lng="-0.12672332638931"/>
+    <node lat="51.4939969686505" lng="-0.12683061474991"/>
+    <node lat="51.49398861897828" lng="-0.12708810681534"/>
+    <node lat="51.4940637659732" lng="-0.1270988356514"/>
+    <node lat="51.49407879535734" lng="-0.12683866137695"/>
+  </nodes>
+  <exits>
+    <exit title="Dean Ryle Street - Horseferry Street"/>
+    <exit title="Dean Ryle Street - Horseferry Street"/>
+    <exit title="Dean Ryle Street - Page Street"/>
+  </exits>
+</zone>

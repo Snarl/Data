@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Arlington Street">
+  <nodes maxlat="51.50747468669864" maxlng="-0.14022824877929" minlat="51.50643294391183" minlng="-0.14130649680328">
+    <node lat="51.50738787570945" lng="-0.14130649680328"/>
+    <node lat="51.50747468669864" lng="-0.14116165751648"/>
+    <node lat="51.50649972301005" lng="-0.14022824877929"/>
+    <node lat="51.50643294391183" lng="-0.14042136782837"/>
+  </nodes>
+  <exits>
+    <exit title="Arlington St - Bennett St"/>
+    <exit title="Arlington St - Bennett St"/>
+    <exit title="Piccadily Place 1 - Arlington St"/>
+    <exit title="Piccadily Place 1 - Arlington St"/>
+    <exit title="Piccadily Place 1 - Arlington St West"/>
+    <exit title="Piccadily Place 1 - Arlington St West"/>
+    <exit title="Piccadily Place 1 - Arlington St West"/>
+    <exit title="Piccadily Place 1 - Arlington St"/>
+  </exits>
+</zone>

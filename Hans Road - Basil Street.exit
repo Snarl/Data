@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hans Road - Basil Street">
+  <nodes>
+    <node lat="51.49853979985346" lng="-0.16218212956619"/>
+    <node lat="51.49840955777378" lng="-0.16192463750076"/>
+  </nodes>
+  <zones>
+    <zone title="Basil Street"/>
+    <zone title="Hans Road"/>
+  </zones>
+</exit>

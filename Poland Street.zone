@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<zone title="Poland Street">
+  <nodes maxlat="51.51566088744317" maxlng="-0.13624382728767" minlat="51.51348928382698" minlng="-0.1377083134098">
+    <node lat="51.51564920345784" lng="-0.1377083134098"/>
+    <node lat="51.51566088744317" lng="-0.13762516493034"/>
+    <node lat="51.51493146718367" lng="-0.13722015136909"/>
+    <node lat="51.51352934509233" lng="-0.13624382728767"/>
+    <node lat="51.51348928382698" lng="-0.13637257332039"/>
+    <node lat="51.51486636961341" lng="-0.13730329984855"/>
+    <node lat="51.51529010471887" lng="-0.13757051492166"/>
+  </nodes>
+  <exits>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Poland Street - Noel Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="East Oxford Street 1 - Poland Street"/>
+    <exit title="East Oxford Street 1 - Poland Street"/>
+    <exit title="D\'Arblay Street - Poland Street"/>
+    <exit title="D\'Arblay Street - Poland Street"/>
+  </exits>
+</zone>

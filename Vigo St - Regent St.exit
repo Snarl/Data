@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Vigo St - Regent St">
+  <nodes>
+    <node lat="51.51041280725692" lng="-0.13858137244415"/>
+    <node lat="51.5102525510211" lng="-0.13843116873932"/>
+  </nodes>
+  <zones>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

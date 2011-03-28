@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="North Regent Street">
+  <nodes maxlat="51.51735628537628" maxlng="-0.14187847787571" minlat="51.51547519515436" minlng="-0.14295940810871">
+    <node lat="51.51547519515436" lng="-0.14220034295749"/>
+    <node lat="51.5155185929648" lng="-0.14187847787571"/>
+    <node lat="51.5168305226398" lng="-0.14240419084263"/>
+    <node lat="51.51735628537628" lng="-0.14262681419086"/>
+    <node lat="51.51729619851354" lng="-0.14295940810871"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford Circus - North Regent Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Avery Row">
+  <nodes maxlat="51.51288210087526" maxlng="-0.14509846979809" minlat="51.51223109169826" minlng="-0.14665348047447">
+    <node lat="51.51287500659468" lng="-0.14665348047447"/>
+    <node lat="51.51288210087526" lng="-0.14659916574192"/>
+    <node lat="51.51259165177648" lng="-0.14591922575664"/>
+    <node lat="51.51242222228034" lng="-0.14550750667286"/>
+    <node lat="51.51224027266158" lng="-0.14509846979809"/>
+    <node lat="51.51223109169826" lng="-0.14517491275501"/>
+  </nodes>
+  <exits>
+    <exit title="Avery Row - Grosvenor St"/>
+    <exit title="Avery Row - Grosvenor St"/>
+    <exit title="Avery Row - Grosvenor St"/>
+  </exits>
+</zone>

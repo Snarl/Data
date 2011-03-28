@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wardour Street - D'Arblay Street">
+  <nodes>
+    <node lat="51.51490309133092" lng="-0.13519776577186"/>
+    <node lat="51.51484884332836" lng="-0.13515887374115"/>
+  </nodes>
+  <zones>
+    <zone title="D\'Arblay Street"/>
+    <zone title="Wardour Street"/>
+  </zones>
+</exit>

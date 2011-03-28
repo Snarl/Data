@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pitt's Head Mews - Derby St">
+  <nodes>
+    <node lat="51.5059158199538" lng="-0.14986609632206"/>
+    <node lat="51.50594587090116" lng="-0.1496944349451"/>
+  </nodes>
+  <zones>
+    <zone title="Derby St"/>
+    <zone title="Pitt\'s Head Mews"/>
+  </zones>
+</exit>

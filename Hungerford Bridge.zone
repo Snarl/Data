@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Hungerford Bridge">
+  <nodes maxlat="51.50693545422472" maxlng="-0.11814293975067" minlat="51.50527264145822" minlng="-0.12204823607635">
+    <node lat="51.50693545422472" lng="-0.1217692863388"/>
+    <node lat="51.50577349506314" lng="-0.11814293975067"/>
+    <node lat="51.50527264145822" lng="-0.11848626250458"/>
+    <node lat="51.506434613392" lng="-0.12204823607635"/>
+  </nodes>
+  <exits>
+    <exit title="Embankment - Hungerford Bridge"/>
+    <exit title="Hungerford Bridge - Embankment"/>
+  </exits>
+</zone>

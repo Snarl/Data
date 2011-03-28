@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bayswater Rd - Inverness Terrace">
+  <nodes>
+    <node lat="51.51047958052406" lng="-0.18564877623749"/>
+    <node lat="51.51045620989236" lng="-0.18593845481109"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Inverness Terrace"/>
+  </zones>
+</exit>

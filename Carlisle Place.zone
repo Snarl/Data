@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Carlisle Place">
+  <nodes maxlat="51.49645588194764" maxlng="-0.13963279837799" minlat="51.4941865071733" minlng="-0.14208165520859">
+    <node lat="51.49425497414318" lng="-0.13963279837799"/>
+    <node lat="51.4941865071733" lng="-0.1397964131279"/>
+    <node lat="51.49514169560854" lng="-0.14076737279129"/>
+    <node lat="51.49594824648066" lng="-0.1416337263031"/>
+    <node lat="51.4963957675164" lng="-0.14208165520859"/>
+    <node lat="51.49645588194764" lng="-0.14167932385635"/>
+    <node lat="51.49617033769312" lng="-0.14155326003265"/>
+    <node lat="51.49610521331436" lng="-0.14155594224167"/>
+    <node lat="51.49560926307012" lng="-0.14102486485672"/>
+    <node lat="51.49507656976016" lng="-0.14048842305374"/>
+  </nodes>
+  <exits>
+    <exit title="Victoria Street - Carlisle Place"/>
+    <exit title="Carlisle Place - Ashley Place"/>
+    <exit title="Carlisle Place - King Scholar\'s Passage"/>
+    <exit title="Carlisle Place - Francis Street"/>
+  </exits>
+</zone>

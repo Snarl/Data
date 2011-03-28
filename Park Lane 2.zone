@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<zone title="Park Lane 2">
+  <nodes maxlat="51.50628269056768" maxlng="-0.15163836592865" minlat="51.50628269056768" minlng="-0.15163836592865">
+    <node lat="51.50628269056768" lng="-0.15163836592865"/>
+  </nodes>
+  <exits/>
+</zone>

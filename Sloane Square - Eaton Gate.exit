@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Sloane Square - Eaton Gate">
+  <nodes>
+    <node lat="51.49286307061984" lng="-0.15695182198715"/>
+    <node lat="51.49281798125017" lng="-0.15669969433975"/>
+  </nodes>
+  <zones>
+    <zone title="Eaton Gate"/>
+    <zone title="Sloane Sqare"/>
+  </zones>
+</exit>

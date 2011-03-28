@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Burlington Arcade - Piccadily Place 2" status="red" reason="">
+  <nodes>
+    <node lat="51.5082977134366" lng="-0.13944236153793"/>
+    <node lat="51.50822092049562" lng="-0.13964620942306"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadily Place 2"/>
+    <zone title="Burlington Arcade"/>
+  </zones>
+</exit>

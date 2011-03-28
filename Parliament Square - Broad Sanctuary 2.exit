@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Parliament Square - Broad Sanctuary 2">
+  <nodes>
+    <node lat="51.50010476296269" lng="-0.12706128472519"/>
+    <node lat="51.5000137636478" lng="-0.12751860136223"/>
+  </nodes>
+  <zones>
+    <zone title="Broad Santuary"/>
+    <zone title="Parliament Square"/>
+  </zones>
+</exit>

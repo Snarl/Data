@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Seaforth Place - Buckingham Gate">
+  <nodes>
+    <node lat="51.49847885333077" lng="-0.13690230960083"/>
+    <node lat="51.49841206247788" lng="-0.1367360126419"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Gate"/>
+    <zone title="Seaforth Place"/>
+  </zones>
+</exit>

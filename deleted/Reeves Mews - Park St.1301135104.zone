@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Reeves Mews - Park St">
+  <nodes>
+    <node lat="51.50963656086068" lng="-0.15393701905441"/>
+    <node lat="51.50975341600156" lng="-0.1540067564888"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

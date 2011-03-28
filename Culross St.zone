@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<zone title="Culross St">
+  <nodes maxlat="51.5110546612026" maxlng="-0.15373987669182" minlat="51.5104436898892" minlng="-0.1567439507885">
+    <node lat="51.51050378579154" lng="-0.1567439507885"/>
+    <node lat="51.5104436898892" lng="-0.15669567102623"/>
+    <node lat="51.51068908099144" lng="-0.1553036045475"/>
+    <node lat="51.51098455015654" lng="-0.15373987669182"/>
+    <node lat="51.5110546612026" lng="-0.15382302517128"/>
+  </nodes>
+  <exits>
+    <exit title="Culross St - Park lane"/>
+    <exit title="Culross St - Park lane"/>
+    <exit title="Park Lane 1 - Culross St"/>
+    <exit title="Park Lane 1 - Culross St"/>
+    <exit title="Park Lane 1 - Culross St"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (West)"/>
+    <exit title="Culros St - Park St (West)"/>
+    <exit title="Culros St - Park St (South)"/>
+    <exit title="Culros St - Park St (South)"/>
+    <exit title="Culros St - Park St (North)"/>
+    <exit title="Culros St - Park St (North)"/>
+  </exits>
+</zone>

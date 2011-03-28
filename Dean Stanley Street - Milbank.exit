@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Stanley Street - Milbank">
+  <nodes>
+    <node lat="51.49612692146102" lng="-0.12558070534897"/>
+    <node lat="51.49598498345774" lng="-0.12554315442276"/>
+  </nodes>
+  <zones>
+    <zone title="Milbank North"/>
+    <zone title="Dean Stanley Street"/>
+  </zones>
+</exit>

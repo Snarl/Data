@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Great Marlborough Street">
+  <nodes maxlat="51.51485802375885" maxlng="-0.13722283357811" minlat="51.51368124373128" minlng="-0.14106375688743">
+    <node lat="51.51368124373128" lng="-0.14095646852684"/>
+    <node lat="51.51475453510331" lng="-0.13722283357811"/>
+    <node lat="51.51485802375885" lng="-0.13728452438545"/>
+    <node lat="51.51380810375371" lng="-0.14106375688743"/>
+  </nodes>
+  <exits>
+    <exit title="South Regent Street 1 - klsdjf"/>
+    <exit title="South Regent Street 1 - klsdjf"/>
+    <exit title="South Regent Street 1 - klsdjf"/>
+    <exit title="Great Marlborough Street - Noel Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Great Marlborough Street - Poland Street"/>
+    <exit title="Argyll Street - Great Marlborough Street"/>
+    <exit title="Carnaby St - Noel St"/>
+    <exit title="Carnaby St - Noel St"/>
+    <exit title="Ramillies St - Noel St"/>
+    <exit title="Ramillies St - Noel St"/>
+    <exit title="Kingly St-Great Marlborough St"/>
+  </exits>
+</zone>

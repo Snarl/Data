@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Whitehall - Craig's Court">
+  <nodes>
+    <node lat="51.50672844068111" lng="-0.12720880622101"/>
+    <node lat="51.50664663668295" lng="-0.12718198413086"/>
+  </nodes>
+  <zones>
+    <zone title="Craig\'s Court"/>
+    <zone title="Upper Whitehall"/>
+  </zones>
+</exit>

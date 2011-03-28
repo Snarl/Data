@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Morpeth Terrace">
+  <nodes maxlat="51.49637071980948" maxlng="-0.13921973818969" minlat="51.49447206385192" minlng="-0.14076603168678">
+    <node lat="51.49447206385192" lng="-0.13935921305847"/>
+    <node lat="51.49457893840742" lng="-0.13921973818969"/>
+    <node lat="51.49587644231987" lng="-0.14054474944305"/>
+    <node lat="51.49637071980948" lng="-0.1401209604187"/>
+    <node lat="51.49588562657842" lng="-0.14076603168678"/>
+    <node lat="51.49579879351038" lng="-0.14068556541633"/>
+    <node lat="51.49570361093863" lng="-0.14059705251884"/>
+  </nodes>
+  <exits>
+    <exit title="Morpeth Place - Westminster Cathedral"/>
+    <exit title="Ashley Place - Morpeth Terrace"/>
+    <exit title="Morpeth Terrace - Francis Street"/>
+  </exits>
+</zone>

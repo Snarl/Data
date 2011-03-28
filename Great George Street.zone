@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Great George Street">
+  <nodes maxlat="51.50145428652238" maxlng="-0.12802687997055" minlat="51.50109697764845" minlng="-0.12962547654342">
+    <node lat="51.50145428652238" lng="-0.12956110352707"/>
+    <node lat="51.50120383667073" lng="-0.12962547654342"/>
+    <node lat="51.50118046128102" lng="-0.12938407773208"/>
+    <node lat="51.50121051535133" lng="-0.12936798447799"/>
+    <node lat="51.50109697764845" lng="-0.12802687997055"/>
+    <node lat="51.50129733810972" lng="-0.12806979531479"/>
+    <node lat="51.50134074942685" lng="-0.12900320405197"/>
+    <node lat="51.50136746406302" lng="-0.12944308633041"/>
+  </nodes>
+  <exits>
+    <exit title="Great George Street - St James Park"/>
+    <exit title="Parliament Square - Great George Street"/>
+    <exit title="Storey\'s Gate - Great George Street"/>
+  </exits>
+</zone>

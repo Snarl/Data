@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Whitehall Place">
+  <nodes maxlat="51.50668837343491" maxlng="-0.12323913687896" minlat="51.50564327365515" minlng="-0.12659726256561">
+    <node lat="51.50668837343491" lng="-0.1236951124115"/>
+    <node lat="51.50660823883709" lng="-0.12323913687896"/>
+    <node lat="51.50640122380705" lng="-0.12356100196075"/>
+    <node lat="51.50564327365515" lng="-0.12654898280334"/>
+    <node lat="51.50573008796825" lng="-0.12659726256561"/>
+    <node lat="51.50647134190644" lng="-0.12370047682953"/>
+  </nodes>
+  <exits>
+    <exit title="Northumberland Avenue - Whitehall Place"/>
+    <exit title="Upper Whitehall - Whitehall Place"/>
+    <exit title="Whitehall Place - Scotland Place"/>
+    <exit title="Whitehall Place - Upper Horse Guards Ave"/>
+  </exits>
+</zone>

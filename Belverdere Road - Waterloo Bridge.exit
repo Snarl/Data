@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Belverdere Road - Waterloo Bridge">
+  <nodes>
+    <node lat="51.50618252142275" lng="-0.11509058589172"/>
+    <node lat="51.50590872459199" lng="-0.11487600917053"/>
+  </nodes>
+  <zones>
+    <zone title="Waterloo Bridge Road"/>
+    <zone title="Belvedere Road"/>
+  </zones>
+</exit>

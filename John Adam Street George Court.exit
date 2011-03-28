@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Adam Street George Court">
+  <nodes>
+    <node lat="51.50897215022877" lng="-0.12348590010834"/>
+    <node lat="51.50885863186372" lng="-0.12372193450165"/>
+  </nodes>
+  <zones>
+    <zone title="Strand - Charing Cross"/>
+    <zone title="John Adam Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<zone title="Berwick Street">
+  <nodes maxlat="51.51576414202616" maxlng="-0.1341872435255" minlat="51.51278359997285" minlng="-0.13678865099382">
+    <node lat="51.5157524580673" lng="-0.13678865099382"/>
+    <node lat="51.51576414202616" lng="-0.13668404484224"/>
+    <node lat="51.51512819647983" lng="-0.13613419199419"/>
+    <node lat="51.51389800889858" lng="-0.13510422373247"/>
+    <node lat="51.51384522804668" lng="-0.13510992342663"/>
+    <node lat="51.51279361544763" lng="-0.1341872435255"/>
+    <node lat="51.51278359997285" lng="-0.13427575642299"/>
+    <node lat="51.51372504497836" lng="-0.13513674551677"/>
+    <node lat="51.51469651570309" lng="-0.13588776404094"/>
+  </nodes>
+  <exits>
+    <exit title="East Oxford Street 2 - Berwick Street"/>
+    <exit title="East Oxford Street 2 - Berwick Street"/>
+    <exit title="North Berwick Street - Noel Street"/>
+    <exit title="North Berwick Street - Noel Street"/>
+    <exit title="South Berwick Street - Noel Street"/>
+    <exit title="South Berwick Street - Noel Street"/>
+    <exit title="East Noel Street - Berwick Street"/>
+    <exit title="East Noel Street - Berwick Street"/>
+    <exit title="West Noel Street - Berwick Street"/>
+    <exit title="West Noel Street - Berwick Street"/>
+    <exit title="Berwick Street - D\'Arblay Street"/>
+    <exit title="Berwick Street - D\'Arblay Street"/>
+    <exit title="West D\'Arblay Street - Berwick Street"/>
+    <exit title="West D\'Arblay Street - Berwick Street"/>
+    <exit title="East D\'Arblay Street - Berwick Street"/>
+    <exit title="East D\'Arblay Street - Berwick Street"/>
+    <exit title="East D\'Arblay Street - Berwick Street"/>
+  </exits>
+</zone>

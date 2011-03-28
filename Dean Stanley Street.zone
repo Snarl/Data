@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Dean Stanley Street">
+  <nodes maxlat="51.49613026117674" maxlng="-0.12554717773628" minlat="51.49594824649398" minlng="-0.12647790426445">
+    <node lat="51.4960768257489" lng="-0.12647790426445"/>
+    <node lat="51.49594824649398" lng="-0.12646181101036"/>
+    <node lat="51.49599166290632" lng="-0.12554717773628"/>
+    <node lat="51.49613026117674" lng="-0.12557936424446"/>
+  </nodes>
+  <exits>
+    <exit title="Dean Stanley Street - Smith Square"/>
+    <exit title="Dean Stanley Street - Milbank"/>
+  </exits>
+</zone>

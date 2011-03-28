@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bayswater Rd - Albion St">
+  <nodes>
+    <node lat="51.51259958081251" lng="-0.16673652047348"/>
+    <node lat="51.51262628884831" lng="-0.16645488852691"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Albion Street"/>
+  </zones>
+</exit>

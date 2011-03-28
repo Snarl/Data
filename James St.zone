@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="James St">
+  <nodes maxlat="51.51595131697189" maxlng="-0.15016315097046" minlat="51.5143188786735" minlng="-0.15107510203552">
+    <node lat="51.5143188786735" lng="-0.15035358781051"/>
+    <node lat="51.51432889381071" lng="-0.15016315097046"/>
+    <node lat="51.51595131697189" lng="-0.15094367379379"/>
+    <node lat="51.51593462566979" lng="-0.15107510203552"/>
+  </nodes>
+  <exits>
+    <exit title="James St-Oxford St"/>
+    <exit title="James St-Oxford St"/>
+    <exit title="James St-Wigmore St"/>
+    <exit title="James St-Wigmore St"/>
+  </exits>
+</zone>

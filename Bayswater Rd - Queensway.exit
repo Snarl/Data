@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bayswater Rd - Queensway">
+  <nodes>
+    <node lat="51.51036940458379" lng="-0.18679944390487"/>
+    <node lat="51.51034603389557" lng="-0.18718836421203"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Queensway"/>
+  </zones>
+</exit>

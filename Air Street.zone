@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<zone title="Air Street">
+  <nodes maxlat="51.51121741859514" maxlng="-0.13584820145797" minlat="51.50943790644776" minlng="-0.13729122990799">
+    <node lat="51.51116400085595" lng="-0.13729122990799"/>
+    <node lat="51.51121741859514" lng="-0.13718930596542"/>
+    <node lat="51.51083347720194" lng="-0.13679502124023"/>
+    <node lat="51.51075334989437" lng="-0.1368245255394"/>
+    <node lat="51.50946294696951" lng="-0.13584820145797"/>
+    <node lat="51.50945293076246" lng="-0.13589916342926"/>
+    <node lat="51.50943790644776" lng="-0.13596890086365"/>
+    <node lat="51.51038609793154" lng="-0.13665554637146"/>
+    <node lat="51.51080009084092" lng="-0.1369157206459"/>
+  </nodes>
+  <exits>
+    <exit title="Regent St-Air St"/>
+    <exit title="Regent St-Air St"/>
+    <exit title="Glasshouse St-Air St"/>
+    <exit title="Glasshouse St-Air St"/>
+    <exit title="Air Street - Piccadily Place 2"/>
+    <exit title="Air Street - Piccadily Place 2"/>
+    <exit title="Air Street - Regent St"/>
+    <exit title="Air Street - Regent St"/>
+    <exit title="Air St-Picadilly Place"/>
+    <exit title="Air St-Picadilly Place"/>
+    <exit title="Brewer Street - Air Street (North)"/>
+    <exit title="Brewer Street - Air Street (North)"/>
+  </exits>
+</zone>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Trevor Square">
+  <nodes maxlat="51.50019617952515" maxlng="-0.16379816049766" minlat="51.49992151186588" minlng="-0.16540346259308">
+    <node lat="51.50002503421756" lng="-0.16520229691696"/>
+    <node lat="51.50013523517222" lng="-0.16424206608963"/>
+    <node lat="51.50019617952515" lng="-0.16384912246895"/>
+    <node lat="51.50006009818661" lng="-0.16379816049766"/>
+    <node lat="51.50002336450406" lng="-0.16455588454437"/>
+    <node lat="51.49992151186588" lng="-0.16540346259308"/>
+  </nodes>
+  <exits>
+    <exit title="Trevor Place - Trevor Square"/>
+    <exit title="Trevor Square - Lancelot Place"/>
+    <exit title="Trevor Street - Trevor Square"/>
+    <exit title="Trevor Place - Trevor Square"/>
+    <exit title="Trevor Street - Trevor Square"/>
+    <exit title="Trevor Square - Lancelot Place"/>
+  </exits>
+</zone>

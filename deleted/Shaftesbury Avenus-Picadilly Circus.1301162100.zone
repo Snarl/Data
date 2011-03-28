@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Shaftesbury Avenus-Picadilly Circus">
+  <nodes>
+    <node lat="51.51027842142182" lng="-0.1345379423542"/>
+    <node lat="51.51025838936407" lng="-0.13419461960029"/>
+  </nodes>
+  <zones>
+    <zone title="Shaftesbury Avenue"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Piccadily Place 1 - Arlington St West">
+  <nodes>
+    <node lat="51.50750640605492" lng="-0.14140842074585"/>
+    <node lat="51.50740623958394" lng="-0.14130649680328"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadily Place 1"/>
+    <zone title="Arlington Street"/>
+  </zones>
+</exit>

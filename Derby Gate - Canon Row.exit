@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Derby Gate - Canon Row">
+  <nodes>
+    <node lat="51.50196770441398" lng="-0.12553779000473"/>
+    <node lat="51.50196102584437" lng="-0.12532053107452"/>
+  </nodes>
+  <zones>
+    <zone title="Canon Row"/>
+    <zone title="Derby Gate"/>
+  </zones>
+</exit>

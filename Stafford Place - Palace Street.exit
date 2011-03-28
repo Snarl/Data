@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stafford Place - Palace Street">
+  <nodes>
+    <node lat="51.49897560722766" lng="-0.14198375457954"/>
+    <node lat="51.49892551464312" lng="-0.14175844902229"/>
+  </nodes>
+  <zones>
+    <zone title="Palace Street"/>
+    <zone title="Stafford Place"/>
+  </zones>
+</exit>

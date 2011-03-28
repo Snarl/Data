@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Charles II Street">
+  <nodes maxlat="51.50798261114944" maxlng="-0.13334704155159" minlat="51.50749680678692" minlng="-0.13455940002632">
+    <node lat="51.50798261114944" lng="-0.13341946119499"/>
+    <node lat="51.50788411515094" lng="-0.13334704155159"/>
+    <node lat="51.50749680678692" lng="-0.13449502700996"/>
+    <node lat="51.50756692320034" lng="-0.13455940002632"/>
+  </nodes>
+  <exits>
+    <exit title="Charles II Street - St James\'s Square"/>
+    <exit title="Regent Street - Charles II Street"/>
+    <exit title="South Regent Street 2 - Charls II St"/>
+    <exit title="South Regent Street 2 - Charls II St"/>
+  </exits>
+</zone>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Wellington Arch - Knightsbridge">
+  <nodes>
+    <node lat="51.50293191263042" lng="-0.15232232922745"/>
+    <node lat="51.50304210655608" lng="-0.15224722737503"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

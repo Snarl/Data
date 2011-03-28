@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stannary Street - Kennington Road">
+  <nodes>
+    <node lat="51.48543190745869" lng="-0.11077491158676"/>
+    <node lat="51.48503772721736" lng="-0.11052814835739"/>
+  </nodes>
+  <zones>
+    <zone title="Stannary Street"/>
+    <zone title="Kennington Road (south)"/>
+  </zones>
+</exit>

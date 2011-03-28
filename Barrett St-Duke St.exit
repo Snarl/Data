@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Barrett St-Duke St">
+  <nodes>
+    <node lat="51.51492645968067" lng="-0.15156326407623"/>
+    <node lat="51.51475954262885" lng="-0.15148816222381"/>
+  </nodes>
+  <zones>
+    <zone title="Barrett St"/>
+    <zone title="Duke St"/>
+  </zones>
+</exit>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="South Molton Street">
+  <nodes maxlat="51.51429634460948" maxlng="-0.14650193566513" minlat="51.51303775754805" minlng="-0.14928338641357">
+    <node lat="51.51425294563447" lng="-0.14928338641357"/>
+    <node lat="51.51429634460948" lng="-0.14895347470474"/>
+    <node lat="51.51421789258607" lng="-0.14896152133178"/>
+    <node lat="51.51308115768075" lng="-0.14650193566513"/>
+    <node lat="51.51303775754805" lng="-0.14671114796829"/>
+    <node lat="51.5139808665031" lng="-0.14873353356552"/>
+    <node lat="51.51418283951066" lng="-0.14922169560623"/>
+  </nodes>
+  <exits>
+    <exit title="South Molton Street - Brook St"/>
+    <exit title="South Molton Street - Brook St"/>
+  </exits>
+</zone>

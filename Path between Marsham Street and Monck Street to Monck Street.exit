@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Path between Marsham Street and Monck Street to Monck Street">
+  <nodes>
+    <node lat="51.49634984671362" lng="-0.13074127549362"/>
+    <node lat="51.49625132556946" lng="-0.13073591107559"/>
+  </nodes>
+  <zones>
+    <zone title="Path between Marsham Street and Monck Street"/>
+    <zone title="Monck Street"/>
+  </zones>
+</exit>

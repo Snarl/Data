@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Chesterfield St">
+  <nodes maxlat="51.50740373259137" maxlng="-0.14819709176254" minlat="51.50668753586871" minlng="-0.14858332986068">
+    <node lat="51.50738036038185" lng="-0.14858332986068"/>
+    <node lat="51.50740373259137" lng="-0.14847604150009"/>
+    <node lat="51.50669755268371" lng="-0.14819709176254"/>
+    <node lat="51.50668753586871" lng="-0.14831779116821"/>
+  </nodes>
+  <exits>
+    <exit title="Charles St-Chesterfield St"/>
+    <exit title="Charles St-Chesterfield St"/>
+    <exit title="Chesterfield St-Curzon St"/>
+    <exit title="Chesterfield St-Curzon St"/>
+  </exits>
+</zone>

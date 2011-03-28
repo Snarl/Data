@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wilton Terrace - Belgrave Square">
+  <nodes>
+    <node lat="51.49945816297248" lng="-0.15520168060493"/>
+    <node lat="51.49907579223184" lng="-0.15538138860893"/>
+  </nodes>
+  <zones>
+    <zone title="Wilton Crescent"/>
+    <zone title="Belgrave Square Gardens"/>
+  </zones>
+</exit>

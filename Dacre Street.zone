@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Dacre Street">
+  <nodes maxlat="51.49909541176288" maxlng="-0.13215211743545" minlat="51.49858446616048" minlng="-0.13346639985275">
+    <node lat="51.49909541176288" lng="-0.13334301823807"/>
+    <node lat="51.49893177621302" lng="-0.13215211743545"/>
+    <node lat="51.49878817718528" lng="-0.13217357510757"/>
+    <node lat="51.49858446616048" lng="-0.1328441273613"/>
+    <node lat="51.49890506014908" lng="-0.13286022061538"/>
+    <node lat="51.4989852082939" lng="-0.13346639985275"/>
+  </nodes>
+  <exits>
+    <exit title="St James\'s Park Broadway - Dacre Street"/>
+    <exit title="Dacre Street - Dean Farar Street"/>
+  </exits>
+</zone>

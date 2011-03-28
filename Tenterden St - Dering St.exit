@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Tenterden St - Dering St">
+  <nodes>
+    <node lat="51.51398587409756" lng="-0.14555913919639"/>
+    <node lat="51.51405931892312" lng="-0.14547330850792"/>
+  </nodes>
+  <zones>
+    <zone title="Tenderden St"/>
+    <zone title="Dering St"/>
+  </zones>
+</exit>

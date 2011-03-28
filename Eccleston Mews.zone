@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Eccleston Mews">
+  <nodes maxlat="51.4979403492961" maxlng="-0.15038979763222" minlat="51.49709375799112" minlng="-0.15172821993065">
+    <node lat="51.49715554132044" lng="-0.15172821993065"/>
+    <node lat="51.49709375799112" lng="-0.1516477536602"/>
+    <node lat="51.49789025557372" lng="-0.15038979763222"/>
+    <node lat="51.4979403492961" lng="-0.1504595350666"/>
+  </nodes>
+  <exits>
+    <exit title="Belgrave Place - Eccleston Mews"/>
+    <exit title="Belgrave Place - Eccleston Mews"/>
+  </exits>
+</zone>

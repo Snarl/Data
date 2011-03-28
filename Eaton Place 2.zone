@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Eaton Place 2">
+  <nodes maxlat="51.49549654636731" maxlng="-0.1542776595993" minlat="51.49435767441953" minlng="-0.15587089175415">
+    <node lat="51.49540637279289" lng="-0.15587089175415"/>
+    <node lat="51.49435767441953" lng="-0.15439031237793"/>
+    <node lat="51.49443783056078" lng="-0.1542776595993"/>
+    <node lat="51.49510245313569" lng="-0.15522179717254"/>
+    <node lat="51.49549654636731" lng="-0.15558657759857"/>
+  </nodes>
+  <exits>
+    <exit title="Eaton Place - Eaton Mews"/>
+    <exit title="West Eaton Place - Eaton Place"/>
+  </exits>
+</zone>

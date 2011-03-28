@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<zone title="Palace Street">
+  <nodes maxlat="51.49917514213564" maxlng="-0.13921303266716" minlat="51.4970244603621" minlng="-0.14309955352974">
+    <node lat="51.49917514213564" lng="-0.14298153633308"/>
+    <node lat="51.49907161785348" lng="-0.14309955352974"/>
+    <node lat="51.4989263495127" lng="-0.14216882700157"/>
+    <node lat="51.49881447587714" lng="-0.14214736932945"/>
+    <node lat="51.49874100647458" lng="-0.14196229690742"/>
+    <node lat="51.49867087647984" lng="-0.14179868215751"/>
+    <node lat="51.49845380676456" lng="-0.14097524398994"/>
+    <node lat="51.49840371360652" lng="-0.14078480714988"/>
+    <node lat="51.4983836763279" lng="-0.14054340833854"/>
+    <node lat="51.49826178269312" lng="-0.140264458601"/>
+    <node lat="51.49818163327614" lng="-0.14014375919533"/>
+    <node lat="51.49806307867182" lng="-0.13998550886345"/>
+    <node lat="51.49790778837144" lng="-0.13981116527748"/>
+    <node lat="51.49776251632116" lng="-0.13971192354393"/>
+    <node lat="51.4977007338146" lng="-0.13966096157264"/>
+    <node lat="51.49712297983514" lng="-0.13945174926948"/>
+    <node lat="51.4970244603621" lng="-0.13943029159736"/>
+    <node lat="51.49705785681752" lng="-0.13921303266716"/>
+    <node lat="51.4974168671676" lng="-0.13936055416298"/>
+    <node lat="51.49779591223572" lng="-0.13950002903175"/>
+    <node lat="51.49790945816242" lng="-0.13953221553993"/>
+    <node lat="51.49812486068722" lng="-0.1397602033062"/>
+    <node lat="51.4982450849095" lng="-0.13990236038399"/>
+    <node lat="51.49846549516018" lng="-0.14016253465843"/>
+    <node lat="51.49885955931556" lng="-0.1418147754116"/>
+    <node lat="51.49891967049738" lng="-0.14176381344032"/>
+  </nodes>
+  <exits>
+    <exit title="Catherine Place - Palace Street 1"/>
+    <exit title="Catherine Place - Palace Street 2"/>
+    <exit title="Wilfred Street - Palace Street"/>
+    <exit title="Castle Lane - Palace Street"/>
+    <exit title="Stafford Place - Palace Street"/>
+    <exit title="Palace Street - Buckingham Palace Road"/>
+    <exit title="Palace Street - Buckingham Palace Road"/>
+    <exit title="Palace Street - Victoria Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Palace Place - Palace Street"/>
+    <exit title="Stafford Place - Palace Street"/>
+    <exit title="Stafford Place - Palace Street"/>
+  </exits>
+</zone>

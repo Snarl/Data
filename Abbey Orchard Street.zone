@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<zone title="Abbey Orchard Street">
+  <nodes maxlat="51.49853437315086" maxlng="-0.13009486312103" minlat="51.49757758600696" minlng="-0.1325571309967">
+    <node lat="51.49853437315086" lng="-0.13009486312103"/>
+    <node lat="51.49833066099164" lng="-0.13010559195709"/>
+    <node lat="51.49827722814342" lng="-0.1314762007637"/>
+    <node lat="51.49800505360054" lng="-0.1322325837059"/>
+    <node lat="51.49794327142278" lng="-0.13228354567718"/>
+    <node lat="51.49758092561306" lng="-0.13229963893127"/>
+    <node lat="51.49757758600696" lng="-0.13248202914428"/>
+    <node lat="51.49802509104562" lng="-0.13244179600906"/>
+    <node lat="51.49813529683612" lng="-0.13241765612793"/>
+    <node lat="51.49825886058734" lng="-0.1325571309967"/>
+    <node lat="51.49834234941886" lng="-0.13232377881241"/>
+    <node lat="51.49813863640138" lng="-0.13214407080841"/>
+    <node lat="51.49837908445624" lng="-0.13157007807922"/>
+    <node lat="51.4984458753575" lng="-0.13030407542419"/>
+  </nodes>
+  <exits>
+    <exit title="Abbey Orchard Street - Great Smith Street"/>
+    <exit title="Abbey Orchard Street - Great Smith Street"/>
+    <exit title="Abbey Orchard Street - Great Smith Street"/>
+    <exit title="Abbey Orchard Street - St Ann\'s Street"/>
+    <exit title="Abbey Orchard Street - Abbey Orchard Street Estate (North Entrance)"/>
+    <exit title="Abbey Orchard Street - Abbey Orchard Street Estate (West Entrance)"/>
+    <exit title="Abbey Orchard Street - Abbey Orchard Street Estate (West Entrance)"/>
+    <exit title="Victoria Street - Abbey Street Orchard"/>
+    <exit title="Victoria Street - Abbey Street Orchard"/>
+    <exit title="Abbey Orchard Street - Old Pye Street"/>
+  </exits>
+</zone>

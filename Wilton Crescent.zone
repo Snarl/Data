@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<zone title="Wilton Crescent">
+  <nodes maxlat="51.50097509126848" maxlng="-0.15359906071853" minlat="51.4990014883761" minlng="-0.15632418507766">
+    <node lat="51.500894946623" lng="-0.15575555676651"/>
+    <node lat="51.50063447555182" lng="-0.15614715928268"/>
+    <node lat="51.50049088188884" lng="-0.15627054089737"/>
+    <node lat="51.50019033554836" lng="-0.15632418507766"/>
+    <node lat="51.4999165027126" lng="-0.15622762555313"/>
+    <node lat="51.49977958567772" lng="-0.15610960835647"/>
+    <node lat="51.49952912662274" lng="-0.15571264142227"/>
+    <node lat="51.49935213472716" lng="-0.15596476906967"/>
+    <node lat="51.49924193187896" lng="-0.15590039605331"/>
+    <node lat="51.4990014883761" lng="-0.15580920094681"/>
+    <node lat="51.49906493886814" lng="-0.15538541192245"/>
+    <node lat="51.49931873995282" lng="-0.15536931866836"/>
+    <node lat="51.4994523189034" lng="-0.15520838612747"/>
+    <node lat="51.4998664111622" lng="-0.15581456536484"/>
+    <node lat="51.50005675876084" lng="-0.15599159115982"/>
+    <node lat="51.5007647112735" lng="-0.15481141919327"/>
+    <node lat="51.50066452998218" lng="-0.15450564736557"/>
+    <node lat="51.5002370873315" lng="-0.15384045952987"/>
+    <node lat="51.50022706909632" lng="-0.15367416257095"/>
+    <node lat="51.5004942212815" lng="-0.15359906071853"/>
+    <node lat="51.50057436663166" lng="-0.1537546288414"/>
+    <node lat="51.50052093641388" lng="-0.15387264603805"/>
+    <node lat="51.50077806876238" lng="-0.15424279088211"/>
+    <node lat="51.50090162534884" lng="-0.15457538479995"/>
+    <node lat="51.50097509126848" lng="-0.15504208916855"/>
+    <node lat="51.50096841255344" lng="-0.15543369168472"/>
+  </nodes>
+  <exits>
+    <exit title="Wilton Terrace - West Halkin Street"/>
+    <exit title="Wilton Terrace - Belgrave Square"/>
+    <exit title="Motcomb Street - Wilton Crescent"/>
+    <exit title="Wilton Crescent - Belgrave Mews North"/>
+    <exit title="Belgrade Mews South - Wilton Crescent"/>
+    <exit title="Belgrave Mews North - Wilton Crescent"/>
+  </exits>
+</zone>

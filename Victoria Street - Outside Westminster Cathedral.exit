@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Street - Outside Westminster Cathedral">
+  <nodes>
+    <node lat="51.49669550397788" lng="-0.14043343776893"/>
+    <node lat="51.49676062751325" lng="-0.13998819107246"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Outside Wesminster Cathedral"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Air Street - Piccadily Place 2">
+  <nodes>
+    <node lat="51.50943039426446" lng="-0.13598633522224"/>
+    <node lat="51.50948047530242" lng="-0.13582540268135"/>
+  </nodes>
+  <zones>
+    <zone title="Air Street"/>
+    <zone title="Piccadily Place 2"/>
+  </zones>
+</exit>

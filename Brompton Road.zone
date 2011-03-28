@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<zone title="Brompton Road">
+  <nodes maxlat="51.50157784127972" maxlng="-0.16062376612854" minlat="51.49648510423342" minlng="-0.16966817492676">
+    <node lat="51.50006844675136" lng="-0.16333816165161"/>
+    <node lat="51.50043244248384" lng="-0.16271052474212"/>
+    <node lat="51.5006194483352" lng="-0.16294655913543"/>
+    <node lat="51.50091999184586" lng="-0.16232965106201"/>
+    <node lat="51.50110031700088" lng="-0.16222236270141"/>
+    <node lat="51.50123055139134" lng="-0.16175029391479"/>
+    <node lat="51.50157784127972" lng="-0.16133186930847"/>
+    <node lat="51.5015644840253" lng="-0.16062376612854"/>
+    <node lat="51.5012171940351" lng="-0.16136942023468"/>
+    <node lat="51.50006176790344" lng="-0.16264615172577"/>
+    <node lat="51.49993153017298" lng="-0.16287145728302"/>
+    <node lat="51.49862913239876" lng="-0.16517815703583"/>
+    <node lat="51.49852560687638" lng="-0.16540882701111"/>
+    <node lat="51.49841540202964" lng="-0.16560194606018"/>
+    <node lat="51.49758384777694" lng="-0.16726491564941"/>
+    <node lat="51.49648510423342" lng="-0.16913709754181"/>
+    <node lat="51.49665542791556" lng="-0.16964135283661"/>
+    <node lat="51.49675227835292" lng="-0.16966817492676"/>
+    <node lat="51.49686248722098" lng="-0.16916391963196"/>
+    <node lat="51.4970728852291" lng="-0.16882059687805"/>
+    <node lat="51.49889295444098" lng="-0.16539273375702"/>
+    <node lat="51.49986808088742" lng="-0.16353128070068"/>
+  </nodes>
+  <exits>
+    <exit title="Knightsbridge - Brompton Road"/>
+    <exit title="Lancelot Place - Brompton Road"/>
+    <exit title="Park Close - Brompton Road"/>
+    <exit title="Knightsbridge - Brompton Road"/>
+    <exit title="Lancelot Place - Brompton Road"/>
+    <exit title="Park Close - Brompton Road"/>
+    <exit title="Brompton Road - Hans Road"/>
+    <exit title="Pont Street - Brompton Road"/>
+    <exit title="Lancelot Place - Brompton Road"/>
+    <exit title="Lancelot Place - Brompton Road"/>
+  </exits>
+</zone>

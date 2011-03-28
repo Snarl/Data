@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<zone title="Basil Street">
+  <nodes maxlat="51.50120634117902" maxlng="-0.16023350471687" minlat="51.4983961996415" minlng="-0.1621834706707">
+    <node lat="51.50120634117902" lng="-0.16026032680702"/>
+    <node lat="51.5011595903902" lng="-0.16037566179466"/>
+    <node lat="51.50062028317982" lng="-0.16100061649513"/>
+    <node lat="51.50036481964212" lng="-0.16124201530647"/>
+    <node lat="51.49976205359344" lng="-0.1616443466587"/>
+    <node lat="51.49952662202998" lng="-0.16176236385536"/>
+    <node lat="51.49924276675478" lng="-0.16167653316688"/>
+    <node lat="51.498521432454" lng="-0.1621834706707"/>
+    <node lat="51.4983961996415" lng="-0.16195816511345"/>
+    <node lat="51.4986700416117" lng="-0.16185087675285"/>
+    <node lat="51.49915427033688" lng="-0.16150218958091"/>
+    <node lat="51.4993229143057" lng="-0.16153974050712"/>
+    <node lat="51.4993730064535" lng="-0.16147536749077"/>
+    <node lat="51.4994448051026" lng="-0.16162020677757"/>
+    <node lat="51.49976706276244" lng="-0.16145122760963"/>
+    <node lat="51.50035313173356" lng="-0.16104353183937"/>
+    <node lat="51.50055516515914" lng="-0.1608155440731"/>
+    <node lat="51.5007087767511" lng="-0.16072166675758"/>
+    <node lat="51.50106608866862" lng="-0.16028178447914"/>
+    <node lat="51.50106942801912" lng="-0.16023350471687"/>
+  </nodes>
+  <exits>
+    <exit title="Basil Street - Pavilion Road"/>
+    <exit title="Hans Crescent - Basil Street"/>
+    <exit title="Hans Road - Basil Street"/>
+    <exit title="Basil Street - Pavilion Road"/>
+    <exit title="Basil Street - Pavilion Road"/>
+    <exit title="Hans Crescent - Basil Street"/>
+    <exit title="Hans Road - Basil Street"/>
+    <exit title="Sloane Street - Basil Road"/>
+    <exit title="Basil Street - Sloane Street"/>
+    <exit title="Basil Street - Sloane Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St George's St - Conduit St">
+  <nodes>
+    <node lat="51.5116213882109" lng="-0.1428407203598"/>
+    <node lat="51.51180834814696" lng="-0.14260468596649"/>
+  </nodes>
+  <zones>
+    <zone title="St George\'s St"/>
+    <zone title="Conduit Street"/>
+  </zones>
+</exit>

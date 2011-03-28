@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Parliament Square - St Magaret">
+  <nodes>
+    <node lat="51.50008013472584" lng="-0.12637732142639"/>
+    <node lat="51.50011352894231" lng="-0.12602058762741"/>
+  </nodes>
+  <zones>
+    <zone title="St Margaret Street"/>
+    <zone title="Parliament Square"/>
+  </zones>
+</exit>

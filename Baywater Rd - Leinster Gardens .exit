@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Baywater Rd - Leinster Gardens ">
+  <nodes>
+    <node lat="51.51068991566964" lng="-0.18296120280456"/>
+    <node lat="51.51067823040924" lng="-0.18266884202194"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Leinster Gardens"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Grosvenor Street - Park St (North)">
+  <nodes>
+    <node lat="51.51038108992284" lng="-0.15453246945572"/>
+    <node lat="51.5104411859078" lng="-0.15431789273453"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Grosvenor Street"/>
+    <zone title="Park Street"/>
+  </zones>
+</exit>

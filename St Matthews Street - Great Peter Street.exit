@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Matthews Street - Great Peter Street">
+  <nodes>
+    <node lat="51.49669299922637" lng="-0.13319817895126"/>
+    <node lat="51.49671888166966" lng="-0.13308284396362"/>
+  </nodes>
+  <zones>
+    <zone title="St Matthews Street"/>
+    <zone title="Great Peter Street"/>
+  </zones>
+</exit>

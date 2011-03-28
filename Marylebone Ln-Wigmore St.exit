@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marylebone Ln-Wigmore St">
+  <nodes>
+    <node lat="51.51601474385481" lng="-0.14978495949936"/>
+    <node lat="51.51611489139953" lng="-0.14936653489303"/>
+  </nodes>
+  <zones>
+    <zone title="Marlyebone Ln"/>
+    <zone title="Wigmore St"/>
+  </zones>
+</exit>

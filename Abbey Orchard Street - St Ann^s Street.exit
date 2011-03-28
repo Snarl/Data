@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Abbey Orchard Street - St Ann's Street">
+  <nodes>
+    <node lat="51.49829768291541" lng="-0.13079626077842"/>
+    <node lat="51.49830770157474" lng="-0.13061387056541"/>
+  </nodes>
+  <zones>
+    <zone title="Abbey Orchard Street"/>
+    <zone title="St Ann\'s Street"/>
+  </zones>
+</exit>

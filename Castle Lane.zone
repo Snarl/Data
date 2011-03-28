@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Castle Lane">
+  <nodes maxlat="51.49901359404624" maxlng="-0.13817904109192" minlat="51.49813529681618" minlng="-0.13983664626312">
+    <node lat="51.49819874851406" lng="-0.13983664626312"/>
+    <node lat="51.49813529681618" lng="-0.13975081557464"/>
+    <node lat="51.49855608011058" lng="-0.13876376265716"/>
+    <node lat="51.4987263960539" lng="-0.13850627059173"/>
+    <node lat="51.4989701805123" lng="-0.13817904109192"/>
+    <node lat="51.49901359404624" lng="-0.13830778712463"/>
+    <node lat="51.49866294509058" lng="-0.13885495776367"/>
+  </nodes>
+  <exits>
+    <exit title="Castle Lane - Buckingham Gate"/>
+    <exit title="Castle Lane - Palace Street"/>
+  </exits>
+</zone>

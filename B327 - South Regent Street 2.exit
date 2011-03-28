@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="B327 - South Regent Street 2">
+  <nodes>
+    <node lat="51.50808903663352" lng="-0.13310698384475"/>
+    <node lat="51.50797885491234" lng="-0.13301310652923"/>
+  </nodes>
+  <zones>
+    <zone title="B327"/>
+    <zone title="South Regent Street 2"/>
+  </zones>
+</exit>

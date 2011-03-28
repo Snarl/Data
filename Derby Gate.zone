@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Derby Gate">
+  <nodes maxlat="51.50204033379359" maxlng="-0.12429324502182" minlat="51.50192679815812" minlng="-0.12605009192657">
+    <node lat="51.50192679815812" lng="-0.12430129164886"/>
+    <node lat="51.50202614185464" lng="-0.12429324502182"/>
+    <node lat="51.50204033379359" lng="-0.12605009192657"/>
+    <node lat="51.50198356601121" lng="-0.12604472750854"/>
+  </nodes>
+  <exits>
+    <exit title="Canon Row - Derby Gate"/>
+    <exit title="Derby Gate - Canon Row"/>
+    <exit title="Victoria Embankment - Derby Gate"/>
+    <exit title="Whitehall - Derby Gate"/>
+  </exits>
+</zone>

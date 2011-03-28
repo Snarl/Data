@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Howick Place - Victoria Street">
+  <nodes>
+    <node lat="51.49709208817371" lng="-0.13730732316208"/>
+    <node lat="51.49712548457955" lng="-0.13713029736709"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Howick Place"/>
+  </zones>
+</exit>

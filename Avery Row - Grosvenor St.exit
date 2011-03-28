@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Avery Row - Grosvenor St">
+  <nodes>
+    <node lat="51.51223317831972" lng="-0.14521179312896"/>
+    <node lat="51.5122632251005" lng="-0.14511523360443"/>
+  </nodes>
+  <zones>
+    <zone title="Avery Row"/>
+    <zone title="Grosvendor St"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hay's Mews-Chesterfield Hill">
+  <nodes>
+    <node lat="51.50807818261566" lng="-0.14843849057388"/>
+    <node lat="51.50794462894814" lng="-0.14824000710678"/>
+  </nodes>
+  <zones>
+    <zone title="hay\'s Mews 2"/>
+    <zone title="Chesterfield Hill"/>
+  </zones>
+</exit>

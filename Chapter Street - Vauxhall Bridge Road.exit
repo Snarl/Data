@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chapter Street - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.4910377504297" lng="-0.13420668954086"/>
+    <node lat="51.4909509081268" lng="-0.13405648583603"/>
+  </nodes>
+  <zones>
+    <zone title="Chapter Street"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

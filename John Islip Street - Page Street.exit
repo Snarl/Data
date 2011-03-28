@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Islip Street - Page Street">
+  <nodes>
+    <node lat="51.49389176405664" lng="-0.12700495833587"/>
+    <node lat="51.4938984438087" lng="-0.126667"/>
+  </nodes>
+  <zones>
+    <zone title="Page Street"/>
+    <zone title="John Islip Street"/>
+  </zones>
+</exit>

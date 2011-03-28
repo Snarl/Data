@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Palace Street - Victoria Street">
+  <nodes>
+    <node lat="51.49702529528246" lng="-0.13943833822441"/>
+    <node lat="51.49706537102524" lng="-0.13921035045814"/>
+  </nodes>
+  <zones>
+    <zone title="Palace Street"/>
+    <zone title="Victoria Street"/>
+  </zones>
+</exit>

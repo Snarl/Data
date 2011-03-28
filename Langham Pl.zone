@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Langham Pl">
+  <nodes maxlat="51.51814950801133" maxlng="-0.14270124549103" minlat="51.51743514928678" minlng="-0.14385995978546">
+    <node lat="51.51800930765003" lng="-0.14385995978546"/>
+    <node lat="51.51791584050272" lng="-0.14364538306427"/>
+    <node lat="51.51778899192458" lng="-0.14335570449066"/>
+    <node lat="51.51766881926152" lng="-0.14321622962188"/>
+    <node lat="51.51743514928678" lng="-0.14306602591705"/>
+    <node lat="51.51750858855088" lng="-0.14270124549103"/>
+    <node lat="51.51766881926152" lng="-0.14282999152374"/>
+    <node lat="51.51796257410033" lng="-0.14316258544159"/>
+    <node lat="51.51806939357201" lng="-0.14343080634308"/>
+    <node lat="51.51814950801133" lng="-0.14366684073639"/>
+  </nodes>
+  <exits>
+    <exit title="Langham Pl - Cavenshish Pl (North)"/>
+    <exit title="Langham Pl - Cavenshish Pl (North)"/>
+    <exit title="Langham Pl - Cavendish Pl (West)"/>
+    <exit title="Langham Pl - Cavendish Pl (West)"/>
+    <exit title="Langham Pl - Cavendish Pl (East)"/>
+    <exit title="Langham Pl - Cavendish Pl (East)"/>
+  </exits>
+</zone>

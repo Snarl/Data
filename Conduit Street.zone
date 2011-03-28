@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Conduit Street">
+  <nodes maxlat="51.51312956563288" maxlng="-0.14077139610481" minlat="51.51111892974661" minlng="-0.14328462595176">
+    <node lat="51.51111892974661" lng="-0.14317063206863"/>
+    <node lat="51.51122659991957" lng="-0.14328462595176"/>
+    <node lat="51.51312956563288" lng="-0.14095244521332"/>
+    <node lat="51.51293343029732" lng="-0.14077139610481"/>
+    <node lat="51.51160636477707" lng="-0.14251080865097"/>
+  </nodes>
+  <exits>
+    <exit title="Conduit Street - Regent Street 1"/>
+    <exit title="St George\'s St - Conduit St"/>
+    <exit title="St George\'s St - Conduit St"/>
+    <exit title="Saville Row-Conduit St"/>
+    <exit title="Saville Row-Conduit St"/>
+    <exit title="New Bond Street North - Conduit Street"/>
+  </exits>
+</zone>

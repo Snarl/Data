@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Eaton Gate">
+  <nodes>
+    <node lat="51.49435266482163" lng="-0.15439299458694"/>
+    <node lat="51.49419903180673" lng="-0.15415696019363"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

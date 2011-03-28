@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Gayfere Street - Smith Street">
+  <nodes>
+    <node lat="51.4961786869758" lng="-0.12771037930679"/>
+    <node lat="51.49624548110148" lng="-0.12758967990112"/>
+  </nodes>
+  <zones>
+    <zone title="Smith Square"/>
+    <zone title="Gayfere Street"/>
+  </zones>
+</exit>

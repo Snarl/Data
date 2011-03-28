@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fentiman Road - Carroun Road">
+  <nodes>
+    <node lat="51.48088651849886" lng="-0.1182569336338"/>
+    <node lat="51.48083724124363" lng="-0.11810672992897"/>
+  </nodes>
+  <zones>
+    <zone title="Carroun Road (north)"/>
+    <zone title="Fentiman Road (east)"/>
+  </zones>
+</exit>

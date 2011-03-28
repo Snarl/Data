@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vauxhal Bridge Road - Bessborough Gardens">
+  <nodes>
+    <node lat="51.48941861528392" lng="-0.13086733931732"/>
+    <node lat="51.48923991401898" lng="-0.13108728045654"/>
+  </nodes>
+  <zones>
+    <zone title="Bessborough Gardens"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

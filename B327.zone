@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="B327">
+  <nodes maxlat="51.50852642208513" maxlng="-0.13181684130859" minlat="51.50798970618946" minlng="-0.13311100715828">
+    <node lat="51.50852642208513" lng="-0.13192144746017"/>
+    <node lat="51.50840288617161" lng="-0.13181684130859"/>
+    <node lat="51.50798970618946" lng="-0.13303590530586"/>
+    <node lat="51.50807818545039" lng="-0.13311100715828"/>
+  </nodes>
+  <exits>
+    <exit title="B327 - South Regent Street 2"/>
+    <exit title="B327 - South Regent Street 2"/>
+    <exit title="St Alban\'s Street - B327"/>
+    <exit title="St Alban\'s Street - B327"/>
+    <exit title="Cockspur Street - B327"/>
+    <exit title="Cockspur Street - B327"/>
+  </exits>
+</zone>

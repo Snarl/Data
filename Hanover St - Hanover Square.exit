@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hanover St - Hanover Square">
+  <nodes>
+    <node lat="51.51357858700668" lng="-0.14301640505028"/>
+    <node lat="51.51375886206988" lng="-0.14308614248466"/>
+  </nodes>
+  <zones>
+    <zone title="Hanover St"/>
+    <zone title="Hannover Square"/>
+  </zones>
+</exit>

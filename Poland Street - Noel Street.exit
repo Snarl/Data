@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Poland Street - Noel Street">
+  <nodes>
+    <node lat="51.51488973798239" lng="-0.13719467038345"/>
+    <node lat="51.51478624939889" lng="-0.13711152190399"/>
+  </nodes>
+  <zones>
+    <zone title="Poland Street"/>
+    <zone title="Noel Street"/>
+  </zones>
+</exit>

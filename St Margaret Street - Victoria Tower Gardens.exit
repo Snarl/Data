@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Margaret Street - Victoria Tower Gardens">
+  <nodes>
+    <node lat="51.49798793827632" lng="-0.12566385382843"/>
+    <node lat="51.4978610342052" lng="-0.12564776057434"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Tower Gardens"/>
+    <zone title="St Margaret Street"/>
+  </zones>
+</exit>

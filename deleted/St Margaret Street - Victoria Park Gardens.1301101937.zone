@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<exit title="St Margaret Street - Victoria Park Gardens">
+  <nodes>
+    <node lat="51.49784767586224" lng="-0.12563971394729"/>
+    <node lat="51.4980063059424" lng="-0.12565312499237"/>
+  </nodes>
+  <zones/>
+</exit>

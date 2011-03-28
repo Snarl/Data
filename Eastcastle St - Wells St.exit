@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Eastcastle St - Wells St">
+  <nodes>
+    <node lat="51.51684596181477" lng="-0.13763723487091"/>
+    <node lat="51.516625640462" lng="-0.13748703116607"/>
+  </nodes>
+  <zones>
+    <zone title="Eastcastle St"/>
+    <zone title="Wells St"/>
+  </zones>
+</exit>

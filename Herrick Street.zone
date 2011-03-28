@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Herrick Street">
+  <nodes maxlat="51.4920272399849" maxlng="-0.12883690709305" minlat="51.4906260830429" minlng="-0.13056961411667">
+    <node lat="51.4920272399849" lng="-0.12897369975281"/>
+    <node lat="51.49198214978852" lng="-0.12883690709305"/>
+    <node lat="51.49103023523324" lng="-0.12971667164993"/>
+    <node lat="51.49085655043344" lng="-0.13027993554306"/>
+    <node lat="51.4906260830429" lng="-0.13047305459213"/>
+    <node lat="51.49065948418618" lng="-0.13056961411667"/>
+    <node lat="51.49088661131152" lng="-0.13034699076843"/>
+    <node lat="51.49107031624694" lng="-0.1297837268753"/>
+  </nodes>
+  <exits>
+    <exit title="Afterbury Street - Herrick Street"/>
+    <exit title="Herrick Street - Cureton Street"/>
+    <exit title="St Oswulf Street - Herrick Street"/>
+    <exit title="Marsham Street - Herrick Street"/>
+    <exit title="Marsham Street - Herrick Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="D'Arblay Street - Poland Street">
+  <nodes>
+    <node lat="51.51439482674295" lng="-0.13685000652504"/>
+    <node lat="51.51435226245605" lng="-0.13681916112137"/>
+  </nodes>
+  <zones>
+    <zone title="Poland Street"/>
+    <zone title="D\'Arblay Street"/>
+  </zones>
+</exit>

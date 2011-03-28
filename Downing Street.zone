@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Downing Street">
+  <nodes maxlat="51.50334096449568" maxlng="-0.12638268584442" minlat="51.50310722102094" minlng="-0.1280188333435">
+    <node lat="51.50334096449568" lng="-0.12799737567138"/>
+    <node lat="51.50324746724966" lng="-0.12644705886078"/>
+    <node lat="51.50310722102094" lng="-0.12638268584442"/>
+    <node lat="51.50319404016581" lng="-0.1280188333435"/>
+  </nodes>
+  <exits>
+    <exit title="Downing Street - Whitehall"/>
+    <exit title="Downing Street - Whitehall"/>
+  </exits>
+  <title>Downing Street</title>
+</zone>

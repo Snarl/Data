@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Argyll Road">
+  <nodes maxlat="51.51525027701746" maxlng="-0.14020947331619" minlat="51.51398503950563" minlng="-0.14134941214752">
+    <node lat="51.51522857798957" lng="-0.14134941214752"/>
+    <node lat="51.51398503950563" lng="-0.14039991015625"/>
+    <node lat="51.51405013833541" lng="-0.14020947331619"/>
+    <node lat="51.51525027701746" lng="-0.14116165751648"/>
+  </nodes>
+  <exits>
+    <exit title="Argyll St - East Oxfod Street 1"/>
+    <exit title="Argyll St - East Oxfod Street 1"/>
+    <exit title="Argyll Street - Little Argyll Street"/>
+    <exit title="Argyll Street - Great Marlborough Street"/>
+  </exits>
+</zone>

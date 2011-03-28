@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Davies St - West Oxford Street 2" status="green" reason="">
+  <nodes>
+    <node lat="51.51419452376946" lng="-0.14929679745865"/>
+    <node lat="51.51426796825864" lng="-0.14893738145065"/>
+  </nodes>
+  <zones>
+    <zone title="Davies St"/>
+    <zone title="West Oxford Street 2"/>
+  </zones>
+</exit>

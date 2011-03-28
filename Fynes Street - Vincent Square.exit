@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fynes Street - Vincent Square">
+  <nodes>
+    <node lat="51.49371809016139" lng="-0.13313917035293"/>
+    <node lat="51.49367216666429" lng="-0.13316599244308"/>
+  </nodes>
+  <zones>
+    <zone title="Fynes Street"/>
+    <zone title="Vincent Square East"/>
+  </zones>
+</exit>

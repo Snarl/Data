@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rutherford Street - Vincent Square">
+  <nodes>
+    <node lat="51.49376150869651" lng="-0.13329205626678"/>
+    <node lat="51.49371725518839" lng="-0.13313917035293"/>
+  </nodes>
+  <zones>
+    <zone title="Rutherford Street"/>
+    <zone title="Vincent Square East"/>
+  </zones>
+</exit>

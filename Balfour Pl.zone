@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Balfour Pl">
+  <nodes maxlat="51.50931896375298" maxlng="-0.15200649911594" minlat="51.50834737834602" minlng="-0.1526287716074">
+    <node lat="51.50927556003602" lng="-0.1526287716074"/>
+    <node lat="51.50931896375298" lng="-0.15247856790256"/>
+    <node lat="51.50899510425278" lng="-0.15236055070591"/>
+    <node lat="51.50834737834602" lng="-0.15200649911594"/>
+    <node lat="51.50835071716296" lng="-0.15216206723881"/>
+  </nodes>
+  <exits>
+    <exit title="Aldford St-Balfor pl"/>
+    <exit title="South Street - Balfour Pl"/>
+    <exit title="South Street - Balfour Pl"/>
+    <exit title="Mount St - Balfour Pl"/>
+    <exit title="Mount St - Balfour Pl"/>
+    <exit title="Mount St - Balfour Pl"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Milbank - Lambeth Bridge Roundabout">
+  <nodes>
+    <node lat="51.49507406492988" lng="-0.12532589549255"/>
+    <node lat="51.49507239503498" lng="-0.12502548808288"/>
+  </nodes>
+  <zones>
+    <zone title="Lambeth Bridge Roundabout"/>
+    <zone title="Milbank North"/>
+  </zones>
+</exit>

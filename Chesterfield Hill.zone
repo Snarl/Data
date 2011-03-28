@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Chesterfield Hill">
+  <nodes maxlat="51.5088753256934" maxlng="-0.14772636408043" minlat="51.5076616635883" minlng="-0.14937055820656">
+    <node lat="51.50884861545856" lng="-0.14937055820656"/>
+    <node lat="51.5088753256934" lng="-0.14931423181724"/>
+    <node lat="51.508100722525" lng="-0.14830840343666"/>
+    <node lat="51.5076700107558" lng="-0.14772636408043"/>
+    <node lat="51.5076616635883" lng="-0.1478121947689"/>
+  </nodes>
+  <exits>
+    <exit title="Charlies St - Chesterfield Hill"/>
+    <exit title="Charlies St - Chesterfield Hill"/>
+    <exit title="Chesterfueld Hill-South St"/>
+    <exit title="Chesterfueld Hill-South St"/>
+    <exit title="Hay\'s Mews-Chesterfield Hill"/>
+    <exit title="Hay\'s Mews-Chesterfield Hill"/>
+    <exit title="Chesterfield Hill-Hay\'s Mews"/>
+    <exit title="Chesterfield Hill-Hay\'s Mews"/>
+  </exits>
+</zone>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="North Regents St">
+  <nodes maxlat="51.51726824142801" maxlng="-0.14182148093414" minlat="51.51541886141963" minlng="-0.1429480087204">
+    <node lat="51.51541886141963" lng="-0.14229354972076"/>
+    <node lat="51.51547227416962" lng="-0.14182148093414"/>
+    <node lat="51.51726824142801" lng="-0.14262614363861"/>
+    <node lat="51.51723485978287" lng="-0.1429480087204"/>
+  </nodes>
+  <exits>
+    <exit title="North Regents St-Oxford St"/>
+    <exit title="North Regents St-Oxford St"/>
+    <exit title="Regent St - Cavendish Pl"/>
+    <exit title="North Regents St-Oxford St"/>
+  </exits>
+</zone>

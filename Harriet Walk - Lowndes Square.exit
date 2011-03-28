@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Harriet Walk - Lowndes Square">
+  <nodes>
+    <node lat="51.50132822694528" lng="-0.15923572296333"/>
+    <node lat="51.501378316889" lng="-0.15925181621742"/>
+  </nodes>
+  <zones>
+    <zone title="Lowndes Square"/>
+    <zone title="Harriet Walk"/>
+  </zones>
+</exit>

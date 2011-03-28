@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<zone title="Victoria Embankment">
+  <nodes maxlat="51.50647134190613" maxlng="-0.12218636984062" minlat="51.50121552435802" minlng="-0.12437639350128">
+    <node lat="51.50121552435802" lng="-0.12368438357544"/>
+    <node lat="51.5012455784052" lng="-0.12437639350128"/>
+    <node lat="51.50235088570449" lng="-0.12425837630462"/>
+    <node lat="51.50234086793395" lng="-0.12405452841949"/>
+    <node lat="51.50245774178662" lng="-0.1240384351654"/>
+    <node lat="51.50300203606623" lng="-0.12394187564087"/>
+    <node lat="51.50354298467585" lng="-0.12377021426391"/>
+    <node lat="51.50447794244038" lng="-0.12346444243622"/>
+    <node lat="51.50521253865502" lng="-0.12320695037079"/>
+    <node lat="51.50567332478192" lng="-0.1230299245758"/>
+    <node lat="51.5060840215328" lng="-0.12281534785461"/>
+    <node lat="51.50647134190613" lng="-0.12265977973175"/>
+    <node lat="51.50636366049485" lng="-0.12218636984062"/>
+    <node lat="51.50599386890462" lng="-0.1224344741745"/>
+    <node lat="51.50541622005387" lng="-0.1226866018219"/>
+    <node lat="51.50452468982506" lng="-0.12297091597748"/>
+    <node lat="51.50326249360577" lng="-0.1232820522232"/>
+    <node lat="51.50189674456018" lng="-0.12352881545257"/>
+    <node lat="51.50188338739918" lng="-0.12360928172302"/>
+  </nodes>
+  <exits>
+    <exit title="Victoria Embankment - Richmond Terrace"/>
+    <exit title="Horse Guards Ave - Victoria Embankment"/>
+    <exit title="Victoria Embankment - Bridge Street"/>
+    <exit title="Victoria Embankment - Derby Gate"/>
+    <exit title="Victoria Embankment - Northumberland Ave"/>
+  </exits>
+</zone>

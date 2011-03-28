@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Claylands Road - Palfrey Place">
+  <nodes>
+    <node lat="51.48076332524619" lng="-0.1147258054657"/>
+    <node lat="51.48071321264741" lng="-0.11466143244934"/>
+  </nodes>
+  <zones>
+    <zone title="Palfrey Place"/>
+    <zone title="Claylands Road"/>
+  </zones>
+</exit>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Little College Street">
+  <nodes maxlat="51.49753375365426" maxlng="-0.12657580489349" minlat="51.49701110177924" minlng="-0.1267394196434">
+    <node lat="51.49753375365426" lng="-0.1267394196434"/>
+    <node lat="51.49749200851706" lng="-0.12658921593857"/>
+    <node lat="51.49701611125056" lng="-0.12657580489349"/>
+    <node lat="51.49701110177924" lng="-0.12671259755325"/>
+  </nodes>
+  <exits>
+    <exit title="Great College Street - Little College Street"/>
+    <exit title="Great College Street - Little College Street"/>
+    <exit title="Great College Street - Little College Street"/>
+  </exits>
+</zone>

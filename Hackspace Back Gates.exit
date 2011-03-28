@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hackspace Back Gates">
+  <nodes>
+    <node lat="51.52988725378955" lng="-0.07674438471031"/>
+    <node lat="51.52979881688722" lng="-0.07674706691932"/>
+  </nodes>
+  <zones>
+    <zone title="Cremer Business Space"/>
+    <zone title="Nazrul St"/>
+  </zones>
+</exit>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Upper Berkely St">
+  <nodes maxlat="51.51604812640328" maxlng="-0.15704569930267" minlat="51.51502660961827" minlng="-0.16268370265198">
+    <node lat="51.51512342101522" lng="-0.16268370265198"/>
+    <node lat="51.51502660961827" lng="-0.16253886336517"/>
+    <node lat="51.51591793436136" lng="-0.15704569930267"/>
+    <node lat="51.51604812640328" lng="-0.15711007231903"/>
+  </nodes>
+  <exits>
+    <exit title="Edgware Rd-Upper Berkeley St"/>
+    <exit title="Edgware Rd-Upper Berkeley St"/>
+    <exit title="Seymour Pl-Upper Berkely St"/>
+    <exit title="Seymour Pl-Upper Berkely St"/>
+    <exit title="Seymour Pl-Upper Berkely St"/>
+    <exit title="Seymour Pl-Upper Berkely St"/>
+    <exit title="Upper Berkely St-Seymour Pl"/>
+    <exit title="Upper Berkely St-Seymour Pl"/>
+  </exits>
+</zone>

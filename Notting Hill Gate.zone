@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Notting Hill Gate">
+  <nodes maxlat="51.50990198854186" maxlng="-0.19226846808624" minlat="51.50849470343333" minlng="-0.20078179949951">
+    <node lat="51.50990198854186" lng="-0.19226846808624"/>
+    <node lat="51.5097550853669" lng="-0.19249913806152"/>
+    <node lat="51.50917414544322" lng="-0.19533691519928"/>
+    <node lat="51.50870671713821" lng="-0.19796548003387"/>
+    <node lat="51.50849470343333" lng="-0.20078179949951"/>
+    <node lat="51.50861823909711" lng="-0.2006181847496"/>
+    <node lat="51.50865830464608" lng="-0.20041433686447"/>
+    <node lat="51.50876180715126" lng="-0.19887474888992"/>
+    <node lat="51.50904226437061" lng="-0.19708303326797"/>
+    <node lat="51.50956978636823" lng="-0.19416478985977"/>
+  </nodes>
+  <exits>
+    <exit title="Notting Hill Gate - Holland Park Ave"/>
+    <exit title="Bayswater Rd - Notting Hill Gate"/>
+  </exits>
+</zone>

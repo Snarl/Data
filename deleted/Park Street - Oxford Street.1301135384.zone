@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Park Street - Oxford Street">
+  <nodes>
+    <node lat="51.51354186413024" lng="-0.15616593474579"/>
+    <node lat="51.51357524848194" lng="-0.1557367813034"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 1"/>
+  </zones>
+</exit>

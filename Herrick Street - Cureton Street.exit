@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Herrick Street - Cureton Street">
+  <nodes>
+    <node lat="51.4906619892723" lng="-0.13057095522117"/>
+    <node lat="51.490627753102" lng="-0.13046500796509"/>
+  </nodes>
+  <zones>
+    <zone title="Herrick Street"/>
+    <zone title="Cureton Street"/>
+  </zones>
+</exit>

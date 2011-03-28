@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Sackville St">
+  <nodes maxlat="51.51017826531044" maxlng="-0.13759163731766" minlat="51.50884945013972" minlng="-0.13901320809555">
+    <node lat="51.5101382010981" lng="-0.13901320809555"/>
+    <node lat="51.51017826531044" lng="-0.13889519089889"/>
+    <node lat="51.5093335707074" lng="-0.13807443494034"/>
+    <node lat="51.508866144038" lng="-0.13759163731766"/>
+    <node lat="51.50884945013972" lng="-0.13773647660446"/>
+  </nodes>
+  <exits>
+    <exit title="Sackville St - Piccadily Place 2"/>
+    <exit title="Sackville St - Piccadily Place 2"/>
+    <exit title="Savile Row - Sackville St"/>
+    <exit title="Savile Row - Sackville St"/>
+    <exit title="Sackville St - Piccadily Place 2"/>
+  </exits>
+</zone>

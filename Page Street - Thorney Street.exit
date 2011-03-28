@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Page Street - Thorney Street">
+  <nodes>
+    <node lat="51.49400030990586" lng="-0.12623382324409"/>
+    <node lat="51.49391347324634" lng="-0.12622577661705"/>
+  </nodes>
+  <zones>
+    <zone title="Page Street"/>
+    <zone title="Thorney Street"/>
+  </zones>
+</exit>

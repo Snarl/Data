@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ambrosden Avenue - Outside Westminster Cathedral">
+  <nodes>
+    <node lat="51.49655356774507" lng="-0.13983530515861"/>
+    <node lat="51.49633314824864" lng="-0.13960463518333"/>
+  </nodes>
+  <zones>
+    <zone title="Ambrosden Avenue"/>
+    <zone title="Outside Wesminster Cathedral"/>
+  </zones>
+</exit>

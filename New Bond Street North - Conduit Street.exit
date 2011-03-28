@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="New Bond Street North - Conduit Street">
+  <nodes>
+    <node lat="51.51123244230637" lng="-0.14328931981754"/>
+    <node lat="51.51111392165193" lng="-0.14316191488933"/>
+  </nodes>
+  <zones>
+    <zone title="Conduit Street"/>
+    <zone title="New Bond Street North"/>
+  </zones>
+</exit>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Chincheley Street">
+  <nodes maxlat="51.50300704487913" maxlng="-0.11627209896278" minlat="51.50256084097237" minlng="-0.11748982185554">
+    <node lat="51.50283591012729" lng="-0.1164196204586"/>
+    <node lat="51.50279083062225" lng="-0.1164558302803"/>
+    <node lat="51.50300704487913" lng="-0.11741606110763"/>
+    <node lat="51.50285761505818" lng="-0.11748982185554"/>
+    <node lat="51.50264181749699" lng="-0.11646521801185"/>
+    <node lat="51.50256084097237" lng="-0.11645448917579"/>
+    <node lat="51.50279458724963" lng="-0.11627209896278"/>
+  </nodes>
+  <exits>
+    <exit title="Belvedere Road - Chincheley Street"/>
+    <exit title="York Road - Chincheley Street"/>
+    <exit title="Belvedere Road - Chincheley Street"/>
+    <exit title="Belvedere Road - Chincheley Street"/>
+  </exits>
+</zone>

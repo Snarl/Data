@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Stannary Street">
+  <nodes maxlat="51.4865275770095" maxlng="-0.10900465363693" minlat="51.48504440826679" minlng="-0.11075345391464">
+    <node lat="51.48504440826679" lng="-0.11056033486557"/>
+    <node lat="51.48646744948523" lng="-0.10900465363693"/>
+    <node lat="51.4865275770095" lng="-0.10920850152206"/>
+    <node lat="51.48546531240727" lng="-0.11038867348861"/>
+    <node lat="51.48538514048958" lng="-0.11075345391464"/>
+  </nodes>
+  <exits>
+    <exit title="Stannary Street - Kennington Road"/>
+  </exits>
+</zone>

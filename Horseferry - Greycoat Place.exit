@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horseferry - Greycoat Place">
+  <nodes>
+    <node lat="51.49636237058787" lng="-0.13381106371116"/>
+    <node lat="51.49643250413465" lng="-0.1335482072277"/>
+  </nodes>
+  <zones>
+    <zone title="Greycoat Place"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

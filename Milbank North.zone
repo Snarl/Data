@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Milbank North">
+  <nodes maxlat="51.49704950771206" maxlng="-0.12503487581444" minlat="51.49507573482568" minlng="-0.12580198759269">
+    <node lat="51.49704282842168" lng="-0.12580198759269"/>
+    <node lat="51.49704950771206" lng="-0.12555522436332"/>
+    <node lat="51.49507573482568" lng="-0.12503487581444"/>
+    <node lat="51.49507907461508" lng="-0.12531918997001"/>
+  </nodes>
+  <exits>
+    <exit title="Abingdon Street - Milbank"/>
+    <exit title="Great Peter Street - Milbank"/>
+    <exit title="Milbank - Victoria Tower Gardens"/>
+    <exit title="Milbank - Victoria Tower Gardens"/>
+    <exit title="Milbank - Lambeth Bridge Roundabout"/>
+    <exit title="Dean Stanley Street - Milbank"/>
+  </exits>
+</zone>

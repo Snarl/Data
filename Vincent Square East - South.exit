@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vincent Square East - South">
+  <nodes>
+    <node lat="51.49193956456574" lng="-0.13463852519226"/>
+    <node lat="51.49182099372568" lng="-0.13442126626205"/>
+  </nodes>
+  <zones>
+    <zone title="Vincent Square East"/>
+    <zone title="Vincent Square South"/>
+  </zones>
+</exit>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Duncannon Street - Charing Cross" status="red" reason="">
+  <nodes>
+    <node lat="51.50857316531285" lng="-0.12577114218902"/>
+    <node lat="51.50866999042506" lng="-0.12562630290222"/>
+  </nodes>
+  <zones>
+    <zone title="Duncannon Street"/>
+  </zones>
+</exit>

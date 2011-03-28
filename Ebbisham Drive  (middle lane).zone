@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Ebbisham Drive  (middle lane)">
+  <nodes maxlat="51.48388272611922" maxlng="-0.11911389941406" minlat="51.48337160999056" minlng="-0.11951086634826">
+    <node lat="51.48337160999056" lng="-0.11919436568451"/>
+    <node lat="51.48386602306831" lng="-0.11951086634826"/>
+    <node lat="51.48388272611922" lng="-0.11939284915161"/>
+    <node lat="51.48338831322257" lng="-0.11911389941406"/>
+  </nodes>
+  <exits>
+    <exit title="Ebbisham Drive (middle lane) - Ebbisham Drive (south)"/>
+    <exit title="Ebbisham Drive (middle lane) - Ebbisham Drive (north)"/>
+  </exits>
+</zone>

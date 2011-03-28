@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Suffolk Street">
+  <nodes maxlat="51.50889201966086" maxlng="-0.13029602879715" minlat="51.50797384669157" minlng="-0.13118115777206">
+    <node lat="51.5088352604139" lng="-0.13118115777206"/>
+    <node lat="51.50889201966086" lng="-0.13100413197708"/>
+    <node lat="51.50803060701171" lng="-0.13029602879715"/>
+    <node lat="51.50797384669157" lng="-0.13047305459213"/>
+  </nodes>
+  <exits>
+    <exit title="Suffolk Street - Haymarket"/>
+    <exit title="Suffolk Street - Haymarket"/>
+  </exits>
+</zone>

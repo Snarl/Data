@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chapter Street - Douglas Street (SW)">
+  <nodes>
+    <node lat="51.49135380491446" lng="-0.13375741953087"/>
+    <node lat="51.49129034368783" lng="-0.13364879006576"/>
+  </nodes>
+  <zones>
+    <zone title="Chapter Street"/>
+    <zone title="Douglas Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Lees Pl">
+  <nodes maxlat="51.51204538545066" maxlng="-0.15465719217491" minlat="51.51192519763378" minlng="-0.15503538364601">
+    <node lat="51.51192519763378" lng="-0.15500051492882"/>
+    <node lat="51.51197026810228" lng="-0.15503538364601"/>
+    <node lat="51.51204538545066" lng="-0.15468133205604"/>
+    <node lat="51.511996976507" lng="-0.15465719217491"/>
+  </nodes>
+  <exits>
+    <exit title="Lees Pl - Park St"/>
+    <exit title="Lees Pl - Park St"/>
+  </exits>
+</zone>

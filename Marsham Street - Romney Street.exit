@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marsham Street - Romney Street">
+  <nodes>
+    <node lat="51.4953859167205" lng="-0.12906757706833"/>
+    <node lat="51.4953141116774" lng="-0.12905148381424"/>
+  </nodes>
+  <zones>
+    <zone title="Marsham Street"/>
+    <zone title="Romney Street"/>
+  </zones>
+</exit>

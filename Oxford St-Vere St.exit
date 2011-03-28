@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxford St-Vere St" status="green" reason="">
+  <nodes>
+    <node lat="51.51472824560761" lng="-0.14714298361969"/>
+    <node lat="51.51477164412976" lng="-0.14689622039032"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 2"/>
+    <zone title="Vere St"/>
+  </zones>
+</exit>

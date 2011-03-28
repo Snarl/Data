@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Pye Street - Strutton Ground">
+  <nodes>
+    <node lat="51.49757215915126" lng="-0.13384727353287"/>
+    <node lat="51.49750202735803" lng="-0.13384995574188"/>
+  </nodes>
+  <zones>
+    <zone title="Old Pye Street"/>
+    <zone title="Strutton Ground"/>
+  </zones>
+</exit>

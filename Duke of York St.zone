@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Duke of York St">
+  <nodes maxlat="51.508520579131" maxlng="-0.13567117566299" minlat="51.50771007716002" minlng="-0.1365375291748">
+    <node lat="51.50846048061262" lng="-0.1365375291748"/>
+    <node lat="51.508520579131" lng="-0.13638196105194"/>
+    <node lat="51.50836949798254" lng="-0.13625589722824"/>
+    <node lat="51.50820756514566" lng="-0.13608155364227"/>
+    <node lat="51.50799721853938" lng="-0.13586429471206"/>
+    <node lat="51.5077551517986" lng="-0.13567117566299"/>
+    <node lat="51.50771007716002" lng="-0.1358160149498"/>
+  </nodes>
+  <exits>
+    <exit title="Dike of York St - St James\'s Square"/>
+    <exit title="Jermyn St - Duke of York St."/>
+    <exit title="Jermyn St - Duke of York St."/>
+  </exits>
+</zone>

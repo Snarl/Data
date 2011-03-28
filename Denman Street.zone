@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Denman Street">
+  <nodes maxlat="51.51080676811508" maxlng="-0.13400820607376" minlat="51.51066988379915" minlng="-0.13554779404831">
+    <node lat="51.51073832600853" lng="-0.13554779404831"/>
+    <node lat="51.51071662483132" lng="-0.13542709464264"/>
+    <node lat="51.51080676811508" lng="-0.13400820607376"/>
+    <node lat="51.51069826228871" lng="-0.13407794350815"/>
+    <node lat="51.51073999532944" lng="-0.13419864291382"/>
+    <node lat="51.51066988379915" lng="-0.13546464556885"/>
+  </nodes>
+  <exits>
+    <exit title="Denman Street - Sherwood Street"/>
+    <exit title="Denman Street - Sherwood Street"/>
+    <exit title="Denman Street - Shaftesbury Avenue"/>
+    <exit title="Denman Street - Shaftesbury Avenue"/>
+  </exits>
+</zone>

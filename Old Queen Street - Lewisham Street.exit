@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Queen Street - Lewisham Street">
+  <nodes>
+    <node lat="51.50058438478994" lng="-0.13173905724716"/>
+    <node lat="51.50050590915323" lng="-0.13177929038238"/>
+  </nodes>
+  <zones>
+    <zone title="Lewisham Street"/>
+    <zone title="Old Queen Street"/>
+  </zones>
+</exit>

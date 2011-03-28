@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Queensborough Terrace">
+  <nodes maxlat="51.51429884839225" maxlng="-0.18480656260681" minlat="51.5104495325663" minlng="-0.18623349780273">
+    <node lat="51.51428549486665" lng="-0.18623349780273"/>
+    <node lat="51.51429884839225" lng="-0.18612084502411"/>
+    <node lat="51.51394497864067" lng="-0.1860296499176"/>
+    <node lat="51.51385150315292" lng="-0.185922361557"/>
+    <node lat="51.51230912991207" lng="-0.18538591975403"/>
+    <node lat="51.5104495325663" lng="-0.18480656260681"/>
+    <node lat="51.5104528712292" lng="-0.18493530863952"/>
+  </nodes>
+  <exits>
+    <exit title="Bayswater Rd - Queensborough Terrace"/>
+  </exits>
+</zone>

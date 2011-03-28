@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Burlington Gardens - Savile Row">
+  <nodes>
+    <node lat="51.51017993472928" lng="-0.13987553829384"/>
+    <node lat="51.510039709837" lng="-0.13975483888817"/>
+  </nodes>
+  <zones>
+    <zone title="Savile Row"/>
+    <zone title="Burlington Gardens"/>
+  </zones>
+</exit>

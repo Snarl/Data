@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Brick St">
+  <nodes maxlat="51.50539284676706" maxlng="-0.14692706579399" minlat="51.50476510413092" minlng="-0.14963609689903">
+    <node lat="51.50476510413092" lng="-0.14958781713676"/>
+    <node lat="51.50483522474806" lng="-0.14963609689903"/>
+    <node lat="51.50519751288424" lng="-0.1484425138874"/>
+    <node lat="51.5053394221985" lng="-0.1476673554821"/>
+    <node lat="51.50539284676706" lng="-0.14697802776527"/>
+    <node lat="51.5052976842108" lng="-0.14692706579399"/>
+  </nodes>
+  <exits>
+    <exit title="Brick St-Down St"/>
+    <exit title="Down St-Brick St"/>
+    <exit title="Down St-Brick St"/>
+  </exits>
+</zone>

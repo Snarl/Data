@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Vauxhall Street (north)">
+  <nodes maxlat="51.49065614397028" maxlng="-0.11635390633774" minlat="51.48850506022841" minlng="-0.11757699364853">
+    <node lat="51.48851842131021" lng="-0.11734095925522"/>
+    <node lat="51.48895265433771" lng="-0.11757699364853"/>
+    <node lat="51.49065614397028" lng="-0.11648265237045"/>
+    <node lat="51.49057598117943" lng="-0.11635390633774"/>
+    <node lat="51.48895933481354" lng="-0.11737314576339"/>
+    <node lat="51.48850506022841" lng="-0.11708346718979"/>
+  </nodes>
+  <exits>
+    <exit title="VAuxhall Street (south) - (north)"/>
+  </exits>
+</zone>

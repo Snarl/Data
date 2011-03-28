@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Shaftesbury Avenue - Piccadilly Circus" status="green" reason="">
+  <nodes>
+    <node lat="51.51016991786686" lng="-0.13452184910011"/>
+    <node lat="51.51015155510386" lng="-0.13425362819862"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

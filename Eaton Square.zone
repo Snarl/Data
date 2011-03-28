@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Eaton Square">
+  <nodes maxlat="51.49769071503336" maxlng="-0.1487844955368" minlat="51.4940170092507" minlng="-0.15469608420563">
+    <node lat="51.4954063727968" lng="-0.15364465827179"/>
+    <node lat="51.49769071503336" lng="-0.14992175215912"/>
+    <node lat="51.49696601651778" lng="-0.1487844955368"/>
+    <node lat="51.4940170092507" lng="-0.15352664107513"/>
+    <node lat="51.49470501668418" lng="-0.15469608420563"/>
+  </nodes>
+  <exits>
+    <exit title="Belgrave Place - Eaton Square"/>
+    <exit title="Lyall Street - Eaton Square"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Brook's Mews - Davies St.">
+  <nodes>
+    <node lat="51.51204288158104" lng="-0.14792618865204"/>
+    <node lat="51.5121764232352" lng="-0.14796373957824"/>
+  </nodes>
+  <zones>
+    <zone title="Brook Mew\'s"/>
+    <zone title="Davies Street"/>
+  </zones>
+</exit>

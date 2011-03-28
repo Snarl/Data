@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cureton Street - Causton Street">
+  <nodes>
+    <node lat="51.49060019714254" lng="-0.13126698846054"/>
+    <node lat="51.49049665338408" lng="-0.13119725102615"/>
+  </nodes>
+  <zones>
+    <zone title="Cureton Street"/>
+    <zone title="Causton Street"/>
+  </zones>
+</exit>

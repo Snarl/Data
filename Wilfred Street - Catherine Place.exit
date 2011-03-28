@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wilfred Street - Catherine Place">
+  <nodes>
+    <node lat="51.49890547759455" lng="-0.13932568544578"/>
+    <node lat="51.49882699906692" lng="-0.13953489774894"/>
+  </nodes>
+  <zones>
+    <zone title="Catherine Place"/>
+    <zone title="Wilfred Street"/>
+  </zones>
+</exit>

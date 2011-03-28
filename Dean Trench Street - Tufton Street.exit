@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Trench Street - Tufton Street">
+  <nodes>
+    <node lat="51.49594323690204" lng="-0.1282709609909"/>
+    <node lat="51.49582801620998" lng="-0.12823877448272"/>
+  </nodes>
+  <zones>
+    <zone title="Dean Trench Street"/>
+    <zone title="Tufton Street"/>
+  </zones>
+</exit>

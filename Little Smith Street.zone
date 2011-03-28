@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Little Smith Street">
+  <nodes maxlat="51.4975366758131" maxlng="-0.12872559541893" minlat="51.49741477991308" minlng="-0.12931031698417">
+    <node lat="51.49751162873694" lng="-0.12931031698417"/>
+    <node lat="51.49741477991308" lng="-0.12929958814811"/>
+    <node lat="51.497456525121" lng="-0.12872559541893"/>
+    <node lat="51.4975366758131" lng="-0.12873095983696"/>
+  </nodes>
+  <exits>
+    <exit title="Tufton Street - Little Smith Street"/>
+    <exit title="Tufton Street - Little Smith Street"/>
+    <exit title="Little Smith Street - Great Smith Street"/>
+  </exits>
+</zone>

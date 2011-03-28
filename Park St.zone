@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<zone title="Park St">
+  <nodes maxlat="51.51359444455998" maxlng="-0.15315113181305" minlat="51.5080222598833" minlng="-0.15605328196716">
+    <node lat="51.51356773709184" lng="-0.15605328196716"/>
+    <node lat="51.51359444455998" lng="-0.155844069664"/>
+    <node lat="51.51199196875542" lng="-0.15507159346771"/>
+    <node lat="51.51091360434924" lng="-0.15456197375488"/>
+    <node lat="51.50971502076914" lng="-0.15400943869781"/>
+    <node lat="51.50868668437618" lng="-0.15348909014892"/>
+    <node lat="51.50804229292422" lng="-0.15315113181305"/>
+    <node lat="51.5080222598833" lng="-0.15336570853424"/>
+  </nodes>
+  <exits>
+    <exit title="Park Street - Oxford Street"/>
+    <exit title="Park Street - Oxford Street"/>
+    <exit title="Park St - N Row (East)"/>
+    <exit title="Park St - N Row (South)"/>
+    <exit title="Park St - N Row (South)"/>
+    <exit title="Park St - N Row (South)"/>
+    <exit title="Park St - N Row (West)"/>
+    <exit title="Park St - N Row (West)"/>
+    <exit title="Park St - N Row (North)"/>
+    <exit title="Park St - N Row (North)"/>
+    <exit title="Green St - Park St (South)"/>
+    <exit title="Green St - Park St (South)"/>
+    <exit title="Park St - N Row (East)"/>
+  </exits>
+</zone>

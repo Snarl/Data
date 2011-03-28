@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Perkin's Rents - Old Pye Street">
+  <nodes>
+    <node lat="51.49749618303461" lng="-0.13244581932258"/>
+    <node lat="51.49750119245263" lng="-0.13222051376533"/>
+  </nodes>
+  <zones>
+    <zone title="Old Pye Street"/>
+    <zone title="Perkin\'s Rents"/>
+  </zones>
+</exit>

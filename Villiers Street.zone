@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Villiers Street">
+  <nodes maxlat="51.5087317580622" maxlng="-0.12258467787933" minlat="51.50731608957574" minlng="-0.12483773345184">
+    <node lat="51.50731608957574" lng="-0.12258467787933"/>
+    <node lat="51.50744296731941" lng="-0.12286362761688"/>
+    <node lat="51.50734280070902" lng="-0.12259540671539"/>
+    <node lat="51.50749638942159" lng="-0.12265977973175"/>
+    <node lat="51.5087317580622" lng="-0.12483773345184"/>
+    <node lat="51.50857149591318" lng="-0.12475190276336"/>
+    <node lat="51.50851807507156" lng="-0.12481627577972"/>
+  </nodes>
+  <exits>
+    <exit title="Villiers Street - Embankment"/>
+    <exit title="Villers Street - Strand"/>
+    <exit title="Villers Street - Embankment Gardens"/>
+    <exit title="John Adam Street - Villers Street"/>
+  </exits>
+</zone>

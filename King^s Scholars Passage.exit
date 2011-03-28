@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="King's Scholars Passage">
+  <nodes>
+    <node lat="51.49407295215622" lng="-0.14003781193924"/>
+    <node lat="51.49395605680076" lng="-0.14011291379165"/>
+  </nodes>
+  <zones>
+    <zone title="King Scholar\'s Passage"/>
+    <zone title="Francis Street"/>
+  </zones>
+</exit>

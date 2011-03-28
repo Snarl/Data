@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Carlton Gardens - The Mall">
+  <nodes>
+    <node lat="51.50582191061967" lng="-0.13151643389892"/>
+    <node lat="51.50399877898288" lng="-0.13602254504394"/>
+  </nodes>
+  <zones>
+    <zone title="The Mall"/>
+    <zone title="Carlton Gardens"/>
+  </zones>
+</exit>

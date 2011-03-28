@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Curzon St">
+  <nodes maxlat="51.50628018631379" maxlng="-0.15097049588394" minlat="51.50602642399718" minlng="-0.15150827879143">
+    <node lat="51.50610155114609" lng="-0.15150827879143"/>
+    <node lat="51.50602642399718" lng="-0.15141037816238"/>
+    <node lat="51.50621841535374" lng="-0.15097049588394"/>
+    <node lat="51.50628018631379" lng="-0.1510348689003"/>
+    <node lat="51.50618961674591" lng="-0.15136478060913"/>
+  </nodes>
+  <exits>
+    <exit title="Curzon St - Park lane"/>
+    <exit title="Curzon St - Park lane"/>
+    <exit title="Curzon St - Park lane"/>
+  </exits>
+</zone>

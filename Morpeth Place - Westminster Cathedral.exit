@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Morpeth Place - Westminster Cathedral">
+  <nodes>
+    <node lat="51.49623629692081" lng="-0.14018935674858"/>
+    <node lat="51.49636821505811" lng="-0.14018667453956"/>
+  </nodes>
+  <zones>
+    <zone title="Outside Wesminster Cathedral"/>
+    <zone title="Morpeth Terrace"/>
+  </zones>
+</exit>

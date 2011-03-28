@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Coventry Street" status="orange" reason="2 marches colliding">
+  <nodes maxlat="51.51043784724465" maxlng="-0.13169345969391" minlat="51.50997043190478" minlng="-0.13418791407776">
+    <node lat="51.51012901978974" lng="-0.13418791407776"/>
+    <node lat="51.50997043190478" lng="-0.13391432875824"/>
+    <node lat="51.51006892339303" lng="-0.13342616671753"/>
+    <node lat="51.51007560077436" lng="-0.13305870408249"/>
+    <node lat="51.510319324523" lng="-0.13169345969391"/>
+    <node lat="51.51043784724465" lng="-0.13170150632095"/>
+    <node lat="51.51032433253158" lng="-0.1323774229927"/>
+    <node lat="51.5101473825618" lng="-0.13343555444908"/>
+    <node lat="51.51011566504177" lng="-0.13365013117027"/>
+  </nodes>
+  <exits>
+    <exit title="Piccadilly Circus - Coventry Street"/>
+    <exit title="Coventry Street - Leicester Square"/>
+    <exit title="Coventry Street - Leicester Square"/>
+    <exit title="Great Windmill St-Coventry St"/>
+    <exit title="Great Windmill St-Coventry St"/>
+    <exit title="Coventry St-Great Windmill St"/>
+    <exit title="Coventry St-Great Windmill St"/>
+    <exit title="Oxendon St - Coventry St (South)"/>
+    <exit title="Oxendon St - Coventry St (South)"/>
+    <exit title="Ruper Street - Coventry Street"/>
+    <exit title="Ruper Street - Coventry Street"/>
+  </exits>
+</zone>

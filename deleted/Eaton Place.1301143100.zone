@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Eaton Place">
+  <nodes maxlat="51.49832773888836" maxlng="-0.15068215841484" minlat="51.49734923986264" minlng="-0.15227270836067">
+    <node lat="51.49751622070508" lng="-0.15227270836067"/>
+    <node lat="51.49734923986264" lng="-0.15202862734031"/>
+    <node lat="51.4981774588334" lng="-0.15068215841484"/>
+    <node lat="51.49832773888836" lng="-0.15093428606224"/>
+  </nodes>
+  <exits>
+    <exit title="Eaton Place - Upper Belgrave Street"/>
+    <exit title="Eaton Road - Belgrave Place"/>
+    <exit title="Eaton Place - Upper Belgrave Street"/>
+    <exit title="Eaton Road - Belgrave Place"/>
+  </exits>
+</zone>

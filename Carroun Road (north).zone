@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Carroun Road (north)">
+  <nodes maxlat="51.48189460252554" maxlng="-0.11715454572868" minlat="51.48083724124363" minlng="-0.1182569336338">
+    <node lat="51.48083724124363" lng="-0.11811075324249"/>
+    <node lat="51.48169833273452" lng="-0.11727792734337"/>
+    <node lat="51.4818620301506" lng="-0.11715454572868"/>
+    <node lat="51.48189460252554" lng="-0.11723769420814"/>
+    <node lat="51.48088401287698" lng="-0.1182569336338"/>
+  </nodes>
+  <exits>
+    <exit title="Alley - Carroun Road"/>
+    <exit title="Meadow  Mews - Carroun Road"/>
+    <exit title="Fentiman Road - Carroun Road"/>
+  </exits>
+</zone>

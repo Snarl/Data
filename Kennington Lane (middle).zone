@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Kennington Lane (middle)">
+  <nodes maxlat="51.48974094378774" maxlng="-0.1083501946373" minlat="51.48678311810321" minlng="-0.11637670511436">
+    <node lat="51.48694011649633" lng="-0.11637670511436"/>
+    <node lat="51.48678311810321" lng="-0.11630830878448"/>
+    <node lat="51.48695514822899" lng="-0.11332837456894"/>
+    <node lat="51.48723573966281" lng="-0.11231986397934"/>
+    <node lat="51.48894597392193" lng="-0.11074272507858"/>
+    <node lat="51.48963405788964" lng="-0.1083501946373"/>
+    <node lat="51.48974094378774" lng="-0.10853258485031"/>
+    <node lat="51.48902613957881" lng="-0.11090365761947"/>
+    <node lat="51.48745620314948" lng="-0.11228767747116"/>
+    <node lat="51.4871822938085" lng="-0.11270610207748"/>
+    <node lat="51.48699523282528" lng="-0.1136287819786"/>
+  </nodes>
+  <exits>
+    <exit title="Kennington Lane (middle) - Vauxhall Street"/>
+    <exit title="Kennington Lane (middle) - (north) "/>
+    <exit title="Kennington Lane (middle) - Vauxhall Street"/>
+    <exit title="Kennington Lane (middle) - Vauxhall Street"/>
+  </exits>
+</zone>

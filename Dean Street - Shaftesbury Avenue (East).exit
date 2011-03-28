@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Street - Shaftesbury Avenue (East)">
+  <nodes>
+    <node lat="51.51223651685382" lng="-0.13169748300743"/>
+    <node lat="51.51229661039122" lng="-0.13146681303215"/>
+  </nodes>
+  <zones>
+    <zone title="Dean Street"/>
+    <zone title="Shaftesbury Avenue"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Coventry St-Great Windmill St">
+  <nodes>
+    <node lat="51.51016741466825" lng="-0.13373193854522"/>
+    <node lat="51.51024086565022" lng="-0.1333671581192"/>
+  </nodes>
+  <zones>
+    <zone title="Coventry Street"/>
+    <zone title="Great Windmill Street"/>
+  </zones>
+</exit>

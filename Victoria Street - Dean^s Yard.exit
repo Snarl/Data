@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Street - Dean's Yard">
+  <nodes>
+    <node lat="51.49930955638104" lng="-0.12926337832641"/>
+    <node lat="51.49930788664134" lng="-0.12913731450271"/>
+  </nodes>
+  <zones>
+    <zone title="Broad Santuary"/>
+    <zone title="Dean\'s Yard"/>
+  </zones>
+</exit>

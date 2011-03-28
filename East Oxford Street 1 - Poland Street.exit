@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="East Oxford Street 1 - Poland Street">
+  <nodes>
+    <node lat="51.51564586517551" lng="-0.1377069723053"/>
+    <node lat="51.51565421088024" lng="-0.13762382382583"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 1"/>
+    <zone title="Poland Street"/>
+  </zones>
+</exit>

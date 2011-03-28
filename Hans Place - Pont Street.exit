@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hans Place - Pont Street">
+  <nodes>
+    <node lat="51.49711546560802" lng="-0.16066668147278"/>
+    <node lat="51.49708540883724" lng="-0.16092417353821"/>
+  </nodes>
+  <zones>
+    <zone title="Hans Place"/>
+    <zone title="Pont Street"/>
+  </zones>
+</exit>

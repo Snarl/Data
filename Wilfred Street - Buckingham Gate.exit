@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wilfred Street - Buckingham Gate">
+  <nodes>
+    <node lat="51.49917263752665" lng="-0.13885093445015"/>
+    <node lat="51.49912588465157" lng="-0.13866586202812"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Gate"/>
+    <zone title="Wilfred Street"/>
+  </zones>
+</exit>

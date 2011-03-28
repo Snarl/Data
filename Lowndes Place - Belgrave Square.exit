@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lowndes Place - Belgrave Square">
+  <nodes>
+    <node lat="51.49813153982728" lng="-0.15403357857895"/>
+    <node lat="51.49801131530544" lng="-0.1538458239479"/>
+  </nodes>
+  <zones>
+    <zone title="Belgrave Square Gardens"/>
+    <zone title="Lowndes Place"/>
+  </zones>
+</exit>

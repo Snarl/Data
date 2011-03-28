@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Chapel Pl">
+  <nodes maxlat="51.51556282532362" maxlng="-0.14648316020202" minlat="51.51479334337532" minlng="-0.14698473328781">
+    <node lat="51.5155327807192" lng="-0.14698473328781"/>
+    <node lat="51.51556282532362" lng="-0.14683721179199"/>
+    <node lat="51.51541427125285" lng="-0.1467674743576"/>
+    <node lat="51.51537087334297" lng="-0.14668700808716"/>
+    <node lat="51.51480669675207" lng="-0.14648316020202"/>
+    <node lat="51.51479334337532" lng="-0.14658508414459"/>
+    <node lat="51.51530410724709" lng="-0.14680770749283"/>
+  </nodes>
+  <exits>
+    <exit title="Chapel Pl-Oxford St"/>
+    <exit title="Chapel Pl-Henrietta Pl"/>
+    <exit title="Chapel Pl-Henrietta Pl"/>
+  </exits>
+</zone>

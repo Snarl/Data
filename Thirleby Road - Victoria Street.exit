@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Thirleby Road - Victoria Street">
+  <nodes>
+    <node lat="51.49683576993841" lng="-0.13943565601539"/>
+    <node lat="51.49687918550537" lng="-0.13915938848686"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Thirleby Road"/>
+  </zones>
+</exit>

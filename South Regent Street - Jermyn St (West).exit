@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="South Regent Street - Jermyn St (West)">
+  <nodes>
+    <node lat="51.5092592836466" lng="-0.13453928345871"/>
+    <node lat="51.50912573344124" lng="-0.13442126626205"/>
+  </nodes>
+  <zones>
+    <zone title="Jermyn St"/>
+    <zone title="South Regent Street 2"/>
+  </zones>
+</exit>

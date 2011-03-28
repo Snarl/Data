@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Great Windmill Street">
+  <nodes maxlat="51.51185675730352" maxlng="-0.13344494218063" minlat="51.51012901979961" minlng="-0.13491211051178">
+    <node lat="51.51182003312995" lng="-0.13491211051178"/>
+    <node lat="51.51185675730352" lng="-0.1348262798233"/>
+    <node lat="51.51139937230277" lng="-0.13431397790146"/>
+    <node lat="51.51112226820718" lng="-0.13402429932785"/>
+    <node lat="51.51088522601672" lng="-0.13387946004104"/>
+    <node lat="51.51074834193653" lng="-0.13376144284439"/>
+    <node lat="51.5106715531261" lng="-0.13383118027878"/>
+    <node lat="51.51015072125671" lng="-0.13344494218063"/>
+    <node lat="51.51012901979961" lng="-0.13359782809448"/>
+    <node lat="51.51054802302905" lng="-0.13392773980331"/>
+    <node lat="51.51083180788802" lng="-0.13402429932785"/>
+    <node lat="51.51129921439045" lng="-0.13431934231949"/>
+  </nodes>
+  <exits>
+    <exit title="Coventry St-Great Windmill St"/>
+    <exit title="Coventry St-Great Windmill St"/>
+    <exit title="Great Windmill Street - Shaftesbury Avenue (North)"/>
+    <exit title="Great Windmill Street - Shaftesbury Avenue (North)"/>
+    <exit title="Great Windmill Street - Shaftesbury Avenue (South)"/>
+    <exit title="Great Windmill Street - Shaftesbury Avenue (South)"/>
+  </exits>
+</zone>

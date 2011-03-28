@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<zone title="Brook Street">
+  <nodes maxlat="51.51353769114964" maxlng="-0.14411745185089" minlat="51.51224736709112" minlng="-0.15026507491302">
+    <node lat="51.51235586922792" lng="-0.15026507491302"/>
+    <node lat="51.51224736709112" lng="-0.15020338410568"/>
+    <node lat="51.51342084571528" lng="-0.14411745185089"/>
+    <node lat="51.51353769114964" lng="-0.14421132916641"/>
+  </nodes>
+  <exits>
+    <exit title="Davies Street - Brook Street (East)"/>
+    <exit title="Davies Street - Brook Street (East)"/>
+    <exit title="Davies Street - Brook Street (East)"/>
+    <exit title="Davies St - Brook St (South)"/>
+    <exit title="Davies St - Brook St (South)"/>
+    <exit title="Davies St - Brook St (North)"/>
+    <exit title="Davies St - Brook St (North)"/>
+    <exit title="Davies St - Brook St (West)"/>
+    <exit title="Davies St - Brook St (West)"/>
+    <exit title="Davies St - Brook St (North)"/>
+    <exit title="Davies St - Brook St (West)"/>
+    <exit title="Davies Street - Brook Street (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (West)"/>
+    <exit title="New Bond Street - Brook St (West)"/>
+    <exit title="New Bond Street - Brook St (North)"/>
+    <exit title="New Bond Street - Brook St (North)"/>
+    <exit title="New Bond Street - Brook St (North)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (South)"/>
+    <exit title="New Bond Street - Brook St (South)"/>
+    <exit title="Brook Street - Hanover Square"/>
+    <exit title="Brook Street - Hanover Square"/>
+    <exit title="South Molton Street - Brook St"/>
+    <exit title="South Molton Street - Brook St"/>
+  </exits>
+</zone>

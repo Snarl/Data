@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<zone title="Park Street">
+  <nodes maxlat="51.51360779830171" maxlng="-0.15316454285812" minlat="51.50800890453127" minlng="-0.15606132859421">
+    <node lat="51.51301188437144" lng="-0.15582529420089"/>
+    <node lat="51.51251611810031" lng="-0.15551415795517"/>
+    <node lat="51.51145445905131" lng="-0.1550689112587"/>
+    <node lat="51.51039611392761" lng="-0.15452710503769"/>
+    <node lat="51.50973171436386" lng="-0.15421596879196"/>
+    <node lat="51.50907064387506" lng="-0.15389410371017"/>
+    <node lat="51.50852642208215" lng="-0.1535936963005"/>
+    <node lat="51.50800890453127" lng="-0.1533952128334"/>
+    <node lat="51.50806566480774" lng="-0.15316454285812"/>
+    <node lat="51.50864995766067" lng="-0.15348104352188"/>
+    <node lat="51.50919417797798" lng="-0.1537546288414"/>
+    <node lat="51.51028927646055" lng="-0.15428034180832"/>
+    <node lat="51.51134428546885" lng="-0.15478996152115"/>
+    <node lat="51.51147449058313" lng="-0.1548543345375"/>
+    <node lat="51.51252947214461" lng="-0.15531031007004"/>
+    <node lat="51.51360779830171" lng="-0.15585748070907"/>
+    <node lat="51.51359110614084" lng="-0.15606132859421"/>
+    <node lat="51.51314709241654" lng="-0.15582529420089"/>
+  </nodes>
+  <exits>
+    <exit title="Park St - North Row (East)"/>
+    <exit title="Park St - North Row (East)"/>
+    <exit title="Green Street - Park Street (East)"/>
+    <exit title="Green Street - Park Street (East)"/>
+    <exit title="Green Street - Park Street (North)"/>
+    <exit title="Green Street - Park Street (North)"/>
+    <exit title="Green Street - Park Street (West)"/>
+    <exit title="Green Street - Park Street (West)"/>
+    <exit title="Wood\'s Mews - Park St"/>
+    <exit title="Lees Pl - Park St"/>
+    <exit title="Lees Pl - Park St"/>
+    <exit title="Park Street - Upper Brook Street (West)"/>
+    <exit title="Upper Brook St - Park St (East)"/>
+    <exit title="Upper Brook St - Park St (East)"/>
+    <exit title="Upper Brook St - Park St (East)"/>
+    <exit title="Upper Brook St - Park St (East)"/>
+    <exit title="Upper Brook Street - Park Street (North)"/>
+    <exit title="Upper Brook Street - Park Street (North)"/>
+    <exit title="Upper Brook Street - Park Street (South)"/>
+    <exit title="Upper Brook Street - Park Street (South)"/>
+    <exit title="Upper Brook Street - Park Street (South)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (East)"/>
+    <exit title="Culros St - Park St (West)"/>
+    <exit title="Culros St - Park St (West)"/>
+    <exit title="Culros St - Park St (South)"/>
+    <exit title="Culros St - Park St (South)"/>
+    <exit title="Culros St - Park St (North)"/>
+    <exit title="Culros St - Park St (North)"/>
+    <exit title="Upper Grosvenor St - Park St (East)"/>
+    <exit title="Upper Grosvenor St - Park St (East)"/>
+    <exit title="Upper Grosvenor Street - Park St (West)"/>
+    <exit title="Upper Grosvenor Street - Park St (West)"/>
+    <exit title="Upper Grosvenor Street - Park St (South)"/>
+    <exit title="Upper Grosvenor Street - Park St (South)"/>
+    <exit title="Upper Grosvenor Street - Park St (North)"/>
+    <exit title="Upper Grosvenor Street - Park St (North)"/>
+    <exit title="Mount Street - Park St (South)"/>
+    <exit title="Mount Street - Park St (South)"/>
+    <exit title="Mount Street - Park Street (West)"/>
+    <exit title="Mount Street - Park Street (West)"/>
+    <exit title="Mount Street - Park Street (North)"/>
+    <exit title="Mount Street - Park Street (North)"/>
+    <exit title="Mount Street - Park Street (East)"/>
+    <exit title="Mount Street - Park Street (East)"/>
+    <exit title="Lees Pl - Park St"/>
+    <exit title="Park St - South St"/>
+    <exit title="Park St - South St"/>
+    <exit title="Park Street - Reeves Mews"/>
+    <exit title="Park Street - Reeves Mews"/>
+    <exit title="Park Street - Reeves Mews"/>
+    <exit title="Park Street - Reeves Mews"/>
+    <exit title="Oxford Street - South Portman Street"/>
+    <exit title="Reeves Mews - Park St"/>
+  </exits>
+</zone>

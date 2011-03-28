@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Richmond Terrace">
+  <nodes maxlat="51.50322993649506" maxlng="-0.12388286704254" minlat="51.5028951812607" minlng="-0.12603131646347">
+    <node lat="51.50322993649506" lng="-0.12602997535896"/>
+    <node lat="51.50320572734614" lng="-0.12388286704254"/>
+    <node lat="51.50301205369173" lng="-0.12396333331299"/>
+    <node lat="51.50301205369173" lng="-0.12450513953399"/>
+    <node lat="51.5028951812607" lng="-0.12454805487823"/>
+    <node lat="51.50295528711982" lng="-0.1258033286972"/>
+    <node lat="51.50309553381613" lng="-0.12580869311523"/>
+    <node lat="51.50310471662048" lng="-0.12603131646347"/>
+  </nodes>
+  <exits>
+    <exit title="Victoria Embankment - Richmond Terrace"/>
+    <exit title="Whitehall - Richmond Terrace"/>
+  </exits>
+</zone>

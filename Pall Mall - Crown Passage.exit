@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pall Mall - Crown Passage">
+  <nodes>
+    <node lat="51.50549051342726" lng="-0.13755274528694"/>
+    <node lat="51.50555061586316" lng="-0.13745082134437"/>
+  </nodes>
+  <zones>
+    <zone title="Crown Passage"/>
+    <zone title="Pall Mall"/>
+  </zones>
+</exit>

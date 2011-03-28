@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wood's Mews - Park lane">
+  <nodes>
+    <node lat="51.51154042755262" lng="-0.15731660241318"/>
+    <node lat="51.51144360854066" lng="-0.15725759381485"/>
+  </nodes>
+  <zones>
+    <zone title="Wood\'s Mews"/>
+    <zone title="Park Lane 1"/>
+  </zones>
+</exit>

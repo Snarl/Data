@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Scotland Yard - Scotland Place">
+  <nodes>
+    <node lat="51.50628102109983" lng="-0.12587038392257"/>
+    <node lat="51.50634112249305" lng="-0.12565312499237"/>
+  </nodes>
+  <zones>
+    <zone title="Scotland Place"/>
+    <zone title="Great Scotland Yard"/>
+  </zones>
+</exit>

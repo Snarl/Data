@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Artillery Row">
+  <nodes maxlat="51.49739766436036" maxlng="-0.13548342103195" minlat="51.49647091055026" minlng="-0.13583747262192">
+    <node lat="51.4973375511712" lng="-0.13583747262192"/>
+    <node lat="51.49739766436036" lng="-0.13548342103195"/>
+    <node lat="51.49701527633298" lng="-0.13552365416717"/>
+    <node lat="51.49649428835548" lng="-0.1355638873024"/>
+    <node lat="51.49647091055026" lng="-0.13577846402359"/>
+    <node lat="51.49681489704636" lng="-0.13573823088836"/>
+    <node lat="51.49714886203466" lng="-0.13574895972442"/>
+  </nodes>
+  <exits>
+    <exit title="Howick Place - Artillery Row"/>
+    <exit title="Greycoat Place West - Artillery Row"/>
+    <exit title="Victoria Street - Artillery Row"/>
+    <exit title="Victoria Street - Artillery Row"/>
+    <exit title="Victoria Street - Artillery Row"/>
+  </exits>
+</zone>

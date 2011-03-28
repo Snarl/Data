@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fentiman Road  - Palfrey Place">
+  <nodes>
+    <node lat="51.47998740901343" lng="-0.11544463748169"/>
+    <node lat="51.48000077259116" lng="-0.11550632828903"/>
+  </nodes>
+  <zones>
+    <zone title="Palfrey Place"/>
+    <zone title="Fentiman Road (east)"/>
+  </zones>
+</exit>

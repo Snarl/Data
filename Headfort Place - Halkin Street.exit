@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Headfort Place - Halkin Street">
+  <nodes>
+    <node lat="51.50108028090066" lng="-0.15170005673599"/>
+    <node lat="51.50111701373132" lng="-0.15163836592865"/>
+  </nodes>
+  <zones>
+    <zone title="Halkin Street"/>
+    <zone title="Headfort Place"/>
+  </zones>
+</exit>

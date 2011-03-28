@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Romney Street - Tufton Street (E)">
+  <nodes>
+    <node lat="51.49535126662656" lng="-0.12810734624099"/>
+    <node lat="51.49526443254062" lng="-0.12808454746437"/>
+  </nodes>
+  <zones>
+    <zone title="Romney Street"/>
+    <zone title="Tufton Street"/>
+  </zones>
+</exit>

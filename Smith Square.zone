@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<zone title="Smith Square">
+  <nodes maxlat="51.49634066256494" maxlng="-0.12640280241203" minlat="51.49560926308362" minlng="-0.12768892163467">
+    <node lat="51.49624297632716" lng="-0.12758699769211"/>
+    <node lat="51.49619288073932" lng="-0.12768892163467"/>
+    <node lat="51.49610604825658" lng="-0.12764868849945"/>
+    <node lat="51.49590149031162" lng="-0.1276044320507"/>
+    <node lat="51.49576456121518" lng="-0.12755615228843"/>
+    <node lat="51.49564600032382" lng="-0.12752664798927"/>
+    <node lat="51.49560926308362" lng="-0.1273335289402"/>
+    <node lat="51.49561928233392" lng="-0.12701434606743"/>
+    <node lat="51.49563431120516" lng="-0.12682659143638"/>
+    <node lat="51.49566937855218" lng="-0.12640280241203"/>
+    <node lat="51.49594323690552" lng="-0.12645912880134"/>
+    <node lat="51.49634066256494" lng="-0.1265235018177"/>
+  </nodes>
+  <exits>
+    <exit title="Dean Trench Street - Smith Square"/>
+    <exit title="Dean Trench Street - Smith Square"/>
+    <exit title="Dean Trench Street - Smith Square"/>
+    <exit title="Dean Trench Street - Smith Square"/>
+    <exit title="Gayfere Street - Smith Street"/>
+    <exit title="Lord N Street - Smith Square"/>
+    <exit title="Dean Stanley Street - Smith Square"/>
+    <exit title="Smith Square - Dean Bradley Street"/>
+    <exit title="Smith Square - Dean Bradley Street"/>
+  </exits>
+</zone>

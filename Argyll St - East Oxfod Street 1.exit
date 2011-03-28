@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Argyll St - East Oxfod Street 1">
+  <nodes>
+    <node lat="51.51521355547506" lng="-0.14134807104301"/>
+    <node lat="51.51524360029006" lng="-0.1411469053669"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 1"/>
+    <zone title="Argyll Road"/>
+  </zones>
+</exit>

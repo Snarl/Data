@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Warwick Street - Glasshouse St">
+  <nodes>
+    <node lat="51.51051880975382" lng="-0.13761175388527"/>
+    <node lat="51.51058892151658" lng="-0.13738644832802"/>
+  </nodes>
+  <zones>
+    <zone title="Warwick Street"/>
+    <zone title="Glasshouse Street"/>
+  </zones>
+</exit>

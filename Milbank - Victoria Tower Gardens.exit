@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Milbank - Victoria Tower Gardens">
+  <nodes>
+    <node lat="51.49612441667954" lng="-0.1252990734024"/>
+    <node lat="51.49604426350404" lng="-0.12528298014831"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Tower Gardens"/>
+    <zone title="Milbank North"/>
+  </zones>
+</exit>

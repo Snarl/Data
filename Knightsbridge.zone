@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<zone title="Knightsbridge">
+  <nodes maxlat="51.5032157449275" maxlng="-0.1522780727787" minlat="51.50149686285782" minlng="-0.16688806528282">
+    <node lat="51.5031113950228" lng="-0.15232635254097"/>
+    <node lat="51.50301622770192" lng="-0.1522780727787"/>
+    <node lat="51.5029444346792" lng="-0.15236122125816"/>
+    <node lat="51.50284091895898" lng="-0.15259189123344"/>
+    <node lat="51.50285427583936" lng="-0.15273136610222"/>
+    <node lat="51.50270401070984" lng="-0.15286011213493"/>
+    <node lat="51.50261886024982" lng="-0.15316856617164"/>
+    <node lat="51.5025086653007" lng="-0.15353066438865"/>
+    <node lat="51.5023333546052" lng="-0.15580517763328"/>
+    <node lat="51.50222649823142" lng="-0.15700948948097"/>
+    <node lat="51.50214301651504" lng="-0.15869659895134"/>
+    <node lat="51.5015636491901" lng="-0.16062242502403"/>
+    <node lat="51.50158034575784" lng="-0.16134125704002"/>
+    <node lat="51.5016170781854" lng="-0.16135735029411"/>
+    <node lat="51.50160539059804" lng="-0.16260189527702"/>
+    <node lat="51.50167217677124" lng="-0.16291034931373"/>
+    <node lat="51.501660489198" lng="-0.16315174812507"/>
+    <node lat="51.50160539059804" lng="-0.16318929905128"/>
+    <node lat="51.50156030987576" lng="-0.16503734106254"/>
+    <node lat="51.50149686285782" lng="-0.16542894357872"/>
+    <node lat="51.5016170781854" lng="-0.16655815357399"/>
+    <node lat="51.50187587399502" lng="-0.16688806528282"/>
+    <node lat="51.50186919541198" lng="-0.1664696406765"/>
+    <node lat="51.50184081142304" lng="-0.16450626367759"/>
+    <node lat="51.50180908812032" lng="-0.16387058014107"/>
+    <node lat="51.50181576671224" lng="-0.16307128185463"/>
+    <node lat="51.50177736479558" lng="-0.16236854309273"/>
+    <node lat="51.5019994276052" lng="-0.16025496238899"/>
+    <node lat="51.50227074347972" lng="-0.15913782233429"/>
+    <node lat="51.50239429601932" lng="-0.15784499758911"/>
+    <node lat="51.50242267966354" lng="-0.15662995690536"/>
+    <node lat="51.5032157449275" lng="-0.15235451573562"/>
+  </nodes>
+  <exits>
+    <exit title="Knightsbridge - Grosvenor Crescent Mews"/>
+    <exit title="Knightsbridge - Sloane Street"/>
+    <exit title="Knightsbridge - Willton Pl"/>
+    <exit title="Lanesborough Place - Knightsbridge"/>
+    <exit title="Seville Street - Knightsbridge"/>
+    <exit title="Knightsbridge - Brompton Road"/>
+    <exit title="Knightsbridge - North Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Knightsbridge - Trevor Place"/>
+    <exit title="Knightsbridge - Trevor Street"/>
+    <exit title="Knightsbridge - Brompton Road"/>
+    <exit title="Knightsbridge - North Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Knightsbridge - Trevor Place"/>
+    <exit title="Knightsbridge - Trevor Street"/>
+    <exit title="Knightsbridge - South Albert Gate"/>
+    <exit title="Knightsbridge - North Albert Gate"/>
+    <exit title="Knightsbridge - Seville Street"/>
+    <exit title="Grosvenor Place - Knightsbridge"/>
+    <exit title="Piccadilly Arcade - Knightsbridge"/>
+  </exits>
+</zone>

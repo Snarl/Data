@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Warwick Street">
+  <nodes maxlat="51.51184006449481" maxlng="-0.13737974280548" minlat="51.51050462047679" minlng="-0.13881472462845">
+    <node lat="51.51180000174385" lng="-0.13881472462845"/>
+    <node lat="51.51050462047679" lng="-0.13757286185455"/>
+    <node lat="51.51055803898914" lng="-0.13737974280548"/>
+    <node lat="51.51111559097305" lng="-0.13804493064117"/>
+    <node lat="51.51184006449481" lng="-0.13871011847687"/>
+  </nodes>
+  <exits>
+    <exit title="Warwick Street - Glasshouse St"/>
+    <exit title="Warwick Street - Glasshouse St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stratton St-Berkely St">
+  <nodes>
+    <node lat="51.50816582982806" lng="-0.14355016464424"/>
+    <node lat="51.5080589871309" lng="-0.1433999609394"/>
+  </nodes>
+  <zones>
+    <zone title="Stralton St 2"/>
+    <zone title="Berkeley St"/>
+  </zones>
+</exit>

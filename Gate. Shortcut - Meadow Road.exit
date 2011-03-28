@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Gate. Shortcut - Meadow Road">
+  <nodes>
+    <node lat="51.48278866335906" lng="-0.1171585690422"/>
+    <node lat="51.48277530059825" lng="-0.11734632367325"/>
+  </nodes>
+  <zones>
+    <zone title="Meadow Road"/>
+    <zone title="Shortcut to Meadow Road"/>
+  </zones>
+</exit>

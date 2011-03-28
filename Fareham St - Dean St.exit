@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fareham St - Dean St">
+  <nodes>
+    <node lat="51.51556073890077" lng="-0.13390628213119"/>
+    <node lat="51.51548562734905" lng="-0.13386068457794"/>
+  </nodes>
+  <zones>
+    <zone title="Fareham Street"/>
+    <zone title="Dean Street"/>
+  </zones>
+</exit>

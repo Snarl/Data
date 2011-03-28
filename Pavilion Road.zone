@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<zone title="Pavilion Road">
+  <nodes maxlat="51.5007146206593" maxlng="-0.15903858060074" minlat="51.49456140434072" minlng="-0.16081152075958">
+    <node lat="51.50055433031128" lng="-0.16081152075958"/>
+    <node lat="51.5007146206593" lng="-0.16070959681701"/>
+    <node lat="51.4991818211261" lng="-0.16026971453857"/>
+    <node lat="51.49903154388726" lng="-0.16014096850586"/>
+    <node lat="51.49849054172472" lng="-0.16010341757965"/>
+    <node lat="51.49456140434072" lng="-0.15903858060074"/>
+    <node lat="51.49456808399468" lng="-0.15918878430557"/>
+    <node lat="51.49906493887206" lng="-0.16035554522705"/>
+  </nodes>
+  <exits>
+    <exit title="West Pont Street - Pavilion Road"/>
+    <exit title="West Pont Street - Pavilion Road"/>
+    <exit title="East Pont Street - Pavilion Road"/>
+    <exit title="East Pont Street - Pavilion Road"/>
+    <exit title="Basil Street - Pavilion Road"/>
+    <exit title="Herbert Crescent - Pavilion Road"/>
+    <exit title="North Pavilion Road - Hans Crescent"/>
+    <exit title="Basil Street - Pavilion Road"/>
+    <exit title="Basil Street - Pavilion Road"/>
+    <exit title="Herbert Crescent - Pavilion Road"/>
+    <exit title="North Pavilion Road - Hans Crescent"/>
+    <exit title="South Pavilion Road - Hans Crescent"/>
+    <exit title="East Pont Street - Pavilion Road"/>
+    <exit title="North Pavilion Road - Pont Street"/>
+    <exit title="Pont Street - South Pavilion Road"/>
+    <exit title="West Pont Street - Pavilion Road"/>
+    <exit title="Pont Street - South Pavilion Road"/>
+    <exit title="South Pavilion Road - Hans Crescent"/>
+  </exits>
+</zone>

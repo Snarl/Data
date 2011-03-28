@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Down St">
+  <nodes maxlat="51.50559903162496" maxlng="-0.14748094195556" minlat="51.50442702107082" minlng="-0.1487844955368">
+    <node lat="51.50555562436422" lng="-0.1487844955368"/>
+    <node lat="51.50559903162496" lng="-0.14863429183197"/>
+    <node lat="51.50502805588984" lng="-0.14815685862732"/>
+    <node lat="51.50447376850772" lng="-0.14748094195556"/>
+    <node lat="51.50442702107082" lng="-0.14764187449646"/>
+  </nodes>
+  <exits>
+    <exit title="Down St - Piccadily Place 1"/>
+    <exit title="Down St - Piccadily Place 1"/>
+    <exit title="Hertford St-Down St"/>
+    <exit title="Hertford St-Down St"/>
+    <exit title="Brick St-Down St"/>
+    <exit title="Down St-Brick St"/>
+    <exit title="Down St-Brick St"/>
+  </exits>
+</zone>

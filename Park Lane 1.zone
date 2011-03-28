@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<zone title="Park Lane 1">
+  <nodes maxlat="51.51330817305712" maxlng="-0.15593660587501" minlat="51.50972921030048" minlng="-0.15930546039772">
+    <node lat="51.51313457314328" lng="-0.15930546039772"/>
+    <node lat="51.5133014961496" lng="-0.15838278049659"/>
+    <node lat="51.51330817305712" lng="-0.15824330562782"/>
+    <node lat="51.51155878982308" lng="-0.15735281223488"/>
+    <node lat="51.50972921030048" lng="-0.15593660587501"/>
+    <node lat="51.50997627460004" lng="-0.15720260853004"/>
+  </nodes>
+  <exits>
+    <exit title="Park Lane - N Row"/>
+    <exit title="Park Lane - N Row"/>
+    <exit title="Park lane - Oxford St"/>
+    <exit title="Park lane - Oxford St"/>
+    <exit title="Green Street - Park lane"/>
+    <exit title="Green Street - Park lane"/>
+    <exit title="Green Street - Park lane"/>
+    <exit title="Park Lane - N Row"/>
+    <exit title="Wood\'s Mews - Park lane"/>
+    <exit title="Wood\'s Mews - Park lane"/>
+    <exit title="Wood\'s Mews - Park lane"/>
+    <exit title="Upper Brook St - Park lane"/>
+    <exit title="Culross St - Park lane"/>
+    <exit title="Culross St - Park lane"/>
+    <exit title="Culross St - Park lane"/>
+    <exit title="Park Lane 1 - Culross St"/>
+    <exit title="Park Lane 1 - Culross St"/>
+    <exit title="Park Lane 1 - Culross St"/>
+    <exit title="Upper Grosvenor - Park lane 1"/>
+    <exit title="Upper Grosvenor - Park lane 1"/>
+  </exits>
+</zone>

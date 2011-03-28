@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vane Street - Rochester Ro">
+  <nodes>
+    <node lat="51.49412638976352" lng="-0.13678295129966"/>
+    <node lat="51.49419151696945" lng="-0.13673064822387"/>
+  </nodes>
+  <zones>
+    <zone title="Rochester Row"/>
+    <zone title="Vane Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Greycoat Place Mini Roundabout">
+  <nodes maxlat="51.49638825321874" maxlng="-0.13464388961029" minlat="51.49604259364352" minlng="-0.13523665780258">
+    <node lat="51.49638825321874" lng="-0.13496843690109"/>
+    <node lat="51.49636821505406" lng="-0.13474044913482"/>
+    <node lat="51.49618286161326" lng="-0.13464388961029"/>
+    <node lat="51.49609769896882" lng="-0.13479141110611"/>
+    <node lat="51.49604259364352" lng="-0.13500867003631"/>
+    <node lat="51.49620623956624" lng="-0.13518301362228"/>
+    <node lat="51.49623963662116" lng="-0.13523665780258"/>
+  </nodes>
+  <exits>
+    <exit title="Rochester Row - Greycoat Place Mini Roundabout"/>
+    <exit title="Greycoat Place - Greycoat Place Mini Roundabout"/>
+    <exit title="Greycote Place West - Greycote Place Mini Roundabout"/>
+  </exits>
+</zone>

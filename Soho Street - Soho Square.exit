@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Soho Street - Soho Square">
+  <nodes>
+    <node lat="51.5156921837682" lng="-0.13257791811657"/>
+    <node lat="51.51575227274698" lng="-0.13237407023144"/>
+  </nodes>
+  <zones>
+    <zone title="Soho Square"/>
+    <zone title="Soho Street"/>
+  </zones>
+</exit>

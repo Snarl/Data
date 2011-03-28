@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Burlington Arcade - Burlington Gardens (South)">
+  <nodes>
+    <node lat="51.50957729848646" lng="-0.14101279491615"/>
+    <node lat="51.50967746018444" lng="-0.14074457401466"/>
+  </nodes>
+  <zones>
+    <zone title="Burlington Arcade"/>
+    <zone title="Burlington Gardens"/>
+  </zones>
+</exit>

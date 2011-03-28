@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Udall Street - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.49239797991367" lng="-0.13705653661918"/>
+    <node lat="51.4923495500948" lng="-0.13694388384056"/>
+  </nodes>
+  <zones>
+    <zone title="Udall Street"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

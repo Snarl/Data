@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<zone title="Knightsbridge">
+  <nodes maxlat="51.50317984897129" maxlng="-0.15245509857368" minlat="51.5015703282024" minlng="-0.16359163040352">
+    <node lat="51.50165047166016" lng="-0.16359163040352"/>
+    <node lat="51.50158368545516" lng="-0.16132784599495"/>
+    <node lat="51.5015703282024" lng="-0.1605982851429"/>
+    <node lat="51.50176400798409" lng="-0.16015840286445"/>
+    <node lat="51.50199775834854" lng="-0.15923572296333"/>
+    <node lat="51.5021380079917" lng="-0.15840960258674"/>
+    <node lat="51.50221147191825" lng="-0.15716505760383"/>
+    <node lat="51.50240514897509" lng="-0.15511584991646"/>
+    <node lat="51.50249196945752" lng="-0.15383911842537"/>
+    <node lat="51.50268564532227" lng="-0.15269113296699"/>
+    <node lat="51.50290603409813" lng="-0.15259457344246"/>
+    <node lat="51.50297949678659" lng="-0.1524765562458"/>
+    <node lat="51.50317984897129" lng="-0.15245509857368"/>
+    <node lat="51.50243186298733" lng="-0.15675736183357"/>
+    <node lat="51.50236507792742" lng="-0.15857053512764"/>
+    <node lat="51.50201111547601" lng="-0.16041589492988"/>
+    <node lat="51.50183079392483" lng="-0.16341996902656"/>
+  </nodes>
+  <exits>
+    <exit title="Knightsbridge - Sloane Street"/>
+    <exit title="Seville Street - Knightsbridge"/>
+    <exit title="Knightsbridge - Sloane Street"/>
+    <exit title="Knightsbridge - Willton Pl"/>
+    <exit title="Knightsbridge - Willton Pl"/>
+    <exit title="Knightsbridge - Grosvenor Crescent Mews"/>
+    <exit title="Knightsbridge - Grosvenor Crescent Mews"/>
+    <exit title="Lanesborough Place - Knightsbridge "/>
+    <exit title="Lanesborough Place - Knightsbridge "/>
+  </exits>
+</zone>

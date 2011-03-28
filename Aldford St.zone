@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Aldford St">
+  <nodes maxlat="51.50900136163636" maxlng="-0.15161422604751" minlat="51.50840204863365" minlng="-0.15417037123871">
+    <node lat="51.50847383305793" lng="-0.15417037123871"/>
+    <node lat="51.50840204863365" lng="-0.15408185834121"/>
+    <node lat="51.50884944738713" lng="-0.15172687882614"/>
+    <node lat="51.50887782701064" lng="-0.15161422604751"/>
+    <node lat="51.50900136163636" lng="-0.151702738945"/>
+  </nodes>
+  <exits>
+    <exit title="Alford St-Balfour Mews"/>
+    <exit title="Alford St-Balfour Mews"/>
+    <exit title="Aldford St-Balfor pl"/>
+    <exit title="Alford St-Balfour Mews"/>
+    <exit title="Rex Pl-Aldford St"/>
+    <exit title="Rex Pl-Aldford St"/>
+    <exit title="Aldford St-Rex Pl"/>
+    <exit title="Aldford St-Rex Pl"/>
+  </exits>
+</zone>

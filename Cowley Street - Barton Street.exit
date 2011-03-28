@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cowley Street - Barton Street">
+  <nodes>
+    <node lat="51.49725740013536" lng="-0.12797189468574"/>
+    <node lat="51.49725239069058" lng="-0.12781900877189"/>
+  </nodes>
+  <zones>
+    <zone title="Barton Street"/>
+    <zone title="Cowley Street"/>
+  </zones>
+</exit>

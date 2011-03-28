@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Jermyn St - Duke of York St.">
+  <nodes>
+    <node lat="51.50845922855194" lng="-0.1365288119955"/>
+    <node lat="51.50851682296856" lng="-0.13637860829067"/>
+  </nodes>
+  <zones>
+    <zone title="Jermyn St"/>
+    <zone title="Duke of York St"/>
+  </zones>
+</exit>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Hamilton Pl">
+  <nodes maxlat="51.50501052581792" maxlng="-0.14970046991539" minlat="51.5036064287865" minlng="-0.15057218784523">
+    <node lat="51.5049871523808" lng="-0.15057218784523"/>
+    <node lat="51.50501052581792" lng="-0.15043807739448"/>
+    <node lat="51.50456308936798" lng="-0.15024764055443"/>
+    <node lat="51.50415571803286" lng="-0.14997673744392"/>
+    <node lat="51.5036064287865" lng="-0.14970046991539"/>
+    <node lat="51.50360809836872" lng="-0.1499016355915"/>
+  </nodes>
+  <exits>
+    <exit title="Hamilton Pl - Park ln"/>
+    <exit title="Hamilton Pl - Park ln"/>
+    <exit title="Hamilton Pl - Piccadily Place 1"/>
+    <exit title="Hamilton Pl - Piccadily Place 1"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horse Guards Ave - Victoria Embankment">
+  <nodes>
+    <node lat="51.50480517312631" lng="-0.12334374303055"/>
+    <node lat="51.50464907102607" lng="-0.1234067749424"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Embankment"/>
+    <zone title="Horse Guards Ave"/>
+  </zones>
+</exit>

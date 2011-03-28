@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St James's St - King St">
+  <nodes>
+    <node lat="51.5061015511323" lng="-0.13868329638672"/>
+    <node lat="51.5060013815729" lng="-0.13858673686218"/>
+  </nodes>
+  <zones>
+    <zone title="St James\'s St"/>
+    <zone title="King St"/>
+  </zones>
+</exit>

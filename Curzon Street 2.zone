@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Curzon Street 2">
+  <nodes maxlat="51.5068837008827" maxlng="-0.14680770749283" minlat="51.50621841535368" minlng="-0.1510348689003">
+    <node lat="51.50627935157164" lng="-0.1510348689003"/>
+    <node lat="51.50621841535368" lng="-0.15097317809295"/>
+    <node lat="51.50633945296702" lng="-0.15033883566093"/>
+    <node lat="51.506828608598" lng="-0.14680770749283"/>
+    <node lat="51.5068837008827" lng="-0.14685598725509"/>
+  </nodes>
+  <exits>
+    <exit title="Curzon St - South Audley St"/>
+    <exit title="Curzon St - South Audley St"/>
+    <exit title="Chesterfield gardens - Curzon Street"/>
+    <exit title="Chesterfield gardens - Curzon Street"/>
+    <exit title="Curzon St - Hertford St"/>
+    <exit title="Curzon St - Hertford St"/>
+    <exit title="Derby St - Curzon St"/>
+    <exit title="Derby St - Curzon St"/>
+    <exit title="Derby St - Curzon St"/>
+    <exit title="Derby St - Curzon St"/>
+    <exit title="Chesterfield St-Curzon St"/>
+    <exit title="Chesterfield St-Curzon St"/>
+  </exits>
+</zone>

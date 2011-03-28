@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Kings Road - Eaton Gate">
+  <nodes>
+    <node lat="51.49435934450619" lng="-0.15439835900497"/>
+    <node lat="51.49419903180673" lng="-0.15413013810348"/>
+  </nodes>
+  <zones>
+    <zone title="King\'s Road"/>
+    <zone title="Eaton Gate"/>
+  </zones>
+</exit>

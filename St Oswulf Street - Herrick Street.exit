@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Oswulf Street - Herrick Street">
+  <nodes>
+    <node lat="51.49163562179376" lng="-0.12931702250671"/>
+    <node lat="51.49152874033764" lng="-0.1294055354042"/>
+  </nodes>
+  <zones>
+    <zone title="Herrick Street"/>
+    <zone title="St Oswufl Street"/>
+  </zones>
+</exit>

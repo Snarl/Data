@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Curzon street 3">
+  <nodes maxlat="51.50818252393098" maxlng="-0.14465121144485" minlat="51.50683027805968" minlng="-0.14677283877563">
+    <node lat="51.50702727440004" lng="-0.14613179082107"/>
+    <node lat="51.50683027805968" lng="-0.14677283877563"/>
+    <node lat="51.5070690108035" lng="-0.14585015887451"/>
+    <node lat="51.50743295062142" lng="-0.14532981032562"/>
+    <node lat="51.50758820846658" lng="-0.14499989861679"/>
+    <node lat="51.50796716894198" lng="-0.14482287282181"/>
+    <node lat="51.50818252393098" lng="-0.14465121144485"/>
+    <node lat="51.50816749919734" lng="-0.14483896607589"/>
+  </nodes>
+  <exits>
+    <exit title="Lansdowne Row-Bolton St"/>
+    <exit title="Lansdowne Row-Bolton St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Petty France - Palmer Street">
+  <nodes>
+    <node lat="51.49954081473963" lng="-0.13567654008102"/>
+    <node lat="51.49956586070063" lng="-0.13557998055649"/>
+  </nodes>
+  <zones>
+    <zone title="Petty France"/>
+    <zone title="Palmer Street North"/>
+  </zones>
+</exit>

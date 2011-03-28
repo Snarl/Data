@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Trigon Road - Claylands Road">
+  <nodes>
+    <node lat="51.481287833809" lng="-0.115680671875"/>
+    <node lat="51.4812343809831" lng="-0.11558947676849"/>
+  </nodes>
+  <zones>
+    <zone title="Trigon Road"/>
+    <zone title="Claylands Road"/>
+  </zones>
+</exit>

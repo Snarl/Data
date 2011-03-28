@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Piccadily Place 2 - St James's Pl">
+  <nodes>
+    <node lat="51.50785030926122" lng="-0.14034090155792"/>
+    <node lat="51.50794045821632" lng="-0.14045355433655"/>
+  </nodes>
+  <zones>
+    <zone title="St James\\\'s St"/>
+    <zone title="Piccadily Place 2"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Little Saint James's St - St James's St">
+  <nodes>
+    <node lat="51.50565412542804" lng="-0.13867390865516"/>
+    <node lat="51.50558734509052" lng="-0.13859344238472"/>
+  </nodes>
+  <zones>
+    <zone title="Little Saint James\'s Street"/>
+    <zone title="St James\'s St"/>
+  </zones>
+</exit>

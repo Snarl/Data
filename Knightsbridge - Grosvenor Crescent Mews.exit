@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Knightsbridge - Grosvenor Crescent Mews">
+  <nodes>
+    <node lat="51.50234796384916" lng="-0.15554299170208"/>
+    <node lat="51.50235464236202" lng="-0.15544911438656"/>
+  </nodes>
+  <zones>
+    <zone title="Knightsbridge"/>
+    <zone title="Old Barrack Yard"/>
+  </zones>
+</exit>

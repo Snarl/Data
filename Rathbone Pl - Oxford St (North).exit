@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rathbone Pl - Oxford St (North)">
+  <nodes>
+    <node lat="51.516322696858" lng="-0.13314051145744"/>
+    <node lat="51.51636275563148" lng="-0.1328991126461"/>
+  </nodes>
+  <zones>
+    <zone title="Rathbone Place"/>
+    <zone title="East Oxford Street 2"/>
+  </zones>
+</exit>

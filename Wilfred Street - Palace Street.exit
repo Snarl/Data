@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wilfred Street - Palace Street">
+  <nodes>
+    <node lat="51.49849972545235" lng="-0.14031005615425"/>
+    <node lat="51.49841790668154" lng="-0.14008743280601"/>
+  </nodes>
+  <zones>
+    <zone title="Wilfred Street"/>
+    <zone title="Palace Street"/>
+  </zones>
+</exit>

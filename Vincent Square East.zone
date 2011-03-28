@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Vincent Square East">
+  <nodes maxlat="51.49376234227298" maxlng="-0.13314185256195" minlat="51.49182349735152" minlng="-0.13463316077423">
+    <node lat="51.49371558384818" lng="-0.13314185256195"/>
+    <node lat="51.49376234227298" lng="-0.13330010289383"/>
+    <node lat="51.49193371813644" lng="-0.13463316077423"/>
+    <node lat="51.49182349735152" lng="-0.1344293128891"/>
+  </nodes>
+  <exits>
+    <exit title="Fynes Street - Vincent Square"/>
+    <exit title="Vincent Square - Vincent Street"/>
+    <exit title="Vincent Square North - East"/>
+    <exit title="Vincent Square North - East"/>
+    <exit title="Rutherford Street - Vincent Square"/>
+    <exit title="Vincent Square East - South"/>
+  </exits>
+</zone>

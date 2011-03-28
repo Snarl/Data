@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Alban's Street - B327">
+  <nodes>
+    <node lat="51.50828352341142" lng="-0.13261479849052"/>
+    <node lat="51.50833360571008" lng="-0.13249141687584"/>
+  </nodes>
+  <zones>
+    <zone title="St Alban\'s Street"/>
+    <zone title="B327"/>
+  </zones>
+</exit>

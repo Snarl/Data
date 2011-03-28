@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Dean Street">
+  <nodes maxlat="51.51603310427137" maxlng="-0.13147351855469" minlat="51.51221732034202" minlng="-0.1341771852417">
+    <node lat="51.5160230895088" lng="-0.1341771852417"/>
+    <node lat="51.51603310427137" lng="-0.13405916804504"/>
+    <node lat="51.51225070566442" lng="-0.13147351855469"/>
+    <node lat="51.51221732034202" lng="-0.13165054434967"/>
+    <node lat="51.51290839152727" lng="-0.13211188430023"/>
+    <node lat="51.51336909982651" lng="-0.13247666472625"/>
+  </nodes>
+  <exits>
+    <exit title="Dean St - East Oxford Street 1"/>
+    <exit title="Dean St - East Oxford Street 1"/>
+    <exit title="Fareham St - Dean St"/>
+    <exit title="Fareham St - Dean St"/>
+    <exit title="Dean Street - Shaftesbury Avenue (East)"/>
+    <exit title="Dean Street - Shaftesbury Avenue (East)"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lanesborough Place - Grosvenor Crescent">
+  <nodes>
+    <node lat="51.50212715497332" lng="-0.15281049126816"/>
+    <node lat="51.50215720841926" lng="-0.15270856732559"/>
+  </nodes>
+  <zones>
+    <zone title="Grosvenor Crescent"/>
+    <zone title="Lanesborough Place"/>
+  </zones>
+</exit>

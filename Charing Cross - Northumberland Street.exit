@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Charing Cross - Northumberland Street">
+  <nodes>
+    <node lat="51.50786282996661" lng="-0.12632635945511"/>
+    <node lat="51.50783945799257" lng="-0.12637195700836"/>
+  </nodes>
+  <zones>
+    <zone title="Strand - Charing Cross"/>
+    <zone title="Northumberland Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<zone title="Fentiman Road (east)">
+  <nodes maxlat="51.48135172657174" maxlng="-0.11481968278122" minlat="51.47959526978808" minlng="-0.11983139032554">
+    <node lat="51.4812515026122" lng="-0.11983139032554"/>
+    <node lat="51.4812139185706" lng="-0.11971739644241"/>
+    <node lat="51.48110200146327" lng="-0.11977372283172"/>
+    <node lat="51.48078462309799" lng="-0.11865658277702"/>
+    <node lat="51.48087148476486" lng="-0.11855331772995"/>
+    <node lat="51.48079381039751" lng="-0.11830789560508"/>
+    <node lat="51.48055661043537" lng="-0.1175716292305"/>
+    <node lat="51.48036785183756" lng="-0.11699093097877"/>
+    <node lat="51.48016071760993" lng="-0.11636061186027"/>
+    <node lat="51.47992434957999" lng="-0.11562836879921"/>
+    <node lat="51.47984166224142" lng="-0.11542317980957"/>
+    <node lat="51.47959526978808" lng="-0.11493233555984"/>
+    <node lat="51.47968630986657" lng="-0.11481968278122"/>
+    <node lat="51.47983581565627" lng="-0.11517105216217"/>
+    <node lat="51.47998281528447" lng="-0.11544061416816"/>
+    <node lat="51.4800379400229" lng="-0.11562568659019"/>
+    <node lat="51.48009557036001" lng="-0.11573699826431"/>
+    <node lat="51.48059753586901" lng="-0.11735302919578"/>
+    <node lat="51.480819701868" lng="-0.11804503912163"/>
+    <node lat="51.48124482100707" lng="-0.1194089424057"/>
+    <node lat="51.48135172657174" lng="-0.11974287742805"/>
+  </nodes>
+  <exits>
+    <exit title="Fentiman Road middle"/>
+    <exit title="Fentiman Road - Trigon Place"/>
+    <exit title="Fentiman Road  - Palfrey Place"/>
+    <exit title="Fentiman Road  - Palfrey Place"/>
+    <exit title="Fentiman Road - Carroun Road"/>
+    <exit title="Carroun Road (south)"/>
+    <exit title="Fentiman Road - Meadow Road"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Buckingham Gate - Buckingham Palace Road">
+  <nodes>
+    <node lat="51.49918015137652" lng="-0.1429855596466"/>
+    <node lat="51.49923692265096" lng="-0.14328060263824"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Gate"/>
+    <zone title="Buckingham Palace Road"/>
+  </zones>
+</exit>

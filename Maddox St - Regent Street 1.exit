@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Maddox St - Regent Street 1">
+  <nodes>
+    <node lat="51.51354019490893" lng="-0.14134270662498"/>
+    <node lat="51.5136520323949" lng="-0.14144731277656"/>
+  </nodes>
+  <zones>
+    <zone title="Maddox St"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

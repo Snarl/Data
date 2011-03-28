@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Marlyebone Ln">
+  <nodes maxlat="51.51616955518723" maxlng="-0.1478832733078" minlat="51.51454380143662" minlng="-0.14972326869201">
+    <node lat="51.51454380143662" lng="-0.14863965625"/>
+    <node lat="51.51460723028877" lng="-0.1478832733078"/>
+    <node lat="51.51508461302637" lng="-0.14839289302063"/>
+    <node lat="51.51558869705981" lng="-0.14910636061859"/>
+    <node lat="51.51616955518723" lng="-0.14956770056915"/>
+    <node lat="51.51614952571992" lng="-0.14972326869201"/>
+    <node lat="51.51513802616832" lng="-0.14882741088104"/>
+  </nodes>
+  <exits>
+    <exit title="Marylebone Le-Oxford St"/>
+    <exit title="Henrietta Pl-Marylebone Ln"/>
+    <exit title="Henrietta Pl-Marylebone Ln"/>
+    <exit title="Marylebone Ln-Wigmore St"/>
+    <exit title="Marylebone Ln-Wigmore St"/>
+  </exits>
+</zone>

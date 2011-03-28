@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="North Row">
+  <nodes maxlat="51.51372798167951" maxlng="-0.15248862618637" minlat="51.51271976685081" minlng="-0.15791205281448">
+    <node lat="51.51372798167951" lng="-0.15253154153061"/>
+    <node lat="51.51366789003031" lng="-0.15248862618637"/>
+    <node lat="51.51346758396047" lng="-0.15352395886612"/>
+    <node lat="51.51310369234679" lng="-0.15558389538955"/>
+    <node lat="51.51271976685081" lng="-0.15779403561783"/>
+    <node lat="51.51278319824284" lng="-0.15791205281448"/>
+    <node lat="51.51313373855347" lng="-0.15588430279922"/>
+    <node lat="51.51316712320426" lng="-0.15562681073379"/>
+    <node lat="51.51353769118511" lng="-0.15381363743973"/>
+  </nodes>
+  <exits>
+    <exit title="Park St - North Row (East)"/>
+    <exit title="Park St - North Row (East)"/>
+    <exit title="North Row - North Audley St (East)"/>
+    <exit title="North Row - North Audley St (East)"/>
+  </exits>
+</zone>

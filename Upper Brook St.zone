@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<zone title="Upper Brook St">
+  <nodes maxlat="51.51188263110954" maxlng="-0.15264017099571" minlat="51.51094615596756" minlng="-0.15701753610801">
+    <node lat="51.51094615596756" lng="-0.15696389192772"/>
+    <node lat="51.511032960177" lng="-0.15701753610801"/>
+    <node lat="51.51144527791322" lng="-0.15504611248207"/>
+    <node lat="51.51150203390862" lng="-0.15465182775688"/>
+    <node lat="51.51188263110954" lng="-0.15289498085212"/>
+    <node lat="51.51174741931022" lng="-0.15264017099571"/>
+    <node lat="51.51159551421748" lng="-0.15277159923744"/>
+  </nodes>
+  <exits>
+    <exit title="Upper Brook St - Park lane"/>
+    <exit title="Park Street - Upper Brook Street (West)"/>
+    <exit title="Upper Brook St - Park St (East)"/>
+    <exit title="Upper Brook St - Park St (East)"/>
+    <exit title="Upper Brook St - Park St (East)"/>
+    <exit title="Upper Brook St - Park St (East)"/>
+    <exit title="Upper Brook Street - Park Street (North)"/>
+    <exit title="Upper Brook Street - Park Street (North)"/>
+    <exit title="Upper Brook Street - Park Street (South)"/>
+    <exit title="Upper Brook Street - Park Street (South)"/>
+    <exit title="Upper Brook Street - Park Street (South)"/>
+    <exit title="Shepherds Place - Upper Brook Street"/>
+    <exit title="Blackburne\'s Mews - Upper Brook St"/>
+    <exit title="Blackburne\'s Mews - Upper Brook St"/>
+    <exit title="Upper Brrook St - Grosvenor Square"/>
+    <exit title="Upper Brrook St - Grosvenor Square"/>
+  </exits>
+</zone>

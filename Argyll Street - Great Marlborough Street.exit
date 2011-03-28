@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Argyll Street - Great Marlborough Street">
+  <nodes>
+    <node lat="51.51399422011536" lng="-0.14041466230583"/>
+    <node lat="51.51405931893208" lng="-0.14020545000267"/>
+  </nodes>
+  <zones>
+    <zone title="Argyll Road"/>
+    <zone title="Great Marlborough Street"/>
+  </zones>
+</exit>

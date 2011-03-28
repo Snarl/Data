@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Emery Hill Street - Rochester Row">
+  <nodes>
+    <node lat="51.49485781303863" lng="-0.13638464326095"/>
+    <node lat="51.49476763820063" lng="-0.13646376842689"/>
+  </nodes>
+  <zones>
+    <zone title="Emery Hill Street"/>
+    <zone title="Rochester Row"/>
+  </zones>
+</exit>

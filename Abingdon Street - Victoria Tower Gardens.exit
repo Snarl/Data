@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Abingdon Street - Victoria Tower Gardens">
+  <nodes>
+    <node lat="51.49726992374456" lng="-0.12558338755798"/>
+    <node lat="51.49712631948088" lng="-0.12556192988586"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Tower Gardens"/>
+    <zone title="Abingdon Street"/>
+  </zones>
+</exit>

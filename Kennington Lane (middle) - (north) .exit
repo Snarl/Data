@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Kennington Lane (middle) - (north) ">
+  <nodes>
+    <node lat="51.48975430450734" lng="-0.10855404252243"/>
+    <node lat="51.48960733637598" lng="-0.10831800812912"/>
+  </nodes>
+  <zones>
+    <zone title="Kennington Lane (north)"/>
+    <zone title="Kennington Lane (middle)"/>
+  </zones>
+</exit>

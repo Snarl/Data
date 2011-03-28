@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wardour Street - Shaftesbury Avenue ">
+  <nodes>
+    <node lat="51.51182587555998" lng="-0.13255578989219"/>
+    <node lat="51.51190933953732" lng="-0.13242704385948"/>
+  </nodes>
+  <zones>
+    <zone title="Wardour Street"/>
+    <zone title="Shaftesbury Avenue"/>
+  </zones>
+</exit>

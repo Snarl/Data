@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Sloane Square - Sloane Street">
+  <nodes>
+    <node lat="51.4927361522801" lng="-0.15794960374069"/>
+    <node lat="51.4927845816883" lng="-0.15759823435974"/>
+  </nodes>
+  <zones>
+    <zone title="Sloane Street Lower"/>
+    <zone title="Sloane Sqare"/>
+  </zones>
+</exit>

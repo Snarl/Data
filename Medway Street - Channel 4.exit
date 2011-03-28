@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Medway Street - Channel 4">
+  <nodes>
+    <node lat="51.49547316805073" lng="-0.13182220572662"/>
+    <node lat="51.49547483793089" lng="-0.13198850268554"/>
+  </nodes>
+  <zones>
+    <zone title="Channel 4"/>
+    <zone title="Medway Street"/>
+  </zones>
+</exit>

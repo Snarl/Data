@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Piccadilly Circus" status="orange" reason="Loose police lines, violence and direct action. Police letting people in and out.">
+  <nodes maxlat="51.51014988576133" maxlng="-0.13395053857994" minlat="51.50965241898411" minlng="-0.13530773634147">
+    <node lat="51.5100730959422" lng="-0.13530773634147"/>
+    <node lat="51.51014320839089" lng="-0.13499123567772"/>
+    <node lat="51.51014988576133" lng="-0.13423485273552"/>
+    <node lat="51.50994956422244" lng="-0.13395053857994"/>
+    <node lat="51.50978262893383" lng="-0.13444406503868"/>
+    <node lat="51.50972587079639" lng="-0.13440114969444"/>
+    <node lat="51.50965241898411" lng="-0.13496441358757"/>
+  </nodes>
+  <exits>
+    <exit title="Piccadily Place 2 - Piccadily Circus"/>
+    <exit title="Piccadily Place 2 - Piccadily Circus"/>
+    <exit title="Piccadily Place 2 - Piccadily Circus"/>
+    <exit title="Picadilly Circus-Picadilly Pl"/>
+    <exit title="Picadilly Circus-Picadilly Pl"/>
+  </exits>
+</zone>

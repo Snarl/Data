@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Boyle St">
+  <nodes maxlat="51.51168315176744" maxlng="-0.14123273605537" minlat="51.51111225227384" minlng="-0.142426319067">
+    <node lat="51.51117234729428" lng="-0.142426319067"/>
+    <node lat="51.51111225227384" lng="-0.14237803930473"/>
+    <node lat="51.51161804955502" lng="-0.14123273605537"/>
+    <node lat="51.51168315176744" lng="-0.14130247348976"/>
+  </nodes>
+  <exits>
+    <exit title="Boyle St-Saville Row"/>
+    <exit title="Boyle St-Saville Row"/>
+  </exits>
+</zone>

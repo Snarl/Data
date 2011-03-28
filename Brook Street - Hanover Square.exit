@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Brook Street - Hanover Square">
+  <nodes>
+    <node lat="51.51354436805735" lng="-0.14431593531799"/>
+    <node lat="51.51337744594101" lng="-0.14426229113769"/>
+  </nodes>
+  <zones>
+    <zone title="Hannover Square"/>
+    <zone title="Brook Street"/>
+  </zones>
+</exit>

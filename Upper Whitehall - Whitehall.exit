@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Whitehall - Whitehall">
+  <nodes>
+    <node lat="51.50406973556144" lng="-0.12652886623573"/>
+    <node lat="51.50409060512248" lng="-0.12595889682007"/>
+  </nodes>
+  <zones>
+    <zone title="Whitehall"/>
+    <zone title="Upper Whitehall"/>
+  </zones>
+</exit>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="St Matthews Street">
+  <nodes maxlat="51.49748658164334" maxlng="-0.13308820838165" minlat="51.49669592143086" minlng="-0.13336984032821">
+    <node lat="51.49748658164334" lng="-0.13335374707412"/>
+    <node lat="51.49748240712702" lng="-0.13325182313156"/>
+    <node lat="51.49730206765698" lng="-0.1332410942955"/>
+    <node lat="51.49705660445398" lng="-0.13321158999634"/>
+    <node lat="51.49671762928612" lng="-0.13308820838165"/>
+    <node lat="51.49669592143086" lng="-0.13319817895126"/>
+    <node lat="51.49704742043082" lng="-0.1332960795803"/>
+    <node lat="51.49738221862058" lng="-0.13336984032821"/>
+  </nodes>
+  <exits>
+    <exit title="St Matthews Street - Great Peter Street"/>
+    <exit title="St Matthews Street - Old Pye Street"/>
+  </exits>
+</zone>

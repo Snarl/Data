@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Whitehall - Great Scotland Yard">
+  <nodes>
+    <node lat="51.50610405542658" lng="-0.12685207242203"/>
+    <node lat="51.50602058081365" lng="-0.1267930638237"/>
+  </nodes>
+  <zones>
+    <zone title="Great Scotland Yard"/>
+    <zone title="Upper Whitehall"/>
+  </zones>
+</exit>

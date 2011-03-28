@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horse Guards Parade">
+  <nodes>
+    <node lat="51.50527765002088" lng="-0.12942431086731"/>
+    <node lat="51.50380176954853" lng="-0.12893078440857"/>
+  </nodes>
+  <zones>
+    <zone title="Horse Guards Parade"/>
+    <zone title="St James Park"/>
+  </zones>
+</exit>

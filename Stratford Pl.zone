@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Stratford Pl">
+  <nodes maxlat="51.51536503132284" maxlng="-0.14898834342193" minlat="51.51444365043762" minlng="-0.149540878479">
+    <node lat="51.51530494183324" lng="-0.149540878479"/>
+    <node lat="51.51536503132284" lng="-0.14928338641357"/>
+    <node lat="51.51447703412839" lng="-0.14898834342193"/>
+    <node lat="51.51444365043762" lng="-0.14920828456115"/>
+  </nodes>
+  <exits>
+    <exit title="Stratford Pl-Oxford St"/>
+    <exit title="Stratford Pl-Oxford St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Portman St-Bryanston St">
+  <nodes>
+    <node lat="51.51457259480465" lng="-0.15660581702423"/>
+    <node lat="51.51433223218902" lng="-0.15653071517181"/>
+  </nodes>
+  <zones>
+    <zone title="Portman Street"/>
+    <zone title="Bryanston Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Pont Street - Brompton Road">
+  <nodes>
+    <node lat="51.49819666131078" lng="-0.16602305287552"/>
+    <node lat="51.49808645566866" lng="-0.16620544308853"/>
+  </nodes>
+  <zones>
+    <zone title="Brompton Road"/>
+    <zone title="Pont Street"/>
+  </zones>
+</exit>

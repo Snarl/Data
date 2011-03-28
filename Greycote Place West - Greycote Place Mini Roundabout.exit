@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Greycote Place West - Greycote Place Mini Roundabout">
+  <nodes>
+    <node lat="51.49638992306772" lng="-0.13497782463264"/>
+    <node lat="51.49623796677128" lng="-0.1352406811161"/>
+  </nodes>
+  <zones>
+    <zone title="Greycoat Place Mini Roundabout"/>
+    <zone title="Greycoat Place West"/>
+  </zones>
+</exit>

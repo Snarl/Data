@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Montrose Place">
+  <nodes maxlat="51.50063781493494" maxlng="-0.15118775481415" minlat="51.49979962234364" minlng="-0.1525127660675">
+    <node lat="51.50060776048694" lng="-0.1525127660675"/>
+    <node lat="51.49979962234364" lng="-0.15126822108459"/>
+    <node lat="51.49987642947764" lng="-0.15118775481415"/>
+    <node lat="51.50063781493494" lng="-0.15242693537903"/>
+  </nodes>
+  <exits>
+    <exit title="Montrose Place - Halkin Street"/>
+    <exit title="Montrose Place - Chapel Street"/>
+  </exits>
+</zone>

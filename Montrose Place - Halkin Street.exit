@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Montrose Place - Halkin Street">
+  <nodes>
+    <node lat="51.50058605448232" lng="-0.15249667281341"/>
+    <node lat="51.50063614524182" lng="-0.15240815991592"/>
+  </nodes>
+  <zones>
+    <zone title="Montrose Place"/>
+    <zone title="Halkin Street"/>
+  </zones>
+</exit>

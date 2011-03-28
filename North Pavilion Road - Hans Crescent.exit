@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="North Pavilion Road - Hans Crescent">
+  <nodes>
+    <node lat="51.49918683030872" lng="-0.16040784830284"/>
+    <node lat="51.49920018826008" lng="-0.16026032680702"/>
+  </nodes>
+  <zones>
+    <zone title="Hans Crescent"/>
+    <zone title="Pavilion Road"/>
+  </zones>
+</exit>

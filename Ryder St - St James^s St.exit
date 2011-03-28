@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ryder St - St James's St">
+  <nodes>
+    <node lat="51.50665915765466" lng="-0.13919291609955"/>
+    <node lat="51.50654897247564" lng="-0.13908562773895"/>
+  </nodes>
+  <zones>
+    <zone title="Ryder St"/>
+    <zone title="St James\'s St"/>
+  </zones>
+</exit>

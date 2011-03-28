@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Brewer Street - Air Street (North)">
+  <nodes>
+    <node lat="51.51050211644914" lng="-0.13674808258247"/>
+    <node lat="51.51050211644914" lng="-0.13661397213173"/>
+  </nodes>
+  <zones>
+    <zone title="Air Street"/>
+    <zone title="Glasshouse Street"/>
+  </zones>
+</exit>

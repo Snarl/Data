@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Abbey Orchard Street - Old Pye Street">
+  <nodes>
+    <node lat="51.497581343066" lng="-0.13248739356231"/>
+    <node lat="51.49758635247469" lng="-0.1322862278862"/>
+  </nodes>
+  <zones>
+    <zone title="Abbey Orchard Street"/>
+    <zone title="Old Pye Street"/>
+  </zones>
+</exit>

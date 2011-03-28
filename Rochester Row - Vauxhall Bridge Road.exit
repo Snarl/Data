@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rochester Row - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.49289647005955" lng="-0.1380851637764"/>
+    <node lat="51.49279126153795" lng="-0.13787595147323"/>
+  </nodes>
+  <zones>
+    <zone title="Rochester Row"/>
+    <zone title="Vauxhall Bridge Road"/>
+  </zones>
+</exit>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Northumberland Street">
+  <nodes maxlat="51.50785448283407" maxlng="-0.12525347584915" minlat="51.50705315102162" minlng="-0.12636659259033">
+    <node lat="51.50710991248872" lng="-0.12558875197601"/>
+    <node lat="51.50705315102162" lng="-0.12529102677536"/>
+    <node lat="51.50716166552946" lng="-0.12525347584915"/>
+    <node lat="51.50725181584711" lng="-0.12526688689422"/>
+    <node lat="51.50733528820443" lng="-0.12538222188186"/>
+    <node lat="51.50779939172228" lng="-0.12613592261505"/>
+    <node lat="51.50776934199826" lng="-0.12619224900436"/>
+    <node lat="51.50785448283407" lng="-0.12632904166412"/>
+    <node lat="51.50784279684639" lng="-0.12636659259033"/>
+    <node lat="51.5077476394068" lng="-0.12620029563141"/>
+    <node lat="51.50730022983392" lng="-0.12550560349655"/>
+    <node lat="51.50719171565603" lng="-0.12552437895965"/>
+  </nodes>
+  <exits>
+    <exit title="Strand - Northumberland Street"/>
+    <exit title="Northumberland Street - Craven Street"/>
+    <exit title="Northumblerand Ave - Northumberland St"/>
+  </exits>
+</zone>

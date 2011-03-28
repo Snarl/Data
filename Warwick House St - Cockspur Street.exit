@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Warwick House St - Cockspur Street">
+  <nodes>
+    <node lat="51.50753896007824" lng="-0.13019008154106"/>
+    <node lat="51.50748219914562" lng="-0.13008279318046"/>
+  </nodes>
+  <zones>
+    <zone title="Warwick House Street"/>
+    <zone title="Cockspur Street"/>
+  </zones>
+</exit>

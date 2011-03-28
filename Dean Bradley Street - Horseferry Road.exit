@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Bradley Street - Horseferry Road">
+  <nodes>
+    <node lat="51.49492460909544" lng="-0.1270103227539"/>
+    <node lat="51.49491625959316" lng="-0.12678501719665"/>
+  </nodes>
+  <zones>
+    <zone title="Dean Bradley Street"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Bressenden Place">
+  <nodes maxlat="51.49797958933788" maxlng="-0.14130515569877" minlat="51.49669884364877" minlng="-0.14305932039451">
+    <node lat="51.49797958933788" lng="-0.14292789215278"/>
+    <node lat="51.49781427998747" lng="-0.14191669935417"/>
+    <node lat="51.49766399823955" lng="-0.14180404657554"/>
+    <node lat="51.49709626272007" lng="-0.14166457170677"/>
+    <node lat="51.49709960236144" lng="-0.141525096838"/>
+    <node lat="51.49697770529254" lng="-0.14130515569877"/>
+    <node lat="51.49677064651054" lng="-0.14148218149376"/>
+    <node lat="51.49669884364877" lng="-0.14194888586235"/>
+    <node lat="51.49727660300441" lng="-0.14214736932945"/>
+    <node lat="51.49748365948798" lng="-0.1423190307064"/>
+    <node lat="51.49767568683772" lng="-0.14256042951774"/>
+    <node lat="51.49779925183497" lng="-0.14305932039451"/>
+  </nodes>
+  <exits>
+    <exit title="Bressenden Place - Warwick Row"/>
+    <exit title="Bressenden Place - Allington Street"/>
+    <exit title="Bressenenden Place - Victoria Street"/>
+  </exits>
+</zone>

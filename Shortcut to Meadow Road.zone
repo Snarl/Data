@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Shortcut to Meadow Road">
+  <nodes maxlat="51.48342004934474" maxlng="-0.11655238980484" minlat="51.48277195990742" minlng="-0.11733023041916">
+    <node lat="51.48334989577803" lng="-0.11655238980484"/>
+    <node lat="51.48316281907248" lng="-0.11693862790298"/>
+    <node lat="51.48297240092337" lng="-0.11715320462417"/>
+    <node lat="51.48278866335906" lng="-0.11718002671432"/>
+    <node lat="51.48277195990742" lng="-0.11733023041916"/>
+    <node lat="51.483019170367" lng="-0.11731413716507"/>
+    <node lat="51.48317618171976" lng="-0.11712638253402"/>
+    <node lat="51.48342004934474" lng="-0.11669722909164"/>
+  </nodes>
+  <exits>
+    <exit title="Gate. Shortcut - Meadow Road"/>
+    <exit title="South entrance between both shortcuts"/>
+    <exit title="South entrance between both shortcuts"/>
+  </exits>
+</zone>

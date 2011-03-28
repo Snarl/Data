@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Greencoat Row">
+  <nodes maxlat="51.4958046380587" maxlng="-0.13642219418716" minlat="51.49550072105688" minlng="-0.13730464095306">
+    <node lat="51.49560759320058" lng="-0.13642219418716"/>
+    <node lat="51.49550072105688" lng="-0.13647583836746"/>
+    <node lat="51.49552576923804" lng="-0.13652948254776"/>
+    <node lat="51.49554246801784" lng="-0.13665822858047"/>
+    <node lat="51.49555916679152" lng="-0.13676015252304"/>
+    <node lat="51.49556083666856" lng="-0.13687280530166"/>
+    <node lat="51.49572281444984" lng="-0.13730464095306"/>
+    <node lat="51.4958046380587" lng="-0.13721612805557"/>
+    <node lat="51.49562429195042" lng="-0.13676283473205"/>
+  </nodes>
+  <exits>
+    <exit title="Greencoat Row - Greencoat Place"/>
+    <exit title="Greencoat Row - Francis Street"/>
+  </exits>
+</zone>

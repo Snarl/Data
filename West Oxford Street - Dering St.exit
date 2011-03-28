@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="West Oxford Street - Dering St">
+  <nodes>
+    <node lat="51.51454672239958" lng="-0.14624712580871"/>
+    <node lat="51.51462016632088" lng="-0.14604327792358"/>
+  </nodes>
+  <zones>
+    <zone title="Dering St"/>
+    <zone title="West Oxford Street 2"/>
+  </zones>
+</exit>

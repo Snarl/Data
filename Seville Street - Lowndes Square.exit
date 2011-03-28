@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Seville Street - Lowndes Square">
+  <nodes>
+    <node lat="51.50139835283892" lng="-0.15926522726249"/>
+    <node lat="51.50142005845458" lng="-0.1590318750782"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

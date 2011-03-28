@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Rochester Street - Greycoat Lane">
+  <nodes>
+    <node lat="51.49495550224478" lng="-0.13445747608375"/>
+    <node lat="51.49506905524732" lng="-0.13450843805504"/>
+  </nodes>
+  <zones>
+    <zone title="Greycoat Lane"/>
+    <zone title="Rochester Street"/>
+  </zones>
+</exit>

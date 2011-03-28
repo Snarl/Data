@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Wesminster Bridge Rd">
+  <nodes maxlat="51.50156448401854" maxlng="-0.11565384978485" minlat="51.50019200525501" minlng="-0.11987564677429">
+    <node lat="51.50092667056131" lng="-0.11985418910217"/>
+    <node lat="51.50067955718917" lng="-0.11987564677429"/>
+    <node lat="51.50064950276875" lng="-0.11768696421814"/>
+    <node lat="51.50019200525501" lng="-0.11673209780884"/>
+    <node lat="51.50078975656118" lng="-0.11565384978485"/>
+    <node lat="51.50117712193613" lng="-0.11577723139953"/>
+    <node lat="51.50156448401854" lng="-0.1171934377594"/>
+    <node lat="51.50087991948558" lng="-0.1176440488739"/>
+  </nodes>
+  <exits>
+    <exit title="Westminster Bridge Rd - Westminster Bridge"/>
+    <exit title="Westminster Bridge Rd - Belvedere Road"/>
+    <exit title="Westminster Bridge Rd - York Road"/>
+  </exits>
+</zone>

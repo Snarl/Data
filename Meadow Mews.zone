@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Meadow Mews">
+  <nodes maxlat="51.48171294859693" maxlng="-0.11790690535736" minlat="51.48117842250145" minlng="-0.11929628962707">
+    <node lat="51.48171294859693" lng="-0.11921314114761"/>
+    <node lat="51.48165448511039" lng="-0.11929628962707"/>
+    <node lat="51.48155092103594" lng="-0.11901733988952"/>
+    <node lat="51.48151584282838" lng="-0.11889932269287"/>
+    <node lat="51.48147909420103" lng="-0.11892882699203"/>
+    <node lat="51.48117842250145" lng="-0.11795920843315"/>
+    <node lat="51.48123438099567" lng="-0.11790690535736"/>
+    <node lat="51.48129702101972" lng="-0.11809734219742"/>
+    <node lat="51.48131038421367" lng="-0.11817780846786"/>
+    <node lat="51.48148243498656" lng="-0.11869815701675"/>
+    <node lat="51.48152085400255" lng="-0.11880544537735"/>
+    <node lat="51.4815442394747" lng="-0.11875984782409"/>
+    <node lat="51.48163611085629" lng="-0.11906025523376"/>
+  </nodes>
+  <exits>
+    <exit title="Meadow Mews - Coney Way"/>
+    <exit title="Meadow Mews - Coney Way"/>
+    <exit title="Meadow  Mews - Carroun Road"/>
+    <exit title="Meadow Road - Meadow Mews"/>
+  </exits>
+</zone>

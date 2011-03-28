@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="East Noel Street - Berwick Street">
+  <nodes>
+    <node lat="51.5151170300751" lng="-0.13612329552006"/>
+    <node lat="51.515077804787" lng="-0.13608708569836"/>
+  </nodes>
+  <zones>
+    <zone title="Berwick Street"/>
+    <zone title="Noel Street"/>
+  </zones>
+</exit>

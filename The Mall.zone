@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<zone title="The Mall">
+  <nodes maxlat="51.50719755873252" maxlng="-0.12793568486404" minlat="51.50222065451602" minlng="-0.13968376034927">
+    <node lat="51.50719755873252" lng="-0.12923119181823"/>
+    <node lat="51.50702727444664" lng="-0.12927678937149"/>
+    <node lat="51.50688203146458" lng="-0.12970594281387"/>
+    <node lat="51.50657484937982" lng="-0.12955573910904"/>
+    <node lat="51.50254790141138" lng="-0.13968376034927"/>
+    <node lat="51.50222065451602" lng="-0.13941553944778"/>
+    <node lat="51.50622091962754" lng="-0.12938407773208"/>
+    <node lat="51.50628102110002" lng="-0.12879399174881"/>
+    <node lat="51.50640122380714" lng="-0.12793568486404"/>
+    <node lat="51.50695381828372" lng="-0.12816903704834"/>
+    <node lat="51.5069888769217" lng="-0.12798664683532"/>
+    <node lat="51.5071040693994" lng="-0.12844530457687"/>
+  </nodes>
+  <exits>
+    <exit title="The Mall - Marlborough Rd"/>
+    <exit title="The Mall - Marlborough Rd"/>
+    <exit title="The Mall - Marlborough Rd"/>
+    <exit title="The Mall - Marlborough Rd"/>
+    <exit title="Trafalga Sq - The Mall"/>
+    <exit title="The Mall - Waterloo"/>
+    <exit title="The Mall - Waterloo"/>
+    <exit title="Carlton Gardens - The Mall"/>
+    <exit title="Stable Yard Rd - The Mall"/>
+    <exit title="Stable Yard Rd - The Mall"/>
+  </exits>
+</zone>

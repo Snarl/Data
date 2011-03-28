@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Abbey Orchard Street - Abbey Orchard Street Estate (North Entrance)">
+  <nodes>
+    <node lat="51.49827931536763" lng="-0.1312066387577"/>
+    <node lat="51.49828599447677" lng="-0.13110739702415"/>
+  </nodes>
+  <zones>
+    <zone title="Abbey Orchard Street"/>
+    <zone title="Abbey Orchard Street Estate"/>
+  </zones>
+</exit>

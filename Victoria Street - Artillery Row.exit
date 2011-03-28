@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Street - Artillery Row">
+  <nodes>
+    <node lat="51.49733838608439" lng="-0.13584015483093"/>
+    <node lat="51.49740100398692" lng="-0.13548073882293"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Artillery Row"/>
+  </zones>
+</exit>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Motcomb Street">
+  <nodes maxlat="51.49976622790312" maxlng="-0.15599695557785" minlat="51.49881614565048" minlng="-0.15761969203186">
+    <node lat="51.49890130321578" lng="-0.15761969203186"/>
+    <node lat="51.49976622790312" lng="-0.1560961973114"/>
+    <node lat="51.49970110866212" lng="-0.15599695557785"/>
+    <node lat="51.49881614565048" lng="-0.15750972146225"/>
+  </nodes>
+  <exits>
+    <exit title="Motcomb Street - Wilton Crescent"/>
+    <exit title="Kinnerton Street - Motcomb Street"/>
+    <exit title="Lowndes Street - Motcomb Street"/>
+  </exits>
+</zone>

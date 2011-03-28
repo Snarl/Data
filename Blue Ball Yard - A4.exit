@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Blue Ball Yard - A4">
+  <nodes>
+    <node lat="51.50630188964812" lng="-0.13926265353393"/>
+    <node lat="51.50622509334331" lng="-0.13917950505447"/>
+  </nodes>
+  <zones>
+    <zone title="St James\'s St"/>
+    <zone title="Blue Ball Yard"/>
+  </zones>
+</exit>

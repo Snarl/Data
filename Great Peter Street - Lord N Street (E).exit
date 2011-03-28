@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Peter Street - Lord N Street (E)">
+  <nodes>
+    <node lat="51.49700191774782" lng="-0.12708810681534"/>
+    <node lat="51.496878350589" lng="-0.12708006018829"/>
+  </nodes>
+  <zones>
+    <zone title="Great Peter Street"/>
+    <zone title="Lord N Street"/>
+  </zones>
+</exit>

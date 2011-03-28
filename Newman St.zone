@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title=" Newman St">
+  <nodes maxlat="51.51854423645866" maxlng="-0.13465595955086" minlat="51.5161607922789" minlng="-0.13639939541054">
+    <node lat="51.5161607922789" lng="-0.13481689209175"/>
+    <node lat="51.51617080701118" lng="-0.13465595955086"/>
+    <node lat="51.51801681838084" lng="-0.13590050453377"/>
+    <node lat="51.51854423645866" lng="-0.13625992054176"/>
+    <node lat="51.51852086996428" lng="-0.13639939541054"/>
+  </nodes>
+  <exits>
+    <exit title="Newman St - East Oxford Street 2"/>
+    <exit title="Newman St - East Oxford Street 2"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Street - Abbey Street Orchard">
+  <nodes>
+    <node lat="51.498342766865" lng="-0.13233048433494"/>
+    <node lat="51.49826261759046" lng="-0.13256115431022"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Abbey Orchard Street"/>
+  </zones>
+</exit>

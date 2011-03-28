@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Edgware Rd">
+  <nodes maxlat="51.52443638296594" maxlng="-0.15986470097732" minlat="51.51325058472737" minlng="-0.17663923615646">
+    <node lat="51.51327061546942" lng="-0.15986470097732"/>
+    <node lat="51.51325058472737" lng="-0.16055134648514"/>
+    <node lat="51.52433625371859" lng="-0.17663923615646"/>
+    <node lat="51.52443638296594" lng="-0.1763227354927"/>
+    <node lat="51.51430552515141" lng="-0.16149548405838"/>
+  </nodes>
+  <exits>
+    <exit title="Bayswater Rd-Edgware Rd"/>
+    <exit title="Bayswater Rd-Edgware Rd"/>
+    <exit title="Seymour St-Edgware Rd"/>
+    <exit title="Edgware Rd-Connaught St"/>
+    <exit title="Edgware Rd-Upper Berkeley St"/>
+    <exit title="Edgware Rd-Upper Berkeley St"/>
+  </exits>
+</zone>

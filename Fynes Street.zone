@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Fynes Street">
+  <nodes maxlat="51.49380576076852" maxlng="-0.13243374938202" minlat="51.49363375649052" minlng="-0.13321963662338">
+    <node lat="51.49373896306776" lng="-0.13244447821808"/>
+    <node lat="51.49366715543022" lng="-0.13243374938202"/>
+    <node lat="51.49363375649052" lng="-0.13321963662338"/>
+    <node lat="51.49380576076852" lng="-0.13304529303741"/>
+    <node lat="51.49372226362726" lng="-0.13299701327514"/>
+  </nodes>
+  <exits>
+    <exit title="Regency Street - Fynes Street"/>
+    <exit title="Fynes Street - Rutherford Street"/>
+    <exit title="Fynes Street - Vincent Square"/>
+  </exits>
+</zone>

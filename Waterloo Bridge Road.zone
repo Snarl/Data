@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Waterloo Bridge Road">
+  <nodes maxlat="51.50747134781836" maxlng="-0.11365292185974" minlat="51.5052809890628" minlng="-0.11617419833374">
+    <node lat="51.50747134781836" lng="-0.11540172213745"/>
+    <node lat="51.50719755873217" lng="-0.11617419833374"/>
+    <node lat="51.5052809890628" lng="-0.11425373667907"/>
+    <node lat="51.50556814575037" lng="-0.11365292185974"/>
+  </nodes>
+  <exits>
+    <exit title="Waterloo Bridge - Waterloo Bridge Road"/>
+    <exit title="Belverdere Road - Waterloo Bridge"/>
+    <exit title="Southbank Centre - Waterloo Bridge Road"/>
+    <exit title="Belverdere Road - Waterloo Bridge"/>
+  </exits>
+</zone>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Embankment">
+  <nodes maxlat="51.50745632285085" maxlng="-0.12174782866668" minlat="51.50646800295212" minlng="-0.12356100196075">
+    <node lat="51.50745632285085" lng="-0.12287435645294"/>
+    <node lat="51.50691542069713" lng="-0.12174782866668"/>
+    <node lat="51.50646800295212" lng="-0.12205896491241"/>
+    <node lat="51.50683528649862" lng="-0.12335715407562"/>
+    <node lat="51.50690874285266" lng="-0.12356100196075"/>
+  </nodes>
+  <exits>
+    <exit title="Embankment - Hungerford Bridge"/>
+    <exit title="Villiers Street - Embankment"/>
+  </exits>
+</zone>

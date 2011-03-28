@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Mount St - South Audley St (East)">
+  <nodes>
+    <node lat="51.5094596082196" lng="-0.15159276837539"/>
+    <node lat="51.50961318979652" lng="-0.15166250580978"/>
+  </nodes>
+  <zones>
+    <zone title="St Audley Street"/>
+    <zone title="Mount Street"/>
+  </zones>
+</exit>

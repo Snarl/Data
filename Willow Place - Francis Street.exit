@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Willow Place - Francis Street">
+  <nodes>
+    <node lat="51.49450629715463" lng="-0.1390225958271"/>
+    <node lat="51.49441946145899" lng="-0.13917279953193"/>
+  </nodes>
+  <zones>
+    <zone title="Francis Street"/>
+    <zone title="Willow Place"/>
+  </zones>
+</exit>

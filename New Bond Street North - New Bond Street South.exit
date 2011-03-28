@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="New Bond Street North - New Bond Street South">
+  <nodes>
+    <node lat="51.51110974838384" lng="-0.14316191488933"/>
+    <node lat="51.51102210966545" lng="-0.14336442166996"/>
+  </nodes>
+  <zones>
+    <zone title="New Bond Street North"/>
+    <zone title="New Bond Street South"/>
+  </zones>
+</exit>

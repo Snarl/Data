@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cowley Street - Lord N Street">
+  <nodes>
+    <node lat="51.49713759076262" lng="-0.12721282953453"/>
+    <node lat="51.49714093040094" lng="-0.12709481233787"/>
+  </nodes>
+  <zones>
+    <zone title="Lord N Street"/>
+    <zone title="Cowley Street"/>
+  </zones>
+</exit>

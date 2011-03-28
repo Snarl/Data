@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Tufton Street - Horseferry Road">
+  <nodes>
+    <node lat="51.49493671587018" lng="-0.12818244809341"/>
+    <node lat="51.49493838577002" lng="-0.12798932904434"/>
+  </nodes>
+  <zones>
+    <zone title="Tufton Street"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

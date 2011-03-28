@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<exit title="Parliament Square - Whitehall">
+  <nodes>
+    <node lat="51.50107276736326" lng="-0.12602461094093"/>
+    <node lat="51.50117628709989" lng="-0.12661067361068"/>
+  </nodes>
+  <zones>
+    <zone title="St Margaret Street"/>
+    <zone title="Little Santuary"/>
+    <zone title="Broad Santuary"/>
+  </zones>
+</exit>

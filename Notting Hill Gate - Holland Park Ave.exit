@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Notting Hill Gate - Holland Park Ave">
+  <nodes>
+    <node lat="51.50867165982348" lng="-0.2006181847496"/>
+    <node lat="51.50845129893256" lng="-0.2008166682167"/>
+  </nodes>
+  <zones>
+    <zone title="Notting Hill Gate"/>
+    <zone title="Holland Park Ave"/>
+  </zones>
+</exit>

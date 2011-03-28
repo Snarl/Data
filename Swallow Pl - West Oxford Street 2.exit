@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Swallow Pl - West Oxford Street 2">
+  <nodes>
+    <node lat="51.51503412075348" lng="-0.14263150805664"/>
+    <node lat="51.51507418066024" lng="-0.14238474482727"/>
+  </nodes>
+  <zones>
+    <zone title="Swallow Pl"/>
+    <zone title="West Oxford Street 2"/>
+  </zones>
+</exit>

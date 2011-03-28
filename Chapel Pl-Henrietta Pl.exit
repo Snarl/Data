@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Chapel Pl-Henrietta Pl">
+  <nodes>
+    <node lat="51.51550440524122" lng="-0.14701423758697"/>
+    <node lat="51.51554112644461" lng="-0.14676210993957"/>
+  </nodes>
+  <zones>
+    <zone title="Chapel Pl"/>
+  </zones>
+</exit>

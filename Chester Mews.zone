@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Chester Mews">
+  <nodes maxlat="51.49991900728996" maxlng="-0.14864636177253" minlat="51.49889211955878" minlng="-0.14985872024727">
+    <node lat="51.49985889742616" lng="-0.14985872024727"/>
+    <node lat="51.49991900728996" lng="-0.14976216072273"/>
+    <node lat="51.49949823657852" lng="-0.149271316473"/>
+    <node lat="51.49892384489198" lng="-0.14864636177253"/>
+    <node lat="51.49889211955878" lng="-0.14874560350609"/>
+  </nodes>
+  <exits>
+    <exit title="Chester Mews - Wilton Street"/>
+  </exits>
+</zone>

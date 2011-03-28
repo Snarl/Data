@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Piccadilly Circus - Coventry Street" status="green" reason="">
+  <nodes>
+    <node lat="51.51013736650525" lng="-0.13419461960029"/>
+    <node lat="51.5099604158093" lng="-0.1339076232357"/>
+  </nodes>
+  <zones>
+    <zone title="Coventry Street"/>
+  </zones>
+</exit>

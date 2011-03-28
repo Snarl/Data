@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Claylands Road (north)">
+  <nodes maxlat="51.48170459667448" maxlng="-0.11414913052749" minlat="51.48111494711105" minlng="-0.11555729026031">
+    <node lat="51.48167285935671" lng="-0.11543659085464"/>
+    <node lat="51.48151083165327" lng="-0.11513081902694"/>
+    <node lat="51.48156929532399" lng="-0.11499402636719"/>
+    <node lat="51.48115503684132" lng="-0.11414913052749"/>
+    <node lat="51.48111494711105" lng="-0.11418399924469"/>
+    <node lat="51.48151751321944" lng="-0.11500207299423"/>
+    <node lat="51.48145737908875" lng="-0.11511472577286"/>
+    <node lat="51.48167620012802" lng="-0.11555729026031"/>
+    <node lat="51.48170459667448" lng="-0.11551705712509"/>
+  </nodes>
+  <exits>
+    <exit title="Claylands Road - Ashmole Street "/>
+    <exit title="Claylands Road - Claylands place (north)"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Bradley Street - Romney Street">
+  <nodes>
+    <node lat="51.49528697602208" lng="-0.12705860251617"/>
+    <node lat="51.49521016115382" lng="-0.12704250926208"/>
+  </nodes>
+  <zones>
+    <zone title="Dean Bradley Street"/>
+    <zone title="Romney Street"/>
+  </zones>
+</exit>

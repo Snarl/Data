@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Street - Carlisle Place">
+  <nodes>
+    <node lat="51.49644669781944" lng="-0.14168066496086"/>
+    <node lat="51.49639994214812" lng="-0.14210445398521"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Carlisle Place"/>
+  </zones>
+</exit>

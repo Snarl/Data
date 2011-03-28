@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Lancelot Place">
+  <nodes maxlat="51.50126978859822" maxlng="-0.1624543737812" minlat="51.4998856129312" minlng="-0.16413075441551">
+    <node lat="51.50090579955348" lng="-0.16413075441551"/>
+    <node lat="51.50005759361848" lng="-0.16379816049766"/>
+    <node lat="51.4998856129312" lng="-0.1635165285511"/>
+    <node lat="51.5000475753438" lng="-0.16336364263725"/>
+    <node lat="51.50011436379996" lng="-0.16347093099785"/>
+    <node lat="51.5008456909912" lng="-0.16388935560417"/>
+    <node lat="51.50115458137098" lng="-0.1624543737812"/>
+    <node lat="51.50126978859822" lng="-0.16252142900657"/>
+  </nodes>
+  <exits>
+    <exit title="Lancelot Place - Brompton Road"/>
+    <exit title="Lancelot Place - Park Road"/>
+    <exit title="Lancelot Place - Brompton Road"/>
+    <exit title="Lancelot Place - Park Road"/>
+    <exit title="Trevor Square - Lancelot Place"/>
+    <exit title="Trevor Square - Lancelot Place"/>
+    <exit title="Lancelot Place - Brompton Road"/>
+    <exit title="Lancelot Place - Brompton Road"/>
+  </exits>
+</zone>

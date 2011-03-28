@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Seymour St-Edgware Rd">
+  <nodes>
+    <node lat="51.51433890894548" lng="-0.16143379325104"/>
+    <node lat="51.51414528261109" lng="-0.16113338584137"/>
+  </nodes>
+  <zones>
+    <zone title="Seymour Street"/>
+    <zone title="Edgware Rd"/>
+  </zones>
+</exit>

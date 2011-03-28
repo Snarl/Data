@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St James' Court - Buckingham Gate">
+  <nodes>
+    <node lat="51.49872430887442" lng="-0.13750848883819"/>
+    <node lat="51.49868590435278" lng="-0.13739851826858"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Gate"/>
+    <zone title="St James\' Court"/>
+  </zones>
+</exit>

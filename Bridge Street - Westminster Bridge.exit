@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bridge Street - Westminster Bridge">
+  <nodes>
+    <node lat="51.50105189642024" lng="-0.12360123509598"/>
+    <node lat="51.50079977467219" lng="-0.1236414682312"/>
+  </nodes>
+  <zones>
+    <zone title="Westminster Bridge"/>
+    <zone title="Bridge Street"/>
+  </zones>
+</exit>

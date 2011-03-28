@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Palmer Street - Victoria Street">
+  <nodes>
+    <node lat="51.49773245998484" lng="-0.13469619268608"/>
+    <node lat="51.49787105296194" lng="-0.13430861348343"/>
+  </nodes>
+  <zones>
+    <zone title="Palmer Street South"/>
+    <zone title="Victoria Street"/>
+  </zones>
+</exit>

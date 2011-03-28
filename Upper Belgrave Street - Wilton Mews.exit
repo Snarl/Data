@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Upper Belgrave Street - Wilton Mews">
+  <nodes>
+    <node lat="51.4978576946216" lng="-0.14968303555679"/>
+    <node lat="51.49781761957542" lng="-0.14942554349136"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

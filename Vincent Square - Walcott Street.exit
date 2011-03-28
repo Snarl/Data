@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vincent Square - Walcott Street">
+  <nodes>
+    <node lat="51.4931786948928" lng="-0.13708872312736"/>
+    <node lat="51.49307181705441" lng="-0.13717187160682"/>
+  </nodes>
+  <zones>
+    <zone title="Walcott Street"/>
+    <zone title="Vincent Square West"/>
+  </zones>
+</exit>

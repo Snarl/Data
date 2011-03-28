@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Berkeley St">
+  <nodes maxlat="51.50918416167148" maxlng="-0.14205483311844" minlat="51.50711074717512" minlng="-0.1445519697113">
+    <node lat="51.50910069270136" lng="-0.1445519697113"/>
+    <node lat="51.50918416167148" lng="-0.14440981263351"/>
+    <node lat="51.50887365632898" lng="-0.14400479907226"/>
+    <node lat="51.50856815707196" lng="-0.14365611190033"/>
+    <node lat="51.50821758162994" lng="-0.14324573392105"/>
+    <node lat="51.50787368119446" lng="-0.14284876698684"/>
+    <node lat="51.50755982804612" lng="-0.14247593993377"/>
+    <node lat="51.50718921143826" lng="-0.14205483311844"/>
+    <node lat="51.50711074717512" lng="-0.14219430798721"/>
+  </nodes>
+  <exits>
+    <exit title="Berkeley St - Piccadily Place 1"/>
+    <exit title="Berkeley St - Piccadily Place 1"/>
+    <exit title="Stratton St-Berkely St"/>
+    <exit title="Stratton St-Berkely St"/>
+  </exits>
+</zone>

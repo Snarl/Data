@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Maunsel Street">
+  <nodes maxlat="51.49477264652462" maxlng="-0.13248739356231" minlat="51.49398945394096" minlng="-0.13398138398361">
+    <node lat="51.49477264652462" lng="-0.13249544018936"/>
+    <node lat="51.49467746179036" lng="-0.13248739356231"/>
+    <node lat="51.4946824715182" lng="-0.13254371995163"/>
+    <node lat="51.49413640794596" lng="-0.1336380612297"/>
+    <node lat="51.49398945394096" lng="-0.13386873120498"/>
+    <node lat="51.49403287221902" lng="-0.13398138398361"/>
+    <node lat="51.4942132246237" lng="-0.13367561215591"/>
+    <node lat="51.49447206247602" lng="-0.13320890778732"/>
+    <node lat="51.49464239368024" lng="-0.13283071631622"/>
+  </nodes>
+  <exits>
+    <exit title="Vincent Square - Maunsel Street"/>
+    <exit title="Maunsel Street - Regency Street"/>
+  </exits>
+</zone>

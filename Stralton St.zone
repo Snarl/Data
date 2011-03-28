@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Stralton St">
+  <nodes maxlat="51.50779605279422" maxlng="-0.14290777558517" minlat="51.50671091119488" minlng="-0.14434007519912">
+    <node lat="51.5076925480951" lng="-0.14434007519912"/>
+    <node lat="51.50779605279422" lng="-0.1442274224205"/>
+    <node lat="51.50676099522218" lng="-0.14290777558517"/>
+    <node lat="51.50671091119488" lng="-0.14298287743759"/>
+  </nodes>
+  <exits>
+    <exit title="Stralton St - Piccadily Place 1"/>
+    <exit title="Stralton St - Piccadily Place 1"/>
+  </exits>
+</zone>

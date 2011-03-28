@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Burlington St - Burlington Gardens">
+  <nodes>
+    <node lat="51.5099812826712" lng="-0.1403905224247"/>
+    <node lat="51.5100463872226" lng="-0.14020813221168"/>
+  </nodes>
+  <zones>
+    <zone title="Old Burlington St"/>
+    <zone title="Burlington Gardens"/>
+  </zones>
+</exit>

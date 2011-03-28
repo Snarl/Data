@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="N Audley St - Grosvenor Square">
+  <nodes>
+    <node lat="51.51194815022884" lng="-0.15309413487148"/>
+    <node lat="51.51199155139966" lng="-0.15282591396999"/>
+  </nodes>
+  <zones>
+    <zone title="N Audley St"/>
+    <zone title="Grosvenor Square"/>
+  </zones>
+</exit>

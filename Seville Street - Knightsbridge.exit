@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Seville Street - Knightsbridge">
+  <nodes>
+    <node lat="51.50199525351278" lng="-0.1592129241867"/>
+    <node lat="51.50193932049592" lng="-0.15940738434028"/>
+  </nodes>
+  <zones>
+    <zone title="Knightsbridge"/>
+    <zone title="Seville Street"/>
+  </zones>
+</exit>

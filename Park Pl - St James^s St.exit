@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Park Pl - St James's St">
+  <nodes>
+    <node lat="51.50648720191254" lng="-0.13951344007683"/>
+    <node lat="51.50662743773874" lng="-0.13962072843742"/>
+  </nodes>
+  <zones>
+    <zone title="Park Place"/>
+    <zone title="St James\'s St"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bruton St - New Bond St">
+  <nodes>
+    <node lat="51.51113770927282" lng="-0.14348512107563"/>
+    <node lat="51.51102419630356" lng="-0.14336576277447"/>
+  </nodes>
+  <zones>
+    <zone title="Bruton St"/>
+    <zone title="New Bond Street North"/>
+  </zones>
+</exit>

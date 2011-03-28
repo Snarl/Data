@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Arneway - Medway Street">
+  <nodes>
+    <node lat="51.49534959674751" lng="-0.13198313826751"/>
+    <node lat="51.49535126663223" lng="-0.13182488793564"/>
+  </nodes>
+  <zones>
+    <zone title="Medway Street"/>
+    <zone title="Arneway Street"/>
+  </zones>
+</exit>

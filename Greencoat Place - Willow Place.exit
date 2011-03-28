@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Greencoat Place - Willow Place">
+  <nodes>
+    <node lat="51.49367801147569" lng="-0.13840568775368"/>
+    <node lat="51.49360119389607" lng="-0.13834936136436"/>
+  </nodes>
+  <zones>
+    <zone title="Greencoat Place South"/>
+    <zone title="Willow Place"/>
+  </zones>
+</exit>

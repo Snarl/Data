@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Stanhope Gate">
+  <nodes maxlat="51.5067910456201" maxlng="-0.15065399522018" minlat="51.50655064194552" minlng="-0.15185026044082">
+    <node lat="51.50660406509396" lng="-0.15185026044082"/>
+    <node lat="51.50655064194552" lng="-0.15184489602279"/>
+    <node lat="51.5066908775765" lng="-0.15065399522018"/>
+    <node lat="51.5067910456201" lng="-0.1506754528923"/>
+  </nodes>
+  <exits>
+    <exit title="Stanhope Gate - Park lane"/>
+    <exit title="S Audley St-Stanhope Gate"/>
+    <exit title="S Audley St-Stanhope Gate"/>
+  </exits>
+</zone>

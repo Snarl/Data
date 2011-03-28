@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cadogan Place - Lowndes Street">
+  <nodes>
+    <node lat="51.4985397999124" lng="-0.1579522859497"/>
+    <node lat="51.49839369498996" lng="-0.1578973006649"/>
+  </nodes>
+  <zones>
+    <zone title="Lowndes Street"/>
+    <zone title="Cadogan Place Park Upper"/>
+  </zones>
+</exit>

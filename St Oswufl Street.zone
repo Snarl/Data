@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="St Oswufl Street">
+  <nodes maxlat="51.49178592341748" maxlng="-0.1293143402977" minlat="51.49152874033766" minlng="-0.12991247290802">
+    <node lat="51.49163562179376" lng="-0.1293143402977"/>
+    <node lat="51.49152874033766" lng="-0.12940821761322"/>
+    <node lat="51.49168572239008" lng="-0.12991247290802"/>
+    <node lat="51.49178592341748" lng="-0.12982664221954"/>
+  </nodes>
+  <exits>
+    <exit title="St Oswulf Street - Herrick Street"/>
+    <exit title="St Oswulf Street - Erasmus Street"/>
+  </exits>
+</zone>

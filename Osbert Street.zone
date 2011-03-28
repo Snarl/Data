@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Osbert Street">
+  <nodes maxlat="51.49180387607482" maxlng="-0.13456208223533" minlat="51.4913446197381" minlng="-0.13496307248306">
+    <node lat="51.49180387607482" lng="-0.13467607611847"/>
+    <node lat="51.49174459051688" lng="-0.13456208223533"/>
+    <node lat="51.4913446197381" lng="-0.13483834976387"/>
+    <node lat="51.49139806071332" lng="-0.13496307248306"/>
+  </nodes>
+  <exits>
+    <exit title="Osbert Street - Vincent Square"/>
+    <exit title="Osbert Street - Vauxhall Bridge Road"/>
+  </exits>
+</zone>

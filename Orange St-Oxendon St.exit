@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Orange St-Oxendon St">
+  <nodes>
+    <node lat="51.50912573344823" lng="-0.1314037811203"/>
+    <node lat="51.50924592865066" lng="-0.13113556021881"/>
+  </nodes>
+  <zones>
+    <zone title="Orange Street"/>
+    <zone title="Oxendon Street"/>
+  </zones>
+</exit>

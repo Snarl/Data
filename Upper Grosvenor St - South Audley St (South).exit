@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Grosvenor St - South Audley St (South)">
+  <nodes>
+    <node lat="51.51053592034026" lng="-0.15243967587185"/>
+    <node lat="51.51058266150984" lng="-0.15213390404415"/>
+  </nodes>
+  <zones>
+    <zone title="St Audley Street"/>
+    <zone title="Upper Grosvendor St"/>
+  </zones>
+</exit>

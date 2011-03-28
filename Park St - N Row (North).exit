@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Park St - N Row (North)">
+  <nodes>
+    <node lat="51.51314792698506" lng="-0.15586016291809"/>
+    <node lat="51.51318465008816" lng="-0.15563485736084"/>
+  </nodes>
+  <zones>
+    <zone title="Park St"/>
+    <zone title="N Row"/>
+  </zones>
+</exit>

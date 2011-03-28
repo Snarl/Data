@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Farrar Street - Tothill Street">
+  <nodes>
+    <node lat="51.49963264986205" lng="-0.13205421680641"/>
+    <node lat="51.4996309801342" lng="-0.13192815298271"/>
+  </nodes>
+  <zones>
+    <zone title="Tothill Street"/>
+    <zone title="Dean Farrer Street"/>
+  </zones>
+</exit>

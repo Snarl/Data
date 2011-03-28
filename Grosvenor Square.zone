@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Grosvenor Square">
+  <nodes maxlat="51.5124293168783" maxlng="-0.14966560119819" minlat="51.51055636981987" minlng="-0.15313637966347">
+    <node lat="51.51191184366045" lng="-0.15313637966347"/>
+    <node lat="51.51055636981987" lng="-0.15249801391792"/>
+    <node lat="51.51106050396364" lng="-0.14966560119819"/>
+    <node lat="51.5124293168783" lng="-0.15030396694374"/>
+  </nodes>
+  <exits>
+    <exit title="N Audley St - Grosvenor Square"/>
+    <exit title="N Audley St - Grosvenor Square"/>
+    <exit title="Upper Brrook St - Grosvenor Square"/>
+    <exit title="Upper Brrook St - Grosvenor Square"/>
+  </exits>
+</zone>

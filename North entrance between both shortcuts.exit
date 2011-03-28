@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="North entrance between both shortcuts">
+  <nodes>
+    <node lat="51.48362299295375" lng="-0.11747238749695"/>
+    <node lat="51.48368312422886" lng="-0.11730072611999"/>
+  </nodes>
+  <zones>
+    <zone title="link between both 2 shortcuts"/>
+    <zone title="Shortcut Harleyford Road -  Meadow Road"/>
+  </zones>
+</exit>

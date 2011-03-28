@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Nazrul St">
+  <nodes maxlat="51.53064062911459" maxlng="-0.07653114909363" minlat="51.52950597271062" minlng="-0.07692811602783">
+    <node lat="51.52953267083321" lng="-0.07692811602783"/>
+    <node lat="51.52950597271062" lng="-0.07675645465088"/>
+    <node lat="51.5300265832775" lng="-0.07674572581482"/>
+    <node lat="51.53040702569611" lng="-0.07660625094604"/>
+    <node lat="51.5306206060114" lng="-0.07653114909363"/>
+    <node lat="51.53064062911459" lng="-0.07668135279846"/>
+    <node lat="51.53012670001168" lng="-0.07686374301147"/>
+  </nodes>
+  <exits>
+    <exit title="Nazrul - Cremer"/>
+    <exit title="Hackspace Back Gates"/>
+    <exit title="Hackspace Back Gates"/>
+  </exits>
+</zone>

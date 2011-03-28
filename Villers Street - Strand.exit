@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Villers Street - Strand">
+  <nodes>
+    <node lat="51.50850471985137" lng="-0.12481627577972"/>
+    <node lat="51.50869837016096" lng="-0.12478408927154"/>
+  </nodes>
+  <zones>
+    <zone title="Villiers Street"/>
+    <zone title="Strand - Charing Cross"/>
+  </zones>
+</exit>

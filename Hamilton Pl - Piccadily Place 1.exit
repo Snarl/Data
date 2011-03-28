@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hamilton Pl - Piccadily Place 1">
+  <nodes>
+    <node lat="51.503607263542" lng="-0.1496669423027"/>
+    <node lat="51.50362395936104" lng="-0.14995125645828"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadily Place 1"/>
+    <zone title="Hamilton Pl"/>
+  </zones>
+</exit>

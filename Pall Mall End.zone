@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Pall Mall End">
+  <nodes maxlat="51.50843794371193" maxlng="-0.12921778077316" minlat="51.50791040860989" minlng="-0.13029871100616">
+    <node lat="51.50803227643866" lng="-0.13029871100616"/>
+    <node lat="51.50791040860989" lng="-0.13018069380951"/>
+    <node lat="51.50815414394145" lng="-0.12955037469101"/>
+    <node lat="51.50821257345048" lng="-0.12921778077316"/>
+    <node lat="51.50843794371193" lng="-0.12948331946563"/>
+    <node lat="51.50828602758408" lng="-0.12957719678116"/>
+  </nodes>
+  <exits>
+    <exit title="Pall Mall End - Trafalgar Square"/>
+    <exit title="Pall Mall End - Trafalgar Square"/>
+    <exit title="Whitecomb Street - Pall Mall End"/>
+    <exit title="Whitecomb Street - Pall Mall End"/>
+  </exits>
+</zone>

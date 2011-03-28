@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ashley Place - Morpeth Terrace">
+  <nodes>
+    <node lat="51.49598915811697" lng="-0.14063996786308"/>
+    <node lat="51.49613443581941" lng="-0.14042539114189"/>
+  </nodes>
+  <zones>
+    <zone title="Ashley Place"/>
+    <zone title="Morpeth Terrace"/>
+  </zones>
+</exit>

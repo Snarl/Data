@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="James St-Wigmore St">
+  <nodes>
+    <node lat="51.5158278011822" lng="-0.15121189469528"/>
+    <node lat="51.51588121345264" lng="-0.15079347008896"/>
+  </nodes>
+  <zones>
+    <zone title="James St"/>
+    <zone title="Wigmore St"/>
+  </zones>
+</exit>

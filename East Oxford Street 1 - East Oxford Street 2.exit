@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="East Oxford Street 1 - East Oxford Street 2">
+  <nodes>
+    <node lat="51.51593045282411" lng="-0.13690499180984"/>
+    <node lat="51.51574684808043" lng="-0.13679502124023"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 1"/>
+    <zone title="East Oxford Street 2"/>
+  </zones>
+</exit>

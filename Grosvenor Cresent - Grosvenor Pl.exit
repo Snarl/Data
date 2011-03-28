@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Grosvenor Cresent - Grosvenor Pl">
+  <nodes>
+    <node lat="51.50229787497122" lng="-0.15225594455433"/>
+    <node lat="51.50197062628038" lng="-0.15196626598072"/>
+  </nodes>
+  <zones>
+    <zone title="Grosvenor Crescent"/>
+    <zone title="Grosvenor Place"/>
+  </zones>
+</exit>

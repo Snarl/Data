@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Edinburgh Gate">
+  <nodes maxlat="51.50236507754434" maxlng="-0.16222370380592" minlat="51.50092583572252" minlng="-0.16298545116615">
+    <node lat="51.5023550597769" lng="-0.16298545116615"/>
+    <node lat="51.50236507754434" lng="-0.16288352722358"/>
+    <node lat="51.50158368507204" lng="-0.16264749283027"/>
+    <node lat="51.50111951824324" lng="-0.16222370380592"/>
+    <node lat="51.50092583572252" lng="-0.16229344124031"/>
+    <node lat="51.5016103995658" lng="-0.16276551002693"/>
+  </nodes>
+  <exits>
+    <exit title="Knightsbridge - North Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Lancelot Place - Park Road"/>
+    <exit title="Park Close - Brompton Road"/>
+    <exit title="Knightsbridge - North Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Knightsbridge - South Park Road"/>
+    <exit title="Lancelot Place - Park Road"/>
+    <exit title="Park Close - Brompton Road"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lees Pl - Park St">
+  <nodes>
+    <node lat="51.51197611065202" lng="-0.1550514769001"/>
+    <node lat="51.51191267813618" lng="-0.1550166081829"/>
+  </nodes>
+  <zones>
+    <zone title="Lees Pl"/>
+    <zone title="Lees Pl 3"/>
+  </zones>
+</exit>

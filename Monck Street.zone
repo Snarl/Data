@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Monck Street">
+  <nodes maxlat="51.49676563701016" maxlng="-0.13066885585022" minlat="51.49495717214356" minlng="-0.13093439454269">
+    <node lat="51.49676563701016" lng="-0.13075736874771"/>
+    <node lat="51.4967656370101" lng="-0.13093439454269"/>
+    <node lat="51.49613944538506" lng="-0.13089147919845"/>
+    <node lat="51.49547483792994" lng="-0.13087538594436"/>
+    <node lat="51.49495717214356" lng="-0.13085124606323"/>
+    <node lat="51.49495717214356" lng="-0.13066885585022"/>
+    <node lat="51.49613276596082" lng="-0.13073054665756"/>
+  </nodes>
+  <exits>
+    <exit title="Horseferry Road - Monck Street"/>
+    <exit title="Medway Street - Monck Street"/>
+    <exit title="Path between Marsham Street and Monck Street to Monck Street"/>
+    <exit title="Great Peter Street - Monck Street"/>
+    <exit title="Medway Street - Monck Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Centre Point">
+  <nodes maxlat="51.51652299035965" maxlng="-0.12995002383423" minlat="51.51629098362393" minlng="-0.13064471596908">
+    <node lat="51.51647959350613" lng="-0.13063935155105"/>
+    <node lat="51.51629098362393" lng="-0.13064471596908"/>
+    <node lat="51.51629932921043" lng="-0.12995002383423"/>
+    <node lat="51.51652299035965" lng="-0.13001976126861"/>
+  </nodes>
+  <exits>
+    <exit title="East Oxford Street 2 - Centre Point"/>
+    <exit title="East Oxford Street 2 - Centre Point"/>
+    <exit title="Centre Point - North Charing Cross Road"/>
+    <exit title="Centre Point - North Charing Cross Road"/>
+    <exit title="Centre Point - North Charing Cross Road"/>
+  </exits>
+</zone>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Cadogan Place Park Upper">
+  <nodes maxlat="51.49849889057092" maxlng="-0.15761700982284" minlat="51.49726992374946" minlng="-0.15921828860473">
+    <node lat="51.49849889057092" lng="-0.1579335104866"/>
+    <node lat="51.49836196927734" lng="-0.15921828860473"/>
+    <node lat="51.49726992374946" lng="-0.15890178794098"/>
+    <node lat="51.4974001690857" lng="-0.15761700982284"/>
+  </nodes>
+  <exits>
+    <exit title="Cadogan Park Upper - Sloane Street Upper"/>
+    <exit title="Cadogan Place - Lowndes Street"/>
+    <exit title="North Cadogan Place - Pont Street"/>
+    <exit title="Cadogan Park Upper - Sloane Street Upper"/>
+    <exit title="North Cadogan Place - Pont Street"/>
+    <exit title="North Cadogan Place - Pont Street"/>
+  </exits>
+</zone>

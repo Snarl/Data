@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Great Chapel Street">
+  <nodes maxlat="51.51597969217954" maxlng="-0.13397333735657" minlat="51.51475620428998" minlng="-0.13467607611847">
+    <node lat="51.51597134653444" lng="-0.13467607611847"/>
+    <node lat="51.51597969217954" lng="-0.13457146996689"/>
+    <node lat="51.51517015748635" lng="-0.13416913861465"/>
+    <node lat="51.51514845842027" lng="-0.13421741837692"/>
+    <node lat="51.51476955767762" lng="-0.13397333735657"/>
+    <node lat="51.51475620428998" lng="-0.13401357049179"/>
+    <node lat="51.51505999289014" lng="-0.13423619384002"/>
+  </nodes>
+  <exits>
+    <exit title="Great Chapel Street - East Oxford Street 1"/>
+    <exit title="Great Chapel Street - East Oxford Street 1"/>
+    <exit title="Hollen St - Great Chapel St"/>
+    <exit title="Hollen St - Great Chapel St"/>
+    <exit title="Fareham St - Great Chapel St"/>
+    <exit title="Fareham St - Great Chapel St"/>
+  </exits>
+</zone>

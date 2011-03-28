@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great George Street - St James Park">
+  <nodes>
+    <node lat="51.50144677304417" lng="-0.12956378573608"/>
+    <node lat="51.50122554237636" lng="-0.1296214532299"/>
+  </nodes>
+  <zones>
+    <zone title="Great George Street"/>
+    <zone title="St James Park"/>
+  </zones>
+</exit>

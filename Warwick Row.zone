@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Warwick Row">
+  <nodes maxlat="51.49869425316582" maxlng="-0.14265162462425" minlat="51.49732836721348" minlng="-0.14387471193504">
+    <node lat="51.49869425316582" lng="-0.14286083692741"/>
+    <node lat="51.49864583003608" lng="-0.14265162462425"/>
+    <node lat="51.49798292891455" lng="-0.1429305743618"/>
+    <node lat="51.49770407342077" lng="-0.14312637561989"/>
+    <node lat="51.49735341439032" lng="-0.14324439281654"/>
+    <node lat="51.49732836721348" lng="-0.14339727873039"/>
+    <node lat="51.49781094039847" lng="-0.1432551216526"/>
+    <node lat="51.49791279775331" lng="-0.14387471193504"/>
+    <node lat="51.49812653047937" lng="-0.14368963951301"/>
+    <node lat="51.49803803189405" lng="-0.14318538421821"/>
+  </nodes>
+  <exits>
+    <exit title="Palace Place - Warwick Row"/>
+    <exit title="Lower Grosvenor Place West - Warwick Row"/>
+    <exit title="Bressenden Place - Warwick Row"/>
+    <exit title="Allington Street - Warwick Row"/>
+    <exit title="Allington Street - Warwick Row"/>
+  </exits>
+</zone>

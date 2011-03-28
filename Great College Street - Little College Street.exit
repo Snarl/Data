@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great College Street - Little College Street">
+  <nodes>
+    <node lat="51.49753208384946" lng="-0.12673271412086"/>
+    <node lat="51.49749367832322" lng="-0.12659055704307"/>
+  </nodes>
+  <zones>
+    <zone title="Great College Street"/>
+    <zone title="Little College Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="New Bond Street">
+  <nodes maxlat="51.51451333882438" maxlng="-0.14146608823967" minlat="51.50950217704774" minlng="-0.14693243021202">
+    <node lat="51.51449664699532" lng="-0.14693243021202"/>
+    <node lat="51.51451333882438" lng="-0.14670176023674"/>
+    <node lat="51.51329815768438" lng="-0.14546794408989"/>
+    <node lat="51.51235670385644" lng="-0.14443261141014"/>
+    <node lat="51.51117485129586" lng="-0.14326316827965"/>
+    <node lat="51.51039694855672" lng="-0.14246386999321"/>
+    <node lat="51.5095956614602" lng="-0.14146608823967"/>
+    <node lat="51.50950217704774" lng="-0.14162702078056"/>
+  </nodes>
+  <exits>
+    <exit title="New Bond Street - West Oxford Street 2"/>
+    <exit title="New Bond Street - West Oxford Street 2"/>
+  </exits>
+</zone>

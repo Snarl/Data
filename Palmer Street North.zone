@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Palmer Street North">
+  <nodes maxlat="51.49956210380284" maxlng="-0.135221905653" minlat="51.4986086777644" minlng="-0.13566983455848">
+    <node lat="51.49954206703346" lng="-0.13566983455848"/>
+    <node lat="51.4994468922587" lng="-0.13561350816917"/>
+    <node lat="51.49918474316722" lng="-0.13555181736183"/>
+    <node lat="51.49891925306008" lng="-0.13546330446434"/>
+    <node lat="51.4986086777644" lng="-0.13538015598488"/>
+    <node lat="51.49861702659042" lng="-0.135221905653"/>
+    <node lat="51.49910626512044" lng="-0.1353667449398"/>
+    <node lat="51.49942351596784" lng="-0.13549549097252"/>
+    <node lat="51.4995220302553" lng="-0.13553304189873"/>
+    <node lat="51.49956210380284" lng="-0.13558400387001"/>
+  </nodes>
+  <exits>
+    <exit title="Petty France - Palmer Street"/>
+    <exit title="Palmer Street North - Caxton Street"/>
+  </exits>
+</zone>

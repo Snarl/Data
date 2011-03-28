@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Warwick House Street">
+  <nodes maxlat="51.50753144764158" maxlng="-0.13005731219482" minlat="51.50717752531988" minlng="-0.13128576392364">
+    <node lat="51.5071908809291" lng="-0.13128576392364"/>
+    <node lat="51.50753144764158" lng="-0.13014850730133"/>
+    <node lat="51.50752143100988" lng="-0.13005731219482"/>
+    <node lat="51.50717752531988" lng="-0.13124821299743"/>
+  </nodes>
+  <exits>
+    <exit title="Warwick House St - Cockspur Street"/>
+    <exit title="Warwick House St - Cockspur Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Wilton Terrace - West Halkin Street">
+  <nodes>
+    <node lat="51.4990090022537" lng="-0.15582395309639"/>
+    <node lat="51.49906410399274" lng="-0.15538407081795"/>
+  </nodes>
+  <zones>
+    <zone title="Wilton Crescent"/>
+    <zone title="West Halkin Street"/>
+  </zones>
+</exit>

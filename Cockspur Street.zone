@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<zone title="Cockspur Street">
+  <nodes maxlat="51.51006224601073" maxlng="-0.12891469115448" minlat="51.50741792568692" minlng="-0.13341543788147">
+    <node lat="51.50741792568692" lng="-0.12895760649872"/>
+    <node lat="51.50758486964" lng="-0.12891469115448"/>
+    <node lat="51.50768169685252" lng="-0.13001976126861"/>
+    <node lat="51.50790206146564" lng="-0.1301967870636"/>
+    <node lat="51.50789204491545" lng="-0.13040063494873"/>
+    <node lat="51.50776182956243" lng="-0.13072250003052"/>
+    <node lat="51.50775849070233" lng="-0.13096389884186"/>
+    <node lat="51.50881021953324" lng="-0.13187048548889"/>
+    <node lat="51.50930769550648" lng="-0.13233182543945"/>
+    <node lat="51.51006224601073" lng="-0.13312575930786"/>
+    <node lat="51.51006224601073" lng="-0.13341543788147"/>
+    <node lat="51.50972837564765" lng="-0.13309893721771"/>
+    <node lat="51.50929434051778" lng="-0.132610775177"/>
+    <node lat="51.50850305044803" lng="-0.13190267199707"/>
+    <node lat="51.50778186271788" lng="-0.13129112834167"/>
+    <node lat="51.50765832478557" lng="-0.130990720932"/>
+    <node lat="51.50761158061574" lng="-0.13018605822754"/>
+    <node lat="51.5075381253948" lng="-0.13015923613739"/>
+    <node lat="51.50746467005544" lng="-0.1291346322937"/>
+  </nodes>
+  <exits>
+    <exit title="Great Windmill St-Orange St"/>
+    <exit title="Great Windmill St-Orange St"/>
+    <exit title="Great Windmill St-Panton St"/>
+    <exit title="Great Windmill St-Panton St"/>
+    <exit title="Great Windmill St-Coventry St"/>
+    <exit title="Great Windmill St-Coventry St"/>
+    <exit title="Pall Mall - Cockspur Street"/>
+    <exit title="Pall Mall - Cockspur Street"/>
+    <exit title="Pall Mall - Cockspur Street"/>
+    <exit title="Cockspur Street - B327"/>
+    <exit title="Cockspur Street - B327"/>
+    <exit title="Suffolk Place - Cockspur Street"/>
+    <exit title="Suffolk Place - Cockspur Street"/>
+    <exit title="Warwick House St - Cockspur Street"/>
+    <exit title="Warwick House St - Cockspur Street"/>
+    <exit title="Cockspur Street - Trafalgar Square"/>
+    <exit title="Cockspur Street - Trafalgar Square"/>
+    <exit title="Cockspur Street - Jermyn St"/>
+    <exit title="Cockspur Street - Jermyn St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Kingly St-Great Marlborough St">
+  <nodes>
+    <node lat="51.51371963562087" lng="-0.14078883046341"/>
+    <node lat="51.51376470431401" lng="-0.14063058013153"/>
+  </nodes>
+  <zones>
+    <zone title="Kingly Street"/>
+    <zone title="Great Marlborough Street"/>
+  </zones>
+</exit>

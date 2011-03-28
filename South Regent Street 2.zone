@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<zone title="South Regent Street 2" status="orange" reason="2 marches colliding">
+  <nodes maxlat="51.50969331911684" maxlng="-0.13303456420135" minlat="51.50788870606387" minlng="-0.13481823319626">
+    <node lat="51.50969331911684" lng="-0.13455805892181"/>
+    <node lat="51.50965158511702" lng="-0.13481823319626"/>
+    <node lat="51.50788870606387" lng="-0.13334033602905"/>
+    <node lat="51.5079855326307" lng="-0.13303456420135"/>
+  </nodes>
+  <exits>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Regent Street - Charles II Street"/>
+    <exit title="Regent Street - Waterloo Place"/>
+    <exit title="South Regent Street 2 - Jermyn St"/>
+    <exit title="South Regent Street 2 - Jermyn St"/>
+    <exit title="South Regent Street - Jermyn St (West)"/>
+    <exit title="South Regent Street - Jermyn St (West)"/>
+    <exit title="South Regent Street - Jermyn St (South)"/>
+    <exit title="South Regent Street - Jermyn St (South)"/>
+    <exit title="South Regent Street - Jermyn St (North)"/>
+    <exit title="South Regent Street - Jermyn St (North)"/>
+    <exit title="South Regent Street 2 - Jermyn St"/>
+    <exit title="South Regent Street - Jermyn St (West)"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="Piccadilly Circus - South Regent Street 2"/>
+    <exit title="B327 - South Regent Street 2"/>
+    <exit title="B327 - South Regent Street 2"/>
+    <exit title="South Regent Street 2 - Charls II St"/>
+    <exit title="South Regent Street 2 - Charls II St"/>
+  </exits>
+</zone>

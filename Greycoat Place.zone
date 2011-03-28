@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Greycoat Place">
+  <nodes maxlat="51.49660867244898" maxlng="-0.13354150170517" minlat="51.49618453146772" minlng="-0.13473240250778">
+    <node lat="51.49660867244898" lng="-0.13363269681167"/>
+    <node lat="51.49643333905728" lng="-0.13354150170517"/>
+    <node lat="51.4963732245963" lng="-0.13380972260666"/>
+    <node lat="51.49639493260524" lng="-0.13390896434021"/>
+    <node lat="51.49618453146772" lng="-0.13463584298324"/>
+    <node lat="51.49625633513966" lng="-0.13469216937256"/>
+    <node lat="51.49637155474904" lng="-0.13473240250778"/>
+    <node lat="51.49637656429068" lng="-0.13452855462265"/>
+    <node lat="51.49640328183668" lng="-0.13443467730713"/>
+  </nodes>
+  <exits>
+    <exit title="Greycoat Place - Greycoat Place Mini Roundabout"/>
+    <exit title="Horseferry - Greycoat Place"/>
+    <exit title="Great Peter Street - Greycoat Place"/>
+    <exit title="Strutton Ground - Greycoat Place"/>
+  </exits>
+</zone>

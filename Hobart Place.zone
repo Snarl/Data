@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Hobart Place">
+  <nodes maxlat="51.49832690406427" maxlng="-0.14680904859733" minlat="51.4972624095974" minlng="-0.1494858931942">
+    <node lat="51.49738430590487" lng="-0.1494858931942"/>
+    <node lat="51.4972624095974" lng="-0.14930484408569"/>
+    <node lat="51.49763477674645" lng="-0.1486946415348"/>
+    <node lat="51.49784851077621" lng="-0.14836204761696"/>
+    <node lat="51.49792782588382" lng="-0.14825341815185"/>
+    <node lat="51.49790528370939" lng="-0.14796508068275"/>
+    <node lat="51.49807059272975" lng="-0.14680904859733"/>
+    <node lat="51.49832690406427" lng="-0.14693645352554"/>
+    <node lat="51.49830686675185" lng="-0.14729050511551"/>
+    <node lat="51.49819833115668" lng="-0.14738706464004"/>
+    <node lat="51.49807142767138" lng="-0.14831242675018"/>
+  </nodes>
+  <exits>
+    <exit title="Grosvenor Place - Hobart Place"/>
+    <exit title="Lower Grosvenor Place - Hobart Place"/>
+    <exit title="Hobart Place - Upper Belgrave Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Edwards Mews">
+  <nodes maxlat="51.5154388912088" maxlng="-0.15207020158005" minlat="51.51502827878222" minlng="-0.15416768902969">
+    <node lat="51.51511507521345" lng="-0.15416768902969"/>
+    <node lat="51.51502827878222" lng="-0.15413550252151"/>
+    <node lat="51.5153687869102" lng="-0.15207020158005"/>
+    <node lat="51.5154388912088" lng="-0.15210775250625"/>
+  </nodes>
+  <exits>
+    <exit title="Suke St-Edwards Mews"/>
+    <exit title="Suke St-Edwards Mews"/>
+  </exits>
+</zone>

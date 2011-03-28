@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Medway Street">
+  <nodes maxlat="51.49547901262806" maxlng="-0.13085526937675" minlat="51.49535210157146" minlng="-0.13294739240837">
+    <node lat="51.49547901262806" lng="-0.13294739240837"/>
+    <node lat="51.49535210157146" lng="-0.132880337183"/>
+    <node lat="51.49535544134068" lng="-0.13198179716301"/>
+    <node lat="51.49535711122518" lng="-0.13085526937675"/>
+    <node lat="51.49547734274802" lng="-0.13086868042183"/>
+    <node lat="51.49547901262804" lng="-0.1318718265934"/>
+  </nodes>
+  <exits>
+    <exit title="Horseferry Road - Medway Street"/>
+    <exit title="Medway Street - Monck Street"/>
+    <exit title="Arneway - Medway Street"/>
+    <exit title="Medway Street - Channel 4"/>
+    <exit title="Horseferry Road - Medway Street"/>
+    <exit title="Medway Street - Monck Street"/>
+  </exits>
+</zone>

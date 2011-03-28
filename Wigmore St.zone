@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Wigmore St">
+  <nodes maxlat="51.51712470018082" maxlng="-0.14455465192032" minlat="51.51535710284991" minlng="-0.15441445225906">
+    <node lat="51.51546893587516" lng="-0.15441445225906"/>
+    <node lat="51.51535710284991" lng="-0.15437153691482"/>
+    <node lat="51.51567590970502" lng="-0.15268710965347"/>
+    <node lat="51.51618332543774" lng="-0.14960256928634"/>
+    <node lat="51.51661896404059" lng="-0.14722613209915"/>
+    <node lat="51.51697448211158" lng="-0.14500794524383"/>
+    <node lat="51.51705626756629" lng="-0.14455465192032"/>
+    <node lat="51.51712470018082" lng="-0.14459488505554"/>
+  </nodes>
+  <exits>
+    <exit title="Marylebone Ln-Wigmore St"/>
+    <exit title="Marylebone Ln-Wigmore St"/>
+    <exit title="James St-Wigmore St"/>
+    <exit title="James St-Wigmore St"/>
+    <exit title="Wigmore St-Duke St"/>
+    <exit title="Wigmore St-Duke St"/>
+    <exit title="Duke St-Wigmore St"/>
+    <exit title="Duke St-Wigmore St"/>
+  </exits>
+</zone>

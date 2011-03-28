@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Denman Street - Sherwood Street">
+  <nodes>
+    <node lat="51.51072747537064" lng="-0.13549012655449"/>
+    <node lat="51.51063733193002" lng="-0.13540966028404"/>
+  </nodes>
+  <zones>
+    <zone title="Denman Street"/>
+    <zone title="Sherwood Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chester Street - Grosvenor Place">
+  <nodes>
+    <node lat="51.49990815412432" lng="-0.14917878026199"/>
+    <node lat="51.49973784259712" lng="-0.14895347470474"/>
+  </nodes>
+  <zones>
+    <zone title="Grosvenor Place"/>
+    <zone title="Chester Street"/>
+  </zones>
+</exit>

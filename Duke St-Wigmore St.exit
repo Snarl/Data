@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Duke St-Wigmore St">
+  <nodes>
+    <node lat="51.5158678603909" lng="-0.15245643967819"/>
+    <node lat="51.51564753430694" lng="-0.15235988015365"/>
+  </nodes>
+  <zones>
+    <zone title="Wigmore St"/>
+    <zone title="Duke St"/>
+  </zones>
+</exit>

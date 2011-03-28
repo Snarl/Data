@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Petty France - Queen Anne's Gate">
+  <nodes>
+    <node lat="51.49981047553301" lng="-0.13405514473152"/>
+    <node lat="51.49962513609033" lng="-0.13395858520698"/>
+  </nodes>
+  <zones>
+    <zone title="Petty France"/>
+    <zone title="St James\'s Park Broadway"/>
+  </zones>
+</exit>

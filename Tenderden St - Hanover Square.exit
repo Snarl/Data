@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Tenderden St - Hanover Square">
+  <nodes>
+    <node lat="51.51418617788836" lng="-0.14463645929527"/>
+    <node lat="51.51408268770642" lng="-0.14457745069694"/>
+  </nodes>
+  <zones>
+    <zone title="Hannover Square"/>
+    <zone title="Tenderden St"/>
+  </zones>
+</exit>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Great Portland St">
+  <nodes maxlat="51.52390068892644" maxlng="-0.14055547827911" minlat="51.51551567198332" minlng="-0.14439640158844">
+    <node lat="51.52390068892642" lng="-0.14439640158844"/>
+    <node lat="51.52390068892644" lng="-0.14401016349029"/>
+    <node lat="51.52317974494995" lng="-0.14396724814605"/>
+    <node lat="51.51904077164487" lng="-0.14210043067169"/>
+    <node lat="51.51555573146654" lng="-0.14055547827911"/>
+    <node lat="51.51551567198332" lng="-0.14089880103302"/>
+    <node lat="51.52317974494995" lng="-0.14437494391632"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford St - Great Portlans St"/>
+    <exit title="Great Portland St-Eastcastle St"/>
+    <exit title="Great Portland St-Eastcastle St"/>
+    <exit title="Great Portland St - Eastcastle St"/>
+    <exit title="Great Portland St - Margaret St"/>
+    <exit title="Great Portland St - Cavendish Pl "/>
+    <exit title="Cavensish St - Great Portland St (East)"/>
+    <exit title="Cavensish St - Great Portland St (East)"/>
+    <exit title="Cavendish St - Great Portalnd Street (North)"/>
+    <exit title="Cavendish St - Great Portalnd Street (North)"/>
+    <exit title="Great Portland St - Cavendish Pl"/>
+    <exit title="Great Portland St - Cavendish Pl"/>
+  </exits>
+</zone>

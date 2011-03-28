@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Headfort Place">
+  <nodes maxlat="51.5011186834068" maxlng="-0.15039918536377" minlat="51.50029719669748" minlng="-0.151702738945">
+    <node lat="51.5011186834068" lng="-0.15164373034668"/>
+    <node lat="51.50037734239414" lng="-0.15039918536377"/>
+    <node lat="51.50029719669748" lng="-0.1504957448883"/>
+    <node lat="51.5010752718781" lng="-0.151702738945"/>
+  </nodes>
+  <exits>
+    <exit title="Headfort Place - Halkin Street"/>
+    <exit title="Headfort Place - Chapel Street"/>
+  </exits>
+</zone>

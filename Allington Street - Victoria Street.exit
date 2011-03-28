@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Allington Street - Victoria Street">
+  <nodes>
+    <node lat="51.49664039937538" lng="-0.14283401483726"/>
+    <node lat="51.49666377709374" lng="-0.14301104063225"/>
+  </nodes>
+  <zones>
+    <zone title="Allington Street"/>
+    <zone title="Victoria Street"/>
+  </zones>
+</exit>

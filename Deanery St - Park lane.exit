@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Deanery St - Park lane">
+  <nodes>
+    <node lat="51.50666917443916" lng="-0.1521882187767"/>
+    <node lat="51.50666249655858" lng="-0.15189854020309"/>
+  </nodes>
+  <zones>
+    <zone title="Deanery St"/>
+    <zone title="Park lane 2"/>
+  </zones>
+</exit>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Noel Street - Hollen Street">
+  <nodes>
+    <node lat="51.51532872726464" lng="-0.13543380016517"/>
+    <node lat="51.51527197603682" lng="-0.13537210935783"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

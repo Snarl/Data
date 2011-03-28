@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<zone title="Vauxhall Bridge Road">
+  <nodes maxlat="51.49647091054682" maxlng="-0.13085661048126" minlat="51.48923991400976" minlng="-0.1428407203598">
+    <node lat="51.48941694517264" lng="-0.13085661048126"/>
+    <node lat="51.48923991400976" lng="-0.13108191603851"/>
+    <node lat="51.4895923055526" lng="-0.13195631617737"/>
+    <node lat="51.49001483779272" lng="-0.132790483181"/>
+    <node lat="51.4908632306235" lng="-0.13427910918426"/>
+    <node lat="51.49152122521598" lng="-0.13565240019989"/>
+    <node lat="51.49247646949938" lng="-0.13755140418243"/>
+    <node lat="51.49340497447904" lng="-0.13969717139435"/>
+    <node lat="51.49363876771646" lng="-0.14030871504974"/>
+    <node lat="51.49399613506214" lng="-0.14083979243469"/>
+    <node lat="51.49444367526348" lng="-0.14153180236053"/>
+    <node lat="51.49502480299754" lng="-0.14204142207336"/>
+    <node lat="51.49563264132106" lng="-0.14239547366333"/>
+    <node lat="51.49647091054682" lng="-0.1428407203598"/>
+    <node lat="51.49645087241848" lng="-0.14243838900757"/>
+    <node lat="51.49559924382136" lng="-0.141977049057"/>
+    <node lat="51.49475427893942" lng="-0.14125821704101"/>
+    <node lat="51.49430006209528" lng="-0.14078078383636"/>
+    <node lat="51.49379240261938" lng="-0.13996539229584"/>
+  </nodes>
+  <exits>
+    <exit title="Regency Street - Vauxhall Bridge Road"/>
+    <exit title="Chapter Street - Vauxhall Bridge Road"/>
+    <exit title="Vauxhal Bridge Road - Bessborough Gardens"/>
+    <exit title="Osbert Street - Vauxhall Bridge Road"/>
+    <exit title="Stanford Street - Vauxhall Bridge Road"/>
+    <exit title="Bloombury Street - Vauxhall Bridge Road"/>
+    <exit title="Udall Street - Vauxhall Bridge Road"/>
+    <exit title="Vauxhall Bridge Road - Vincent Square West"/>
+    <exit title="Rochester Row - Vauxhall Bridge Road"/>
+    <exit title="Francis Street - Vauxhall Bridge Road"/>
+    <exit title="Causton Street - Vauxhall Bridge Road"/>
+    <exit title="Vauxhall Bridge Road - Victoria Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Elizabeth Court">
+  <nodes maxlat="51.49679485907614" maxlng="-0.13125625962448" minlat="51.4962588399189" minlng="-0.1318007480545">
+    <node lat="51.49679485907614" lng="-0.1318007480545"/>
+    <node lat="51.49676647192684" lng="-0.13169882411194"/>
+    <node lat="51.49664123429232" lng="-0.13169614190292"/>
+    <node lat="51.49664624380424" lng="-0.13139037007522"/>
+    <node lat="51.49658612962408" lng="-0.13135818356704"/>
+    <node lat="51.49658445978464" lng="-0.13125625962448"/>
+    <node lat="51.49651265662954" lng="-0.13126698846054"/>
+    <node lat="51.49647925977468" lng="-0.13148692959976"/>
+    <node lat="51.49647758993128" lng="-0.13161835784149"/>
+    <node lat="51.49627386857926" lng="-0.13156203145218"/>
+    <node lat="51.4962588399189" lng="-0.13167736643982"/>
+    <node lat="51.4966646120102" lng="-0.13177929038238"/>
+  </nodes>
+  <exits>
+    <exit title="Great Peter Street - Elizabeth Street"/>
+    <exit title="Channel 4 - Elizabeth Court"/>
+    <exit title="Great Peter Street - Elizabeth Street"/>
+  </exits>
+</zone>

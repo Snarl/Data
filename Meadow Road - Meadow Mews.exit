@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Meadow Road - Meadow Mews">
+  <nodes>
+    <node lat="51.48163527565016" lng="-0.11928019637298"/>
+    <node lat="51.48170543185457" lng="-0.11922118777466"/>
+  </nodes>
+  <zones>
+    <zone title="Meadow Mews"/>
+    <zone title="Meadow Road"/>
+  </zones>
+</exit>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<zone title="Parliament Square">
+  <nodes maxlat="51.50130067744011" maxlng="-0.12598035449219" minlat="51.50001501593312" minlng="-0.12806711310577">
+    <node lat="51.50107026285059" lng="-0.1260018121643"/>
+    <node lat="51.50081647151972" lng="-0.12598035449219"/>
+    <node lat="51.5006161089444" lng="-0.12598035449219"/>
+    <node lat="51.5001085198111" lng="-0.12604472750854"/>
+    <node lat="51.50008180443697" lng="-0.12632367724609"/>
+    <node lat="51.50012187749231" lng="-0.12698886508178"/>
+    <node lat="51.50001501593312" lng="-0.12752530688476"/>
+    <node lat="51.50021538115109" lng="-0.12784717196655"/>
+    <node lat="51.5005893938678" lng="-0.12793300265503"/>
+    <node lat="51.50077639907513" lng="-0.12797591799927"/>
+    <node lat="51.50130067744011" lng="-0.12806711310577"/>
+    <node lat="51.50119715798606" lng="-0.1267206441803"/>
+  </nodes>
+  <exits>
+    <exit title="Parliament Square - Whitehall"/>
+    <exit title="Parliament Square - Bridge Street"/>
+    <exit title="Parliament Square - Broad Sanctuary"/>
+    <exit title="Parliament Square - Broad Sanctuary 2"/>
+    <exit title="Parliament Square - Great George Street"/>
+    <exit title="Parliament Square - Little Sanctuary"/>
+    <exit title="Parliament Square - St Magaret"/>
+    <exit title="Parliament Square - Bridge Street"/>
+  </exits>
+  <title>Parliament Square</title>
+</zone>

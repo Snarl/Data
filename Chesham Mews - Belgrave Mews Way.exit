@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chesham Mews - Belgrave Mews Way">
+  <nodes>
+    <node lat="51.49800630594266" lng="-0.1552137505455"/>
+    <node lat="51.49792281649562" lng="-0.15511182660293"/>
+  </nodes>
+  <zones>
+    <zone title="Chesham Mews"/>
+    <zone title="Belgrave Mews West"/>
+  </zones>
+</exit>

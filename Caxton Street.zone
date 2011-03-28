@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<zone title="Caxton Street">
+  <nodes maxlat="51.49874392855652" maxlng="-0.13379765266609" minlat="51.49839828684562" minlng="-0.13656032795143">
+    <node lat="51.4985802917448" lng="-0.13656032795143"/>
+    <node lat="51.49839828684562" lng="-0.1361767720623"/>
+    <node lat="51.49849012427092" lng="-0.13618481868934"/>
+    <node lat="51.4984884545012" lng="-0.1352755498333"/>
+    <node lat="51.4985235196524" lng="-0.13467205280494"/>
+    <node lat="51.49864374282316" lng="-0.13383788580131"/>
+    <node lat="51.49874392855652" lng="-0.13379765266609"/>
+    <node lat="51.49861368706016" lng="-0.13524872774315"/>
+  </nodes>
+  <exits>
+    <exit title="Palmer Street South - Caxton Street"/>
+    <exit title="Caxton Street - St James\' Park Broadway"/>
+    <exit title="Palmer Street South - Caxton Street"/>
+    <exit title="Palmer Street South - Caxton Street"/>
+    <exit title="Palmer Street North - Caxton Street"/>
+    <exit title="Palmer Street - Caxton Street"/>
+    <exit title="Caxton Street - Vandon Street"/>
+  </exits>
+</zone>

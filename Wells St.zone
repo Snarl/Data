@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Wells St">
+  <nodes maxlat="51.51866357231049" maxlng="-0.13675747031402" minlat="51.51596633913797" minlng="-0.1402657997055">
+    <node lat="51.51854340195501" lng="-0.1402657997055"/>
+    <node lat="51.51866357231049" lng="-0.14005122298431"/>
+    <node lat="51.51735503359091" lng="-0.13787326926422"/>
+    <node lat="51.51681424895771" lng="-0.137293912117"/>
+    <node lat="51.5159730156549" lng="-0.13675747031402"/>
+    <node lat="51.51596633913797" lng="-0.13702569121551"/>
+    <node lat="51.51695445299764" lng="-0.13769087905121"/>
+  </nodes>
+  <exits>
+    <exit title="Wells St - Margaret St"/>
+    <exit title="Well Street 0 East Oxford Street 2"/>
+    <exit title="Well Street 0 East Oxford Street 2"/>
+    <exit title="Eastcastle St - Wells St"/>
+    <exit title="Eastcastle St - Wells St"/>
+  </exits>
+</zone>

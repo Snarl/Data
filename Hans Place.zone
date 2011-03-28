@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Hans Place">
+  <nodes maxlat="51.49837282281172" maxlng="-0.16032469982338" minlat="51.49708373906704" minlng="-0.16165775770378">
+    <node lat="51.49810231862362" lng="-0.16165775770378"/>
+    <node lat="51.49832606911618" lng="-0.16140294784736"/>
+    <node lat="51.49837282281172" lng="-0.1608504127903"/>
+    <node lat="51.49825760826122" lng="-0.16058219188881"/>
+    <node lat="51.49818914730342" lng="-0.16046953911018"/>
+    <node lat="51.49757800346522" lng="-0.16032469982338"/>
+    <node lat="51.49719728676786" lng="-0.16058487409782"/>
+    <node lat="51.49718726786446" lng="-0.16071898454857"/>
+    <node lat="51.49709542781402" lng="-0.16069752687645"/>
+    <node lat="51.49708373906704" lng="-0.16089601034355"/>
+    <node lat="51.4971555413225" lng="-0.16092015022468"/>
+    <node lat="51.49715220168522" lng="-0.16104084963035"/>
+    <node lat="51.49732085306206" lng="-0.16146732086372"/>
+  </nodes>
+  <exits>
+    <exit title="Hans Place - Pont Street"/>
+    <exit title="Hans Place - Pont Street"/>
+    <exit title="Hans Place - Herbert Crescent"/>
+    <exit title="Hans Road - Hans Place"/>
+    <exit title="Hans Road - Hans Place"/>
+    <exit title="Hans Place - Herbert Crescent"/>
+    <exit title="Hans Road - Hans Place"/>
+  </exits>
+</zone>

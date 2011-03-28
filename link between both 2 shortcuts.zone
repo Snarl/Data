@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="link between both 2 shortcuts">
+  <nodes maxlat="51.48368312422886" maxlng="-0.11704323405456" minlat="51.48312857724109" minlng="-0.11748311633301">
+    <node lat="51.48363635546617" lng="-0.11748311633301"/>
+    <node lat="51.48312857724109" lng="-0.11715052241516"/>
+    <node lat="51.48322879707547" lng="-0.11704323405456"/>
+    <node lat="51.48368312422886" lng="-0.11733291262817"/>
+  </nodes>
+  <exits>
+    <exit title="South entrance between both shortcuts"/>
+    <exit title="South entrance between both shortcuts"/>
+    <exit title="North entrance between both shortcuts"/>
+  </exits>
+</zone>

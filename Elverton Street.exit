@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Elverton Street">
+  <nodes>
+    <node lat="51.49428336287174" lng="-0.13456744665336"/>
+    <node lat="51.4942332651302" lng="-0.13444674724769"/>
+  </nodes>
+  <zones>
+    <zone title="Elverton Street"/>
+    <zone title="Vincent Square North"/>
+  </zones>
+</exit>

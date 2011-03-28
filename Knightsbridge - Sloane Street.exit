@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Knightsbridge - Sloane Street">
+  <nodes>
+    <node lat="51.5017456415123" lng="-0.1601852249546"/>
+    <node lat="51.50163043548806" lng="-0.16045076364708"/>
+  </nodes>
+  <zones>
+    <zone title="Knightsbridge"/>
+    <zone title="Sloane Street Upper"/>
+  </zones>
+</exit>

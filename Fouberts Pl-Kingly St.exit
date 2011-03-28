@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fouberts Pl-Kingly St">
+  <nodes>
+    <node lat="51.51336075369544" lng="-0.14017728680801"/>
+    <node lat="51.51328396928839" lng="-0.14008072728348"/>
+  </nodes>
+  <zones>
+    <zone title="Fouberts Place"/>
+    <zone title="Kingly Street"/>
+  </zones>
+</exit>

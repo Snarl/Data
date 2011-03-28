@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Old Pye Street">
+  <nodes maxlat="51.49762851497016" maxlng="-0.13061387056541" minlat="51.49748992125552" minlng="-0.13384861463737">
+    <node lat="51.49757174169222" lng="-0.13384593242836"/>
+    <node lat="51.49750160989836" lng="-0.13384861463737"/>
+    <node lat="51.49748992125552" lng="-0.13335240596962"/>
+    <node lat="51.49748992125552" lng="-0.13325584644508"/>
+    <node lat="51.49750160989836" lng="-0.13244581932258"/>
+    <node lat="51.49749994009238" lng="-0.13221246713829"/>
+    <node lat="51.49751663814896" lng="-0.1315848302288"/>
+    <node lat="51.49754335502676" lng="-0.13061387056541"/>
+    <node lat="51.49762851497016" lng="-0.13071043008995"/>
+    <node lat="51.49758176051112" lng="-0.13228756899071"/>
+    <node lat="51.49756840208542" lng="-0.13312710041237"/>
+  </nodes>
+  <exits>
+    <exit title="Old Pye Street - St Ann\'s Street"/>
+    <exit title="Old Pye Street - St Anne\'s Lane"/>
+    <exit title="Perkin\'s Rents - Old Pye Street"/>
+    <exit title="Perkin\'s Rents - Old Pye Street"/>
+    <exit title="Perkin\'s Rents - Old Pye Street"/>
+    <exit title="St Matthews Street - Old Pye Street"/>
+    <exit title="Old Pye Street - Strutton Ground"/>
+    <exit title="Abbey Orchard Street - Old Pye Street"/>
+  </exits>
+</zone>

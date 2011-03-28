@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<zone title="Great Smith Street">
+  <nodes maxlat="51.49930371229603" maxlng="-0.12923655623626" minlat="51.49697770529175" minlng="-0.13010559195709">
+    <node lat="51.49922523445412" lng="-0.12991247290802"/>
+    <node lat="51.49930371229603" lng="-0.12969521397781"/>
+    <node lat="51.49838701588325" lng="-0.12982664221954"/>
+    <node lat="51.49807309739099" lng="-0.129730082695"/>
+    <node lat="51.49789276025808" lng="-0.12946186179352"/>
+    <node lat="51.49767234723775" lng="-0.12934384459686"/>
+    <node lat="51.49699106389056" lng="-0.12923655623626"/>
+    <node lat="51.49697770529175" lng="-0.12953696364593"/>
+    <node lat="51.49765230963759" lng="-0.12968716735077"/>
+    <node lat="51.49792615607727" lng="-0.12996611708832"/>
+    <node lat="51.49824007558157" lng="-0.13010559195709"/>
+    <node lat="51.49881447588545" lng="-0.13007340544891"/>
+  </nodes>
+  <exits>
+    <exit title="Great Smith Street - Victoria Street"/>
+    <exit title="Dean\'s Yard - Great Smith Street"/>
+    <exit title="Abbey Orchard Street - Great Smith Street"/>
+    <exit title="Abbey Orchard Street - Great Smith Street"/>
+    <exit title="Abbey Orchard Street - Great Smith Street"/>
+    <exit title="Dean\'s Yard - Great Smith Street"/>
+    <exit title="Great Peter Street - Great Smith Street"/>
+    <exit title="Little Smith Street - Great Smith Street"/>
+    <exit title="Department of Trade and Industry to Great Smith Street"/>
+  </exits>
+</zone>

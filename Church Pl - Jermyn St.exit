@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Church Pl - Jermyn St">
+  <nodes>
+    <node lat="51.50863242893168" lng="-0.13636855000686"/>
+    <node lat="51.50867249446822" lng="-0.13625589722824"/>
+  </nodes>
+  <zones>
+    <zone title="Church Pl"/>
+    <zone title="Jermyn St"/>
+  </zones>
+</exit>

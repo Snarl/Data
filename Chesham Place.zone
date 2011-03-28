@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Chesham Place">
+  <nodes maxlat="51.49760138070116" maxlng="-0.15459281915855" minlat="51.49682324621242" minlng="-0.15616191143226">
+    <node lat="51.49747280574688" lng="-0.15616191143226"/>
+    <node lat="51.49684495400704" lng="-0.15600902551841"/>
+    <node lat="51.49682324621242" lng="-0.15571934694481"/>
+    <node lat="51.4975128810962" lng="-0.15459281915855"/>
+    <node lat="51.49760138070116" lng="-0.15466255659294"/>
+  </nodes>
+  <exits>
+    <exit title="Chesham Place - Lowndes Place"/>
+    <exit title="Chesham Place - Lowndes Place"/>
+    <exit title="Chesham Place - Pont Street"/>
+    <exit title="Chesham Place - Lowndes Place"/>
+  </exits>
+</zone>

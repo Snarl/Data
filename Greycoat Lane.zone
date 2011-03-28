@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Greycoat Lane">
+  <nodes maxlat="51.49506738395916" maxlng="-0.13406587356758" minlat="51.49454136397452" minlng="-0.13449770921898">
+    <node lat="51.49501561718232" lng="-0.13429922575187"/>
+    <node lat="51.49506738395916" lng="-0.13449770921898"/>
+    <node lat="51.49454136397452" lng="-0.13428179139328"/>
+    <node lat="51.4947342386737" lng="-0.13406587356758"/>
+  </nodes>
+  <exits>
+    <exit title="Greycoat Lane - Elverton Street"/>
+    <exit title="Greycoat Street - Greycoat Lane"/>
+    <exit title="Rochester Street - Greycoat Lane"/>
+    <exit title="Rochester Street - Greycoat Lane"/>
+  </exits>
+</zone>

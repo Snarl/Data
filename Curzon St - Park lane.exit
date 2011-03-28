@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Curzon St - Park lane">
+  <nodes>
+    <node lat="51.50602308495941" lng="-0.15140367263984"/>
+    <node lat="51.50610405533177" lng="-0.15151230210495"/>
+  </nodes>
+  <zones>
+    <zone title="Park lane 2"/>
+    <zone title="Curzon St"/>
+  </zones>
+</exit>

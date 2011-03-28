@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Channel 4 - Elizabeth Court">
+  <nodes>
+    <node lat="51.49625633514241" lng="-0.13168273085785"/>
+    <node lat="51.49626969395261" lng="-0.13156739587021"/>
+  </nodes>
+  <zones>
+    <zone title="Elizabeth Court"/>
+    <zone title="Channel 4"/>
+  </zones>
+</exit>

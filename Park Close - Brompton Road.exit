@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Park Close - Brompton Road">
+  <nodes>
+    <node lat="51.50093418407728" lng="-0.16233233327102"/>
+    <node lat="51.50111116982898" lng="-0.16220895165634"/>
+  </nodes>
+  <zones>
+    <zone title="Brompton Road"/>
+    <zone title="Edinburgh Gate"/>
+  </zones>
+</exit>

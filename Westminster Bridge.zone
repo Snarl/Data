@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Westminster Bridge">
+  <nodes maxlat="51.50104187836411" maxlng="-0.11984346026611" minlat="51.50068289656743" minlng="-0.12362537497711">
+    <node lat="51.50093668864216" lng="-0.11984346026611"/>
+    <node lat="51.50068289656743" lng="-0.11989174002838"/>
+    <node lat="51.50079810498706" lng="-0.12362537497711"/>
+    <node lat="51.50104187836411" lng="-0.12361464614105"/>
+  </nodes>
+  <exits>
+    <exit title="Westminster Bridge Rd - Westminster Bridge"/>
+    <exit title="Bridge Street - Westminster Bridge"/>
+  </exits>
+</zone>

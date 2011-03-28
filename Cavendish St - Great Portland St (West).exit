@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Cavendish St - Great Portland St (West)">
+  <nodes>
+    <node lat="51.51763543790944" lng="-0.14190999383163"/>
+    <node lat="51.51741512037554" lng="-0.14185634965133"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

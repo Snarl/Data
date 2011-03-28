@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Broad Sanctuary - Storey's Gate">
+  <nodes>
+    <node lat="51.5002880133255" lng="-0.12975019926262"/>
+    <node lat="51.50027465569302" lng="-0.1294417452259"/>
+  </nodes>
+  <zones>
+    <zone title="Storey\'s Gate"/>
+    <zone title="Broad Santuary"/>
+  </zones>
+</exit>

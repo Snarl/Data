@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Old Cavendish St-Oxford St" status="green" reason="">
+  <nodes>
+    <node lat="51.51490183944806" lng="-0.14593062514496"/>
+    <node lat="51.51494523780482" lng="-0.14560071343612"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 2"/>
+    <zone title="Ole Cavendish St"/>
+  </zones>
+</exit>

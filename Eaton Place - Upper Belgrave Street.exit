@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Eaton Place - Upper Belgrave Street">
+  <nodes>
+    <node lat="51.49833358310026" lng="-0.15096513146591"/>
+    <node lat="51.4981565865619" lng="-0.15068081731033"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Belgrave Place"/>
+    <zone title="Eaton Place"/>
+  </zones>
+</exit>

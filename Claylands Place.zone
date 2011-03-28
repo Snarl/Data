@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Claylands Place">
+  <nodes maxlat="51.48134796816322" maxlng="-0.11384067649078" minlat="51.48073325769353" minlng="-0.11459169501495">
+    <node lat="51.48073325769353" lng="-0.11450586432647"/>
+    <node lat="51.48130119700565" lng="-0.11384067649078"/>
+    <node lat="51.48134796816322" lng="-0.11392650717926"/>
+    <node lat="51.48078002943355" lng="-0.11459169501495"/>
+  </nodes>
+  <exits>
+    <exit title="Claylands Road - Claylands Place"/>
+    <exit title="Claylands Road - Claylands Place"/>
+    <exit title="Claylands Road - Claylands place (north)"/>
+    <exit title="Claylands Place - Elias Place"/>
+  </exits>
+</zone>

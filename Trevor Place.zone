@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Trevor Place">
+  <nodes maxlat="51.5015210729165" maxlng="-0.165210343544" minlat="51.49992652101734" minlng="-0.16564486140442">
+    <node lat="51.5015210729165" lng="-0.16564486140442"/>
+    <node lat="51.50149936734898" lng="-0.16543564910125"/>
+    <node lat="51.50076805064734" lng="-0.16543296689224"/>
+    <node lat="51.50002670393096" lng="-0.165210343544"/>
+    <node lat="51.49992652101734" lng="-0.16540078038406"/>
+    <node lat="51.50077639907776" lng="-0.16563949698639"/>
+  </nodes>
+  <exits>
+    <exit title="Knightsbridge - Trevor Place"/>
+    <exit title="Knightsbridge - Trevor Place"/>
+    <exit title="Trevor Place - Trevor Square"/>
+    <exit title="Trevor Place - Trevor Square"/>
+  </exits>
+</zone>

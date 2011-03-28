@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Whitehall - Derby Gate">
+  <nodes>
+    <node lat="51.50204450789399" lng="-0.12604070419502"/>
+    <node lat="51.50198106155012" lng="-0.12604606861305"/>
+  </nodes>
+  <zones>
+    <zone title="Derby Gate"/>
+    <zone title="Whitehall"/>
+  </zones>
+</exit>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Ponsonby Place">
+  <nodes maxlat="51.49028455494516" maxlng="-0.12835679167938" minlat="51.48935932661826" minlng="-0.13105777615738">
+    <node lat="51.49028455494516" lng="-0.13105777615738"/>
+    <node lat="51.49014760897598" lng="-0.13098267430496"/>
+    <node lat="51.48935932661826" lng="-0.12852040642929"/>
+    <node lat="51.4894311410414" lng="-0.12835679167938"/>
+  </nodes>
+  <exits>
+    <exit title="John Islip Street - Ponsonby Place (SE)"/>
+    <exit title="John Islip Street - Ponsonby Place (NE)"/>
+    <exit title="John Islip Street - Ponsonby Place (NW)"/>
+    <exit title="John Islip Street - Ponsonby Place (SW)"/>
+    <exit title="John Islip Street - Ponsonby Place (SE)"/>
+    <exit title="John Islip Street - Ponsonby Place (NE)"/>
+    <exit title="John Islip Street - Ponsonby Place (NW)"/>
+    <exit title="John Islip Street - Ponsonby Place (SW)"/>
+    <exit title="Ponsonby Place - Milbank"/>
+    <exit title="Ponsonby Place - Causton Street"/>
+    <exit title="Ponsonby Place - Milbank"/>
+    <exit title="Ponsonby Place - Milbank"/>
+    <exit title="Ponsonby Place - Milbank"/>
+  </exits>
+</zone>

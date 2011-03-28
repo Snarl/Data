@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stanford Street - Vauxhall Bridge Road">
+  <nodes>
+    <node lat="51.49170409259564" lng="-0.13560680264663"/>
+    <node lat="51.49165065197917" lng="-0.13549683207702"/>
+  </nodes>
+  <zones>
+    <zone title="Vauxhall Bridge Road"/>
+    <zone title="Stanford Street"/>
+  </zones>
+</exit>

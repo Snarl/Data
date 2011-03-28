@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Eagle Pl">
+  <nodes maxlat="51.5093773917468" maxlng="-0.1353030424757" minlat="51.50896505529506" minlng="-0.1356899511261">
+    <node lat="51.5093460910337" lng="-0.1356899511261"/>
+    <node lat="51.5093773917468" lng="-0.13562893087101"/>
+    <node lat="51.50926387439144" lng="-0.13555248791408"/>
+    <node lat="51.5091662158521" lng="-0.13546665722561"/>
+    <node lat="51.50908107746746" lng="-0.1353928964777"/>
+    <node lat="51.50898926138422" lng="-0.1353030424757"/>
+    <node lat="51.50896505529506" lng="-0.13538484985065"/>
+  </nodes>
+  <exits>
+    <exit title="Piccadily - Eagle St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+  </exits>
+</zone>

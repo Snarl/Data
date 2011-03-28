@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Tower Gardens - Lambeth Bridge Roundabout">
+  <nodes>
+    <node lat="51.49482858972954" lng="-0.12473580950927"/>
+    <node lat="51.49495216244518" lng="-0.1249021064682"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Tower Gardens"/>
+    <zone title="Lambeth Bridge Roundabout"/>
+  </zones>
+</exit>

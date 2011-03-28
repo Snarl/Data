@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marsham Street - Horseferry Road (S)">
+  <nodes>
+    <node lat="51.49476179352374" lng="-0.12917218321991"/>
+    <node lat="51.49476262847684" lng="-0.1289549242897"/>
+  </nodes>
+  <zones>
+    <zone title="Marsham Street"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

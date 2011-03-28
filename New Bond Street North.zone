@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<zone title="New Bond Street North" status="orange" reason="Crammed, scuffles between protesters and police.">
+  <nodes maxlat="51.51456758762238" maxlng="-0.14315990323257" minlat="51.51102628331069" minlng="-0.1470008265419">
+    <node lat="51.51453754236152" lng="-0.1470008265419"/>
+    <node lat="51.51456758762238" lng="-0.14675138110351"/>
+    <node lat="51.51324557739544" lng="-0.14530298823547"/>
+    <node lat="51.51229076837046" lng="-0.14439908379745"/>
+    <node lat="51.51110807944563" lng="-0.14315990323257"/>
+    <node lat="51.51102628331069" lng="-0.1433637511177"/>
+    <node lat="51.51312706168645" lng="-0.14544782752228"/>
+  </nodes>
+  <exits>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="New Bond Street - West Oxford Street 2"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (West)"/>
+    <exit title="New Bond Street - Brook St (West)"/>
+    <exit title="New Bond Street - Brook St (North)"/>
+    <exit title="New Bond Street - Brook St (North)"/>
+    <exit title="New Bond Street - Brook St (North)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (East)"/>
+    <exit title="New Bond Street - Brook St (South)"/>
+    <exit title="New Bond Street - Brook St (South)"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="Bruton St - New Bond St"/>
+    <exit title="New Bond Street North - Conduit Street"/>
+    <exit title="New Bond Street North - New Bond Street South"/>
+    <exit title="Bruton St - New Bond St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Trafalga Sq - The Mall">
+  <nodes>
+    <node lat="51.50710406940004" lng="-0.12843457574081"/>
+    <node lat="51.50699555475502" lng="-0.12798932904434"/>
+  </nodes>
+  <zones>
+    <zone title="Trafalga Sq"/>
+    <zone title="The Mall"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Matthews Street - Old Pye Street">
+  <nodes>
+    <node lat="51.49748532929611" lng="-0.13335508817863"/>
+    <node lat="51.49748783400577" lng="-0.13325584644508"/>
+  </nodes>
+  <zones>
+    <zone title="Old Pye Street"/>
+    <zone title="St Matthews Street"/>
+  </zones>
+</exit>

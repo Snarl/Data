@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Lowndes Street">
+  <nodes maxlat="51.49902069067322" maxlng="-0.1556281518383" minlat="51.49754126794259" minlng="-0.15796703809929">
+    <node lat="51.49887041290308" lng="-0.15793485159111"/>
+    <node lat="51.49880696214024" lng="-0.15783292764854"/>
+    <node lat="51.49875352985042" lng="-0.15781146997642"/>
+    <node lat="51.49863330696924" lng="-0.15779537672233"/>
+    <node lat="51.49855482797295" lng="-0.15795630926323"/>
+    <node lat="51.49839286025557" lng="-0.15788657182884"/>
+    <node lat="51.49846299067808" lng="-0.15731794351768"/>
+    <node lat="51.49774164403591" lng="-0.15621287340355"/>
+    <node lat="51.49754126794259" lng="-0.15614850038719"/>
+    <node lat="51.49756464519886" lng="-0.1556281518383"/>
+    <node lat="51.4989939746614" lng="-0.15775782579612"/>
+    <node lat="51.49902069067322" lng="-0.15796703809929"/>
+  </nodes>
+  <exits>
+    <exit title="Lowndes Square - Lowndes Street"/>
+    <exit title="Harriet Walk - Lowndes Street"/>
+    <exit title="Cadogan Place - Lowndes Street"/>
+    <exit title="Lowndes Street - Pont Street"/>
+    <exit title="West Halkin Street - Lowndes Street"/>
+    <exit title="West Halkin Street - Lowndes Street"/>
+    <exit title="Lowndes Street - Motcomb Street"/>
+    <exit title="Lowndes Street - West Halkin Street"/>
+  </exits>
+</zone>

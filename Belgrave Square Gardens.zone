@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<zone title="Belgrave Square Gardens">
+  <nodes maxlat="51.50023374791874" maxlng="-0.1516303193016" minlat="51.49801298509174" minlng="-0.15536931866836">
+    <node lat="51.49897811185552" lng="-0.15517083520126"/>
+    <node lat="51.49905825987188" lng="-0.15536931866836"/>
+    <node lat="51.49932875838644" lng="-0.15535322541427"/>
+    <node lat="51.49946233730766" lng="-0.15517619961929"/>
+    <node lat="51.500230408507" lng="-0.15384045952987"/>
+    <node lat="51.50023374791874" lng="-0.15313772076797"/>
+    <node lat="51.49945231890214" lng="-0.15187171811294"/>
+    <node lat="51.49936883210392" lng="-0.15164104813766"/>
+    <node lat="51.49909833382718" lng="-0.1516303193016"/>
+    <node lat="51.4989647538391" lng="-0.1519360911293"/>
+    <node lat="51.49811651177848" lng="-0.1531967293663"/>
+    <node lat="51.49801298509174" lng="-0.15338984841537"/>
+    <node lat="51.49802968296036" lng="-0.15386191720199"/>
+  </nodes>
+  <exits>
+    <exit title="Belgrave Square - Belgrave Place"/>
+    <exit title="Belgrave Square - Upper Belgrave Street"/>
+    <exit title="Belgrave Square - Belgrave Place"/>
+    <exit title="Belgrave Square - Upper Belgrave Street"/>
+    <exit title="Belgrave Square - Belgrave Place"/>
+    <exit title="Belgrave Square - Upper Belgrave Street"/>
+    <exit title="West Halkin Street - Belgrave Square"/>
+    <exit title="Wilton Terrace - Belgrave Square"/>
+    <exit title="Grosvenor Crescent - Grosvenor Square"/>
+    <exit title="Halkin Street - Grosvenor Square"/>
+    <exit title="Lowndes Place - Belgrave Square"/>
+  </exits>
+</zone>

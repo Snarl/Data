@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lower Grosvenor Place West - Warwick Row">
+  <nodes>
+    <node lat="51.49812820026231" lng="-0.14369500393104"/>
+    <node lat="51.49790778838057" lng="-0.1438854407711"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Palace Road"/>
+    <zone title="Warwick Row"/>
+  </zones>
+</exit>

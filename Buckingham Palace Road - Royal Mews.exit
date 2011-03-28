@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Buckingham Palace Road - Royal Mews">
+  <nodes>
+    <node lat="51.49944397022916" lng="-0.14309821242523"/>
+    <node lat="51.49825510358778" lng="-0.14403698558044"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Palace Road"/>
+    <zone title="Royal Mews"/>
+  </zones>
+</exit>

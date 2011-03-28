@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Picadilly Circus-Picadilly Pl" status="red" reason="">
+  <nodes>
+    <node lat="51.50974006115106" lng="-0.13512668723297"/>
+    <node lat="51.50954641526904" lng="-0.13497111911011"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadilly Circus"/>
+    <zone title="Piccadilly Place 2"/>
+  </zones>
+</exit>

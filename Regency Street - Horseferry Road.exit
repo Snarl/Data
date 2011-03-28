@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regency Street - Horseferry Road">
+  <nodes>
+    <node lat="51.49487785186428" lng="-0.13255042547416"/>
+    <node lat="51.49481105573448" lng="-0.13194156402778"/>
+  </nodes>
+  <zones>
+    <zone title="Regency Street"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

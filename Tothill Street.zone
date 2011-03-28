@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Tothill Street">
+  <nodes maxlat="51.49981131039193" maxlng="-0.12993124837112" minlat="51.49952411742633" minlng="-0.13301578873825">
+    <node lat="51.49976789761787" lng="-0.12997148150635"/>
+    <node lat="51.49981131039193" lng="-0.13165054434967"/>
+    <node lat="51.49980797094923" lng="-0.1321065198822"/>
+    <node lat="51.49976622789498" lng="-0.13288704270553"/>
+    <node lat="51.49975453983292" lng="-0.13301578873825"/>
+    <node lat="51.49952411742633" lng="-0.13290313595962"/>
+    <node lat="51.4996426682303" lng="-0.13270197028351"/>
+    <node lat="51.49963098013657" lng="-0.13168004864883"/>
+    <node lat="51.49963431959222" lng="-0.13093707675171"/>
+    <node lat="51.49963264986442" lng="-0.13034967297745"/>
+    <node lat="51.4996025947536" lng="-0.12993124837112"/>
+  </nodes>
+  <exits>
+    <exit title="Broad Sanctuary - Tothill Street"/>
+    <exit title="Tothill Street - Old Queen Street"/>
+    <exit title="Tothill Street - Old Queen Street"/>
+    <exit title="Carteret Street - Tothill Street"/>
+    <exit title="Tothill Street - St James Park Broadway"/>
+    <exit title="Dean Farrar Street - Tothill Street"/>
+  </exits>
+</zone>

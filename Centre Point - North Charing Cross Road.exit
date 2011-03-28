@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Centre Point - North Charing Cross Road">
+  <nodes>
+    <node lat="51.51628597627003" lng="-0.13063666934204"/>
+    <node lat="51.51630266744338" lng="-0.13023970240783"/>
+  </nodes>
+  <zones>
+    <zone title="Centre Point"/>
+    <zone title="North Charing Cross Road"/>
+  </zones>
+</exit>

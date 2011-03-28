@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Waterloo Place">
+  <nodes maxlat="51.50798678470404" maxlng="-0.13161433452797" minlat="51.50633820090523" minlng="-0.1333483826561">
+    <node lat="51.50798678470404" lng="-0.13303590530586"/>
+    <node lat="51.5078824457254" lng="-0.1333483826561"/>
+    <node lat="51.50757026207449" lng="-0.13308418506813"/>
+    <node lat="51.50752017893672" lng="-0.13319683784675"/>
+    <node lat="51.50674555272904" lng="-0.13251019233894"/>
+    <node lat="51.50633820090523" lng="-0.13207567447853"/>
+    <node lat="51.50648845405103" lng="-0.13161433452797"/>
+    <node lat="51.50690248237795" lng="-0.13194156402778"/>
+    <node lat="51.50721300115423" lng="-0.13217759842109"/>
+    <node lat="51.50775056091457" lng="-0.13263357395363"/>
+    <node lat="51.50771049456733" lng="-0.13278914207649"/>
+  </nodes>
+  <exits>
+    <exit title="Pall Mall - Waterloo Place (West)"/>
+    <exit title="Regent Street - Waterloo Place"/>
+    <exit title="The Mall - Waterloo"/>
+    <exit title="The Mall - Waterloo"/>
+    <exit title="Waterloo Place - Pall Mall (East)"/>
+    <exit title="Waterloo Place - Pall Mall (East)"/>
+    <exit title="Waterloo Place - Pall Mall (East)"/>
+    <exit title="Waterloo Place - Pall Mall (East)"/>
+  </exits>
+</zone>

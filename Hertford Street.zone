@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Hertford Street">
+  <nodes maxlat="51.50669672071782" maxlng="-0.14761102909279" minlat="51.50611407230658" minlng="-0.14790607208442">
+    <node lat="51.50668503443322" lng="-0.14790607208442"/>
+    <node lat="51.50669672071782" lng="-0.1477934193058"/>
+    <node lat="51.50612742822752" lng="-0.14761102909279"/>
+    <node lat="51.50611407230658" lng="-0.14769685978126"/>
+  </nodes>
+  <exits>
+    <exit title="Curzon St - Hertford St"/>
+    <exit title="Curzon St - Hertford St"/>
+  </exits>
+</zone>

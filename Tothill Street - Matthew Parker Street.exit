@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Tothill Street - Matthew Parker Street">
+  <nodes>
+    <node lat="51.49979127373282" lng="-0.1307023834629"/>
+    <node lat="51.4997862645665" lng="-0.13047976011467"/>
+  </nodes>
+  <zones>
+    <zone title="Matthew Parker Street"/>
+    <zone title="Tothill Street"/>
+  </zones>
+</exit>

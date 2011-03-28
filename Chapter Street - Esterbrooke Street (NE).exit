@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chapter Street - Esterbrooke Street (NE)">
+  <nodes>
+    <node lat="51.4920226474698" lng="-0.13286558503341"/>
+    <node lat="51.4919892473252" lng="-0.13273818010521"/>
+  </nodes>
+  <zones>
+    <zone title="Chapter Street"/>
+    <zone title="Esterbrooke Street"/>
+  </zones>
+</exit>

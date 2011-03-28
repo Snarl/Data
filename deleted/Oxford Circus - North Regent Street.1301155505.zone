@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxford Circus - North Regent Street">
+  <nodes>
+    <node lat="51.51547185685952" lng="-0.14221107179355"/>
+    <node lat="51.51550523979676" lng="-0.1418945711298"/>
+  </nodes>
+  <zones>
+    <zone title="Oxford Circus"/>
+    <zone title="North Regent Street"/>
+  </zones>
+</exit>

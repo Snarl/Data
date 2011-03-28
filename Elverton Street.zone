@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Elverton Street">
+  <nodes maxlat="51.49516173293306" maxlng="-0.13282535189819" minlat="51.4942349336613" minlng="-0.13456610554886">
+    <node lat="51.49516173293306" lng="-0.13291118258667"/>
+    <node lat="51.49506654901126" lng="-0.13282535189819"/>
+    <node lat="51.49464406359086" lng="-0.1339974772377"/>
+    <node lat="51.4942349336613" lng="-0.13444540614319"/>
+    <node lat="51.49428503140102" lng="-0.13456610554886"/>
+    <node lat="51.49453217944432" lng="-0.13428715581131"/>
+    <node lat="51.49472922895122" lng="-0.13406453246307"/>
+  </nodes>
+  <exits>
+    <exit title="Elverton Street"/>
+    <exit title="Elverton Street"/>
+    <exit title="Greycoat Lane - Elverton Street"/>
+    <exit title="Elverton Street - Horseferry Road"/>
+  </exits>
+</zone>

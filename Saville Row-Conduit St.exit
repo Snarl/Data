@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Saville Row-Conduit St">
+  <nodes>
+    <node lat="51.51209880224215" lng="-0.1418134343071"/>
+    <node lat="51.51222566666718" lng="-0.14164445513916"/>
+  </nodes>
+  <zones>
+    <zone title="Savile Row"/>
+    <zone title="Conduit Street"/>
+  </zones>
+</exit>

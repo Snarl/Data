@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Knightsbridge - Willton Pl">
+  <nodes>
+    <node lat="51.50226865643364" lng="-0.15646701270771"/>
+    <node lat="51.5022494556702" lng="-0.15672048145962"/>
+  </nodes>
+  <zones>
+    <zone title="Knightsbridge"/>
+    <zone title="Wilton Place"/>
+  </zones>
+</exit>

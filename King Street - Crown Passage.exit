@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="King Street - Crown Passage">
+  <nodes>
+    <node lat="51.50612492403032" lng="-0.1381213735981"/>
+    <node lat="51.50615163586194" lng="-0.13801944965553"/>
+  </nodes>
+  <zones>
+    <zone title="King Street"/>
+    <zone title="Crown Passage"/>
+  </zones>
+</exit>

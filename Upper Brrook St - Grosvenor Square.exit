@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Brrook St - Grosvenor Square">
+  <nodes>
+    <node lat="51.51185133208344" lng="-0.15314777905178"/>
+    <node lat="51.51153750633564" lng="-0.153008304183"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Brook St"/>
+    <zone title="Grosvenor Square"/>
+  </zones>
+</exit>

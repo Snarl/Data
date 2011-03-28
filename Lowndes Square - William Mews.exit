@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lowndes Square - William Mews">
+  <nodes>
+    <node lat="51.5013833258682" lng="-0.15840960258674"/>
+    <node lat="51.50146680897622" lng="-0.1583291363163"/>
+  </nodes>
+  <zones>
+    <zone title="Williams Mews"/>
+    <zone title="Lowndes Square"/>
+  </zones>
+</exit>

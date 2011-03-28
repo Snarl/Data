@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Broad Sanctuary - Victoria Street">
+  <nodes>
+    <node lat="51.49947402544532" lng="-0.12990040296745"/>
+    <node lat="51.4993295932566" lng="-0.12961877102089"/>
+  </nodes>
+  <zones>
+    <zone title="Broad Santuary"/>
+    <zone title="Victoria Street"/>
+  </zones>
+</exit>

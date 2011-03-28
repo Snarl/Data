@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Dean Trench Street">
+  <nodes maxlat="51.49597830401444" maxlng="-0.1276044320507" minlat="51.49582634634578" minlng="-0.12827498430443">
+    <node lat="51.49597830401444" lng="-0.12762857193184"/>
+    <node lat="51.49586976287422" lng="-0.1276044320507"/>
+    <node lat="51.49582634634578" lng="-0.12825084442329"/>
+    <node lat="51.49593822731582" lng="-0.12827498430443"/>
+    <node lat="51.4959716245671" lng="-0.12790752166939"/>
+  </nodes>
+  <exits>
+    <exit title="Dean Trench Street - Tufton Street"/>
+    <exit title="Dean Trench Street - Smith Square"/>
+    <exit title="Dean Trench Street - Smith Square"/>
+    <exit title="Dean Trench Street - Smith Square"/>
+    <exit title="Dean Trench Street - Smith Square"/>
+  </exits>
+</zone>

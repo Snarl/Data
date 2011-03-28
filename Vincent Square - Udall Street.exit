@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vincent Square - Udall Street">
+  <nodes>
+    <node lat="51.49278374663383" lng="-0.13655228132438"/>
+    <node lat="51.49273448223448" lng="-0.13646108621788"/>
+  </nodes>
+  <zones>
+    <zone title="Udall Street"/>
+    <zone title="Vincent Square South"/>
+  </zones>
+</exit>

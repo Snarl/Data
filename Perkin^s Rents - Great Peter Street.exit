@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Perkin's Rents - Great Peter Street">
+  <nodes>
+    <node lat="51.49685998247052" lng="-0.13225270027351"/>
+    <node lat="51.49688502990477" lng="-0.13206762785148"/>
+  </nodes>
+  <zones>
+    <zone title="Perkin\'s Rents"/>
+    <zone title="Great Peter Street"/>
+  </zones>
+</exit>

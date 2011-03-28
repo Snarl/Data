@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stratford Pl-Oxford St" status="green" reason="">
+  <nodes>
+    <node lat="51.51446242876344" lng="-0.14926729315948"/>
+    <node lat="51.51451918099986" lng="-0.1489454280777"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 2"/>
+    <zone title="Stratford Pl"/>
+  </zones>
+</exit>

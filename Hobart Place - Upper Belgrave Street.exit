@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hobart Place - Upper Belgrave Street">
+  <nodes>
+    <node lat="51.49758384777058" lng="-0.14916805142593"/>
+    <node lat="51.49739015022394" lng="-0.14906612748337"/>
+  </nodes>
+  <zones>
+    <zone title="Hobart Place"/>
+    <zone title="Upper Belgrave Place"/>
+  </zones>
+</exit>

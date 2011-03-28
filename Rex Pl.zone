@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Rex Pl">
+  <nodes maxlat="51.50918833509372" maxlng="-0.15260664338302" minlat="51.50824679633094" minlng="-0.15314844960403">
+    <node lat="51.50917164131346" lng="-0.15314844960403"/>
+    <node lat="51.50918833509372" lng="-0.15303579682541"/>
+    <node lat="51.50869419660894" lng="-0.15280512685013"/>
+    <node lat="51.5082534739793" lng="-0.15260664338302"/>
+    <node lat="51.50824679633094" lng="-0.1526924740715"/>
+  </nodes>
+  <exits>
+    <exit title="Rex Pl - South St"/>
+    <exit title="Rex Pl - South St"/>
+    <exit title="Rex Pl - Mount St"/>
+    <exit title="Rex Pl - Mount St"/>
+    <exit title="Rex Pl-Aldford St"/>
+    <exit title="Rex Pl-Aldford St"/>
+    <exit title="Aldford St-Rex Pl"/>
+    <exit title="Aldford St-Rex Pl"/>
+  </exits>
+</zone>

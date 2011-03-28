@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Westminster Bridge Rd - Belvedere Road">
+  <nodes>
+    <node lat="51.50090496470998" lng="-0.11873839015198"/>
+    <node lat="51.50089661630314" lng="-0.11835349315834"/>
+  </nodes>
+  <zones>
+    <zone title="Wesminster Bridge Rd"/>
+    <zone title="Belvedere Road"/>
+  </zones>
+</exit>

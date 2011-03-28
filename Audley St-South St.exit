@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Audley St-South St">
+  <nodes>
+    <node lat="51.50830856177201" lng="-0.15138355607223"/>
+    <node lat="51.50834361936759" lng="-0.15111533517074"/>
+  </nodes>
+  <zones>
+    <zone title="South St"/>
+    <zone title="St Audley Street"/>
+  </zones>
+</exit>

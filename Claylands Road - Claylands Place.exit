@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Claylands Road - Claylands Place">
+  <nodes>
+    <node lat="51.48078002943355" lng="-0.11459705943298"/>
+    <node lat="51.48072991685311" lng="-0.11451659316253"/>
+  </nodes>
+  <zones>
+    <zone title="Claylands Place"/>
+    <zone title="Claylands Road"/>
+  </zones>
+</exit>

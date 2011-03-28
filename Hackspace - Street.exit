@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hackspace - Street">
+  <nodes>
+    <node lat="51.53061309734564" lng="-0.0762025784893"/>
+    <node lat="51.53061977171544" lng="-0.076328642313"/>
+  </nodes>
+  <zones>
+    <zone title="Cremer Street"/>
+    <zone title="Cremer Business Space"/>
+  </zones>
+</exit>

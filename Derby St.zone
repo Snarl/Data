@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Derby St">
+  <nodes maxlat="51.50640038900419" maxlng="-0.14971656316948" minlat="51.50590538553338" minlng="-0.149990148489">
+    <node lat="51.50638703316323" lng="-0.149990148489"/>
+    <node lat="51.50640038900419" lng="-0.14990700000953"/>
+    <node lat="51.5059320974937" lng="-0.14971656316948"/>
+    <node lat="51.50590538553338" lng="-0.14981312269401"/>
+  </nodes>
+  <exits>
+    <exit title="Derby St - Curzon St"/>
+    <exit title="Derby St - Curzon St"/>
+    <exit title="Pitt\'s Head Mews - Derby St"/>
+    <exit title="Pitt\'s Head Mews - Derby St"/>
+    <exit title="Derby St - Curzon St"/>
+    <exit title="Derby St - Curzon St"/>
+  </exits>
+</zone>

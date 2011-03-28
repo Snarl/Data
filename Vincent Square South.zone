@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Vincent Square South">
+  <nodes maxlat="51.49313443942296" maxlng="-0.1344293128891" minlat="51.49174667664656" minlng="-0.13704983109665">
+    <node lat="51.49182349735122" lng="-0.1344293128891"/>
+    <node lat="51.49174667664656" lng="-0.13455805892181"/>
+    <node lat="51.49202890859966" lng="-0.13506231421661"/>
+    <node lat="51.49243137836238" lng="-0.13586965913009"/>
+    <node lat="51.49304426117576" lng="-0.13704983109665"/>
+    <node lat="51.49313443942296" lng="-0.13695863599014"/>
+  </nodes>
+  <exits>
+    <exit title="Douglas Street - Vincent Square"/>
+    <exit title="Osbert Street - Vincent Square"/>
+    <exit title="Vincent Square East - South"/>
+    <exit title="Vincent Square - Stanford Street"/>
+    <exit title="Vincent Square - Bloombury Street"/>
+    <exit title="Vincent Square - Udall Street"/>
+    <exit title="Vincent Square West - South"/>
+  </exits>
+</zone>

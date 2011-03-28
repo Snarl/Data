@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Heddon St - Regent St">
+  <nodes>
+    <node lat="51.51099206207442" lng="-0.13907758111191"/>
+    <node lat="51.51090191915728" lng="-0.13901320809555"/>
+  </nodes>
+  <zones>
+    <zone title="Heddon Street"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

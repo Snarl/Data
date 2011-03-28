@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="blah">
+  <nodes maxlat="51.50152107291405" maxlng="-0.1694965135498" minlat="51.50109697764547" minlng="-0.17011342162323">
+    <node lat="51.50152107291405" lng="-0.17011342162323"/>
+    <node lat="51.50130067744023" lng="-0.16989348048401"/>
+    <node lat="51.50119715798617" lng="-0.1694965135498"/>
+    <node lat="51.50109697764547" lng="-0.17000613326263"/>
+  </nodes>
+  <exits>
+    <exit title="Ennismore Gardens - blah"/>
+    <exit title="Ennismore Gardens - blah"/>
+  </exits>
+</zone>

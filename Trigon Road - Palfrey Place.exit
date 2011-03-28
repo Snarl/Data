@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Trigon Road - Palfrey Place">
+  <nodes>
+    <node lat="51.48010768107196" lng="-0.11545536631775"/>
+    <node lat="51.48000411348493" lng="-0.11550364608001"/>
+  </nodes>
+  <zones>
+    <zone title="Palfrey Place"/>
+    <zone title="Trigon Road"/>
+  </zones>
+</exit>

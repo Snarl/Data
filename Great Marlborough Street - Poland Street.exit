@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Marlborough Street - Poland Street">
+  <nodes>
+    <node lat="51.51485468542374" lng="-0.13729122990799"/>
+    <node lat="51.51474952758667" lng="-0.13723222130966"/>
+  </nodes>
+  <zones>
+    <zone title="Great Marlborough Street"/>
+    <zone title="Poland Street"/>
+  </zones>
+</exit>

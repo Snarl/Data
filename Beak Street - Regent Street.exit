@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Beak Street - Regent Street">
+  <nodes>
+    <node lat="51.51164308894788" lng="-0.13911513203811"/>
+    <node lat="51.51171319898042" lng="-0.13916341180038"/>
+  </nodes>
+  <zones>
+    <zone title="Beak Street"/>
+    <zone title="Regent Street South 1"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Headfort Place - Chapel Street">
+  <nodes>
+    <node lat="51.50030721491516" lng="-0.15050915593338"/>
+    <node lat="51.50038569089402" lng="-0.15041259640884"/>
+  </nodes>
+  <zones>
+    <zone title="Headfort Place"/>
+    <zone title="Chapel Street"/>
+  </zones>
+</exit>

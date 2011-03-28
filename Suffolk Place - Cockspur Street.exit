@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Suffolk Place - Cockspur Street">
+  <nodes>
+    <node lat="51.50804312761146" lng="-0.13117177004051"/>
+    <node lat="51.50819337513506" lng="-0.13129515165519"/>
+  </nodes>
+  <zones>
+    <zone title="Suffolk Place"/>
+    <zone title="Cockspur Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Rochester Street">
+  <nodes maxlat="51.49547233171686" maxlng="-0.13444942945671" minlat="51.49496051054886" minlng="-0.13567922229004">
+    <node lat="51.49547233171686" lng="-0.13562155479622"/>
+    <node lat="51.49541472081204" lng="-0.13567922229004"/>
+    <node lat="51.49496051054886" lng="-0.13444942945671"/>
+    <node lat="51.4950690538542" lng="-0.13450441474151"/>
+  </nodes>
+  <exits>
+    <exit title="Rochester Street - Greycoat Lane"/>
+    <exit title="Rochester Street - Greycoat Lane"/>
+    <exit title="Rochester Street - Rochester Row"/>
+  </exits>
+</zone>

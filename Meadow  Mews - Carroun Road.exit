@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Meadow  Mews - Carroun Road">
+  <nodes>
+    <node lat="51.48117800490267" lng="-0.11796725506019"/>
+    <node lat="51.48123229299559" lng="-0.11790824646187"/>
+  </nodes>
+  <zones>
+    <zone title="Carroun Road (north)"/>
+    <zone title="Meadow Mews"/>
+  </zones>
+</exit>

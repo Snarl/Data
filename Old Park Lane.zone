@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Old Park Lane">
+  <nodes maxlat="51.50468997477802" maxlng="-0.14866245502662" minlat="51.5038000999151" minlng="-0.14979971164894">
+    <node lat="51.5046465666513" lng="-0.14979971164894"/>
+    <node lat="51.50468997477802" lng="-0.14966560119819"/>
+    <node lat="51.50433436082932" lng="-0.14921230787468"/>
+    <node lat="51.5039236483083" lng="-0.14866245502662"/>
+    <node lat="51.5038000999151" lng="-0.14891726488304"/>
+  </nodes>
+  <exits>
+    <exit title="Old Park Lane - Piccadily place 1"/>
+    <exit title="Old Park Lane - Piccadily place 1"/>
+    <exit title="Old Park Lane - Piccadily place 1"/>
+  </exits>
+</zone>

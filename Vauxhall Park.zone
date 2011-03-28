@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Vauxhall Park">
+  <nodes maxlat="51.48378167254431" maxlng="-0.12047646159363" minlat="51.48193761469092" minlng="-0.12381312960815">
+    <node lat="51.48265253002825" lng="-0.12381312960815"/>
+    <node lat="51.48193761469092" lng="-0.12153861636352"/>
+    <node lat="51.48233850317623" lng="-0.12103436106872"/>
+    <node lat="51.48227168867339" lng="-0.12078759783935"/>
+    <node lat="51.48366141017469" lng="-0.12047646159363"/>
+    <node lat="51.48378167254431" lng="-0.12285826319885"/>
+    <node lat="51.48367477267589" lng="-0.1230299245758"/>
+    <node lat="51.48312690691694" lng="-0.12323377246094"/>
+  </nodes>
+  <exits>
+    <exit title="VAuxhall Park (south west exit)"/>
+    <exit title="VAuxhall Park (south exit)"/>
+    <exit title="VAuxhall Park (north exit)"/>
+    <exit title="VAuxhall Park (north east exit)"/>
+    <exit title="VAuxhall Park (north west exit)"/>
+  </exits>
+</zone>

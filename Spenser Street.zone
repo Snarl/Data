@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Spenser Street">
+  <nodes maxlat="51.49808102884616" maxlng="-0.13592866772842" minlat="51.49771158748994" minlng="-0.13757286185455">
+    <node lat="51.49789025554806" lng="-0.13757286185455"/>
+    <node lat="51.4978601992882" lng="-0.13719467038345"/>
+    <node lat="51.49771158748994" lng="-0.13709006423187"/>
+    <node lat="51.49782054169272" lng="-0.13617274874878"/>
+    <node lat="51.49774707068796" lng="-0.13613788003158"/>
+    <node lat="51.49776877804258" lng="-0.13592866772842"/>
+    <node lat="51.49797917186728" lng="-0.13609228247833"/>
+    <node lat="51.49796414376914" lng="-0.13676551694107"/>
+    <node lat="51.49808102884616" lng="-0.13713834399414"/>
+  </nodes>
+  <exits>
+    <exit title="Seaforth Place - Spenser Street"/>
+    <exit title="Seaforth Place - Spenser Street"/>
+    <exit title="Seaforth Place - Spenser Street"/>
+    <exit title="Buckingham Gate - Spenser Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cockspur Street - Jermyn St">
+  <nodes>
+    <node lat="51.50975592000584" lng="-0.13314587587547"/>
+    <node lat="51.50961235508426" lng="-0.13301712984276"/>
+  </nodes>
+  <zones>
+    <zone title="Jermyn Street"/>
+    <zone title="Cockspur Street"/>
+  </zones>
+</exit>

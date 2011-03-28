@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Lowndes Place">
+  <nodes maxlat="51.49813070494332" maxlng="-0.15288425201607" minlat="51.49649762805638" minlng="-0.15485835785103">
+    <node lat="51.49769488953484" lng="-0.15485835785103"/>
+    <node lat="51.49813070494332" lng="-0.15399736875725"/>
+    <node lat="51.49803051786196" lng="-0.15387130493355"/>
+    <node lat="51.49778505858196" lng="-0.15427363628578"/>
+    <node lat="51.49772327610594" lng="-0.15421462768745"/>
+    <node lat="51.49758301287658" lng="-0.15441311115455"/>
+    <node lat="51.49689003939746" lng="-0.15330267662239"/>
+    <node lat="51.49671637692278" lng="-0.15314174408149"/>
+    <node lat="51.49651766616412" lng="-0.15288425201607"/>
+    <node lat="51.49649762805638" lng="-0.15292180294227"/>
+    <node lat="51.49678150042832" lng="-0.15343678707313"/>
+  </nodes>
+  <exits>
+    <exit title="Belgrave Mews Way - Lowndes Place"/>
+    <exit title="Chesham Place - Lowndes Place"/>
+    <exit title="Belgrave Mews Way - Lowndes Place"/>
+    <exit title="Chesham Place - Lowndes Place"/>
+    <exit title="Chesham Place - Lowndes Place"/>
+    <exit title="Pont Street - Lowndes Place"/>
+    <exit title="Lowndes Place - Belgrave Square"/>
+  </exits>
+</zone>

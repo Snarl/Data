@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ambrosden Avenue - Thirleby Road">
+  <nodes>
+    <node lat="51.49676229734627" lng="-0.13939810508919"/>
+    <node lat="51.49667713578439" lng="-0.13921303266716"/>
+  </nodes>
+  <zones>
+    <zone title="Thirleby Road"/>
+    <zone title="Ambrosden Avenue"/>
+  </zones>
+</exit>

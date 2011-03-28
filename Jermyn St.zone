@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<zone title="Jermyn St">
+  <nodes maxlat="51.50926262236372" maxlng="-0.13439712638092" minlat="51.50735532150924" minlng="-0.13996405119133">
+    <node lat="51.50743044646706" lng="-0.13996405119133"/>
+    <node lat="51.50735532150924" lng="-0.13989431375694"/>
+    <node lat="51.50748303386364" lng="-0.13954964989853"/>
+    <node lat="51.50779354868104" lng="-0.13865915650558"/>
+    <node lat="51.5078870365994" lng="-0.13839361781311"/>
+    <node lat="51.50796049125782" lng="-0.13805565947723"/>
+    <node lat="51.50805230941432" lng="-0.13772038335037"/>
+    <node lat="51.50813744972136" lng="-0.13740924710464"/>
+    <node lat="51.50825931694286" lng="-0.13711688632202"/>
+    <node lat="51.50838452265284" lng="-0.13675478810501"/>
+    <node lat="51.50846966233908" lng="-0.13652680033874"/>
+    <node lat="51.50858318167328" lng="-0.13622371072006"/>
+    <node lat="51.50869503132888" lng="-0.13587234133911"/>
+    <node lat="51.50880855010148" lng="-0.13553974742126"/>
+    <node lat="51.50888367266316" lng="-0.13534126395416"/>
+    <node lat="51.5090255704973" lng="-0.13486114854049"/>
+    <node lat="51.50915244348062" lng="-0.13439712638092"/>
+    <node lat="51.50926262236372" lng="-0.13449100369644"/>
+  </nodes>
+  <exits>
+    <exit title="Jermyn St - Duke of York St."/>
+    <exit title="Jermyn St - Duke of York St."/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Jermyn St - Babmaes St"/>
+    <exit title="Church Pl - Jermyn St"/>
+    <exit title="St james\'s St - Jermyn St"/>
+    <exit title="Jermyn St - Babmaes St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Eagle Pl - Jermyn St"/>
+    <exit title="Jermyn St - Duke of York St."/>
+    <exit title="Church Pl - Jermyn St"/>
+    <exit title="St james\'s St - Jermyn St"/>
+    <exit title="Bury St - Jermyn St"/>
+    <exit title="Bury St - Jermyn St"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St (East)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St (East)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St (North)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St (North)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St. (West)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St. (West)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St. (West)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St. (West)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St (North)"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St"/>
+    <exit title="Duke Street Saint James\'s - Jermyn St (East)"/>
+    <exit title="South Regent Street - Jermyn St (West)"/>
+    <exit title="South Regent Street - Jermyn St (West)"/>
+    <exit title="South Regent Street - Jermyn St (West)"/>
+  </exits>
+</zone>

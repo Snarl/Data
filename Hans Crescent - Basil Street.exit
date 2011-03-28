@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hans Crescent - Basil Street">
+  <nodes>
+    <node lat="51.49913089384518" lng="-0.16150084847641"/>
+    <node lat="51.49937801561446" lng="-0.16144720429611"/>
+  </nodes>
+  <zones>
+    <zone title="Basil Street"/>
+    <zone title="Hans Crescent"/>
+  </zones>
+</exit>

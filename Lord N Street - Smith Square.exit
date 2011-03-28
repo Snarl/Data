@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lord N Street - Smith Square">
+  <nodes>
+    <node lat="51.49627553842614" lng="-0.12720075959396"/>
+    <node lat="51.496290567081" lng="-0.12705055588913"/>
+  </nodes>
+  <zones>
+    <zone title="Lord N Street"/>
+    <zone title="Smith Square"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Windmill St-Orange St">
+  <nodes>
+    <node lat="51.50895879514101" lng="-0.1319080364151"/>
+    <node lat="51.50879185622209" lng="-0.13175783271026"/>
+  </nodes>
+  <zones>
+    <zone title="Orange Street"/>
+    <zone title="Cockspur Street"/>
+  </zones>
+</exit>

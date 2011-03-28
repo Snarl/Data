@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Northumberland Avenue - Craven Street">
+  <nodes>
+    <node lat="51.50684697274425" lng="-0.12387750262451"/>
+    <node lat="51.5068169223912" lng="-0.12363073939514"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

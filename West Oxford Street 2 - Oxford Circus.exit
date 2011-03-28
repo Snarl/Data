@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="West Oxford Street 2 - Oxford Circus" status="orange" reason="">
+  <nodes>
+    <node lat="51.5151175789365" lng="-0.14236865157318"/>
+    <node lat="51.51532121605698" lng="-0.14234719390106"/>
+  </nodes>
+  <zones>
+    <zone title="Oxford Circus"/>
+    <zone title="West Oxford Street 2"/>
+  </zones>
+</exit>

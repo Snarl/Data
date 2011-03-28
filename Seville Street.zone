@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Seville Street">
+  <nodes maxlat="51.5019910795694" maxlng="-0.15904796833229" minlat="51.50137998671143" minlng="-0.15940201992225">
+    <node lat="51.50194099029918" lng="-0.15940201992225"/>
+    <node lat="51.50137998671143" lng="-0.15924645179939"/>
+    <node lat="51.50142005862527" lng="-0.15904796833229"/>
+    <node lat="51.5019910795694" lng="-0.15921426529121"/>
+  </nodes>
+  <exits>
+    <exit title="Seville Street - Knightsbridge"/>
+    <exit title="Seville Street - Lowndes Square"/>
+    <exit title="Seville Street - Knightsbridge"/>
+    <exit title="Knightsbridge - Seville Street"/>
+  </exits>
+</zone>

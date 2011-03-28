@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Kennington Lane - Oval Way">
+  <nodes>
+    <node lat="51.48664699671852" lng="-0.11738521570396"/>
+    <node lat="51.48666369875078" lng="-0.11723501199913"/>
+  </nodes>
+  <zones>
+    <zone title="Kennington Lane (south)"/>
+    <zone title="Oval Way"/>
+  </zones>
+</exit>

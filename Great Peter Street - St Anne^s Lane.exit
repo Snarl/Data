@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Peter Street - St Anne's Lane">
+  <nodes>
+    <node lat="51.49689170921823" lng="-0.13143462652397"/>
+    <node lat="51.49689170921823" lng="-0.13131929153633"/>
+  </nodes>
+  <zones>
+    <zone title="St Anne\'s Lane"/>
+    <zone title="Great Peter Street"/>
+  </zones>
+</exit>

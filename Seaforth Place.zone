@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Seaforth Place">
+  <nodes maxlat="51.49847426144046" maxlng="-0.13674405926895" minlat="51.49789317768318" minlng="-0.13758627289963">
+    <node lat="51.49847426144046" lng="-0.13691035622787"/>
+    <node lat="51.49789317768318" lng="-0.13758627289963"/>
+    <node lat="51.4980701752444" lng="-0.13713029736709"/>
+    <node lat="51.49842082876056" lng="-0.13674405926895"/>
+  </nodes>
+  <exits>
+    <exit title="Seaforth Place - Buckingham Gate"/>
+    <exit title="Seaforth Place - Spenser Street"/>
+    <exit title="Seaforth Place - Spenser Street"/>
+    <exit title="Seaforth Place - Spenser Street"/>
+  </exits>
+</zone>

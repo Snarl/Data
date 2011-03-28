@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Swallow Pl - Princes St">
+  <nodes>
+    <node lat="51.51462934385105" lng="-0.14239178562593"/>
+    <node lat="51.51463935892005" lng="-0.14223889971208"/>
+  </nodes>
+  <zones>
+    <zone title="Swallow Pl"/>
+    <zone title="Princes St"/>
+  </zones>
+</exit>

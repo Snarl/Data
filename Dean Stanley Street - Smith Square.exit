@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Stanley Street - Smith Square">
+  <nodes>
+    <node lat="51.49607515588752" lng="-0.12647656315994"/>
+    <node lat="51.49594323690204" lng="-0.12645510548782"/>
+  </nodes>
+  <zones>
+    <zone title="Dean Stanley Street"/>
+    <zone title="Smith Square"/>
+  </zones>
+</exit>

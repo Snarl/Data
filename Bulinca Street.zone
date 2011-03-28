@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Bulinca Street">
+  <nodes maxlat="51.4919211944552" maxlng="-0.12718198413086" minlat="51.49136841768364" minlng="-0.12843994015884">
+    <node lat="51.4919211944552" lng="-0.12828705424499"/>
+    <node lat="51.49167570227524" lng="-0.12748775595855"/>
+    <node lat="51.4916322817521" lng="-0.12752530688476"/>
+    <node lat="51.49151872018832" lng="-0.12718198413086"/>
+    <node lat="51.49136841768364" lng="-0.12731341237259"/>
+    <node lat="51.49174083298246" lng="-0.12843994015884"/>
+  </nodes>
+  <exits>
+    <exit title="Bulinca Street"/>
+    <exit title="Bulinca Street"/>
+    <exit title="Bulinca Street"/>
+  </exits>
+</zone>

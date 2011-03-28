@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Aldford St-Balfor pl">
+  <nodes>
+    <node lat="51.50887615762151" lng="-0.15245375746917"/>
+    <node lat="51.50892456988138" lng="-0.15220162982177"/>
+  </nodes>
+  <zones>
+    <zone title="Aldford St"/>
+    <zone title="Balfour Pl"/>
+  </zones>
+</exit>

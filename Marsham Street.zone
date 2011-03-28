@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<zone title="Marsham Street">
+  <nodes maxlat="51.49686749669976" maxlng="-0.12851504201126" minlat="51.4919028243359" minlng="-0.1295128237648">
+    <node lat="51.49679569399054" lng="-0.12950477713775"/>
+    <node lat="51.49686749669976" lng="-0.12928751820755"/>
+    <node lat="51.49656024710396" lng="-0.12925264949035"/>
+    <node lat="51.49622293809754" lng="-0.1292070519371"/>
+    <node lat="51.4959507512874" lng="-0.12915072554779"/>
+    <node lat="51.49538967396146" lng="-0.12907294148636"/>
+    <node lat="51.494953832344" lng="-0.12895760649872"/>
+    <node lat="51.49424077979242" lng="-0.12894687766266"/>
+    <node lat="51.49375983875134" lng="-0.1289361488266"/>
+    <node lat="51.49300501827596" lng="-0.12892541999054"/>
+    <node lat="51.49246394458092" lng="-0.12887714022827"/>
+    <node lat="51.4920631451108" lng="-0.12877789849472"/>
+    <node lat="51.4919646147015" lng="-0.12851504201126"/>
+    <node lat="51.4919028243359" lng="-0.1285579573555"/>
+    <node lat="51.49201304492906" lng="-0.12894419545364"/>
+    <node lat="51.49278124166204" lng="-0.12913195008468"/>
+    <node lat="51.49389677386964" lng="-0.1291346322937"/>
+    <node lat="51.49465825921994" lng="-0.12914267892074"/>
+    <node lat="51.49536629558764" lng="-0.12933579796982"/>
+    <node lat="51.49536629558764" lng="-0.12950209492874"/>
+    <node lat="51.49626802409736" lng="-0.1295128237648"/>
+  </nodes>
+  <exits>
+    <exit title="Marsham Street - Herrick Street"/>
+    <exit title="Marsham Street - Herrick Street"/>
+    <exit title="John Islip Street - Marsham Street"/>
+    <exit title="Erasmus Street - Marsham Street"/>
+    <exit title="Marsham Street - Marsham Street North"/>
+    <exit title="Vincent Street - Marsham Street"/>
+    <exit title="Vincent Street - Marsham Street"/>
+    <exit title="Erasmus Street - Marsham Street"/>
+    <exit title="Marsham Street - Page Street (E)"/>
+    <exit title="Marsham Street - Page Street (S)"/>
+    <exit title="Marsham Street - Page Street (W)"/>
+    <exit title="Marsham Street - Page Street (N)"/>
+    <exit title="Marsham Street - Page Street (E)"/>
+    <exit title="Marsham Street - Page Street (S)"/>
+    <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
+    <exit title="Bennett\'s Yard - Marsham Street"/>
+    <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
+    <exit title="Vincent Street - Marsham Street"/>
+    <exit title="Marsham Street - Horseferry Road (N)"/>
+    <exit title="Marsham Street - Horseferry Road (S)"/>
+    <exit title="Marsham Street - Horseferry Road (S)"/>
+    <exit title="Marsham Street - Horseferry Road (E)"/>
+    <exit title="Marsham Street - Romney Street"/>
+    <exit title="Marsham Street - Great Peter Street"/>
+    <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
+    <exit title="Marsham Street - Horseferry Road (W)"/>
+  </exits>
+</zone>

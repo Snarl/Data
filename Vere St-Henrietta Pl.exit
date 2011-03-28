@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vere St-Henrietta Pl">
+  <nodes>
+    <node lat="51.51540759465399" lng="-0.14766601437759"/>
+    <node lat="51.51545099252888" lng="-0.14739511126709"/>
+  </nodes>
+  <zones>
+    <zone title="Vere St"/>
+    <zone title="Henrietta Pl"/>
+  </zones>
+</exit>

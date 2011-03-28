@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<zone title="Connaught St">
+  <nodes maxlat="51.51502660961827" maxlng="-0.16306994075012" minlat="51.51406849952657" minlng="-0.16806421393585">
+    <node lat="51.51420537363064" lng="-0.16806421393585"/>
+    <node lat="51.51406849952657" lng="-0.1680373918457"/>
+    <node lat="51.51495984301774" lng="-0.16306994075012"/>
+    <node lat="51.51502660961827" lng="-0.16320405120086"/>
+  </nodes>
+  <exits>
+    <exit title="Edgware Rd-Connaught St"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Knightsbridge - North Albert Gate">
+  <nodes>
+    <node lat="51.50232500645962" lng="-0.15861613268089"/>
+    <node lat="51.5023517205188" lng="-0.15834254736137"/>
+  </nodes>
+  <zones>
+    <zone title="Albert Gate"/>
+    <zone title="Knightsbridge"/>
+  </zones>
+</exit>

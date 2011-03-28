@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="North Charing Cross Road">
+  <nodes maxlat="51.516309343911" maxlng="-0.12921509856415" minlat="51.5135151567126" minlng="-0.13061521166992">
+    <node lat="51.516309343911" lng="-0.13061521166992"/>
+    <node lat="51.516309343911" lng="-0.13025043124389"/>
+    <node lat="51.51542470342445" lng="-0.13006804103088"/>
+    <node lat="51.51353852577508" lng="-0.12921509856415"/>
+    <node lat="51.5135151567126" lng="-0.12946722621155"/>
+    <node lat="51.51446326333748" lng="-0.12991247290802"/>
+    <node lat="51.51586201841612" lng="-0.13034699076843"/>
+  </nodes>
+  <exits>
+    <exit title="Centre Point - North Charing Cross Road"/>
+    <exit title="Centre Point - North Charing Cross Road"/>
+    <exit title="Centre Point - North Charing Cross Road"/>
+    <exit title="North Charing Cross Road - Palace Theatre"/>
+    <exit title="North Charing Cross Road - Palace Theatre"/>
+  </exits>
+</zone>

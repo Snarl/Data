@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<zone title="Ganton Street">
+  <nodes maxlat="51.51341583808188" maxlng="-0.1380315195961" minlat="51.51275982879216" minlng="-0.13946650141907">
+    <node lat="51.51341583808188" lng="-0.13807711714935"/>
+    <node lat="51.51334406144429" lng="-0.1380315195961"/>
+    <node lat="51.5130486075824" lng="-0.1388415467186"/>
+    <node lat="51.51275982879216" lng="-0.13941553944778"/>
+    <node lat="51.51280155994437" lng="-0.13946650141907"/>
+    <node lat="51.51309200770479" lng="-0.13889250868988"/>
+    <node lat="51.51331902305576" lng="-0.13838020676803"/>
+  </nodes>
+  <exits>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (North)"/>
+    <exit title="Carnaby Street - Ganton St (North)"/>
+    <exit title="Carnaby Street - Ganton St (East)"/>
+    <exit title="Carnaby Street - Ganton St (East)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (South)"/>
+    <exit title="Carnaby Street - Ganton St (East)"/>
+    <exit title="Marshall St-Ganton St"/>
+    <exit title="Ganton St-Kingly St"/>
+    <exit title="Ganton St-Kingly St"/>
+  </exits>
+</zone>

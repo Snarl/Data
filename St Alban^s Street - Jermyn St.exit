@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St Alban's Street - Jermyn St">
+  <nodes>
+    <node lat="51.50942204739788" lng="-0.13359648698997"/>
+    <node lat="51.50946545097528" lng="-0.13345164770317"/>
+  </nodes>
+  <zones>
+    <zone title="Jermyn Street"/>
+    <zone title="St Alban\'s Street"/>
+  </zones>
+</exit>

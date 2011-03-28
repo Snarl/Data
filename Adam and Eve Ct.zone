@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Adam and Eve Ct">
+  <nodes maxlat="51.51659559654578" maxlng="-0.13731805199814" minlat="51.5158812134493" minlng="-0.13781157845688">
+    <node lat="51.51657389815878" lng="-0.13781157845688"/>
+    <node lat="51.51659559654578" lng="-0.13769087905121"/>
+    <node lat="51.51600472908486" lng="-0.13739315385055"/>
+    <node lat="51.5158845517141" lng="-0.13731805199814"/>
+    <node lat="51.5158812134493" lng="-0.13743606919479"/>
+  </nodes>
+  <exits>
+    <exit title="Adam and Eve Ct - East Oxford Street 1"/>
+    <exit title="Adam and Eve Ct - East Oxford Street 1"/>
+  </exits>
+</zone>

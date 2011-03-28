@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Duke St">
+  <nodes maxlat="51.5164370311844" maxlng="-0.15038845652771" minlat="51.51238508124314" minlng="-0.15257445687485">
+    <node lat="51.51402092724432" lng="-0.1513594161911"/>
+    <node lat="51.51405431124494" lng="-0.15118775481415"/>
+    <node lat="51.51238508124314" lng="-0.15038845652771"/>
+    <node lat="51.51240177384594" lng="-0.15053866023254"/>
+    <node lat="51.51640698715658" lng="-0.15257445687485"/>
+    <node lat="51.5164370311844" lng="-0.15241888875198"/>
+    <node lat="51.51405848433226" lng="-0.15117166156006"/>
+  </nodes>
+  <exits>
+    <exit title="Duke St - Oxforf St"/>
+    <exit title="Duke St - Oxforf St"/>
+    <exit title="Duke St - Oxforf St"/>
+    <exit title="Barrett St-Duke St"/>
+    <exit title="Barrett St-Duke St"/>
+    <exit title="Oxford St-Duke St"/>
+    <exit title="Oxford St-Duke St"/>
+    <exit title="Wigmore St-Duke St"/>
+    <exit title="Wigmore St-Duke St"/>
+    <exit title="Duke St-Wigmore St"/>
+    <exit title="Duke St-Wigmore St"/>
+    <exit title="Suke St-Edwards Mews"/>
+    <exit title="Suke St-Edwards Mews"/>
+  </exits>
+</zone>

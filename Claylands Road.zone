@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Claylands Road">
+  <nodes maxlat="51.48239362509029" maxlng="-0.11397478694153" minlat="51.48041587676212" minlng="-0.11853990668487">
+    <node lat="51.48235687717025" lng="-0.11853990668487"/>
+    <node lat="51.48170877262353" lng="-0.11671600455475"/>
+    <node lat="51.48173883953304" lng="-0.116581894104"/>
+    <node lat="51.48162525332644" lng="-0.11632440203857"/>
+    <node lat="51.48130787860254" lng="-0.1157343160553"/>
+    <node lat="51.48041587676212" lng="-0.11405525321197"/>
+    <node lat="51.48047601226608" lng="-0.11397478694153"/>
+    <node lat="51.48183572166216" lng="-0.11655507201385"/>
+    <node lat="51.48180899557812" lng="-0.11676428431701"/>
+    <node lat="51.48239362509029" lng="-0.11849699134063"/>
+  </nodes>
+  <exits>
+    <exit title="Trigon Road - Claylands Road"/>
+    <exit title="Claylands Road - Claylands Place"/>
+    <exit title="Claylands Road - Claylands Place"/>
+    <exit title="Claylands Road - Palfrey Place"/>
+    <exit title="Claylands Road - Meadow Road"/>
+    <exit title="Claylands Road - Meadow Road (south junction)"/>
+  </exits>
+</zone>

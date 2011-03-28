@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="New Bond Street - Brook St (South)">
+  <nodes>
+    <node lat="51.51308282686718" lng="-0.14549878949356"/>
+    <node lat="51.51312288848998" lng="-0.14514473790359"/>
+  </nodes>
+  <zones>
+    <zone title="New Bond Street North"/>
+    <zone title="Brook Street"/>
+  </zones>
+</exit>

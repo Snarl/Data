@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Half Moon St - Piccadily Place 1">
+  <nodes>
+    <node lat="51.5058628132827" lng="-0.14473301881981"/>
+    <node lat="51.50593376695914" lng="-0.144588179533"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadily Place 1"/>
+    <zone title="Half Moon St"/>
+  </zones>
+</exit>

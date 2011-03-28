@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Whitehall - Trafalga Sq">
+  <nodes>
+    <node lat="51.50706400248426" lng="-0.12765941733551"/>
+    <node lat="51.50715415299516" lng="-0.12739656085205"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Whitehall"/>
+    <zone title="Trafalga Sq"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Stralton St - Piccadily Place 1">
+  <nodes>
+    <node lat="51.50672593638462" lng="-0.14302579278183"/>
+    <node lat="51.5068160875644" lng="-0.14290241116714"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadily Place 1"/>
+    <zone title="Stralton St"/>
+  </zones>
+</exit>

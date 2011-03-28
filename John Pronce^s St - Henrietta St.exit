@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="John Pronce's St - Henrietta St">
+  <nodes>
+    <node lat="51.51612657527426" lng="-0.14356759900284"/>
+    <node lat="51.5161833254373" lng="-0.14332083577347"/>
+  </nodes>
+  <zones>
+    <zone title="John Prince\'s St"/>
+    <zone title="Henrietta Pl"/>
+  </zones>
+</exit>

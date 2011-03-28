@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<zone title="Shepherds Pl">
+  <nodes maxlat="51.51219728904333" maxlng="-0.15399736875725" minlat="51.51162138812736" minlng="-0.15437824243736">
+    <node lat="51.5121789270975" lng="-0.15437824243736"/>
+    <node lat="51.51219728904333" lng="-0.15427631849479"/>
+    <node lat="51.51164141958575" lng="-0.15399736875725"/>
+    <node lat="51.51162138812736" lng="-0.1541153859539"/>
+  </nodes>
+  <exits>
+    <exit title="Shepherds Place - Upper Brook Street"/>
+  </exits>
+</zone>

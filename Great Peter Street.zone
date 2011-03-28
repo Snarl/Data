@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<zone title="Great Peter Street">
+  <nodes maxlat="51.49703698404028" maxlng="-0.12577114218902" minlat="51.49650430741536" minlng="-0.13362867349815">
+    <node lat="51.49703698404028" lng="-0.12579796427917"/>
+    <node lat="51.4969234359401" lng="-0.12577114218902"/>
+    <node lat="51.49687835058656" lng="-0.12707871908378"/>
+    <node lat="51.49686582686936" lng="-0.12791556829643"/>
+    <node lat="51.49687167127116" lng="-0.12900454515648"/>
+    <node lat="51.4968674966985" lng="-0.12929422373008"/>
+    <node lat="51.49679235432564" lng="-0.12951148266029"/>
+    <node lat="51.49676313225828" lng="-0.13080698961448"/>
+    <node lat="51.4967781607524" lng="-0.13171625847053"/>
+    <node lat="51.49680821772576" lng="-0.13182086462211"/>
+    <node lat="51.49676814175686" lng="-0.13214541191292"/>
+    <node lat="51.4966729611895" lng="-0.13278645986748"/>
+    <node lat="51.49653770425188" lng="-0.13345969433021"/>
+    <node lat="51.49650430741536" lng="-0.13358844036293"/>
+    <node lat="51.49660950736754" lng="-0.13362867349815"/>
+    <node lat="51.49677649091996" lng="-0.1327918242855"/>
+    <node lat="51.49688502990104" lng="-0.13205958122444"/>
+    <node lat="51.49688669972916" lng="-0.13040331715774"/>
+    <node lat="51.4969468135129" lng="-0.13031212205124"/>
+    <node lat="51.49697687037508" lng="-0.12957719678116"/>
+    <node lat="51.4969902289741" lng="-0.12921241635513"/>
+    <node lat="51.49700692721744" lng="-0.1285579573555"/>
+    <node lat="51.496978540203" lng="-0.12753469461632"/>
+    <node lat="51.49700024792366" lng="-0.12716723198128"/>
+  </nodes>
+  <exits>
+    <exit title="Great Peter Street - Milbank"/>
+    <exit title="Great Peter Street - Lord N Street (N)"/>
+    <exit title="Great Peter Street - Lord N Street (W)"/>
+    <exit title="Great Peter Street - Lord N Street (E)"/>
+    <exit title="Great Peter Street - Lord N Street (S)"/>
+    <exit title="Great Peter Street - Tufton Street (N)"/>
+    <exit title="Great Peter Street - Tufton Street (E)"/>
+    <exit title="Great Peter Street - Tufton Street (S)"/>
+    <exit title="Great Peter Street - Tufton Street (W)"/>
+    <exit title="Gayfere Street - Great Peter Street"/>
+    <exit title="Great Peter Street - Great Smith Street"/>
+    <exit title="Marsham Street - Great Peter Street"/>
+    <exit title="Great Peter Street - Monck Street"/>
+    <exit title="Great Peter Street - Elizabeth Street"/>
+    <exit title="St Ann\'s Street - Great Peter Street"/>
+    <exit title="Perkin\'s Rents - Great Peter Street"/>
+    <exit title="Great Peter Street - St Anne\'s Lane"/>
+    <exit title="Perkin\'s Rents - Great Peter Street"/>
+    <exit title="Great Peter Street - Elizabeth Street"/>
+    <exit title="Great Peter Street - Greycoat Place"/>
+    <exit title="St Matthews Street - Great Peter Street"/>
+    <exit title="Chadwick Street - Great Peter Street"/>
+  </exits>
+</zone>

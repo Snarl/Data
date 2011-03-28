@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Alley off Carroun Road">
+  <nodes maxlat="51.48111202390276" maxlng="-0.11591000074577" minlat="51.48049229896623" minlng="-0.11785862559509">
+    <node lat="51.48109699024383" lng="-0.11785862559509"/>
+    <node lat="51.48049229896623" lng="-0.11591000074577"/>
+    <node lat="51.48052320189165" lng="-0.1159327995224"/>
+    <node lat="51.48111202390276" lng="-0.11784789675903"/>
+  </nodes>
+  <exits>
+    <exit title="Alley - Trigon Road"/>
+    <exit title="Alley - Carroun Road"/>
+  </exits>
+</zone>

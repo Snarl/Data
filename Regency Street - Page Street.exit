@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regency Street - Page Street">
+  <nodes>
+    <node lat="51.49393100758432" lng="-0.1322687935276"/>
+    <node lat="51.49385085055186" lng="-0.13226342910957"/>
+  </nodes>
+  <zones>
+    <zone title="Regency Street"/>
+    <zone title="Page Street"/>
+  </zones>
+</exit>

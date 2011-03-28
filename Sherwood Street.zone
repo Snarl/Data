@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<zone title="Sherwood Street">
+  <nodes maxlat="51.51239593153117" maxlng="-0.13518033141327" minlat="51.51035104190756" minlng="-0.13750580662918">
+    <node lat="51.51237256188259" lng="-0.13750580662918"/>
+    <node lat="51.51239593153117" lng="-0.13742534035873"/>
+    <node lat="51.5106732224459" lng="-0.13548073882293"/>
+    <node lat="51.51043951658285" lng="-0.13526079768371"/>
+    <node lat="51.51035104190756" lng="-0.13518033141327"/>
+    <node lat="51.51040112193355" lng="-0.13536540383529"/>
+    <node lat="51.51047290320813" lng="-0.13534126395416"/>
+  </nodes>
+  <exits>
+    <exit title="Sherwood St-Glasshouse St"/>
+    <exit title="Sherwood St-Glasshouse St"/>
+    <exit title="Denman Street - Sherwood Street"/>
+    <exit title="Denman Street - Sherwood Street"/>
+  </exits>
+</zone>

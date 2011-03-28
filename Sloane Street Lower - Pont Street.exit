@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Sloane Street Lower - Pont Street">
+  <nodes>
+    <node lat="51.49708290415128" lng="-0.15918341988754"/>
+    <node lat="51.49712297984344" lng="-0.1588347327156"/>
+  </nodes>
+  <zones>
+    <zone title="Sloane Street Lower"/>
+    <zone title="Pont Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Dean Farrar Street - Victoria Street">
+  <nodes>
+    <node lat="51.49874601576082" lng="-0.13191742414665"/>
+    <node lat="51.49869258339955" lng="-0.13205421680641"/>
+  </nodes>
+  <zones>
+    <zone title="Dean Farrer Street"/>
+    <zone title="Victoria Street"/>
+  </zones>
+</exit>

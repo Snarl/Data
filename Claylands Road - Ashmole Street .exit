@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Claylands Road - Ashmole Street ">
+  <nodes>
+    <node lat="51.4816995855205" lng="-0.1155197393341"/>
+    <node lat="51.48167620012805" lng="-0.11544195527267"/>
+  </nodes>
+  <zones>
+    <zone title="Ashmole Street"/>
+    <zone title="Claylands Road (north)"/>
+  </zones>
+</exit>

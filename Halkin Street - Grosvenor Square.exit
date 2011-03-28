@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Halkin Street - Grosvenor Square">
+  <nodes>
+    <node lat="51.50022706909728" lng="-0.15304652566147"/>
+    <node lat="51.50022039027258" lng="-0.15328256005478"/>
+  </nodes>
+  <zones>
+    <zone title="Halkin Street"/>
+    <zone title="Belgrave Square Gardens"/>
+  </zones>
+</exit>

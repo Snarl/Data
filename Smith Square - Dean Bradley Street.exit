@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Smith Square - Dean Bradley Street">
+  <nodes>
+    <node lat="51.49561427270558" lng="-0.12709615344238"/>
+    <node lat="51.49563097145298" lng="-0.12688694113922"/>
+  </nodes>
+  <zones>
+    <zone title="Smith Square"/>
+    <zone title="Dean Bradley Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Harriet Street - Harriet Walk N">
+  <nodes>
+    <node lat="51.50029552700552" lng="-0.15950528496933"/>
+    <node lat="51.50031055433494" lng="-0.15937519783211"/>
+  </nodes>
+  <zones>
+    <zone title="Harriet Walk"/>
+    <zone title="Harriet Street"/>
+  </zones>
+</exit>

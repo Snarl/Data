@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hollen Street - Wardour Street">
+  <nodes>
+    <node lat="51.51536406515482" lng="-0.13540714571309"/>
+    <node lat="51.51528144208439" lng="-0.13534813711476"/>
+  </nodes>
+  <zones>
+    <zone title="Wardour Street"/>
+    <zone title="Hollen Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Howick Place - Thirleby Road">
+  <nodes>
+    <node lat="51.49679235433009" lng="-0.13907892221641"/>
+    <node lat="51.49663372002498" lng="-0.13888848537636"/>
+  </nodes>
+  <zones>
+    <zone title="Howick Place"/>
+    <zone title="Thirleby Road"/>
+  </zones>
+</exit>

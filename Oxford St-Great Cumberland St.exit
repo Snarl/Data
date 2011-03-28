@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxford St-Great Cumberland St">
+  <nodes>
+    <node lat="51.51345089174706" lng="-0.15920219535064"/>
+    <node lat="51.51351766055934" lng="-0.15882668608856"/>
+  </nodes>
+  <zones>
+    <zone title="Bayswater Road"/>
+    <zone title="Great Cumberland Pl"/>
+  </zones>
+</exit>

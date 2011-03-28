@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Peter Street - Tufton Street (E)">
+  <nodes>
+    <node lat="51.49700776213204" lng="-0.12852040642929"/>
+    <node lat="51.4968674967008" lng="-0.12849358433914"/>
+  </nodes>
+  <zones>
+    <zone title="Great Peter Street"/>
+    <zone title="Tufton Street"/>
+  </zones>
+</exit>

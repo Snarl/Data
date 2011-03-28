@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Vincent Square North" status="red" reason="">
+  <nodes maxlat="51.4949079086991" maxlng="-0.1332947384758" minlat="51.49368385489014" minlng="-0.13624785060119">
+    <node lat="51.4937539925582" lng="-0.1332947384758"/>
+    <node lat="51.49368385489014" lng="-0.13336447591018"/>
+    <node lat="51.4946340441255" lng="-0.13565240019989"/>
+    <node lat="51.49478600576892" lng="-0.13624785060119"/>
+    <node lat="51.4949079086991" lng="-0.13613519782257"/>
+    <node lat="51.49433679900674" lng="-0.13470289820862"/>
+  </nodes>
+  <exits>
+    <exit title="Vincent Square - Maunsel Street"/>
+    <exit title="Elverton Street"/>
+    <exit title="Elverton Street"/>
+    <exit title="Vincent Square North - Rochester Row"/>
+    <exit title="Vincent Square North - West"/>
+    <exit title="Vincent Square North - East"/>
+    <exit title="Vincent Square North - East"/>
+    <exit title="Vincent Square North - West"/>
+  </exits>
+</zone>

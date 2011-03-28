@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxford St-Great Titchfield St">
+  <nodes>
+    <node lat="51.51567757871427" lng="-0.13957110757065"/>
+    <node lat="51.51571763805511" lng="-0.1392385136528"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 1"/>
+    <zone title="Great Titchfiels St"/>
+  </zones>
+</exit>

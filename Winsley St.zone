@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Winsley St">
+  <nodes maxlat="51.51644704584384" maxlng="-0.13831315154266" minlat="51.51576604316354" minlng="-0.13884691113662">
+    <node lat="51.51642200916086" lng="-0.13884691113662"/>
+    <node lat="51.51644704584384" lng="-0.13869670743179"/>
+    <node lat="51.51578273452742" lng="-0.13831315154266"/>
+    <node lat="51.51576604316354" lng="-0.13843921536636"/>
+  </nodes>
+  <exits>
+    <exit title="Winsley St - East Oxford Street 1"/>
+    <exit title="Winsley St - East Oxford Street 1"/>
+  </exits>
+</zone>

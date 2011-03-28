@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Whitecomb Street - Pall Mall End">
+  <nodes>
+    <node lat="51.50816666450042" lng="-0.13001305574608"/>
+    <node lat="51.50824345753282" lng="-0.1297823857708"/>
+  </nodes>
+  <zones>
+    <zone title="Whitcomb Street"/>
+    <zone title="Pall Mall End"/>
+  </zones>
+</exit>

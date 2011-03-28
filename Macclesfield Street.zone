@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Macclesfield Street">
+  <nodes maxlat="51.51211382569259" maxlng="-0.13113556021881" minlat="51.51175660039977" minlng="-0.13150838727188">
+    <node lat="51.51207877099811" lng="-0.13150838727188"/>
+    <node lat="51.51211382569259" lng="-0.13136623019409"/>
+    <node lat="51.51180167103505" lng="-0.13113556021881"/>
+    <node lat="51.51175660039977" lng="-0.13125089520645"/>
+  </nodes>
+  <exits>
+    <exit title="Macclesfield Street - Shaftesbury Avenue "/>
+    <exit title="Macclesfield Street - Shaftesbury Avenue "/>
+  </exits>
+</zone>

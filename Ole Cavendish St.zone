@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Ole Cavendish St">
+  <nodes maxlat="51.51569301838055" maxlng="-0.1456677686615" minlat="51.51489182443679" minlng="-0.14615324849319">
+    <node lat="51.51567632698377" lng="-0.14615324849319"/>
+    <node lat="51.51569301838055" lng="-0.14601377362442"/>
+    <node lat="51.51491352362511" lng="-0.1456677686615"/>
+    <node lat="51.51489182443679" lng="-0.14582333678436"/>
+  </nodes>
+  <exits>
+    <exit title="Old Cavendish St-Oxford St"/>
+    <exit title="Old Cavendish St-Henrietta Pl"/>
+    <exit title="Old Cavendish St-Henrietta Pl"/>
+  </exits>
+</zone>

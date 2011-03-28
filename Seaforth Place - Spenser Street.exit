@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Seaforth Place - Spenser Street">
+  <nodes>
+    <node lat="51.49808144631464" lng="-0.13712225074005"/>
+    <node lat="51.497884411299" lng="-0.13759431952667"/>
+  </nodes>
+  <zones>
+    <zone title="Seaforth Place"/>
+    <zone title="Spenser Street"/>
+  </zones>
+</exit>

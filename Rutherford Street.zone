@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Rutherford Street">
+  <nodes maxlat="51.49449544130644" maxlng="-0.13246325368118" minlat="51.49371558384938" minlng="-0.1332947384758">
+    <node lat="51.49449544130644" lng="-0.13247934693527"/>
+    <node lat="51.49425831261334" lng="-0.13246325368118"/>
+    <node lat="51.49425998253806" lng="-0.13255176657867"/>
+    <node lat="51.49371558384938" lng="-0.13314721697998"/>
+    <node lat="51.49376067233124" lng="-0.1332947384758"/>
+    <node lat="51.49436351774914" lng="-0.13265637273025"/>
+  </nodes>
+  <exits>
+    <exit title="Fynes Street - Rutherford Street"/>
+    <exit title="Rutherford Street - Regency Street"/>
+    <exit title="Rutherford Street - Vincent Square"/>
+  </exits>
+</zone>

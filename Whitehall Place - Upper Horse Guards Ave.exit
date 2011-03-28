@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Whitehall Place - Upper Horse Guards Ave">
+  <nodes>
+    <node lat="51.50612492405585" lng="-0.1246325444622"/>
+    <node lat="51.50623677974619" lng="-0.12421948427391"/>
+  </nodes>
+  <zones>
+    <zone title="Upper Horse Guards Ave"/>
+    <zone title="Whitehall Place"/>
+  </zones>
+</exit>

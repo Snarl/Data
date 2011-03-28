@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Duncannon Street - Trafalgar Square" status="red" reason="">
+  <nodes>
+    <node lat="51.5086499576601" lng="-0.1269727718277"/>
+    <node lat="51.5085397772954" lng="-0.12696740740967"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Barton Street">
+  <nodes maxlat="51.49773997268286" maxlng="-0.12773988360595" minlat="51.49725155439414" minlng="-0.12796921247673">
+    <node lat="51.49773997268286" lng="-0.1278565596981"/>
+    <node lat="51.49769739283518" lng="-0.12773988360595"/>
+    <node lat="51.49725155439414" lng="-0.12781766766739"/>
+    <node lat="51.49725906856084" lng="-0.12796921247673"/>
+  </nodes>
+  <exits>
+    <exit title="Cowley Street - Barton Street"/>
+    <exit title="Barton Street - Great College Street"/>
+  </exits>
+</zone>

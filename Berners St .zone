@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Berners St ">
+  <nodes maxlat="51.51854590550128" maxlng="-0.13590318674278" minlat="51.51601891667624" minlng="-0.13764125818443">
+    <node lat="51.51847914405936" lng="-0.13764125818443"/>
+    <node lat="51.51854590550128" lng="-0.13748569006157"/>
+    <node lat="51.51700035302996" lng="-0.13650936598015"/>
+    <node lat="51.51601891667624" lng="-0.13590318674278"/>
+    <node lat="51.51601891667624" lng="-0.13611239904594"/>
+  </nodes>
+  <exits>
+    <exit title="Berners St - East Oxford Street 2"/>
+    <exit title="Berners St - East Oxford Street 2"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Oxford St-Duke St" status="green" reason="">
+  <nodes>
+    <node lat="51.51426546457069" lng="-0.15160617942047"/>
+    <node lat="51.51431220191377" lng="-0.15123067015838"/>
+  </nodes>
+  <zones>
+    <zone title="West Oxford Street 1"/>
+    <zone title="Duke St"/>
+  </zones>
+</exit>

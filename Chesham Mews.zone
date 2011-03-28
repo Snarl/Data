@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Chesham Mews">
+  <nodes maxlat="51.49833859243432" maxlng="-0.15508500451278" minlat="51.49789776963976" minlng="-0.15605596417618">
+    <node lat="51.49828849914966" lng="-0.15605596417618"/>
+    <node lat="51.49833859243432" lng="-0.15600231999588"/>
+    <node lat="51.49794786335386" lng="-0.1554122340126"/>
+    <node lat="51.49799461743736" lng="-0.15517619961929"/>
+    <node lat="51.4979311654553" lng="-0.15508500451278"/>
+    <node lat="51.49789776963976" lng="-0.15545514935684"/>
+  </nodes>
+  <exits>
+    <exit title="Chesham Mews - Belgrave Mews Way"/>
+    <exit title="Chesham Mews - Belgrave Mews Way"/>
+  </exits>
+</zone>

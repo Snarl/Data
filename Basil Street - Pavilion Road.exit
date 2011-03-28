@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Basil Street - Pavilion Road">
+  <nodes>
+    <node lat="51.50054264240122" lng="-0.16081822628212"/>
+    <node lat="51.50070794185594" lng="-0.16069484466743"/>
+  </nodes>
+  <zones>
+    <zone title="Pavilion Road"/>
+    <zone title="Basil Street"/>
+  </zones>
+</exit>

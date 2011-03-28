@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<zone title="Great Scotland Yard">
+  <nodes maxlat="51.50694046260472" maxlng="-0.12489137763214" minlat="51.50602558929427" minlng="-0.12686011904907">
+    <node lat="51.50694046260472" lng="-0.12516496295166"/>
+    <node lat="51.50693044584316" lng="-0.12503085250091"/>
+    <node lat="51.50693712368444" lng="-0.12489137763214"/>
+    <node lat="51.50662660302805" lng="-0.12504158133697"/>
+    <node lat="51.50642292703966" lng="-0.1253527175827"/>
+    <node lat="51.50602558929427" lng="-0.12679574603271"/>
+    <node lat="51.50609570797168" lng="-0.12686011904907"/>
+    <node lat="51.5064462997403" lng="-0.12572822684479"/>
+    <node lat="51.50660656936465" lng="-0.12536344641876"/>
+    <node lat="51.50678353308664" lng="-0.12522397154999"/>
+  </nodes>
+  <exits>
+    <exit title="Great Scotland Yard - Scotland Place"/>
+    <exit title="Northumberland Ave - Great Scotland Yard"/>
+    <exit title="Upper Whitehall - Great Scotland Yard"/>
+  </exits>
+</zone>

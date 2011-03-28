@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Ramillies Street">
+  <nodes maxlat="51.51546643215602" maxlng="-0.13854382151794" minlat="51.51447327846357" minlng="-0.13929752225113">
+    <node lat="51.5154163576983" lng="-0.13926265353393"/>
+    <node lat="51.5154113502495" lng="-0.13929752225113"/>
+    <node lat="51.51451166968093" lng="-0.13866720313263"/>
+    <node lat="51.51447327846357" lng="-0.13869670743179"/>
+    <node lat="51.51451834641108" lng="-0.13854382151794"/>
+    <node lat="51.5150374591841" lng="-0.13891128415298"/>
+    <node lat="51.51514094719686" lng="-0.13897833937835"/>
+    <node lat="51.5154163576983" lng="-0.13915536517334"/>
+    <node lat="51.51541802684778" lng="-0.13921973818969"/>
+    <node lat="51.51546643215602" lng="-0.13925192469787"/>
+    <node lat="51.51545975556484" lng="-0.13927338236999"/>
+  </nodes>
+  <exits>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies Street - East Oxford Street 1"/>
+    <exit title="Ramillies St - Noel St"/>
+    <exit title="Ramillies St - Noel St"/>
+  </exits>
+</zone>

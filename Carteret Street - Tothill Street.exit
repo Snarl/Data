@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Carteret Street - Tothill Street">
+  <nodes>
+    <node lat="51.49977123706403" lng="-0.13280121201706"/>
+    <node lat="51.49978042053826" lng="-0.13268990034294"/>
+  </nodes>
+  <zones>
+    <zone title="Carteret Street"/>
+    <zone title="Tothill Street"/>
+  </zones>
+</exit>

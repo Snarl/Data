@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Titchfield St - Cavendish St (West)">
+  <nodes>
+    <node lat="51.51765880485812" lng="-0.14040795678329"/>
+    <node lat="51.51788245933172" lng="-0.14052597397995"/>
+  </nodes>
+  <zones>
+    <zone title="Cavendish Pl"/>
+    <zone title="Great Titchfiels St"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Victoria Embankment - Northumberland Ave">
+  <nodes>
+    <node lat="51.50647134190636" lng="-0.12267319077682"/>
+    <node lat="51.50636616471684" lng="-0.12218502873611"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Embankment"/>
+    <zone title="Northumberland Avenue"/>
+  </zones>
+</exit>

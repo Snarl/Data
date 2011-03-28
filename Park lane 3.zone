@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<zone title="Park lane 3">
+  <nodes maxlat="51.50405971814278" maxlng="-0.15066874736976" minlat="51.50331842497266" minlng="-0.15129101986122">
+    <node lat="51.50402632681792" lng="-0.15129101986122"/>
+    <node lat="51.50405971814278" lng="-0.15100134128761"/>
+    <node lat="51.50331842497266" lng="-0.15066874736976"/>
+    <node lat="51.5033451384495" lng="-0.15107644314003"/>
+  </nodes>
+  <exits>
+    <exit title="Park Lane 3 - Piccadilly Arcade"/>
+  </exits>
+</zone>

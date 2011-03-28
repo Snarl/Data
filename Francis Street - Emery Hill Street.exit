@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Francis Street - Emery Hill Street">
+  <nodes>
+    <node lat="51.49550489576484" lng="-0.13755006307792"/>
+    <node lat="51.49541639208923" lng="-0.13768685573768"/>
+  </nodes>
+  <zones>
+    <zone title="Francis Street"/>
+    <zone title="Emery Hill Street"/>
+  </zones>
+</exit>

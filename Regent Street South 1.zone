@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<zone title="Regent Street South 1" status="orange" reason="Crammed, scuffles between protesters and police.">
+  <nodes maxlat="51.51507084242161" maxlng="-0.13521520013046" minlat="51.50970416993511" minlng="-0.14212457055282">
+    <node lat="51.51504079749267" lng="-0.14212457055282"/>
+    <node lat="51.51507084242161" lng="-0.1417785655899"/>
+    <node lat="51.51435142784567" lng="-0.14151839131546"/>
+    <node lat="51.5102383616255" lng="-0.13790277356338"/>
+    <node lat="51.50993787957039" lng="-0.1369157206459"/>
+    <node lat="51.51005807263026" lng="-0.13532248849106"/>
+    <node lat="51.50993120216886" lng="-0.13521520013046"/>
+    <node lat="51.50970416993511" lng="-0.13632563466263"/>
+    <node lat="51.50975758938605" lng="-0.1370766531868"/>
+    <node lat="51.50993120216889" lng="-0.13777402753067"/>
+    <node lat="51.51033017519148" lng="-0.13845262641144"/>
+    <node lat="51.51204788943026" lng="-0.13998416775894"/>
+    <node lat="51.5131036923301" lng="-0.14092830533218"/>
+    <node lat="51.51398003188339" lng="-0.1417597901268"/>
+  </nodes>
+  <exits>
+    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="South Regent Street - Piccadilly Circus"/>
+    <exit title="South Regent Street - Piccadilly Circus"/>
+    <exit title="South Regent Street - Piccadilly Circus"/>
+    <exit title="South Regent Street 1 - klsdjf"/>
+    <exit title="South Regent Street 1 - klsdjf"/>
+    <exit title="South Regent Street 1 - klsdjf"/>
+    <exit title="Princes St - Regent Street 1"/>
+    <exit title="Princes St - Regent Street 1"/>
+    <exit title="Princes St - Regent Street 1"/>
+    <exit title="Hanover Street - Regent Street 1"/>
+    <exit title="Hanover Street - Regent Street 1"/>
+    <exit title="Maddox St - Regent Street 1"/>
+    <exit title="Maddox St - Regent Street 1"/>
+    <exit title="Conduit Street - Regent Street 1"/>
+    <exit title="Conduit Street - Regent Street 1"/>
+    <exit title="Maddox St - Regent Street 1"/>
+    <exit title="Conduit Street - Regent Street 1"/>
+    <exit title="Little Argyll Street - Regents Street"/>
+    <exit title="New Burlington Pl - Regent St"/>
+    <exit title="New Burlington Pl - Regent St"/>
+    <exit title="Little Argyll Street - Regents Street"/>
+    <exit title="Vigo St - Regent St"/>
+    <exit title="Vigo St - Regent St"/>
+    <exit title="New Burlington St - Regent St"/>
+    <exit title="New Burlington St - Regent St"/>
+    <exit title="Heddon St - Regent St"/>
+    <exit title="Heddon St - Regent St"/>
+    <exit title="Beak Street - Regent Street"/>
+    <exit title="Beak Street - Regent Street"/>
+    <exit title="Fouberts Place - Regent Street"/>
+    <exit title="Fouberts Place - Regent Street"/>
+    <exit title="Regent St-Air St"/>
+    <exit title="Regent St-Air St"/>
+    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="Air Street - Regent St"/>
+    <exit title="Air Street - Regent St"/>
+    <exit title="Swallow St - Regent Street South 1"/>
+  </exits>
+</zone>

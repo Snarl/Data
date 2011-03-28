@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Cadogan Place Park Lower - Pont Street">
+  <nodes>
+    <node lat="51.4972665841176" lng="-0.15756336564255"/>
+    <node lat="51.49712297984344" lng="-0.15879181737137"/>
+  </nodes>
+  <zones>
+    <zone title="Cadogan Place Park Lower"/>
+    <zone title="Pont Street"/>
+  </zones>
+</exit>

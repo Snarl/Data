@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marsham Street - Great Peter Street">
+  <nodes>
+    <node lat="51.49678943212196" lng="-0.12950880045128"/>
+    <node lat="51.49686791415802" lng="-0.12928081268501"/>
+  </nodes>
+  <zones>
+    <zone title="Great Peter Street"/>
+    <zone title="Marsham Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Belgrave Square - Belgrave Place">
+  <nodes>
+    <node lat="51.4979996267925" lng="-0.15340057725143"/>
+    <node lat="51.4981265304777" lng="-0.15313235634994"/>
+  </nodes>
+  <zones>
+    <zone title="Belgrave Square Gardens"/>
+    <zone title="Belgrave Place"/>
+  </zones>
+</exit>

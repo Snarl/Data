@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Chapter Street">
+  <nodes maxlat="51.49238086247886" maxlng="-0.13236401194763" minlat="51.49095633577199" minlng="-0.13420668954086">
+    <node lat="51.49238086247886" lng="-0.13236937636566"/>
+    <node lat="51.49219883282458" lng="-0.13236401194763"/>
+    <node lat="51.49197171223674" lng="-0.13276902550888"/>
+    <node lat="51.4913521348795" lng="-0.13357368821335"/>
+    <node lat="51.49095633577199" lng="-0.13405648583603"/>
+    <node lat="51.49102814767954" lng="-0.13420668954086"/>
+    <node lat="51.49150076741216" lng="-0.1335656415863"/>
+    <node lat="51.49201012241564" lng="-0.13287899607849"/>
+    <node lat="51.49232074267344" lng="-0.1324847113533"/>
+  </nodes>
+  <exits>
+    <exit title="Regency Street - Chapter Street"/>
+    <exit title="Chapter Street - Esterbrooke Street (NE)"/>
+    <exit title="Chapter Street - Esterbrooke Street (NW)"/>
+    <exit title="Chapter Street - Esterbrooke Street (SW)"/>
+    <exit title="Chapter Street - Douglas Street (NE)"/>
+    <exit title="Chapter Street - Douglas Street (SE)"/>
+    <exit title="Chapter Street - Douglas Street (SW)"/>
+    <exit title="Chapter Street - Douglas Street (SE)"/>
+    <exit title="Chapter Street - Douglas Street (NW)"/>
+    <exit title="Chapter Street - Vauxhall Bridge Road"/>
+    <exit title="Chapter Street - Esterbrooke Street (SE)"/>
+  </exits>
+</zone>

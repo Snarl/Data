@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<zone title="Glasshouse Street">
+  <nodes maxlat="51.51056471630144" maxlng="-0.13455403560829" minlat="51.5101507212531" minlng="-0.13803956622314">
+    <node lat="51.51040779926358" lng="-0.13803956622314"/>
+    <node lat="51.51036272724928" lng="-0.1379966508789"/>
+    <node lat="51.51046121788944" lng="-0.13743070477676"/>
+    <node lat="51.51040112193095" lng="-0.1366448175354"/>
+    <node lat="51.51034603390188" lng="-0.13556925172043"/>
+    <node lat="51.51025255102915" lng="-0.1350247632904"/>
+    <node lat="51.5101507212531" lng="-0.13493893260193"/>
+    <node lat="51.51016658000376" lng="-0.13455403560829"/>
+    <node lat="51.51039778326662" lng="-0.13535467499923"/>
+    <node lat="51.5105096284674" lng="-0.13715980166626"/>
+    <node lat="51.51055470033659" lng="-0.1372402679367"/>
+    <node lat="51.51056471630144" lng="-0.13733950967026"/>
+  </nodes>
+  <exits>
+    <exit title="Picadilly Circus-Glasshouse St"/>
+    <exit title="Sherwood St-Glasshouse St"/>
+    <exit title="Sherwood St-Glasshouse St"/>
+    <exit title="Glasshouse St-Air St"/>
+    <exit title="Glasshouse St-Air St"/>
+    <exit title="Warwick Street - Glasshouse St"/>
+    <exit title="Warwick Street - Glasshouse St"/>
+    <exit title="Brewer Street - Glasshouse St"/>
+    <exit title="Brewer Street - Glasshouse St"/>
+    <exit title="Brewer Street - Air Street (North)"/>
+    <exit title="Brewer Street - Air Street (North)"/>
+  </exits>
+</zone>

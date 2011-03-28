@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Storey's Gate - Matthew Parker Street">
+  <nodes>
+    <node lat="51.50035563628035" lng="-0.12975556368065"/>
+    <node lat="51.50025044497448" lng="-0.12975556368065"/>
+  </nodes>
+  <zones>
+    <zone title="Storey\'s Gate"/>
+    <zone title="Matthew Parker Street"/>
+  </zones>
+</exit>

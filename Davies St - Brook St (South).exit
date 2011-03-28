@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Davies St - Brook St (South)">
+  <nodes>
+    <node lat="51.5125515897618" lng="-0.14844184333515"/>
+    <node lat="51.5126083443789" lng="-0.14811461383533"/>
+  </nodes>
+  <zones>
+    <zone title="Brook Street"/>
+    <zone title="Davies St"/>
+  </zones>
+</exit>

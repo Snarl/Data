@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hungerford Bridge - Embankment" status="green" reason="">
+  <nodes>
+    <node lat="51.50580688510774" lng="-0.11815366858673"/>
+    <node lat="51.50526596337297" lng="-0.11857209319305"/>
+  </nodes>
+  <zones>
+    <zone title="Southbank Centre"/>
+    <zone title="Hungerford Bridge"/>
+  </zones>
+</exit>

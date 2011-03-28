@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Greencoat Row - Francis Street">
+  <nodes>
+    <node lat="51.49580380313491" lng="-0.13721881026459"/>
+    <node lat="51.49572197952454" lng="-0.13731805199814"/>
+  </nodes>
+  <zones>
+    <zone title="Francis Street"/>
+    <zone title="Greencoat Row"/>
+  </zones>
+</exit>

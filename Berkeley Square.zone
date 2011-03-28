@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<zone title="Berkeley Square" status="orange" reason="Protesters fleeing baton charge.">
+  <nodes maxlat="51.51046038318762" maxlng="-0.14445943350029" minlat="51.50874427848574" minlng="-0.14703971857261">
+    <node lat="51.51020330547134" lng="-0.14703971857261"/>
+    <node lat="51.51046038318762" lng="-0.1461545895977"/>
+    <node lat="51.50918499636772" lng="-0.14445943350029"/>
+    <node lat="51.50874427848574" lng="-0.1454518508358"/>
+  </nodes>
+  <exits/>
+</zone>

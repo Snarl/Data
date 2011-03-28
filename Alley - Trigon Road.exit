@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Alley - Trigon Road">
+  <nodes>
+    <node lat="51.48052153146376" lng="-0.11593011731338"/>
+    <node lat="51.48048895810813" lng="-0.11590731853676"/>
+  </nodes>
+  <zones>
+    <zone title="Trigon Road"/>
+    <zone title="Alley off Carroun Road"/>
+  </zones>
+</exit>

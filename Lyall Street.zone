@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="Lyall Street">
+  <nodes maxlat="51.49681239230691" maxlng="-0.15360174292755" minlat="51.49535293651648" minlng="-0.15572605246734">
+    <node lat="51.49655857726533" lng="-0.15569923037719"/>
+    <node lat="51.49535293651648" lng="-0.15375731105041"/>
+    <node lat="51.49545312948339" lng="-0.15360174292755"/>
+    <node lat="51.49681239230691" lng="-0.15572605246734"/>
+  </nodes>
+  <exits>
+    <exit title="Lyall Street - Eaton Square"/>
+    <exit title="Lyall Street - Eaton Place (2)"/>
+  </exits>
+</zone>

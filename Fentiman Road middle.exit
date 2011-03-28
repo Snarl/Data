@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fentiman Road middle">
+  <nodes>
+    <node lat="51.48124983221102" lng="-0.11983541363907"/>
+    <node lat="51.48135339696918" lng="-0.11974555963707"/>
+  </nodes>
+  <zones>
+    <zone title="Fentiman Road (west)"/>
+    <zone title="Fentiman Road (east)"/>
+  </zones>
+</exit>

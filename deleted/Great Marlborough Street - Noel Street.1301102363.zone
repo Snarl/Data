@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Marlborough Street - Noel Street">
+  <nodes>
+    <node lat="51.51486470044516" lng="-0.13726038450432"/>
+    <node lat="51.51475620428393" lng="-0.13719332927894"/>
+  </nodes>
+  <zones>
+    <zone title="Noel Street"/>
+    <zone title="Great Marlborough Street"/>
+  </zones>
+</exit>

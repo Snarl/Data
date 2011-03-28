@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Langham Pl - Cavendish Pl (West)">
+  <nodes>
+    <node lat="51.51741845852794" lng="-0.14310625905227"/>
+    <node lat="51.5172181689506" lng="-0.14300969952774"/>
+  </nodes>
+  <zones>
+    <zone title="Cavendish Pl"/>
+    <zone title="Langham Pl"/>
+  </zones>
+</exit>

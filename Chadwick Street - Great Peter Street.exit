@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Chadwick Street - Great Peter Street">
+  <nodes>
+    <node lat="51.49677148142869" lng="-0.1321239542408"/>
+    <node lat="51.49675227834921" lng="-0.13223660701942"/>
+  </nodes>
+  <zones>
+    <zone title="Great Peter Street"/>
+    <zone title="Chadwick Street"/>
+  </zones>
+</exit>

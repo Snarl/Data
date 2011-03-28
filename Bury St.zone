@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Bury St">
+  <nodes maxlat="51.50762994436386" maxlng="-0.13794837111664" minlat="51.50632275814814" minlng="-0.13926265353393">
+    <node lat="51.50632275814814" lng="-0.13804761285019"/>
+    <node lat="51.50636616467812" lng="-0.13794837111664"/>
+    <node lat="51.50662326404616" lng="-0.13817367667389"/>
+    <node lat="51.50688870927414" lng="-0.13845262641144"/>
+    <node lat="51.50703562169152" lng="-0.1385894190712"/>
+    <node lat="51.5072226004467" lng="-0.13874766940307"/>
+    <node lat="51.5074079089917" lng="-0.13891933078003"/>
+    <node lat="51.50752310041006" lng="-0.13905075902176"/>
+    <node lat="51.50762994436386" lng="-0.13913390750122"/>
+    <node lat="51.50758987791054" lng="-0.13926265353393"/>
+  </nodes>
+  <exits>
+    <exit title="Bury St - Jermyn St"/>
+    <exit title="Bury St - Jermyn St"/>
+    <exit title="Bury St - King St"/>
+    <exit title="Bury St - King St"/>
+    <exit title="Ryder St - Bury St"/>
+    <exit title="Ryder St - Bury St"/>
+    <exit title="Ryder St - Bury st (West)"/>
+    <exit title="Ryder St - Bury st (West)"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Peter Street - Milbank">
+  <nodes>
+    <node lat="51.49692176611442" lng="-0.12577248329353"/>
+    <node lat="51.4970386538646" lng="-0.12580064648819"/>
+  </nodes>
+  <zones>
+    <zone title="Great Peter Street"/>
+    <zone title="Milbank North"/>
+  </zones>
+</exit>

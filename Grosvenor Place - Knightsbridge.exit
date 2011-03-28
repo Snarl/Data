@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Grosvenor Place - Knightsbridge">
+  <nodes>
+    <node lat="51.50282505766016" lng="-0.15255836362076"/>
+    <node lat="51.50294193027104" lng="-0.15234915131759"/>
+  </nodes>
+  <zones>
+    <zone title="Grosvenor Place"/>
+    <zone title="Knightsbridge"/>
+  </zones>
+</exit>

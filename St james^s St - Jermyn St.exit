@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St james's St - Jermyn St">
+  <nodes>
+    <node lat="51.50735198260224" lng="-0.13987956160736"/>
+    <node lat="51.50743378533408" lng="-0.13996539229584"/>
+  </nodes>
+  <zones>
+    <zone title="Jermyn St"/>
+    <zone title="St James\'s St"/>
+  </zones>
+</exit>

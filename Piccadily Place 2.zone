@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<zone title="Piccadily Place 2">
+  <nodes maxlat="51.5097083433156" maxlng="-0.13496039027405" minlat="51.50785531751474" minlng="-0.14046428317261">
+    <node lat="51.5079271028004" lng="-0.14046428317261"/>
+    <node lat="51.50785531751474" lng="-0.14036235923004"/>
+    <node lat="51.5079220945283" lng="-0.14018801564407"/>
+    <node lat="51.50805731768108" lng="-0.13983396405411"/>
+    <node lat="51.50822425929142" lng="-0.13934311980438"/>
+    <node lat="51.5082993828165" lng="-0.13907489890289"/>
+    <node lat="51.50840121673052" lng="-0.13879594916534"/>
+    <node lat="51.5085030504169" lng="-0.13845799082947"/>
+    <node lat="51.50857149588154" lng="-0.13819245213699"/>
+    <node lat="51.5086633128067" lng="-0.13790277356338"/>
+    <node lat="51.50874678257812" lng="-0.13760504836273"/>
+    <node lat="51.5088269134148" lng="-0.13734487408828"/>
+    <node lat="51.50894043185886" lng="-0.13701228017044"/>
+    <node lat="51.50907231322546" lng="-0.13659921998214"/>
+    <node lat="51.50917748416696" lng="-0.13623712176513"/>
+    <node lat="51.50927430799488" lng="-0.13596890086365"/>
+    <node lat="51.5093527685321" lng="-0.13573018426132"/>
+    <node lat="51.50948297933824" lng="-0.13536540383529"/>
+    <node lat="51.50961986722038" lng="-0.13496039027405"/>
+    <node lat="51.5097083433156" lng="-0.13502744549942"/>
+  </nodes>
+  <exits>
+    <exit title="Piccadily - Eagle St"/>
+    <exit title="Church Pl - Piccadily "/>
+    <exit title="Duke Street Saint James\'s - Piccadily"/>
+    <exit title="Duke Street Saint James\'s - Piccadily"/>
+    <exit title="Church Pl - Piccadily "/>
+    <exit title="Piccadily Place 2 - St James\'s Pl"/>
+    <exit title="Piccadily Place 2 - St James\'s Pl"/>
+    <exit title="Burlington Arcade - Piccadily Place 2"/>
+    <exit title="Burlington Arcade - Piccadily Place 2"/>
+    <exit title="Burlington Arcade - Piccadily Place 2"/>
+    <exit title="Sackville St - Piccadily Place 2"/>
+    <exit title="Sackville St - Piccadily Place 2"/>
+    <exit title="Piccadily Place 2 - Swallow St"/>
+    <exit title="Piccadily Place 2 - Swallow St"/>
+    <exit title="Air Street - Piccadily Place 2"/>
+    <exit title="Air Street - Piccadily Place 2"/>
+    <exit title="Piccadily Place 2 - Piccadily Circus"/>
+    <exit title="Piccadily Place 2 - Piccadily Circus"/>
+    <exit title="Piccadily Place 2 - Piccadily Circus"/>
+    <exit title="Piccadily Place 2 - St James\'s Pl"/>
+    <exit title="Sackville St - Piccadily Place 2"/>
+    <exit title="Piccadily Place 2 - St James\'s Pl"/>
+  </exits>
+</zone>

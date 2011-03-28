@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="St James' Park Broadway - Victoria Street">
+  <nodes>
+    <node lat="51.49800547104923" lng="-0.13393444532585"/>
+    <node lat="51.49795621229308" lng="-0.13408196682167"/>
+  </nodes>
+  <zones>
+    <zone title="St James\'s Park Broadway"/>
+    <zone title="Victoria Street"/>
+  </zones>
+</exit>

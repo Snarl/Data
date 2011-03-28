@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="King St">
+  <nodes maxlat="51.5069588266207" maxlng="-0.13611374015045" minlat="51.50598051290338" minlng="-0.13867524975967">
+    <node lat="51.50598051290338" lng="-0.13859478348922"/>
+    <node lat="51.5060890299658" lng="-0.13867524975967"/>
+    <node lat="51.50622759753132" lng="-0.13828901166153"/>
+    <node lat="51.50632108866276" lng="-0.13804761285019"/>
+    <node lat="51.50642125751932" lng="-0.13776866311264"/>
+    <node lat="51.50652977353206" lng="-0.13747630233001"/>
+    <node lat="51.5066266029868" lng="-0.1372027170105"/>
+    <node lat="51.50673511851048" lng="-0.13688085192871"/>
+    <node lat="51.506860328409" lng="-0.13652680033874"/>
+    <node lat="51.5069588266207" lng="-0.13619957083893"/>
+    <node lat="51.50686199787198" lng="-0.13611374015045"/>
+  </nodes>
+  <exits>
+    <exit title="King St - St James\'s Square"/>
+    <exit title="King St - St James\'s Square"/>
+    <exit title="St James\'s St - King St"/>
+    <exit title="St James\'s St - King St"/>
+    <exit title="St James\'s St - King St"/>
+  </exits>
+</zone>

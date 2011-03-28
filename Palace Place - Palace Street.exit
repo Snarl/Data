@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Palace Place - Palace Street">
+  <nodes>
+    <node lat="51.49899647912344" lng="-0.14265430683326"/>
+    <node lat="51.49897978160901" lng="-0.14253897184562"/>
+  </nodes>
+  <zones>
+    <zone title="Palace Street"/>
+    <zone title="Palace Place"/>
+  </zones>
+</exit>

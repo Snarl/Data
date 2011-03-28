@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Burlington Arcade - Burlington Gardens (East)">
+  <nodes>
+    <node lat="51.50981768619166" lng="-0.14085186237526"/>
+    <node lat="51.50970083121562" lng="-0.14071238750648"/>
+  </nodes>
+  <zones>
+    <zone title="Cork St"/>
+    <zone title="Burlington Gardens"/>
+  </zones>
+</exit>

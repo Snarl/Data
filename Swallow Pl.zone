@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Swallow Pl">
+  <nodes maxlat="51.51510255642042" maxlng="-0.14224526995849" minlat="51.51460514372446" minlng="-0.14259932154846">
+    <node lat="51.51506917318804" lng="-0.14259932154846"/>
+    <node lat="51.51510255642042" lng="-0.14243302458954"/>
+    <node lat="51.51460514372446" lng="-0.14224526995849"/>
+    <node lat="51.51461849715638" lng="-0.14237938040924"/>
+  </nodes>
+  <exits>
+    <exit title="Swallow Pl - West Oxford Street 2"/>
+    <exit title="Swallow Pl - West Oxford Street 2"/>
+    <exit title="Swallow Pl - Princes St"/>
+  </exits>
+</zone>

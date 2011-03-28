@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Vincent Street">
+  <nodes maxlat="51.49307348701816" maxlng="-0.12913731450271" minlat="51.49284303083486" minlng="-0.13365415448379">
+    <node lat="51.49307348701816" lng="-0.12913999671173"/>
+    <node lat="51.49297662876418" lng="-0.12913731450271"/>
+    <node lat="51.49292318963944" lng="-0.13109264487457"/>
+    <node lat="51.49289480007894" lng="-0.13219503277969"/>
+    <node lat="51.49288144027966" lng="-0.13302383536529"/>
+    <node lat="51.49284303083486" lng="-0.13319013232422"/>
+    <node lat="51.49294322931856" lng="-0.13365415448379"/>
+    <node lat="51.49300835821488" lng="-0.13361392134857"/>
+    <node lat="51.49294155934564" lng="-0.13324645871353"/>
+    <node lat="51.49300668824434" lng="-0.13135013694"/>
+    <node lat="51.4930417576128" lng="-0.13015387171936"/>
+  </nodes>
+  <exits>
+    <exit title="Vincent Street - Marsham Street"/>
+    <exit title="Vincent Street - Marsham Street"/>
+    <exit title="Vincent Street - Marsham Street"/>
+    <exit title="Vincent Area - Hide Place"/>
+    <exit title="Regency Street - Vincent Street (N)"/>
+    <exit title="Regency Street - Vincent Street (S)"/>
+    <exit title="Regency Street - Vincent Street (W)"/>
+    <exit title="Regency Street - Vincent Street (E)"/>
+    <exit title="Vincent Square - Vincent Street"/>
+  </exits>
+</zone>

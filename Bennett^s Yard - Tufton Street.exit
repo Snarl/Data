@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bennett's Yard - Tufton Street">
+  <nodes>
+    <node lat="51.49607348602932" lng="-0.12844798678589"/>
+    <node lat="51.4959599355289" lng="-0.12842384690475"/>
+  </nodes>
+  <zones>
+    <zone title="Tufton Street"/>
+    <zone title="Bennett\'s Yard"/>
+  </zones>
+</exit>

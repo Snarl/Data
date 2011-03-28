@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Regency Street - Esterbrooke Street">
+  <nodes>
+    <node lat="51.4918865417275" lng="-0.13235060090256"/>
+    <node lat="51.49179135096682" lng="-0.13234523648453"/>
+  </nodes>
+  <zones>
+    <zone title="Regency Street"/>
+    <zone title="Esterbrooke Street"/>
+  </zones>
+</exit>

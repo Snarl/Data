@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Smith Street - Victoria Street">
+  <nodes>
+    <node lat="51.49921688573538" lng="-0.12993929499817"/>
+    <node lat="51.49930037281196" lng="-0.12969789618683"/>
+  </nodes>
+  <zones>
+    <zone title="Victoria Street"/>
+    <zone title="Great Smith Street"/>
+  </zones>
+</exit>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<zone title="White Horse St">
+  <nodes maxlat="51.50630022009122" maxlng="-0.1452359330101" minlat="51.50558233651304" minlng="-0.14630881661606">
+    <node lat="51.5062301017285" lng="-0.14630881661606"/>
+    <node lat="51.50630022009122" lng="-0.1462444435997"/>
+    <node lat="51.50560570964486" lng="-0.1452359330101"/>
+    <node lat="51.50558233651304" lng="-0.14533785695266"/>
+  </nodes>
+  <exits>
+    <exit title="White Horse St - Piccadily Place 1"/>
+    <exit title="White Horse St - Piccadily Place 1"/>
+  </exits>
+</zone>

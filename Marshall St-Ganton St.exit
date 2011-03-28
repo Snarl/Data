@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Marshall St-Ganton St">
+  <nodes>
+    <node lat="51.5134291918622" lng="-0.13809857482147"/>
+    <node lat="51.51332236150811" lng="-0.13802347296905"/>
+  </nodes>
+  <zones>
+    <zone title="Marshall Street"/>
+    <zone title="Ganton Street"/>
+  </zones>
+</exit>

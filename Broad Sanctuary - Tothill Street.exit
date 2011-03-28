@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Broad Sanctuary - Tothill Street">
+  <nodes>
+    <node lat="51.4997687324801" lng="-0.12996611708832"/>
+    <node lat="51.49960009016094" lng="-0.12992856616211"/>
+  </nodes>
+  <zones>
+    <zone title="Broad Santuary"/>
+    <zone title="Tothill Street"/>
+  </zones>
+</exit>

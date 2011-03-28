@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Dering St">
+  <nodes maxlat="51.51461182044596" maxlng="-0.14544782752228" minlat="51.51398420482224" minlng="-0.14619884604645">
+    <node lat="51.51459179029368" lng="-0.14619884604645"/>
+    <node lat="51.51461182044596" lng="-0.14607546443176"/>
+    <node lat="51.51399755843616" lng="-0.14544782752228"/>
+    <node lat="51.51398420482224" lng="-0.14552292937469"/>
+  </nodes>
+  <exits>
+    <exit title="West Oxford Street - Dering St"/>
+    <exit title="West Oxford Street - Dering St"/>
+    <exit title="West Oxford Street - Dering St"/>
+    <exit title="West Oxford Street - Dering St"/>
+    <exit title="Tenterden St - Dering St"/>
+    <exit title="Tenterden St - Dering St"/>
+  </exits>
+</zone>

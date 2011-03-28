@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Charles Street 2">
+  <nodes maxlat="51.50874511315056" maxlng="-0.14534992689323" minlat="51.50770506884274" minlng="-0.14743668550682">
+    <node lat="51.5077668377874" lng="-0.14743668550682"/>
+    <node lat="51.50770506884274" lng="-0.14731062168312"/>
+    <node lat="51.50826432515326" lng="-0.14618945831489"/>
+    <node lat="51.5087133946543" lng="-0.14534992689323"/>
+    <node lat="51.50874511315056" lng="-0.14552158827019"/>
+  </nodes>
+  <exits>
+    <exit title="Charlies St - Hay\'s Mews"/>
+    <exit title="Charlies St - Hay\'s Mews"/>
+  </exits>
+</zone>

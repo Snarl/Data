@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<zone title="Great College Street">
+  <nodes maxlat="51.4979712403922" maxlng="-0.12584892625046" minlat="51.49749367832326" minlng="-0.12861696595382">
+    <node lat="51.49760722500286" lng="-0.12647924536896"/>
+    <node lat="51.49759720618956" lng="-0.12586770171356"/>
+    <node lat="51.49750536696508" lng="-0.12584892625046"/>
+    <node lat="51.49749367832326" lng="-0.12658653372955"/>
+    <node lat="51.49753208384946" lng="-0.12670455092621"/>
+    <node lat="51.4977007338207" lng="-0.127747930233"/>
+    <node lat="51.49774247876676" lng="-0.12786058301162"/>
+    <node lat="51.4978794019214" lng="-0.12861696595382"/>
+    <node lat="51.4979712403922" lng="-0.12859550828171"/>
+    <node lat="51.4978159497789" lng="-0.1278203498764"/>
+    <node lat="51.49768403583164" lng="-0.12719271296692"/>
+    <node lat="51.4976255928215" lng="-0.1267930638237"/>
+  </nodes>
+  <exits>
+    <exit title="Great College Street - Little College Street"/>
+    <exit title="Great College Street - Little College Street"/>
+    <exit title="Barton Street - Great College Street"/>
+    <exit title="Great College Street - Tufton Street"/>
+    <exit title="Great College Street - Little College Street"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ponsonby Place - Milbank">
+  <nodes>
+    <node lat="51.48935765652056" lng="-0.12855259293747"/>
+    <node lat="51.4894328111494" lng="-0.12836483830642"/>
+  </nodes>
+  <zones>
+    <zone title="Ponsonby Place"/>
+    <zone title="Milbank South"/>
+  </zones>
+</exit>

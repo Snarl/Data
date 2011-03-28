@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Great Chapel Street - East Oxford Street 1">
+  <nodes>
+    <node lat="51.5159521514914" lng="-0.13469753379059"/>
+    <node lat="51.51597885756156" lng="-0.13454733008575"/>
+  </nodes>
+  <zones>
+    <zone title="East Oxford Street 2"/>
+    <zone title="Great Chapel Street"/>
+  </zones>
+</exit>

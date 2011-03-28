@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Caxton Street - Vandon Street">
+  <nodes>
+    <node lat="51.49859239755614" lng="-0.13611239904594"/>
+    <node lat="51.49859239755614" lng="-0.13620627636146"/>
+  </nodes>
+  <zones>
+    <zone title="Vandon Street"/>
+    <zone title="Caxton Street"/>
+  </zones>
+</exit>

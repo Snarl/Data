@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Ambassador's Court - Buckingham Palce">
+  <nodes>
+    <node lat="51.5005994120234" lng="-0.14140305632782"/>
+    <node lat="51.50025211467888" lng="-0.1409685384674"/>
+  </nodes>
+  <zones>
+    <zone title="Buckingham Palace Gardens"/>
+    <zone title="Buckingham Palace"/>
+  </zones>
+</exit>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Lanesborough Place">
+  <nodes maxlat="51.5026497481818" maxlng="-0.15270856732559" minlat="51.50210211041984" minlng="-0.15315381402206">
+    <node lat="51.50260633811154" lng="-0.15315381402206"/>
+    <node lat="51.50210211041984" lng="-0.15276757592392"/>
+    <node lat="51.50213216388234" lng="-0.15270856732559"/>
+    <node lat="51.5026497481818" lng="-0.15310553425979"/>
+  </nodes>
+  <exits>
+    <exit title="Lanesborough Place - Knightsbridge "/>
+    <exit title="Lanesborough Place - Knightsbridge "/>
+    <exit title="Lanesborough Place - Knightsbridge"/>
+    <exit title="Lanesborough Place - Grosvenor Crescent"/>
+  </exits>
+</zone>

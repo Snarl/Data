@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Culross St - Park lane">
+  <nodes>
+    <node lat="51.5104520364705" lng="-0.15644220227432"/>
+    <node lat="51.51057890548148" lng="-0.15656021947098"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

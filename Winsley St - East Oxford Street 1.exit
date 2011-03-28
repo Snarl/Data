@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Winsley St - East Oxford Street 1">
+  <nodes>
+    <node lat="51.51576604316354" lng="-0.13845530862045"/>
+    <node lat="51.51577939625512" lng="-0.13830510491562"/>
+  </nodes>
+  <zones>
+    <zone title="Winsley St"/>
+    <zone title="East Oxford Street 1"/>
+  </zones>
+</exit>

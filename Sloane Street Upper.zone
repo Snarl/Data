@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<zone title="Sloane Street Upper">
+  <nodes maxlat="51.50173311907005" maxlng="-0.15890178794098" minlat="51.49723819726296" minlng="-0.16045210475158">
+    <node lat="51.50173311907005" lng="-0.1601838838501"/>
+    <node lat="51.50164629714189" lng="-0.16045210475158"/>
+    <node lat="51.50120884567994" lng="-0.16026435012054"/>
+    <node lat="51.50015360197131" lng="-0.15998003596496"/>
+    <node lat="51.4997395123219" lng="-0.15986738318634"/>
+    <node lat="51.49939554789774" lng="-0.1597708236618"/>
+    <node lat="51.49909165483883" lng="-0.15969035739136"/>
+    <node lat="51.49723819726296" lng="-0.15919951314163"/>
+    <node lat="51.49726825393295" lng="-0.15890178794098"/>
+    <node lat="51.500237087332" lng="-0.15974400157165"/>
+  </nodes>
+  <exits>
+    <exit title="Cadogan Park Upper - Sloane Street Upper"/>
+    <exit title="Knightsbridge - Sloane Street"/>
+    <exit title="Knightsbridge - Sloane Street"/>
+    <exit title="Harriet Street - Sloane Street"/>
+    <exit title="Knightsbridge - Sloane Street"/>
+    <exit title="Hans Crescent - Sloane Street"/>
+    <exit title="Cadogan Park Upper - Sloane Street Upper"/>
+    <exit title="Sloane Street North - Pont Street"/>
+    <exit title="Hans Crescent - Sloane Street"/>
+    <exit title="Sloane Street - Basil Road"/>
+    <exit title="Basil Street - Sloane Street"/>
+    <exit title="Basil Street - Sloane Street"/>
+  </exits>
+</zone>

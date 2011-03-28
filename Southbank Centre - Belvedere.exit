@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Southbank Centre - Belvedere">
+  <nodes>
+    <node lat="51.50437276064954" lng="-0.1171397935791"/>
+    <node lat="51.50623594500274" lng="-0.11525151843261"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

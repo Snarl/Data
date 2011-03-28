@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Upper Berkely St-Seymour Pl">
+  <nodes>
+    <node lat="51.5154071773725" lng="-0.16125140303802"/>
+    <node lat="51.51516681916073" lng="-0.16112265700531"/>
+  </nodes>
+  <zones>
+    <zone title="Seymour Pl"/>
+    <zone title="Upper Berkely St"/>
+  </zones>
+</exit>

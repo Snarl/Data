@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Willow Place - Rochester Row">
+  <nodes>
+    <node lat="51.49295825907803" lng="-0.13799262756538"/>
+    <node lat="51.49309018670223" lng="-0.1378156017704"/>
+  </nodes>
+  <zones>
+    <zone title="Willow Place"/>
+    <zone title="Rochester Row"/>
+  </zones>
+</exit>

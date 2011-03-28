@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Brompton Road - Hans Road">
+  <nodes>
+    <node lat="51.4990382228818" lng="-0.16442982072067"/>
+    <node lat="51.49912171028564" lng="-0.16428498143387"/>
+  </nodes>
+  <zones>
+    <zone title="Brompton Road"/>
+    <zone title="Hans Road"/>
+  </zones>
+</exit>

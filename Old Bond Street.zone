@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Old Bond Street">
+  <nodes maxlat="51.50957479462202" maxlng="-0.1401397358818" minlat="51.5081591523303" minlng="-0.14158276433182">
+    <node lat="51.50957479462202" lng="-0.14142719620895"/>
+    <node lat="51.50950134256618" lng="-0.14158276433182"/>
+    <node lat="51.50885028507641" lng="-0.14097658509445"/>
+    <node lat="51.5081591523303" lng="-0.14022020215225"/>
+    <node lat="51.50820255711081" lng="-0.1401397358818"/>
+  </nodes>
+  <exits>
+    <exit title="Burlington Gardens - Old Bond St."/>
+    <exit title="Burlington Gardens - Old Bond St."/>
+  </exits>
+</zone>

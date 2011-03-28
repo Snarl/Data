@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Picadilly Arcade">
+  <nodes maxlat="51.50335014724326" maxlng="-0.14992041105461" minlat="51.50303960214202" minlng="-0.15232903474998">
+    <node lat="51.50310304701214" lng="-0.15232903474998"/>
+    <node lat="51.50303960214202" lng="-0.15229148382377"/>
+    <node lat="51.50334012969236" lng="-0.14992041105461"/>
+    <node lat="51.50335014724326" lng="-0.15077871793937"/>
+    <node lat="51.50329672027978" lng="-0.15110058302116"/>
+  </nodes>
+  <exits>
+    <exit title="Park Lane 3 - Piccadilly Arcade"/>
+    <exit title="Piccadilly Arcade - Knightsbridge"/>
+    <exit title="Piccadilly Arcade - Wellington Arch"/>
+  </exits>
+</zone>

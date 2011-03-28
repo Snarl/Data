@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<zone title="Lowndes Square">
+  <nodes maxlat="51.50146680914695" maxlng="-0.15777660125923" minlat="51.49899564441732" minlng="-0.15924645179939">
+    <node lat="51.50137998671143" lng="-0.15924645179939"/>
+    <node lat="51.50146680914695" lng="-0.15844178909492"/>
+    <node lat="51.49949322754862" lng="-0.15789998287391"/>
+    <node lat="51.49899564441732" lng="-0.15777660125923"/>
+    <node lat="51.49903237892817" lng="-0.1580233644886"/>
+    <node lat="51.49944564013314" lng="-0.15811992401314"/>
+    <node lat="51.49937885069699" lng="-0.15871537441444"/>
+  </nodes>
+  <exits>
+    <exit title="Seville Street - Lowndes Square"/>
+    <exit title="William Mews - Lowndes Squares"/>
+    <exit title="Harriet Street - Lowndes Square"/>
+    <exit title="Harriet Walk - Lowndes Square"/>
+    <exit title="Lowndes Square - Lowndes Street"/>
+    <exit title="Lowndes Square - Albert Gate"/>
+    <exit title="Lowndes Square - William Mews"/>
+  </exits>
+</zone>

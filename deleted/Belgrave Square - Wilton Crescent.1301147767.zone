@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="Belgrave Square - Wilton Crescent">
+  <nodes>
+    <node lat="51.49946400704258" lng="-0.15519229287338"/>
+    <node lat="51.49907996660292" lng="-0.15538541192245"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

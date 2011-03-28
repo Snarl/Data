@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Waverton St - South St">
+  <nodes>
+    <node lat="51.50856815710372" lng="-0.15003172272873"/>
+    <node lat="51.5086215778866" lng="-0.14975813740921"/>
+  </nodes>
+  <zones>
+    <zone title="South St"/>
+    <zone title="Waverton St"/>
+  </zones>
+</exit>

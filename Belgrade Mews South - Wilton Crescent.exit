@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Belgrade Mews South - Wilton Crescent">
+  <nodes>
+    <node lat="51.49988978722688" lng="-0.15582529420089"/>
+    <node lat="51.49978292512348" lng="-0.15566436166"/>
+  </nodes>
+  <zones>
+    <zone title="Belgrave Mews North"/>
+    <zone title="Wilton Crescent"/>
+  </zones>
+</exit>

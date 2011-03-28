@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lowndes Street - Motcomb Street">
+  <nodes>
+    <node lat="51.49892634952096" lng="-0.15763310307693"/>
+    <node lat="51.49882282467368" lng="-0.1574828993721"/>
+  </nodes>
+  <zones>
+    <zone title="Motcomb Street"/>
+    <zone title="Lowndes Street"/>
+  </zones>
+</exit>

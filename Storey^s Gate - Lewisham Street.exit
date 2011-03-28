@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Storey's Gate - Lewisham Street">
+  <nodes>
+    <node lat="51.50070460252459" lng="-0.12972337717247"/>
+    <node lat="51.50052594549893" lng="-0.12975288147163"/>
+  </nodes>
+  <zones>
+    <zone title="Storey\'s Gate"/>
+    <zone title="Lewisham Street"/>
+  </zones>
+</exit>

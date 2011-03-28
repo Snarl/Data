@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Berwick Street - D'Arblay Street">
+  <nodes>
+    <node lat="51.51467942222711" lng="-0.1359608542366"/>
+    <node lat="51.51457927152626" lng="-0.13585624808502"/>
+  </nodes>
+  <zones>
+    <zone title="D\'Arblay Street"/>
+    <zone title="Berwick Street"/>
+  </zones>
+</exit>

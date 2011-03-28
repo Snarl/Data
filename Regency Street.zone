@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<zone title="Regency Street">
+  <nodes maxlat="51.49487701691122" maxlng="-0.13195497507286" minlat="51.4900006421181" minlng="-0.13249409908485">
+    <node lat="51.49487701691122" lng="-0.13249409908485"/>
+    <node lat="51.49483693924436" lng="-0.13224733585548"/>
+    <node lat="51.4948118906847" lng="-0.13195497507286"/>
+    <node lat="51.49472672547878" lng="-0.13196838611793"/>
+    <node lat="51.4945831132026" lng="-0.1319630216999"/>
+    <node lat="51.4945380255342" lng="-0.13197911495399"/>
+    <node lat="51.49453635561968" lng="-0.1322151493473"/>
+    <node lat="51.49453635561968" lng="-0.13232511991691"/>
+    <node lat="51.4939268327406" lng="-0.13227415794563"/>
+    <node lat="51.493529386035" lng="-0.13223928922844"/>
+    <node lat="51.4929732888201" lng="-0.13219369167518"/>
+    <node lat="51.49255913393438" lng="-0.13218028063011"/>
+    <node lat="51.49146026927264" lng="-0.13214675301742"/>
+    <node lat="51.4910728213117" lng="-0.13211724871826"/>
+    <node lat="51.49061021749356" lng="-0.13211590761375"/>
+    <node lat="51.4900006421181" lng="-0.13208640331459"/>
+    <node lat="51.49010251692614" lng="-0.13222856039238"/>
+    <node lat="51.4911095622076" lng="-0.13230634445381"/>
+  </nodes>
+  <exits>
+    <exit title="Causton Street - Regency Street"/>
+    <exit title="Douglas Street - Regency Street"/>
+    <exit title="Douglas Street - Regency Street"/>
+    <exit title="Causton Street - Regency Street"/>
+    <exit title="Regency Street - Vauxhall Bridge Road"/>
+    <exit title="Regency Street - Chapter Street"/>
+    <exit title="Regency Street - Esterbrooke Street"/>
+    <exit title="Regency Street - Vincent Street (N)"/>
+    <exit title="Regency Street - Vincent Street (S)"/>
+    <exit title="Regency Street - Vincent Street (W)"/>
+    <exit title="Regency Street - Fynes Street"/>
+    <exit title="Regency Street - Page Street"/>
+    <exit title="Regency Street - Horseferry Road"/>
+    <exit title="Regency Street - Vincent Street (E)"/>
+    <exit title="Maunsel Street - Regency Street"/>
+    <exit title="Rutherford Street - Regency Street"/>
+  </exits>
+</zone>

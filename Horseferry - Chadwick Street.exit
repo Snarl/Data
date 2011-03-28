@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horseferry - Chadwick Street">
+  <nodes>
+    <node lat="51.49606513673934" lng="-0.13330680841636"/>
+    <node lat="51.49616198843094" lng="-0.13337654585075"/>
+  </nodes>
+  <zones>
+    <zone title="Chadwick Street"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

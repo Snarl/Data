@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Bessborough Gardens - Milbank">
+  <nodes>
+    <node lat="51.48884075632752" lng="-0.12956378573608"/>
+    <node lat="51.48856017477084" lng="-0.12896028870773"/>
+  </nodes>
+  <zones>
+    <zone title="Milbank South"/>
+    <zone title="Bessborough Gardens"/>
+  </zones>
+</exit>

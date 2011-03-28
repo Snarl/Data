@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="Halkin Street">
+  <nodes maxlat="51.50158952886726" maxlng="-0.15110997075271" minlat="51.50022372968316" minlng="-0.15333620423507">
+    <node lat="51.50043745157226" lng="-0.15316990727615"/>
+    <node lat="51.50022372968316" lng="-0.15333620423507"/>
+    <node lat="51.5002337479191" lng="-0.15310016984176"/>
+    <node lat="51.50143258092034" lng="-0.15110997075271"/>
+    <node lat="51.50158952886726" lng="-0.15135673398208"/>
+    <node lat="51.50143925956738" lng="-0.15155521744919"/>
+    <node lat="51.50146931346702" lng="-0.15160349721145"/>
+    <node lat="51.50110198666802" lng="-0.15216676110458"/>
+    <node lat="51.50121552435838" lng="-0.15234378689956"/>
+    <node lat="51.50091164343488" lng="-0.15281049126816"/>
+    <node lat="51.5007647112726" lng="-0.1525851857109"/>
+  </nodes>
+  <exits>
+    <exit title="Halkin Street - Grosvenor Pl"/>
+    <exit title="Halkin Street - Grosvenor Pl"/>
+    <exit title="Montrose Place - Halkin Street"/>
+    <exit title="Headfort Place - Halkin Street"/>
+    <exit title="Grosvenor Crescent - Halkin Street"/>
+    <exit title="Halkin Street - Grosvenor Crescent"/>
+    <exit title="Halkin Street - Grosvenor Square"/>
+  </exits>
+</zone>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lancelot Place - Brompton Road">
+  <nodes>
+    <node lat="51.49988227344642" lng="-0.16351921076011"/>
+    <node lat="51.50004757529635" lng="-0.16336230153274"/>
+  </nodes>
+  <zones>
+    <zone title="Lancelot Place"/>
+    <zone title="Brompton Road"/>
+  </zones>
+</exit>

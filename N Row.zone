@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<zone title="N Row">
+  <nodes maxlat="51.51372631245838" maxlng="-0.15242425317001" minlat="51.51265132760852" minlng="-0.15807298535537">
+    <node lat="51.51372631245838" lng="-0.15242425317001"/>
+    <node lat="51.51356606787846" lng="-0.15279439801407"/>
+    <node lat="51.51334906911136" lng="-0.15422133320999"/>
+    <node lat="51.51320217705152" lng="-0.15507964009475"/>
+    <node lat="51.5131020231028" lng="-0.15563217515182"/>
+    <node lat="51.51291840695822" lng="-0.1566192280693"/>
+    <node lat="51.51265132760852" lng="-0.15800324792099"/>
+    <node lat="51.51274146706408" lng="-0.15807298535537"/>
+  </nodes>
+  <exits>
+    <exit title="N Row - N Audley St"/>
+    <exit title="N Row - N Audley St"/>
+    <exit title="N Row - N Audley St"/>
+    <exit title="N Row - N Audley St"/>
+    <exit title="Park Lane - N Row"/>
+    <exit title="Park Lane - N Row"/>
+    <exit title="Park Lane - N Row"/>
+    <exit title="Park St - N Row (East)"/>
+    <exit title="Park St - N Row (South)"/>
+    <exit title="Park St - N Row (South)"/>
+    <exit title="Park St - N Row (South)"/>
+    <exit title="Park St - N Row (West)"/>
+    <exit title="Park St - N Row (West)"/>
+    <exit title="Park St - N Row (North)"/>
+    <exit title="Park St - N Row (North)"/>
+    <exit title="Park St - N Row (East)"/>
+  </exits>
+</zone>

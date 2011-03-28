@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Sackville St - Piccadily Place 2" status="red" reason="">
+  <nodes>
+    <node lat="51.50884527674212" lng="-0.13779012078476"/>
+    <node lat="51.50890871352898" lng="-0.1376184594078"/>
+  </nodes>
+  <zones>
+    <zone title="Piccadily Place 2"/>
+    <zone title="Sackville St"/>
+  </zones>
+</exit>

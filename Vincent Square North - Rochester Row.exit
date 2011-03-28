@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Vincent Square North - Rochester Row">
+  <nodes>
+    <node lat="51.49490874504421" lng="-0.13614190334511"/>
+    <node lat="51.49478099744716" lng="-0.13625723833275"/>
+  </nodes>
+  <zones>
+    <zone title="Rochester Row"/>
+    <zone title="Vincent Square North"/>
+  </zones>
+</exit>

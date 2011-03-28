@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<zone title="Old Barrack Yard">
+  <nodes maxlat="51.50238093900438" maxlng="-0.15477923268509" minlat="51.5014025269976" minlng="-0.15554098004532">
+    <node lat="51.50236090347428" lng="-0.15554098004532"/>
+    <node lat="51.50202363739582" lng="-0.15543369168472"/>
+    <node lat="51.50199024457896" lng="-0.15531031007004"/>
+    <node lat="51.5019969231443" lng="-0.15502063149643"/>
+    <node lat="51.5014025269976" lng="-0.15485969895553"/>
+    <node lat="51.5014025269976" lng="-0.15477923268509"/>
+    <node lat="51.50206704802112" lng="-0.15496698731613"/>
+    <node lat="51.50204367307418" lng="-0.15531567448807"/>
+    <node lat="51.50211379787906" lng="-0.15540686959457"/>
+    <node lat="51.50238093900438" lng="-0.1554658781929"/>
+  </nodes>
+  <exits>
+    <exit title="Knightsbridge - Grosvenor Crescent Mews"/>
+    <exit title="Knightsbridge - Grosvenor Crescent Mews"/>
+    <exit title="Knightsbridge - Grosvenor Crescent Mews"/>
+    <exit title="Old Barrack Yard - Grosvenor Crescent"/>
+    <exit title="Old Barrack Yard - Wilton Place"/>
+    <exit title="Old Barrack Yard - Wilton Row"/>
+  </exits>
+</zone>

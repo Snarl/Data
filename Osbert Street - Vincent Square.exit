@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Osbert Street - Vincent Square">
+  <nodes>
+    <node lat="51.49180596359714" lng="-0.13468680495453"/>
+    <node lat="51.49173916296603" lng="-0.1345553767128"/>
+  </nodes>
+  <zones>
+    <zone title="Vincent Square South"/>
+    <zone title="Osbert Street"/>
+  </zones>
+</exit>

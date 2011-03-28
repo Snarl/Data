@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lyall Street - Eaton Square">
+  <nodes>
+    <node lat="51.49534625697734" lng="-0.15382168406677"/>
+    <node lat="51.49547984757054" lng="-0.1535749208374"/>
+  </nodes>
+  <zones>
+    <zone title="Lyall Street"/>
+    <zone title="Eaton Square"/>
+  </zones>
+</exit>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<zone title="West Halkin Street">
+  <nodes maxlat="51.49905992962886" maxlng="-0.1552137505455" minlat="51.4985389650224" minlng="-0.15722540730667">
+    <node lat="51.49864916957036" lng="-0.15722540730667"/>
+    <node lat="51.4987393367296" lng="-0.15708593243789"/>
+    <node lat="51.49893636804936" lng="-0.15639392251205"/>
+    <node lat="51.49905992962886" lng="-0.15538004750442"/>
+    <node lat="51.49899313962746" lng="-0.1552137505455"/>
+    <node lat="51.49859573709556" lng="-0.15582529420089"/>
+    <node lat="51.49865584862532" lng="-0.15596476906967"/>
+    <node lat="51.49885288030598" lng="-0.15566436166"/>
+    <node lat="51.4988929544419" lng="-0.15572873467636"/>
+    <node lat="51.49878942951874" lng="-0.15638855809402"/>
+    <node lat="51.4985389650224" lng="-0.15707520360183"/>
+  </nodes>
+  <exits>
+    <exit title="West Halkin Street - Lowndes Street"/>
+    <exit title="West Halkin Street - Lowndes Street"/>
+    <exit title="West Halkin Street - Belgrave Mews Way"/>
+    <exit title="Halkin Place - Belgrave Mews West"/>
+    <exit title="West Halkin Street - Belgrave Square"/>
+    <exit title="Wilton Terrace - West Halkin Street"/>
+    <exit title="Lowndes Street - West Halkin Street"/>
+  </exits>
+</zone>

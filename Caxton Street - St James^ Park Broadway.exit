@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Caxton Street - St James' Park Broadway">
+  <nodes>
+    <node lat="51.49874017159969" lng="-0.13379631156158"/>
+    <node lat="51.49864332538635" lng="-0.13382849806976"/>
+  </nodes>
+  <zones>
+    <zone title="St James\'s Park Broadway"/>
+    <zone title="Caxton Street"/>
+  </zones>
+</exit>

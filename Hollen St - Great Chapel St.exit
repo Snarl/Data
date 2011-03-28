@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hollen St - Great Chapel St">
+  <nodes>
+    <node lat="51.51558827977198" lng="-0.13450709695053"/>
+    <node lat="51.51551316826571" lng="-0.13445881718826"/>
+  </nodes>
+  <zones>
+    <zone title="Hollen Street"/>
+    <zone title="Great Chapel Street"/>
+  </zones>
+</exit>

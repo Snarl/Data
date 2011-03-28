@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<zone title="Hans Crescent">
+  <nodes maxlat="51.4993713367161" maxlng="-0.15969706291389" minlat="51.49897894673746" minlng="-0.16153437608909">
+    <node lat="51.49915594008224" lng="-0.16150755399894"/>
+    <node lat="51.4993212445665" lng="-0.16153437608909"/>
+    <node lat="51.4993713367161" lng="-0.1614807319088"/>
+    <node lat="51.4991709677874" lng="-0.16112936252784"/>
+    <node lat="51.4991375728803" lng="-0.16094965452385"/>
+    <node lat="51.4991726375321" lng="-0.16042125934791"/>
+    <node lat="51.499232748301" lng="-0.15972656721306"/>
+    <node lat="51.49913423338826" lng="-0.15969706291389"/>
+    <node lat="51.49909582921202" lng="-0.15996528381538"/>
+    <node lat="51.49902236026298" lng="-0.16012085193825"/>
+    <node lat="51.49907245274109" lng="-0.16038102621269"/>
+    <node lat="51.49897894673746" lng="-0.16111863369179"/>
+  </nodes>
+  <exits>
+    <exit title="Hans Crescent - Basil Street"/>
+    <exit title="Hans Crescent - Sloane Street"/>
+    <exit title="North Pavilion Road - Hans Crescent"/>
+    <exit title="Hans Crescent - Basil Street"/>
+    <exit title="Hans Crescent - Sloane Street"/>
+    <exit title="North Pavilion Road - Hans Crescent"/>
+    <exit title="South Pavilion Road - Hans Crescent"/>
+    <exit title="South Pavilion Road - Hans Crescent"/>
+  </exits>
+</zone>

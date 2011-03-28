@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Berkeley St - Piccadily Place 1">
+  <nodes>
+    <node lat="51.50713328474202" lng="-0.1422640454216"/>
+    <node lat="51.50724680740584" lng="-0.1420655619545"/>
+  </nodes>
+  <zones>
+    <zone title="Berkeley St"/>
+    <zone title="Piccadily Place 1"/>
+  </zones>
+</exit>

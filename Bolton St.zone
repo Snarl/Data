@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Bolton St">
+  <nodes maxlat="51.50756066271472" maxlng="-0.14347908610534" minlat="51.50640873637554" minlng="-0.14506695384216">
+    <node lat="51.5074905462917" lng="-0.14506695384216"/>
+    <node lat="51.50756066271472" lng="-0.14498648757171"/>
+    <node lat="51.50642543116812" lng="-0.14347908610534"/>
+    <node lat="51.50640873637554" lng="-0.14366147631836"/>
+  </nodes>
+  <exits>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Bolton St - Picadily Place 1"/>
+    <exit title="Lansdowne Row-Bolton St"/>
+    <exit title="Lansdowne Row-Bolton St"/>
+  </exits>
+</zone>

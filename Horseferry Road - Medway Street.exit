@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Horseferry Road - Medway Street">
+  <nodes>
+    <node lat="51.49547901262804" lng="-0.13294739240837"/>
+    <node lat="51.49535878110958" lng="-0.13288570160103"/>
+  </nodes>
+  <zones>
+    <zone title="Medway Street"/>
+    <zone title="Horseferry Road"/>
+  </zones>
+</exit>

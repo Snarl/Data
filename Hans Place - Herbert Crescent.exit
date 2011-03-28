@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Hans Place - Herbert Crescent">
+  <nodes>
+    <node lat="51.49832940861668" lng="-0.16071764344406"/>
+    <node lat="51.49827597576698" lng="-0.1605620753212"/>
+  </nodes>
+  <zones>
+    <zone title="Herbert Road"/>
+    <zone title="Hans Place"/>
+  </zones>
+</exit>

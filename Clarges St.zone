@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Clarges St">
+  <nodes maxlat="51.50761408469688" maxlng="-0.14405039662552" minlat="51.506151635815" minlng="-0.14629808778">
+    <node lat="51.50755398498274" lng="-0.14629808778"/>
+    <node lat="51.50761408469688" lng="-0.14616934174728"/>
+    <node lat="51.5069062385881" lng="-0.14516083115768"/>
+    <node lat="51.50619170353306" lng="-0.14405039662552"/>
+    <node lat="51.506151635815" lng="-0.14421132916641"/>
+  </nodes>
+  <exits>
+    <exit title="Clarges st- Piccadily Place 1"/>
+    <exit title="Clarges st- Piccadily Place 1"/>
+  </exits>
+</zone>

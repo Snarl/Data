@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Whitehall Gardens">
+  <nodes maxlat="51.50482186850641" maxlng="-0.12544391268921" minlat="51.50389359608587" minlng="-0.12599108332824">
+    <node lat="51.50478179958379" lng="-0.12589452380371"/>
+    <node lat="51.50482186850641" lng="-0.12550292128753"/>
+    <node lat="51.5043877866348" lng="-0.12548146361542"/>
+    <node lat="51.50410396163683" lng="-0.12548682803344"/>
+    <node lat="51.50395036148894" lng="-0.12544391268921"/>
+    <node lat="51.50389359608587" lng="-0.12599108332824"/>
+    <node lat="51.5040204833598" lng="-0.12597499007416"/>
+    <node lat="51.50407057034438" lng="-0.12577650660705"/>
+  </nodes>
+  <exits>
+    <exit title="Horse Guards Ave - Whitehall Gardens"/>
+    <exit title="Whitehall - Whitehall Gardens"/>
+  </exits>
+</zone>

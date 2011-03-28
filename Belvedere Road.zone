@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<zone title="Belvedere Road">
+  <nodes maxlat="51.50613911471742" maxlng="-0.11490283126068" minlat="51.50089578146211" minlng="-0.11873436683845">
+    <node lat="51.50613911471742" lng="-0.11509595030975"/>
+    <node lat="51.50563158709964" lng="-0.11599717253875"/>
+    <node lat="51.50418910932116" lng="-0.11726317519378"/>
+    <node lat="51.50346785330811" lng="-0.11753139609527"/>
+    <node lat="51.50090412986913" lng="-0.11873436683845"/>
+    <node lat="51.50089578146211" lng="-0.11835885757637"/>
+    <node lat="51.50199859278363" lng="-0.11782107466888"/>
+    <node lat="51.50331425101609" lng="-0.11729536170196"/>
+    <node lat="51.50421582228758" lng="-0.11682329291534"/>
+    <node lat="51.50465658397285" lng="-0.11650142783355"/>
+    <node lat="51.50495042272789" lng="-0.11624393576813"/>
+    <node lat="51.50520419103691" lng="-0.11602935904693"/>
+    <node lat="51.50595880950063" lng="-0.11490283126068"/>
+  </nodes>
+  <exits>
+    <exit title="Westminster Bridge Rd - Belvedere Road"/>
+    <exit title="Belvedere Road - Chincheley Street"/>
+    <exit title="Belvedere Road - Chincheley Street"/>
+    <exit title="Belvedere Road - Chincheley Street"/>
+    <exit title="Belverdere Road - Waterloo Bridge"/>
+    <exit title="Belverdere Road - Waterloo Bridge"/>
+  </exits>
+</zone>

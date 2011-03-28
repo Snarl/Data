@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Eaton Place - Eaton Mews">
+  <nodes>
+    <node lat="51.4951191520704" lng="-0.15521643275451"/>
+    <node lat="51.49498556042011" lng="-0.1549803983612"/>
+  </nodes>
+  <zones>
+    <zone title="Eaton Mews North"/>
+    <zone title="Eaton Place 2"/>
+  </zones>
+</exit>
