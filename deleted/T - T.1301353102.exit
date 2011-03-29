@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="T - T">
+  <nodes>
+    <node lat="51.50344781825623" lng="-0.12059447879028"/>
+    <node lat="51.50375502142214" lng="-0.12190339678955"/>
+  </nodes>
+  <zones>
+    <zone title="Test Zone"/>
+    <zone title="T2"/>
+  </zones>
+</exit>

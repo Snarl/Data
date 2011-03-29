@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="BBC Front Gates">
+  <nodes>
+    <node lat="51.51040612992747" lng="-0.22477147692871"/>
+    <node lat="51.51019913215304" lng="-0.22479293460083"/>
+  </nodes>
+  <zones>
+    <zone title="BBC Television Centre"/>
+    <zone title="Wood Lane Station"/>
+  </zones>
+</exit>

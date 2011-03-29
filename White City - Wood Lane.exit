@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="White City - Wood Lane">
+  <nodes>
+    <node lat="51.51076670444979" lng="-0.22450325602722"/>
+    <node lat="51.51075334988875" lng="-0.22477147692871"/>
+  </nodes>
+  <zones>
+    <zone title="White City Station"/>
+    <zone title="Wood Lane Station"/>
+  </zones>
+</exit>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Serpentine Bridge North">
+  <nodes>
+    <node lat="51.50663995879856" lng="-0.17256496066284"/>
+    <node lat="51.50650640091528" lng="-0.17224309558105"/>
+  </nodes>
+  <zones>
+    <zone title="Hyde Park North"/>
+    <zone title="The Serpentine"/>
+  </zones>
+</exit>

@@ -25,5 +25,8 @@
     <node lat="51.50586907399897" lng="-0.1678026985569"/>
     <node lat="51.50582900599723" lng="-0.16344679111671"/>
   </nodes>
-  <exits/>
+  <exits>
+    <exit title="Serpentine Bridge North"/>
+    <exit title="Serpentine Bridge South"/>
+  </exits>
 </zone>

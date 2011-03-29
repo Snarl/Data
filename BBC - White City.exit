@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="BBC - White City">
+  <nodes>
+    <node lat="51.51094699064075" lng="-0.22478220576477"/>
+    <node lat="51.51079341356015" lng="-0.22478220576477"/>
+  </nodes>
+  <zones>
+    <zone title="White City Station"/>
+    <zone title="BBC Television Centre"/>
+  </zones>
+</exit>

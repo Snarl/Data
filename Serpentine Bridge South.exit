@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Serpentine Bridge South">
+  <nodes>
+    <node lat="51.50593209755628" lng="-0.1730799447937"/>
+    <node lat="51.50577182555956" lng="-0.17277953738403"/>
+  </nodes>
+  <zones>
+    <zone title="The Serpentine"/>
+    <zone title="Hyde Park South"/>
+  </zones>
+</exit>
