@@ -49,8 +49,9 @@
   </nodes>
   <exits>
     <exit title="St Margaret Street - Victoria Tower Gardens"/>
-    <exit title="St Margaret Street - Victoria Tower Gardens"/>
     <exit title="St Margret Street - Abingdon Street"/>
+    <exit title="Parliament Square - St Magaret"/>
+    <exit title="Parliament Square - Whitehall"/>
     <exit title="Parliament Square - St Magaret"/>
   </exits>
 </zone>

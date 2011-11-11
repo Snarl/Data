@@ -8,12 +8,8 @@
   </nodes>
   <exits>
     <exit title="Upper Grosvenor St - Park St (East)"/>
-    <exit title="Upper Grosvenor St - Park St (East)"/>
-    <exit title="Upper Grosvenor Street - Park St (West)"/>
     <exit title="Upper Grosvenor Street - Park St (West)"/>
     <exit title="Upper Grosvenor Street - Park St (South)"/>
-    <exit title="Upper Grosvenor Street - Park St (South)"/>
-    <exit title="Upper Grosvenor Street - Park St (North)"/>
     <exit title="Upper Grosvenor Street - Park St (North)"/>
   </exits>
 </zone>

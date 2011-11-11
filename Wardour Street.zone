@@ -24,14 +24,9 @@
   <exits>
     <exit title="East Oxford Street 2 - Wardour Street"/>
     <exit title="Noel Street - Wardour Street"/>
-    <exit title="Noel Street - Wardour Street"/>
-    <exit title="Hollen Street - Wardour Street"/>
     <exit title="Hollen Street - Wardour Street"/>
     <exit title="Wardour Street - D\'Arblay Street"/>
-    <exit title="Wardour Street - D\'Arblay Street"/>
     <exit title="Wardour St - Sheraton St"/>
-    <exit title="Wardour St - Sheraton St"/>
-    <exit title="Wardour Street - Shaftesbury Avenue "/>
-    <exit title="Wardour Street - Shaftesbury Avenue "/>
+    <exit title="Wardour Street - Shaftesbury Avenue"/>
   </exits>
 </zone>

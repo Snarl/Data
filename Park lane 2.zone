@@ -11,14 +11,9 @@
   </nodes>
   <exits>
     <exit title="Mount st - Park ln"/>
-    <exit title="Mount st - Park ln"/>
     <exit title="South St - Park lane"/>
-    <exit title="South St - Park lane"/>
-    <exit title="Deanery St - Park lane"/>
     <exit title="Deanery St - Park lane"/>
     <exit title="Stanhope Gate - Park lane"/>
-    <exit title="Curzon St - Park lane"/>
-    <exit title="Curzon St - Park lane"/>
     <exit title="Curzon St - Park lane"/>
   </exits>
 </zone>

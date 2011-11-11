@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<zone title="Broad Sanctuary">
+  <nodes maxlat="51.50028884817742" maxlng="-0.12705323809814" minlat="51.49927699644958" minlng="-0.12996075267029">
+    <node lat="51.50028884817742" lng="-0.12975690478515"/>
+    <node lat="51.50027549054516" lng="-0.12946186179352"/>
+    <node lat="51.50022539938933" lng="-0.12942967528534"/>
+    <node lat="51.50021872056438" lng="-0.12831924075317"/>
+    <node lat="51.50017864759418" lng="-0.12830851191711"/>
+    <node lat="51.5002070326184" lng="-0.12784985417557"/>
+    <node lat="51.50001167650581" lng="-0.12752530688476"/>
+    <node lat="51.50010518039069" lng="-0.1270639669342"/>
+    <node lat="51.49971446645495" lng="-0.12705323809814"/>
+    <node lat="51.49971780590447" lng="-0.12756285781097"/>
+    <node lat="51.49960092502499" lng="-0.12759504431915"/>
+    <node lat="51.4995975855669" lng="-0.12824950331878"/>
+    <node lat="51.49962096176849" lng="-0.12829241866302"/>
+    <node lat="51.49961428285495" lng="-0.12848553771209"/>
+    <node lat="51.49945064916805" lng="-0.12857136840057"/>
+    <node lat="51.49938719921302" lng="-0.12873230094146"/>
+    <node lat="51.49927699644958" lng="-0.12879130953979"/>
+    <node lat="51.49933710708085" lng="-0.12962815875244"/>
+    <node lat="51.499474025445" lng="-0.12989637965393"/>
+    <node lat="51.49976455817234" lng="-0.12996075267029"/>
+    <node lat="51.49977457650925" lng="-0.129730082695"/>
+  </nodes>
+  <exits>
+    <exit title="Broad Sanctuary - Victoria Street"/>
+    <exit title="Broad Sanctuary - Tothill Street"/>
+    <exit title="Victoria Street - Dean\'s Yard"/>
+    <exit title="Broad Sanctuary - Little Sanctuary"/>
+    <exit title="Broad Sanctuary - Storey\'s Gate"/>
+    <exit title="Parliament Square - Broad Sanctuary"/>
+    <exit title="Parliament Square - Broad Sanctuary 2"/>
+    <exit title="Parliament Square - Broad Sanctuary 2"/>
+  </exits>
+</zone>

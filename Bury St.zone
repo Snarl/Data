@@ -14,12 +14,8 @@
   </nodes>
   <exits>
     <exit title="Bury St - Jermyn St"/>
-    <exit title="Bury St - Jermyn St"/>
-    <exit title="Bury St - King St"/>
     <exit title="Bury St - King St"/>
     <exit title="Ryder St - Bury St"/>
-    <exit title="Ryder St - Bury St"/>
-    <exit title="Ryder St - Bury st (West)"/>
     <exit title="Ryder St - Bury st (West)"/>
   </exits>
 </zone>

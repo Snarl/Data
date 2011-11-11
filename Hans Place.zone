@@ -17,10 +17,6 @@
   </nodes>
   <exits>
     <exit title="Hans Place - Pont Street"/>
-    <exit title="Hans Place - Pont Street"/>
-    <exit title="Hans Place - Herbert Crescent"/>
-    <exit title="Hans Road - Hans Place"/>
-    <exit title="Hans Road - Hans Place"/>
     <exit title="Hans Place - Herbert Crescent"/>
     <exit title="Hans Road - Hans Place"/>
   </exits>

@@ -8,12 +8,7 @@
   </nodes>
   <exits>
     <exit title="Edgware Rd-Upper Berkeley St"/>
-    <exit title="Edgware Rd-Upper Berkeley St"/>
     <exit title="Seymour Pl-Upper Berkely St"/>
-    <exit title="Seymour Pl-Upper Berkely St"/>
-    <exit title="Seymour Pl-Upper Berkely St"/>
-    <exit title="Seymour Pl-Upper Berkely St"/>
-    <exit title="Upper Berkely St-Seymour Pl"/>
     <exit title="Upper Berkely St-Seymour Pl"/>
   </exits>
 </zone>

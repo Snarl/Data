@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="London Wall - Coleman Street" status="red" reason="">
+  <nodes>
+    <node lat="51.51733676714196" lng="-0.08964802276341"/>
+    <node lat="51.51732336779838" lng="-0.08948665442904"/>
+  </nodes>
+  <zones>
+    <zone title="London Wall"/>
+    <zone title="Coleman St"/>
+  </zones>
+</exit>

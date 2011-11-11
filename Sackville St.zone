@@ -9,9 +9,8 @@
   </nodes>
   <exits>
     <exit title="Sackville St - Piccadily Place 2"/>
+    <exit title="Savile Row - Sackville St"/>
     <exit title="Sackville St - Piccadily Place 2"/>
-    <exit title="Savile Row - Sackville St"/>
-    <exit title="Savile Row - Sackville St"/>
     <exit title="Sackville St - Piccadily Place 2"/>
   </exits>
 </zone>

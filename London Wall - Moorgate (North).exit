@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="London Wall - Moorgate (North)" status="orange" reason="">
+  <nodes>
+    <node lat="51.51760622920889" lng="-0.08868021482658"/>
+    <node lat="51.51756950967036" lng="-0.08848441356849"/>
+  </nodes>
+  <zones>
+    <zone title="Moorgate (North)"/>
+    <zone title="London Wall"/>
+  </zones>
+</exit>

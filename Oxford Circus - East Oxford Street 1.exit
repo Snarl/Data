@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<exit title="Oxford Circus - East Oxford Street 1" status="orange" reason="">
+<exit title="Oxford Circus - East Oxford Street 1" status="green" reason="">
   <nodes>
     <node lat="51.51539132042775" lng="-0.1417061459465"/>
     <node lat="51.51518935277851" lng="-0.14164177293014"/>

@@ -9,12 +9,8 @@
   </nodes>
   <exits>
     <exit title="Charlies St - Chesterfield Hill"/>
-    <exit title="Charlies St - Chesterfield Hill"/>
-    <exit title="Chesterfueld Hill-South St"/>
     <exit title="Chesterfueld Hill-South St"/>
     <exit title="Hay\'s Mews-Chesterfield Hill"/>
-    <exit title="Hay\'s Mews-Chesterfield Hill"/>
-    <exit title="Chesterfield Hill-Hay\'s Mews"/>
     <exit title="Chesterfield Hill-Hay\'s Mews"/>
   </exits>
 </zone>

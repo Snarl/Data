@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Dorset Road">
+  <nodes maxlat="51.48000745437852" maxlng="-0.11634854191971" minlat="51.47800287425559" minlng="-0.12332496756744">
+    <node lat="51.48000745437852" lng="-0.12332496756744"/>
+    <node lat="51.47991056836548" lng="-0.12332496756744"/>
+    <node lat="51.47977359123728" lng="-0.12120602244568"/>
+    <node lat="51.47800287425559" lng="-0.1164906989975"/>
+    <node lat="51.4781415272171" lng="-0.11634854191971"/>
+    <node lat="51.47987214799318" lng="-0.12112823838424"/>
+  </nodes>
+  <exits>
+    <exit title="Doreset Road - Carroun Road"/>
+    <exit title="Doreset Road - Carroun Road"/>
+    <exit title="Doreset Road - Carroun Road"/>
+  </exits>
+</zone>

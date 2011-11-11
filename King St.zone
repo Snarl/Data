@@ -15,9 +15,6 @@
   </nodes>
   <exits>
     <exit title="King St - St James\'s Square"/>
-    <exit title="King St - St James\'s Square"/>
-    <exit title="St James\'s St - King St"/>
-    <exit title="St James\'s St - King St"/>
     <exit title="St James\'s St - King St"/>
   </exits>
 </zone>

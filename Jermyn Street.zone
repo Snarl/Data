@@ -8,15 +8,9 @@
   </nodes>
   <exits>
     <exit title="South Regent Street 2 - Jermyn St"/>
-    <exit title="South Regent Street 2 - Jermyn St"/>
-    <exit title="South Regent Street - Jermyn St (South)"/>
     <exit title="South Regent Street - Jermyn St (South)"/>
     <exit title="South Regent Street - Jermyn St (North)"/>
-    <exit title="South Regent Street - Jermyn St (North)"/>
-    <exit title="South Regent Street 2 - Jermyn St"/>
     <exit title="Cockspur Street - Jermyn St"/>
-    <exit title="Cockspur Street - Jermyn St"/>
-    <exit title="St Alban\'s Street - Jermyn St"/>
     <exit title="St Alban\'s Street - Jermyn St"/>
   </exits>
 </zone>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<zone title="Fore St">
+  <nodes maxlat="51.51856578364184" maxlng="-0.090015954916" minlat="51.51766449631198" minlng="-0.09308976644706">
+    <node lat="51.51851905066316" lng="-0.09308976644706"/>
+    <node lat="51.51856578364184" lng="-0.09304685110283"/>
+    <node lat="51.51785143144634" lng="-0.090015954916"/>
+    <node lat="51.51766449631198" lng="-0.09007496351433"/>
+    <node lat="51.51768452511308" lng="-0.09019298071098"/>
+    <node lat="51.5178046977347" lng="-0.09013933653068"/>
+  </nodes>
+  <exits>
+    <exit title="Fore St / London Wall"/>
+    <exit title="Fore St - London Wall"/>
+    <exit title="Fore St - London Wall"/>
+  </exits>
+</zone>

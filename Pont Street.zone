@@ -17,10 +17,7 @@
   </nodes>
   <exits>
     <exit title="Hans Place - Pont Street"/>
-    <exit title="Hans Place - Pont Street"/>
     <exit title="West Pont Street - Pavilion Road"/>
-    <exit title="West Pont Street - Pavilion Road"/>
-    <exit title="East Pont Street - Pavilion Road"/>
     <exit title="East Pont Street - Pavilion Road"/>
     <exit title="Chesham Place - Pont Street"/>
     <exit title="Lowndes Street - Pont Street"/>
@@ -29,19 +26,10 @@
     <exit title="Pont Street - Lowndes Place"/>
     <exit title="South Cadogan Lane - Pont Street"/>
     <exit title="South Cadogan Street - Pont Street"/>
-    <exit title="South Cadogan Street - Pont Street"/>
     <exit title="Sloane Street - Pont Street"/>
-    <exit title="North Cadogan Place - Pont Street"/>
     <exit title="Sloane Street North - Pont Street"/>
-    <exit title="North Cadogan Lane - Pont Street"/>
-    <exit title="North Cadogan Place - Pont Street"/>
-    <exit title="South Cadogan Lane - Pont Street"/>
-    <exit title="South Cadogan Street - Pont Street"/>
-    <exit title="East Pont Street - Pavilion Road"/>
     <exit title="North Pavilion Road - Pont Street"/>
     <exit title="Pont Street - Brompton Road"/>
-    <exit title="Pont Street - South Pavilion Road"/>
-    <exit title="West Pont Street - Pavilion Road"/>
     <exit title="Pont Street - South Pavilion Road"/>
     <exit title="Sloane Street Lower - Pont Street"/>
     <exit title="Cadogan Place Park Lower - Pont Street"/>

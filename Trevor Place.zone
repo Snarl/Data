@@ -10,8 +10,6 @@
   </nodes>
   <exits>
     <exit title="Knightsbridge - Trevor Place"/>
-    <exit title="Knightsbridge - Trevor Place"/>
-    <exit title="Trevor Place - Trevor Square"/>
     <exit title="Trevor Place - Trevor Square"/>
   </exits>
 </zone>

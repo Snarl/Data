@@ -14,52 +14,23 @@
   </nodes>
   <exits>
     <exit title="South St - St Audley Street (West)"/>
-    <exit title="South St - St Audley Street (West)"/>
     <exit title="South St - St Audley Street (South)"/>
-    <exit title="South St - St Audley Street (East)"/>
     <exit title="South St - St Audley Street (East)"/>
     <exit title="South St - St Audley Street (North)"/>
-    <exit title="South St - St Audley Street (South)"/>
-    <exit title="Adam\'s Row - South Audley Street "/>
-    <exit title="Adam\'s Row - South Audley Street "/>
+    <exit title="Adam\'s Row - South Audley Street"/>
     <exit title="Curzon St - South Audley St"/>
-    <exit title="Curzon St - South Audley St"/>
-    <exit title="South St - St Audley Street (East)"/>
-    <exit title="Mount St - South Audley St (East)"/>
     <exit title="Mount St - South Audley St (East)"/>
     <exit title="Mount St - South Audley St (South)"/>
-    <exit title="Mount St - South Audley St (South)"/>
-    <exit title="Mount St - South Audley St (West)"/>
-    <exit title="Mount St - South Audley St (West)"/>
     <exit title="Mount St - South Audley St (West)"/>
     <exit title="Mount St - South Audley St (North)"/>
-    <exit title="Mount St - South Audley St (North)"/>
-    <exit title="S Audley St-Stanhope Gate"/>
     <exit title="S Audley St-Stanhope Gate"/>
     <exit title="Reeves Mews-S Audley St"/>
-    <exit title="Reeves Mews-S Audley St"/>
-    <exit title="south st-s audley st"/>
     <exit title="south st-s audley st"/>
     <exit title="Audley St-South St"/>
-    <exit title="Audley St-South St"/>
-    <exit title="Upper Grosvenor St - South Audley St (South)"/>
     <exit title="Upper Grosvenor St - South Audley St (South)"/>
     <exit title="Reevs Mews - South Audley St (West)"/>
-    <exit title="Reevs Mews - South Audley St (West)"/>
-    <exit title="South Audley St - South Street (North)"/>
     <exit title="South Audley St - South Street (North)"/>
     <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Street - South Audley Street (North)"/>
-    <exit title="South Street - South Audley Street (North)"/>
-    <exit title="South Street - South Audley Street (North)"/>
     <exit title="South Street - South Audley Street (North)"/>
   </exits>
 </zone>

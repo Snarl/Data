@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Basinghall Ave (access) - London Wall" status="red" reason="">
+  <nodes>
+    <node lat="51.51740677499576" lng="-0.09083268756103"/>
+    <node lat="51.51741011314878" lng="-0.09073210472297"/>
+  </nodes>
+  <zones>
+    <zone title="London Wall"/>
+    <zone title="Basinghall Ave (access)"/>
+  </zones>
+</exit>

@@ -13,12 +13,7 @@
   </nodes>
   <exits>
     <exit title="Seymour Pl-Upper Berkely St"/>
-    <exit title="Seymour Pl-Upper Berkely St"/>
-    <exit title="Seymour Pl-Upper Berkely St"/>
-    <exit title="Seymour Pl-Upper Berkely St"/>
     <exit title="Upper Berkely St-Seymour Pl"/>
-    <exit title="Upper Berkely St-Seymour Pl"/>
-    <exit title="Seymour St-Seymour Pl"/>
     <exit title="Seymour St-Seymour Pl"/>
   </exits>
 </zone>

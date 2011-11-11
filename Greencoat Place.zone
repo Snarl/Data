@@ -16,14 +16,10 @@
   </nodes>
   <exits>
     <exit title="Greycoat Place West - Greencoat Place"/>
-    <exit title="Greycoat Place West - Greencoat Place"/>
     <exit title="Greencoat Place - Stillington Street"/>
     <exit title="Greencoat Place  - Emery Hill Street (N)"/>
     <exit title="Greencoat Place  - Emery Hill Street (W)"/>
-    <exit title="Greencoat Place  - Emery Hill Street (N)"/>
     <exit title="Greencoat Place  - Emery Hill Street (E)"/>
-    <exit title="Greencoat Place  - Emery Hill Street (W)"/>
-    <exit title="Greencoat Place  - Emery Hill Street (S)"/>
     <exit title="Greencoat Place  - Emery Hill Street (S)"/>
     <exit title="Greencoat Row - Greencoat Place"/>
   </exits>

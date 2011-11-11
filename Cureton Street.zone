@@ -14,10 +14,8 @@
   </nodes>
   <exits>
     <exit title="Cureton Street - John Islip Street"/>
-    <exit title="Cureton Street - John Islip Street"/>
     <exit title="Herrick Street - Cureton Street"/>
     <exit title="Erasmus Street - Cureton Street"/>
     <exit title="Cureton Street - Causton Street"/>
-    <exit title="Erasmus Street - Cureton Street"/>
   </exits>
 </zone>

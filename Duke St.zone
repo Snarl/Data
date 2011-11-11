@@ -11,17 +11,10 @@
   </nodes>
   <exits>
     <exit title="Duke St - Oxforf St"/>
-    <exit title="Duke St - Oxforf St"/>
-    <exit title="Duke St - Oxforf St"/>
-    <exit title="Barrett St-Duke St"/>
     <exit title="Barrett St-Duke St"/>
     <exit title="Oxford St-Duke St"/>
-    <exit title="Oxford St-Duke St"/>
-    <exit title="Wigmore St-Duke St"/>
     <exit title="Wigmore St-Duke St"/>
     <exit title="Duke St-Wigmore St"/>
-    <exit title="Duke St-Wigmore St"/>
-    <exit title="Suke St-Edwards Mews"/>
     <exit title="Suke St-Edwards Mews"/>
   </exits>
 </zone>

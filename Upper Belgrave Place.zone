@@ -20,13 +20,8 @@
   </nodes>
   <exits>
     <exit title="Belgrave Square - Upper Belgrave Street"/>
-    <exit title="Belgrave Square - Upper Belgrave Street"/>
-    <exit title="Eaton Place - Upper Belgrave Street"/>
-    <exit title="Belgrave Square - Upper Belgrave Street"/>
     <exit title="Eaton Place - Upper Belgrave Street"/>
     <exit title="Upper Belgrave Street - Chester Street"/>
-    <exit title="Upper Belgrave Street - Chester Street"/>
-    <exit title="Eaton Place - Upper Belgrave Street"/>
     <exit title="Hobart Place - Upper Belgrave Street"/>
   </exits>
 </zone>

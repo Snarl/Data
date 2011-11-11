@@ -16,13 +16,9 @@
   </nodes>
   <exits>
     <exit title="Dean Trench Street - Smith Square"/>
-    <exit title="Dean Trench Street - Smith Square"/>
-    <exit title="Dean Trench Street - Smith Square"/>
-    <exit title="Dean Trench Street - Smith Square"/>
     <exit title="Gayfere Street - Smith Street"/>
     <exit title="Lord N Street - Smith Square"/>
     <exit title="Dean Stanley Street - Smith Square"/>
-    <exit title="Smith Square - Dean Bradley Street"/>
     <exit title="Smith Square - Dean Bradley Street"/>
   </exits>
 </zone>

@@ -14,14 +14,9 @@
   <exits>
     <exit title="Piccadilly Circus - Coventry Street"/>
     <exit title="Coventry Street - Leicester Square"/>
-    <exit title="Coventry Street - Leicester Square"/>
-    <exit title="Great Windmill St-Coventry St"/>
     <exit title="Great Windmill St-Coventry St"/>
     <exit title="Coventry St-Great Windmill St"/>
-    <exit title="Coventry St-Great Windmill St"/>
     <exit title="Oxendon St - Coventry St (South)"/>
-    <exit title="Oxendon St - Coventry St (South)"/>
-    <exit title="Ruper Street - Coventry Street"/>
     <exit title="Ruper Street - Coventry Street"/>
   </exits>
 </zone>

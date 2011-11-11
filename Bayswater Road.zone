@@ -50,15 +50,13 @@
   </nodes>
   <exits>
     <exit title="Oxford St-Great Cumberland St"/>
-    <exit title="Oxford St-Great Cumberland St"/>
-    <exit title="Bayswater Rd-Edgware Rd"/>
     <exit title="Bayswater Rd-Edgware Rd"/>
     <exit title="Bayswater Rd - Notting Hill Gate"/>
     <exit title="Bayswater Rd - Queensway"/>
     <exit title="Bayswater Rd - Inverness Terrace"/>
     <exit title="Bayswater Rd - Queensborough Terrace"/>
     <exit title="Bayswater Rd - Porchester Terrace"/>
-    <exit title="Baywater Rd - Leinster Gardens "/>
+    <exit title="Baywater Rd - Leinster Gardens"/>
     <exit title="Bayswater Rd - Albion St"/>
   </exits>
 </zone>

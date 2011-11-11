@@ -10,5 +10,8 @@
   </nodes>
   <exits>
     <exit title="Carroun Road (south)"/>
+    <exit title="Doreset Road - Carroun Road"/>
+    <exit title="Doreset Road - Carroun Road"/>
+    <exit title="Doreset Road - Carroun Road"/>
   </exits>
 </zone>

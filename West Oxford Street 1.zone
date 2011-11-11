@@ -11,32 +11,18 @@
   </nodes>
   <exits>
     <exit title="West Oxford Street 1 - West Oxford Street 2"/>
-    <exit title="West Oxford Street 1 - West Oxford Street 2"/>
-    <exit title="Park lane - Oxford St"/>
     <exit title="Park lane - Oxford St"/>
     <exit title="Park Street - Oxford Street"/>
-    <exit title="N Audley St - Oxford St "/>
-    <exit title="N Audley St - Oxford St "/>
-    <exit title="N Audley St - Oxford St "/>
+    <exit title="N Audley St - Oxford St"/>
     <exit title="Balderton St - Oxford St"/>
-    <exit title="Balderton St - Oxford St"/>
-    <exit title="Duke St - Oxforf St"/>
-    <exit title="Duke St - Oxforf St"/>
     <exit title="Duke St - Oxforf St"/>
     <exit title="Binney St - Oxford Street"/>
-    <exit title="West Oxford Street 1 - West Oxford Street 2"/>
-    <exit title="West oxford Street 1 - Gilbert Street"/>
-    <exit title="West oxford Street 1 - Gilbert Street"/>
     <exit title="West oxford Street 1 - Gilbert Street"/>
     <exit title="Oxford Street - South Portman Street"/>
     <exit title="Oxford Street - North Portman Street"/>
     <exit title="Oxford St-Duke St"/>
-    <exit title="Oxford St-Duke St"/>
-    <exit title="Oxford St-Orchard St"/>
     <exit title="Oxford St-Orchard St"/>
     <exit title="James St-Oxford St"/>
-    <exit title="James St-Oxford St"/>
-    <exit title="Binney St - West Oxford Street 1"/>
     <exit title="Binney St - West Oxford Street 1"/>
   </exits>
 </zone>

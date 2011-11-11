@@ -18,8 +18,6 @@
   </nodes>
   <exits>
     <exit title="Orange St-Oxendon St"/>
-    <exit title="Orange St-Oxendon St"/>
-    <exit title="Great Windmill St-Orange St"/>
     <exit title="Great Windmill St-Orange St"/>
   </exits>
 </zone>

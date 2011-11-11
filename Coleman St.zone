@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<zone title="Coleman St">
+  <nodes maxlat="51.51735670267036" maxlng="-0.08952913397979" minlat="51.51491644467556" minlng="-0.0903767120285">
+    <node lat="51.51679922707172" lng="-0.08978662604522"/>
+    <node lat="51.515911257837" lng="-0.08990464324188"/>
+    <node lat="51.51493647468508" lng="-0.0903767120285"/>
+    <node lat="51.51491644467556" lng="-0.09020505065155"/>
+    <node lat="51.51599137607244" lng="-0.08973298186493"/>
+    <node lat="51.51685263820306" lng="-0.08963642234039"/>
+    <node lat="51.51734001188326" lng="-0.08952913397979"/>
+    <node lat="51.51735670267036" lng="-0.08963642234039"/>
+  </nodes>
+  <exits>
+    <exit title="London Wall - Coleman Street"/>
+    <exit title="London Wall - Coleman Street"/>
+  </exits>
+</zone>

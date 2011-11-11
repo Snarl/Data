@@ -6,9 +6,9 @@
     <node lat="51.50310722102094" lng="-0.12638268584442"/>
     <node lat="51.50319404016581" lng="-0.1280188333435"/>
   </nodes>
+  <title>Downing Street</title>
   <exits>
     <exit title="Downing Street - Whitehall"/>
     <exit title="Downing Street - Whitehall"/>
   </exits>
-  <title>Downing Street</title>
 </zone>

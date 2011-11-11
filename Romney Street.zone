@@ -10,12 +10,10 @@
   </nodes>
   <exits>
     <exit title="Dean Bradley Street - Romney Street"/>
-    <exit title="Dean Bradley Street - Romney Street"/>
     <exit title="Marsham Street - Romney Street"/>
     <exit title="Romney Street - Tufton Street (N)"/>
     <exit title="Romney Street - Tufton Street (E)"/>
     <exit title="Romney Street - Tufton Street (S)"/>
-    <exit title="Romney Street - Tufton Street (W)"/>
     <exit title="Romney Street - Tufton Street (W)"/>
   </exits>
 </zone>

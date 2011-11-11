@@ -16,26 +16,14 @@
     <exit title="Pall Mall - Marlborough Rd"/>
     <exit title="Pall Mall - St James\'s Square (North)"/>
     <exit title="Pall Mall - St James\'s Square (South)"/>
-    <exit title="Pall Mall - St James\'s Square (South)"/>
     <exit title="Pall Mall - Waterloo Place (West)"/>
-    <exit title="Pall Mall - Marlborough Rd"/>
-    <exit title="Pall Mall - Marlborough Rd"/>
-    <exit title="St James\'s St - Pall Mall"/>
-    <exit title="St James\'s St - Pall Mall"/>
-    <exit title="St James\'s St - Pall Mall"/>
     <exit title="St James\'s St - Pall Mall"/>
     <exit title="Pall Mall - Crown Passage"/>
-    <exit title="Pall Mall - Crown Passage"/>
-    <exit title="Lugsmoor Lane - Pall Mall"/>
     <exit title="Lugsmoor Lane - Pall Mall"/>
     <exit title="Pall Mall - Cockspur Street"/>
     <exit title="Waterloo Place - Pall Mall (East)"/>
-    <exit title="Waterloo Place - Pall Mall (East)"/>
-    <exit title="Waterloo Place - Pall Mall (East)"/>
-    <exit title="Waterloo Place - Pall Mall (East)"/>
-    <exit title="Pall Mall - Cockspur Street"/>
-    <exit title="Pall Mall - Cockspur Street"/>
     <exit title="Pall Mall - Carlton Gardens"/>
-    <exit title="Pall Mall - Carlton Gardens"/>
+    <exit title="Pall Mall - Marlborough Rd"/>
+    <exit title="Pall Mall - Waterloo Place (West)"/>
   </exits>
 </zone>

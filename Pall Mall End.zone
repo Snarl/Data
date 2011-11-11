@@ -10,8 +10,6 @@
   </nodes>
   <exits>
     <exit title="Pall Mall End - Trafalgar Square"/>
-    <exit title="Pall Mall End - Trafalgar Square"/>
-    <exit title="Whitecomb Street - Pall Mall End"/>
     <exit title="Whitecomb Street - Pall Mall End"/>
   </exits>
 </zone>

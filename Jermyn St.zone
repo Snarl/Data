@@ -22,37 +22,15 @@
   </nodes>
   <exits>
     <exit title="Jermyn St - Duke of York St."/>
-    <exit title="Jermyn St - Duke of York St."/>
     <exit title="Eagle Pl - Jermyn St"/>
     <exit title="Jermyn St - Babmaes St"/>
     <exit title="Church Pl - Jermyn St"/>
     <exit title="St james\'s St - Jermyn St"/>
-    <exit title="Jermyn St - Babmaes St"/>
-    <exit title="Eagle Pl - Jermyn St"/>
-    <exit title="Eagle Pl - Jermyn St"/>
-    <exit title="Eagle Pl - Jermyn St"/>
-    <exit title="Eagle Pl - Jermyn St"/>
-    <exit title="Eagle Pl - Jermyn St"/>
-    <exit title="Jermyn St - Duke of York St."/>
-    <exit title="Church Pl - Jermyn St"/>
-    <exit title="St james\'s St - Jermyn St"/>
-    <exit title="Bury St - Jermyn St"/>
     <exit title="Bury St - Jermyn St"/>
     <exit title="Duke Street Saint James\'s - Jermyn St"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St (East)"/>
     <exit title="Duke Street Saint James\'s - Jermyn St (East)"/>
     <exit title="Duke Street Saint James\'s - Jermyn St (North)"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St (North)"/>
     <exit title="Duke Street Saint James\'s - Jermyn St. (West)"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St. (West)"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St. (West)"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St. (West)"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St (North)"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St"/>
-    <exit title="Duke Street Saint James\'s - Jermyn St (East)"/>
-    <exit title="South Regent Street - Jermyn St (West)"/>
-    <exit title="South Regent Street - Jermyn St (West)"/>
     <exit title="South Regent Street - Jermyn St (West)"/>
   </exits>
 </zone>

@@ -10,8 +10,6 @@
   </nodes>
   <exits>
     <exit title="Denman Street - Sherwood Street"/>
-    <exit title="Denman Street - Sherwood Street"/>
-    <exit title="Denman Street - Shaftesbury Avenue"/>
     <exit title="Denman Street - Shaftesbury Avenue"/>
   </exits>
 </zone>

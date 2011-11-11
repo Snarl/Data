@@ -25,30 +25,21 @@
   </nodes>
   <exits>
     <exit title="Marsham Street - Herrick Street"/>
-    <exit title="Marsham Street - Herrick Street"/>
     <exit title="John Islip Street - Marsham Street"/>
     <exit title="Erasmus Street - Marsham Street"/>
     <exit title="Marsham Street - Marsham Street North"/>
     <exit title="Vincent Street - Marsham Street"/>
-    <exit title="Vincent Street - Marsham Street"/>
-    <exit title="Erasmus Street - Marsham Street"/>
     <exit title="Marsham Street - Page Street (E)"/>
     <exit title="Marsham Street - Page Street (S)"/>
     <exit title="Marsham Street - Page Street (W)"/>
     <exit title="Marsham Street - Page Street (N)"/>
-    <exit title="Marsham Street - Page Street (E)"/>
-    <exit title="Marsham Street - Page Street (S)"/>
     <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
     <exit title="Bennett\'s Yard - Marsham Street"/>
-    <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
-    <exit title="Vincent Street - Marsham Street"/>
     <exit title="Marsham Street - Horseferry Road (N)"/>
-    <exit title="Marsham Street - Horseferry Road (S)"/>
     <exit title="Marsham Street - Horseferry Road (S)"/>
     <exit title="Marsham Street - Horseferry Road (E)"/>
     <exit title="Marsham Street - Romney Street"/>
     <exit title="Marsham Street - Great Peter Street"/>
-    <exit title="Path between Marsham Street and Monck Street to Marsham Street"/>
     <exit title="Marsham Street - Horseferry Road (W)"/>
   </exits>
 </zone>

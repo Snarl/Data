@@ -8,20 +8,12 @@
   </nodes>
   <exits>
     <exit title="Regent St - Cavendish Pl"/>
-    <exit title="Great Portland St - Cavendish Pl "/>
-    <exit title="Langham Pl - Cavenshish Pl (North)"/>
+    <exit title="Great Portland St - Cavendish Pl"/>
     <exit title="Langham Pl - Cavenshish Pl (North)"/>
     <exit title="Langham Pl - Cavendish Pl (West)"/>
-    <exit title="Langham Pl - Cavendish Pl (West)"/>
-    <exit title="Great Titchfield St - Cavendish St (West)"/>
     <exit title="Great Titchfield St - Cavendish St (West)"/>
     <exit title="Langham Pl - Cavendish Pl (East)"/>
-    <exit title="Langham Pl - Cavendish Pl (East)"/>
-    <exit title="Cavensish St - Great Portland St (East)"/>
     <exit title="Cavensish St - Great Portland St (East)"/>
     <exit title="Cavendish St - Great Portalnd Street (North)"/>
-    <exit title="Cavendish St - Great Portalnd Street (North)"/>
-    <exit title="Great Portland St - Cavendish Pl"/>
-    <exit title="Great Portland St - Cavendish Pl"/>
   </exits>
 </zone>

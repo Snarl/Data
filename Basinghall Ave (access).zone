@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<zone title="Basinghall Ave (access)">
+  <nodes maxlat="51.51742248092866" maxlng="-0.0902144383831" minlat="51.51689171167006" minlng="-0.09105128759575">
+    <node lat="51.51690506443166" lng="-0.09105128759575"/>
+    <node lat="51.51742248092866" lng="-0.09080452436638"/>
+    <node lat="51.51741914277656" lng="-0.09074551576805"/>
+    <node lat="51.5172622493514" lng="-0.09080988878441"/>
+    <node lat="51.51707531179886" lng="-0.0902144383831"/>
+    <node lat="51.51689171167006" lng="-0.09028954023552"/>
+    <node lat="51.51689171167006" lng="-0.09035391325187"/>
+    <node lat="51.5170686354435" lng="-0.09027881139946"/>
+    <node lat="51.51721885320224" lng="-0.0908259820385"/>
+    <node lat="51.5169084026214" lng="-0.09098155016136"/>
+  </nodes>
+  <exits>
+    <exit title="Basinghall Ave (access) - London Wall"/>
+    <exit title="Basinghall Ave (access) - London Wall"/>
+  </exits>
+</zone>

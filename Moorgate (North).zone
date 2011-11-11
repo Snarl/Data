@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<zone title="Moorgate (North)">
+  <nodes maxlat="51.5192360461803" maxlng="-0.08761940116119" minlat="51.51751359577082" minlng="-0.08869228476715">
+    <node lat="51.51757368234676" lng="-0.08869228476715"/>
+    <node lat="51.51751359577082" lng="-0.0885206233902"/>
+    <node lat="51.51922269410208" lng="-0.08761940116119"/>
+    <node lat="51.5192360461803" lng="-0.08774814719391"/>
+  </nodes>
+  <exits>
+    <exit title="London Wall - Moorgate (North)"/>
+    <exit title="London Wall - Moorgate (North)"/>
+    <exit title="London Wall - Moorgate (North)"/>
+  </exits>
+</zone>

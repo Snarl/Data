@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<exit title="Parliament Square - Broad Sanctuary">
+<exit title="Parliament Square - Broad Sanctuary" status="green" reason="">
   <nodes>
     <node lat="51.5002220599766" lng="-0.12786862963867"/>
     <node lat="51.50000666736332" lng="-0.12751726025772"/>
   </nodes>
   <zones>
     <zone title="Parliament Square"/>
-    <zone title="Broad Santuary"/>
+    <zone title="Broad Sanctuary"/>
   </zones>
 </exit>

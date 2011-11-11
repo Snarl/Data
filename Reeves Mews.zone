@@ -9,13 +9,8 @@
   </nodes>
   <exits>
     <exit title="Park Street - Reeves Mews"/>
-    <exit title="Park Street - Reeves Mews"/>
-    <exit title="Park Street - Reeves Mews"/>
-    <exit title="Park Street - Reeves Mews"/>
     <exit title="Reeves Mews - Park St"/>
     <exit title="Reeves Mews-S Audley St"/>
-    <exit title="Reeves Mews-S Audley St"/>
-    <exit title="Reevs Mews - South Audley St (West)"/>
     <exit title="Reevs Mews - South Audley St (West)"/>
   </exits>
 </zone>

@@ -12,8 +12,6 @@
   </nodes>
   <exits>
     <exit title="North Charing Cross Road - Palace Theatre"/>
-    <exit title="North Charing Cross Road - Palace Theatre"/>
-    <exit title="Palace Theatre - South Charing Cross Road"/>
     <exit title="Palace Theatre - South Charing Cross Road"/>
   </exits>
 </zone>

@@ -13,21 +13,12 @@
   </nodes>
   <exits>
     <exit title="East Oxford Street 2 - Berwick Street"/>
-    <exit title="East Oxford Street 2 - Berwick Street"/>
-    <exit title="North Berwick Street - Noel Street"/>
     <exit title="North Berwick Street - Noel Street"/>
     <exit title="South Berwick Street - Noel Street"/>
-    <exit title="South Berwick Street - Noel Street"/>
-    <exit title="East Noel Street - Berwick Street"/>
     <exit title="East Noel Street - Berwick Street"/>
     <exit title="West Noel Street - Berwick Street"/>
-    <exit title="West Noel Street - Berwick Street"/>
-    <exit title="Berwick Street - D\'Arblay Street"/>
     <exit title="Berwick Street - D\'Arblay Street"/>
     <exit title="West D\'Arblay Street - Berwick Street"/>
-    <exit title="West D\'Arblay Street - Berwick Street"/>
-    <exit title="East D\'Arblay Street - Berwick Street"/>
-    <exit title="East D\'Arblay Street - Berwick Street"/>
     <exit title="East D\'Arblay Street - Berwick Street"/>
   </exits>
 </zone>

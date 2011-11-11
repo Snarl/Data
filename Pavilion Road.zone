@@ -12,22 +12,12 @@
   </nodes>
   <exits>
     <exit title="West Pont Street - Pavilion Road"/>
-    <exit title="West Pont Street - Pavilion Road"/>
     <exit title="East Pont Street - Pavilion Road"/>
-    <exit title="East Pont Street - Pavilion Road"/>
-    <exit title="Basil Street - Pavilion Road"/>
-    <exit title="Herbert Crescent - Pavilion Road"/>
-    <exit title="North Pavilion Road - Hans Crescent"/>
-    <exit title="Basil Street - Pavilion Road"/>
     <exit title="Basil Street - Pavilion Road"/>
     <exit title="Herbert Crescent - Pavilion Road"/>
     <exit title="North Pavilion Road - Hans Crescent"/>
     <exit title="South Pavilion Road - Hans Crescent"/>
-    <exit title="East Pont Street - Pavilion Road"/>
     <exit title="North Pavilion Road - Pont Street"/>
     <exit title="Pont Street - South Pavilion Road"/>
-    <exit title="West Pont Street - Pavilion Road"/>
-    <exit title="Pont Street - South Pavilion Road"/>
-    <exit title="South Pavilion Road - Hans Crescent"/>
   </exits>
 </zone>

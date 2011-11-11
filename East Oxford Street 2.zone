@@ -11,29 +11,16 @@
   </nodes>
   <exits>
     <exit title="East Oxford Street 1 - East Oxford Street 2"/>
-    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
-    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
-    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
-    <exit title="East Oxford Street 2 - Centre Point"/>
     <exit title="East Oxford Street 2 - Centre Point"/>
     <exit title="East Oxford Street 2 - Wardour Street"/>
     <exit title="East Oxford Street 2 - Berwick Street"/>
-    <exit title="East Oxford Street 2 - Berwick Street"/>
-    <exit title="Great Chapel Street - East Oxford Street 1"/>
     <exit title="Great Chapel Street - East Oxford Street 1"/>
     <exit title="Dean St - East Oxford Street 1"/>
-    <exit title="Dean St - East Oxford Street 1"/>
-    <exit title="Soho Street - East Oxford Street 1"/>
     <exit title="Soho Street - East Oxford Street 1"/>
     <exit title="Rathbone Pl - Oxford St (North)"/>
-    <exit title="Rathbone Pl - Oxford St (North)"/>
-    <exit title="Hanway Place - Oxford Street"/>
     <exit title="Hanway Place - Oxford Street"/>
     <exit title="Well Street 0 East Oxford Street 2"/>
-    <exit title="Well Street 0 East Oxford Street 2"/>
     <exit title="Berners St - East Oxford Street 2"/>
-    <exit title="Berners St - East Oxford Street 2"/>
-    <exit title="Newman St - East Oxford Street 2"/>
     <exit title="Newman St - East Oxford Street 2"/>
   </exits>
 </zone>

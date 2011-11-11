@@ -12,12 +12,8 @@
   </nodes>
   <exits>
     <exit title="Marylebone Ln-Wigmore St"/>
-    <exit title="Marylebone Ln-Wigmore St"/>
-    <exit title="James St-Wigmore St"/>
     <exit title="James St-Wigmore St"/>
     <exit title="Wigmore St-Duke St"/>
-    <exit title="Wigmore St-Duke St"/>
-    <exit title="Duke St-Wigmore St"/>
     <exit title="Duke St-Wigmore St"/>
   </exits>
 </zone>

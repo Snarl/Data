@@ -11,23 +11,8 @@
   </nodes>
   <exits>
     <exit title="Carnaby St - Noel St"/>
-    <exit title="Carnaby St - Noel St"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
     <exit title="Carnaby Street - Ganton St (South)"/>
     <exit title="Carnaby Street - Ganton St (North)"/>
-    <exit title="Carnaby Street - Ganton St (North)"/>
-    <exit title="Carnaby Street - Ganton St (East)"/>
-    <exit title="Carnaby Street - Ganton St (East)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
-    <exit title="Carnaby Street - Ganton St (South)"/>
     <exit title="Carnaby Street - Ganton St (East)"/>
   </exits>
 </zone>

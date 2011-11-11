@@ -10,24 +10,12 @@
   </nodes>
   <exits>
     <exit title="Park Lane - N Row"/>
-    <exit title="Park Lane - N Row"/>
-    <exit title="Park lane - Oxford St"/>
     <exit title="Park lane - Oxford St"/>
     <exit title="Green Street - Park lane"/>
-    <exit title="Green Street - Park lane"/>
-    <exit title="Green Street - Park lane"/>
-    <exit title="Park Lane - N Row"/>
-    <exit title="Wood\'s Mews - Park lane"/>
-    <exit title="Wood\'s Mews - Park lane"/>
     <exit title="Wood\'s Mews - Park lane"/>
     <exit title="Upper Brook St - Park lane"/>
     <exit title="Culross St - Park lane"/>
-    <exit title="Culross St - Park lane"/>
-    <exit title="Culross St - Park lane"/>
     <exit title="Park Lane 1 - Culross St"/>
-    <exit title="Park Lane 1 - Culross St"/>
-    <exit title="Park Lane 1 - Culross St"/>
-    <exit title="Upper Grosvenor - Park lane 1"/>
     <exit title="Upper Grosvenor - Park lane 1"/>
   </exits>
 </zone>

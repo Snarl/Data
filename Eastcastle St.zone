@@ -13,10 +13,8 @@
   </nodes>
   <exits>
     <exit title="Great Portland St-Eastcastle St"/>
-    <exit title="Great Portland St-Eastcastle St"/>
     <exit title="Great Portland St - Eastcastle St"/>
     <exit title="Great Titchfield St - Eastcastle St"/>
-    <exit title="Eastcastle St - Wells St"/>
     <exit title="Eastcastle St - Wells St"/>
   </exits>
 </zone>

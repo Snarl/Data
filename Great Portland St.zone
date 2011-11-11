@@ -12,15 +12,10 @@
   <exits>
     <exit title="Oxford St - Great Portlans St"/>
     <exit title="Great Portland St-Eastcastle St"/>
-    <exit title="Great Portland St-Eastcastle St"/>
     <exit title="Great Portland St - Eastcastle St"/>
     <exit title="Great Portland St - Margaret St"/>
-    <exit title="Great Portland St - Cavendish Pl "/>
-    <exit title="Cavensish St - Great Portland St (East)"/>
+    <exit title="Great Portland St - Cavendish Pl"/>
     <exit title="Cavensish St - Great Portland St (East)"/>
     <exit title="Cavendish St - Great Portalnd Street (North)"/>
-    <exit title="Cavendish St - Great Portalnd Street (North)"/>
-    <exit title="Great Portland St - Cavendish Pl"/>
-    <exit title="Great Portland St - Cavendish Pl"/>
   </exits>
 </zone>

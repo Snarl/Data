@@ -23,6 +23,9 @@
     <exit title="Parliament Square - Little Sanctuary"/>
     <exit title="Parliament Square - St Magaret"/>
     <exit title="Parliament Square - Bridge Street"/>
+    <exit title="Parliament Square - St Magaret"/>
+    <exit title="Parliament Square - Broad Sanctuary 2"/>
+    <exit title="Parliament Square - Great George Street"/>
   </exits>
   <title>Parliament Square</title>
 </zone>

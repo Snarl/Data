@@ -12,20 +12,11 @@
   </nodes>
   <exits>
     <exit title="N Audley St - Green St"/>
-    <exit title="N Audley St - Green St"/>
     <exit title="N Row - N Audley St"/>
-    <exit title="N Row - N Audley St"/>
-    <exit title="N Row - N Audley St"/>
-    <exit title="N Row - N Audley St"/>
-    <exit title="N Audley St - Oxford St "/>
-    <exit title="N Audley St - Oxford St "/>
-    <exit title="N Audley St - Oxford St "/>
+    <exit title="N Audley St - Oxford St"/>
     <exit title="North Row - North Audley St (East)"/>
-    <exit title="North Row - North Audley St (East)"/>
-    <exit title="Providence Court to N Audley Street"/>
     <exit title="Providence Court to N Audley Street"/>
     <exit title="Lee\'s Place - N Audley Street"/>
-    <exit title="N Audley St - Grosvenor Square"/>
     <exit title="N Audley St - Grosvenor Square"/>
   </exits>
 </zone>

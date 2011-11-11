@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<zone title="Shaftesbury Avenue" status="red" reason="Not good" timestamp="1301333543">
+<zone title="Shaftesbury Avenue" status="orange" reason="Packed, HSBC being smashed up. Scuffles etc.">
   <nodes maxlat="51.5169728130318" maxlng="-0.12577918881607" minlat="51.51015906797784" minlng="-0.13450441474151">
     <node lat="51.51338245362587" lng="-0.12880203837585"/>
     <node lat="51.51357441398576" lng="-0.12848553771209"/>
@@ -56,27 +56,15 @@
   <exits>
     <exit title="Shaftesbury Avenus-Picadilly Circus"/>
     <exit title="Denman Street - Shaftesbury Avenue"/>
-    <exit title="Denman Street - Shaftesbury Avenue"/>
-    <exit title="Great Windmill Street - Shaftesbury Avenue (North)"/>
     <exit title="Great Windmill Street - Shaftesbury Avenue (North)"/>
     <exit title="Great Windmill Street - Shaftesbury Avenue (South)"/>
-    <exit title="Great Windmill Street - Shaftesbury Avenue (South)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (North)"/>
     <exit title="Rupert Street - Shaftesbury Avenue (North)"/>
     <exit title="Rupert Street - Shaftesbury Avenue (South)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (South)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (East)"/>
     <exit title="Rupert Street - Shaftesbury Avenue (East)"/>
     <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
-    <exit title="Wardour Street - Shaftesbury Avenue "/>
-    <exit title="Wardour Street - Shaftesbury Avenue "/>
-    <exit title="Whitecomb - Shaftesbury Avenue "/>
-    <exit title="Whitecomb - Shaftesbury Avenue "/>
-    <exit title="Macclesfield Street - Shaftesbury Avenue "/>
-    <exit title="Macclesfield Street - Shaftesbury Avenue "/>
-    <exit title="Dean Street - Shaftesbury Avenue (East)"/>
+    <exit title="Wardour Street - Shaftesbury Avenue"/>
+    <exit title="Whitecomb - Shaftesbury Avenue"/>
+    <exit title="Macclesfield Street - Shaftesbury Avenue"/>
     <exit title="Dean Street - Shaftesbury Avenue (East)"/>
   </exits>
 </zone>

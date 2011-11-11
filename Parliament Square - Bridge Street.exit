@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<exit title="Parliament Square - Bridge Street">
+<exit title="Parliament Square - Bridge Street" status="green" reason="">
   <nodes>
     <node lat="51.50076805064485" lng="-0.12597364896965"/>
     <node lat="51.50107276736341" lng="-0.12600717658233"/>

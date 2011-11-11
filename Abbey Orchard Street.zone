@@ -18,13 +18,9 @@
   </nodes>
   <exits>
     <exit title="Abbey Orchard Street - Great Smith Street"/>
-    <exit title="Abbey Orchard Street - Great Smith Street"/>
-    <exit title="Abbey Orchard Street - Great Smith Street"/>
     <exit title="Abbey Orchard Street - St Ann\'s Street"/>
     <exit title="Abbey Orchard Street - Abbey Orchard Street Estate (North Entrance)"/>
     <exit title="Abbey Orchard Street - Abbey Orchard Street Estate (West Entrance)"/>
-    <exit title="Abbey Orchard Street - Abbey Orchard Street Estate (West Entrance)"/>
-    <exit title="Victoria Street - Abbey Street Orchard"/>
     <exit title="Victoria Street - Abbey Street Orchard"/>
     <exit title="Abbey Orchard Street - Old Pye Street"/>
   </exits>

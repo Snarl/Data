@@ -11,47 +11,22 @@
   </nodes>
   <exits>
     <exit title="South St - Park lane"/>
-    <exit title="South St - Park lane"/>
     <exit title="South St - St Audley Street (West)"/>
     <exit title="South St - St Audley Street (South)"/>
     <exit title="South St - St Audley Street (East)"/>
-    <exit title="South St - St Audley Street (East)"/>
     <exit title="South St - St Audley Street (North)"/>
-    <exit title="South St - St Audley Street (South)"/>
-    <exit title="South St - St Audley Street (East)"/>
-    <exit title="Waverton St - South St"/>
     <exit title="Waverton St - South St"/>
     <exit title="Rex Pl - South St"/>
-    <exit title="Rex Pl - South St"/>
-    <exit title="Park St - South St"/>
     <exit title="Park St - South St"/>
     <exit title="Balfour Mews-South St"/>
-    <exit title="Balfour Mews-South St"/>
-    <exit title="south st-s audley st"/>
     <exit title="south st-s audley st"/>
     <exit title="Audley St-South St"/>
-    <exit title="Audley St-South St"/>
-    <exit title="Chesterfueld Hill-South St"/>
     <exit title="Chesterfueld Hill-South St"/>
     <exit title="South St - Farm St"/>
     <exit title="South St-Farm St"/>
-    <exit title="South St-Farm St"/>
-    <exit title="South Street - Balfour Pl"/>
     <exit title="South Street - Balfour Pl"/>
     <exit title="South Audley St - South Street (North)"/>
-    <exit title="South Audley St - South Street (North)"/>
     <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Audley St - South Street (West)"/>
-    <exit title="South Street - South Audley Street (North)"/>
-    <exit title="South Street - South Audley Street (North)"/>
-    <exit title="South Street - South Audley Street (North)"/>
     <exit title="South Street - South Audley Street (North)"/>
   </exits>
 </zone>

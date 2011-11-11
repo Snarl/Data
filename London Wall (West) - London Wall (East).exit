@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<exit title="London Wall (West) - London Wall (East)" status="red" reason="">
+  <nodes>
+    <node lat="51.51735169543453" lng="-0.08852867001724"/>
+    <node lat="51.51719813994556" lng="-0.08864936942291"/>
+  </nodes>
+  <zones>
+    <zone title=""/>
+  </zones>
+</exit>

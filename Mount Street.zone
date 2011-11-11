@@ -17,24 +17,13 @@
   </nodes>
   <exits>
     <exit title="Mount Street - Park St (South)"/>
-    <exit title="Mount Street - Park St (South)"/>
-    <exit title="Mount Street - Park Street (West)"/>
     <exit title="Mount Street - Park Street (West)"/>
     <exit title="Mount Street - Park Street (East)"/>
-    <exit title="Mount Street - Park Street (East)"/>
-    <exit title="Mount St - South Audley St (East)"/>
     <exit title="Mount St - South Audley St (East)"/>
     <exit title="Mount St - South Audley St (South)"/>
-    <exit title="Mount St - South Audley St (South)"/>
-    <exit title="Mount St - South Audley St (West)"/>
-    <exit title="Mount St - South Audley St (West)"/>
     <exit title="Mount St - South Audley St (West)"/>
     <exit title="Mount St - South Audley St (North)"/>
-    <exit title="Mount St - South Audley St (North)"/>
     <exit title="Rex Pl - Mount St"/>
-    <exit title="Rex Pl - Mount St"/>
-    <exit title="Mount St - Balfour Pl"/>
-    <exit title="Mount St - Balfour Pl"/>
     <exit title="Mount St - Balfour Pl"/>
   </exits>
 </zone>

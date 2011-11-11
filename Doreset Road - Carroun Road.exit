@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Doreset Road - Carroun Road" status="green" reason="">
+  <nodes>
+    <node lat="51.47933091843684" lng="-0.11965302342605"/>
+    <node lat="51.47940776006136" lng="-0.1198407780571"/>
+  </nodes>
+  <zones>
+    <zone title="Dorset Road"/>
+    <zone title="Carroun Road (south)"/>
+  </zones>
+</exit>

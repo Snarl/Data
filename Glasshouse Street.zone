@@ -17,14 +17,9 @@
   <exits>
     <exit title="Picadilly Circus-Glasshouse St"/>
     <exit title="Sherwood St-Glasshouse St"/>
-    <exit title="Sherwood St-Glasshouse St"/>
-    <exit title="Glasshouse St-Air St"/>
     <exit title="Glasshouse St-Air St"/>
     <exit title="Warwick Street - Glasshouse St"/>
-    <exit title="Warwick Street - Glasshouse St"/>
     <exit title="Brewer Street - Glasshouse St"/>
-    <exit title="Brewer Street - Glasshouse St"/>
-    <exit title="Brewer Street - Air Street (North)"/>
     <exit title="Brewer Street - Air Street (North)"/>
   </exits>
 </zone>

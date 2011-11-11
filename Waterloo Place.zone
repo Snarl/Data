@@ -17,10 +17,7 @@
     <exit title="Pall Mall - Waterloo Place (West)"/>
     <exit title="Regent Street - Waterloo Place"/>
     <exit title="The Mall - Waterloo"/>
-    <exit title="The Mall - Waterloo"/>
     <exit title="Waterloo Place - Pall Mall (East)"/>
-    <exit title="Waterloo Place - Pall Mall (East)"/>
-    <exit title="Waterloo Place - Pall Mall (East)"/>
-    <exit title="Waterloo Place - Pall Mall (East)"/>
+    <exit title="Pall Mall - Waterloo Place (West)"/>
   </exits>
 </zone>

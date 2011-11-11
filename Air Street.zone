@@ -13,16 +13,11 @@
   </nodes>
   <exits>
     <exit title="Regent St-Air St"/>
-    <exit title="Regent St-Air St"/>
-    <exit title="Glasshouse St-Air St"/>
     <exit title="Glasshouse St-Air St"/>
     <exit title="Air Street - Piccadily Place 2"/>
-    <exit title="Air Street - Piccadily Place 2"/>
-    <exit title="Air Street - Regent St"/>
     <exit title="Air Street - Regent St"/>
     <exit title="Air St-Picadilly Place"/>
+    <exit title="Brewer Street - Air Street (North)"/>
     <exit title="Air St-Picadilly Place"/>
-    <exit title="Brewer Street - Air Street (North)"/>
-    <exit title="Brewer Street - Air Street (North)"/>
   </exits>
 </zone>

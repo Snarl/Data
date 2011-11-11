@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<exit title="Parliament Square - St Magaret">
+<exit title="Parliament Square - St Magaret" status="green" reason="">
   <nodes>
     <node lat="51.50008013472584" lng="-0.12637732142639"/>
     <node lat="51.50011352894231" lng="-0.12602058762741"/>

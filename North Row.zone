@@ -13,8 +13,6 @@
   </nodes>
   <exits>
     <exit title="Park St - North Row (East)"/>
-    <exit title="Park St - North Row (East)"/>
-    <exit title="North Row - North Audley St (East)"/>
     <exit title="North Row - North Audley St (East)"/>
   </exits>
 </zone>

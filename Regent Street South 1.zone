@@ -18,44 +18,22 @@
   </nodes>
   <exits>
     <exit title="Oxford Circus - South Regent Street"/>
-    <exit title="Oxford Circus - South Regent Street"/>
-    <exit title="South Regent Street - Piccadilly Circus"/>
-    <exit title="South Regent Street - Piccadilly Circus"/>
     <exit title="South Regent Street - Piccadilly Circus"/>
     <exit title="South Regent Street 1 - klsdjf"/>
-    <exit title="South Regent Street 1 - klsdjf"/>
-    <exit title="South Regent Street 1 - klsdjf"/>
-    <exit title="Princes St - Regent Street 1"/>
-    <exit title="Princes St - Regent Street 1"/>
     <exit title="Princes St - Regent Street 1"/>
     <exit title="Hanover Street - Regent Street 1"/>
-    <exit title="Hanover Street - Regent Street 1"/>
-    <exit title="Maddox St - Regent Street 1"/>
-    <exit title="Maddox St - Regent Street 1"/>
-    <exit title="Conduit Street - Regent Street 1"/>
-    <exit title="Conduit Street - Regent Street 1"/>
     <exit title="Maddox St - Regent Street 1"/>
     <exit title="Conduit Street - Regent Street 1"/>
     <exit title="Little Argyll Street - Regents Street"/>
     <exit title="New Burlington Pl - Regent St"/>
-    <exit title="New Burlington Pl - Regent St"/>
-    <exit title="Little Argyll Street - Regents Street"/>
-    <exit title="Vigo St - Regent St"/>
     <exit title="Vigo St - Regent St"/>
     <exit title="New Burlington St - Regent St"/>
-    <exit title="New Burlington St - Regent St"/>
-    <exit title="Heddon St - Regent St"/>
     <exit title="Heddon St - Regent St"/>
     <exit title="Beak Street - Regent Street"/>
-    <exit title="Beak Street - Regent Street"/>
-    <exit title="Fouberts Place - Regent Street"/>
     <exit title="Fouberts Place - Regent Street"/>
     <exit title="Regent St-Air St"/>
-    <exit title="Regent St-Air St"/>
-    <exit title="Oxford Circus - South Regent Street"/>
-    <exit title="Oxford Circus - South Regent Street"/>
-    <exit title="Air Street - Regent St"/>
     <exit title="Air Street - Regent St"/>
     <exit title="Swallow St - Regent Street South 1"/>
+    <exit title="Oxford Circus - South Regent Street"/>
   </exits>
 </zone>

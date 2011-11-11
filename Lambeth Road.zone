@@ -8,5 +8,7 @@
     <node lat="51.49484361881563" lng="-0.11938748473358"/>
     <node lat="51.49444284026765" lng="-0.12039599532318"/>
   </nodes>
-  <exits/>
+  <exits>
+    <exit title="Lambeth Road - Pratt Walk"/>
+  </exits>
 </zone>

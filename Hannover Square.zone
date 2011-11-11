@@ -10,14 +10,9 @@
   </nodes>
   <exits>
     <exit title="Brook Street - Hanover Square"/>
-    <exit title="Brook Street - Hanover Square"/>
-    <exit title="Princes St - Hannover Square"/>
     <exit title="Princes St - Hannover Square"/>
     <exit title="Hanover St - Hanover Square"/>
-    <exit title="Hanover St - Hanover Square"/>
     <exit title="St George\'s St - Hanove Square"/>
-    <exit title="St George\'s St - Hanove Square"/>
-    <exit title="Tenderden St - Hanover Square"/>
     <exit title="Tenderden St - Hanover Square"/>
   </exits>
 </zone>

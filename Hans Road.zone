@@ -17,10 +17,6 @@
   <exits>
     <exit title="Hans Road - Basil Street"/>
     <exit title="Hans Road - Hans Place"/>
-    <exit title="Hans Road - Hans Place"/>
-    <exit title="Hans Road - Basil Street"/>
-    <exit title="Hans Road - Basil Street"/>
-    <exit title="Hans Road - Hans Place"/>
     <exit title="Brompton Road - Hans Road"/>
   </exits>
 </zone>

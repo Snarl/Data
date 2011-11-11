@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Fore St - London Wall" status="red" reason="">
+  <nodes>
+    <node lat="51.51769552432787" lng="-0.09021309727859"/>
+    <node lat="51.51769218619576" lng="-0.09004143590164"/>
+  </nodes>
+  <zones>
+    <zone title="Fore St"/>
+    <zone title="London Wall"/>
+  </zones>
+</exit>

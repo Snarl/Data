@@ -9,10 +9,8 @@
   </nodes>
   <exits>
     <exit title="Bayswater Rd-Edgware Rd"/>
-    <exit title="Bayswater Rd-Edgware Rd"/>
     <exit title="Seymour St-Edgware Rd"/>
     <exit title="Edgware Rd-Connaught St"/>
-    <exit title="Edgware Rd-Upper Berkeley St"/>
     <exit title="Edgware Rd-Upper Berkeley St"/>
   </exits>
 </zone>

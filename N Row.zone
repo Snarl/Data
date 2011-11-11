@@ -12,20 +12,10 @@
   </nodes>
   <exits>
     <exit title="N Row - N Audley St"/>
-    <exit title="N Row - N Audley St"/>
-    <exit title="N Row - N Audley St"/>
-    <exit title="N Row - N Audley St"/>
-    <exit title="Park Lane - N Row"/>
-    <exit title="Park Lane - N Row"/>
     <exit title="Park Lane - N Row"/>
     <exit title="Park St - N Row (East)"/>
     <exit title="Park St - N Row (South)"/>
-    <exit title="Park St - N Row (South)"/>
-    <exit title="Park St - N Row (South)"/>
-    <exit title="Park St - N Row (West)"/>
     <exit title="Park St - N Row (West)"/>
     <exit title="Park St - N Row (North)"/>
-    <exit title="Park St - N Row (North)"/>
-    <exit title="Park St - N Row (East)"/>
   </exits>
 </zone>

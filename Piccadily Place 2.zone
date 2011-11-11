@@ -24,26 +24,18 @@
   </nodes>
   <exits>
     <exit title="Piccadily - Eagle St"/>
-    <exit title="Church Pl - Piccadily "/>
+    <exit title="Church Pl - Piccadily"/>
     <exit title="Duke Street Saint James\'s - Piccadily"/>
-    <exit title="Duke Street Saint James\'s - Piccadily"/>
-    <exit title="Church Pl - Piccadily "/>
-    <exit title="Piccadily Place 2 - St James\'s Pl"/>
     <exit title="Piccadily Place 2 - St James\'s Pl"/>
     <exit title="Burlington Arcade - Piccadily Place 2"/>
-    <exit title="Burlington Arcade - Piccadily Place 2"/>
-    <exit title="Burlington Arcade - Piccadily Place 2"/>
-    <exit title="Sackville St - Piccadily Place 2"/>
     <exit title="Sackville St - Piccadily Place 2"/>
     <exit title="Piccadily Place 2 - Swallow St"/>
+    <exit title="Air Street - Piccadily Place 2"/>
+    <exit title="Piccadily Place 2 - Piccadily Circus"/>
     <exit title="Piccadily Place 2 - Swallow St"/>
-    <exit title="Air Street - Piccadily Place 2"/>
-    <exit title="Air Street - Piccadily Place 2"/>
-    <exit title="Piccadily Place 2 - Piccadily Circus"/>
-    <exit title="Piccadily Place 2 - Piccadily Circus"/>
-    <exit title="Piccadily Place 2 - Piccadily Circus"/>
-    <exit title="Piccadily Place 2 - St James\'s Pl"/>
+    <exit title="Burlington Arcade - Piccadily Place 2"/>
     <exit title="Sackville St - Piccadily Place 2"/>
-    <exit title="Piccadily Place 2 - St James\'s Pl"/>
+    <exit title="Burlington Arcade - Piccadily Place 2"/>
+    <exit title="Sackville St - Piccadily Place 2"/>
   </exits>
 </zone>

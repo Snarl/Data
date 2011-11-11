@@ -12,21 +12,14 @@
   </nodes>
   <exits>
     <exit title="West Oxford Street 2 - Oxford Circus"/>
-    <exit title="West Oxford Street 2 - Oxford Circus"/>
-    <exit title="West Oxford Street 2 - Oxford Circus"/>
     <exit title="Oxford Circus - East Oxford Street 1"/>
-    <exit title="Oxford Circus - East Oxford Street 1"/>
-    <exit title="Oxford Circus - South Regent Street"/>
     <exit title="Oxford Circus - South Regent Street"/>
     <exit title="North Regents St-Oxford St"/>
-    <exit title="North Regents St-Oxford St"/>
-    <exit title="Oxford Circus - South Regent Street"/>
-    <exit title="Oxford Circus - East Oxford Street 1"/>
     <exit title="Oxford Circus - North Regent Street"/>
-    <exit title="Oxford Circus - North Regent Street"/>
-    <exit title="Oxford Circus - East Oxford Street 1"/>
-    <exit title="Oxford Circus - South Regent Street"/>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
     <exit title="West Oxford Street 2 - Oxford Circus"/>
     <exit title="North Regents St-Oxford St"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
+    <exit title="Oxford Circus - South Regent Street"/>
   </exits>
 </zone>

@@ -8,12 +8,10 @@
   </nodes>
   <exits>
     <exit title="Douglas Street - Regency Street"/>
-    <exit title="Douglas Street - Regency Street"/>
     <exit title="Hide Place - Douglas Street"/>
     <exit title="Chapter Street - Douglas Street (NE)"/>
     <exit title="Chapter Street - Douglas Street (SE)"/>
     <exit title="Chapter Street - Douglas Street (SW)"/>
-    <exit title="Chapter Street - Douglas Street (SE)"/>
     <exit title="Chapter Street - Douglas Street (NW)"/>
     <exit title="Douglas Street - Vincent Square"/>
   </exits>

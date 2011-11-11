@@ -18,15 +18,10 @@
   </nodes>
   <exits>
     <exit title="Saville Row-Conduit St"/>
-    <exit title="Saville Row-Conduit St"/>
-    <exit title="New Burlington Pl-Saville Row"/>
     <exit title="New Burlington Pl-Saville Row"/>
     <exit title="New Burlington St-Saville Row"/>
-    <exit title="New Burlington St-Saville Row"/>
-    <exit title="Boyle St-Saville Row"/>
     <exit title="Boyle St-Saville Row"/>
     <exit title="Burlington Gardens - Savile Row"/>
-    <exit title="Savile Row - Sackville St"/>
     <exit title="Savile Row - Sackville St"/>
   </exits>
 </zone>

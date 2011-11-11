@@ -15,8 +15,6 @@
   </nodes>
   <exits>
     <exit title="Kennington Lane (middle) - Vauxhall Street"/>
-    <exit title="Kennington Lane (middle) - (north) "/>
-    <exit title="Kennington Lane (middle) - Vauxhall Street"/>
-    <exit title="Kennington Lane (middle) - Vauxhall Street"/>
+    <exit title="Kennington Lane (middle) - (north)"/>
   </exits>
 </zone>

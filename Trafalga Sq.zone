@@ -18,22 +18,12 @@
   </nodes>
   <exits>
     <exit title="Trafalgar Square - South Charing Cross Road"/>
-    <exit title="Trafalgar Square - South Charing Cross Road"/>
-    <exit title="Trafalgar Square - South Charing Cross Road"/>
     <exit title="Trafalga Sq - Northumberland Avenue"/>
     <exit title="Trafalga Sq - The Mall"/>
     <exit title="Upper Whitehall - Trafalga Sq"/>
     <exit title="Pall Mall End - Trafalgar Square"/>
-    <exit title="Pall Mall End - Trafalgar Square"/>
-    <exit title="Trafalgar Square - Strand"/>
-    <exit title="Trafalgar Square - Strand"/>
-    <exit title="Trafalgar Square - Strand"/>
-    <exit title="Trafalgar Square - Strand"/>
     <exit title="Trafalgar Square - Strand"/>
     <exit title="Strand - Charing Cross - Trafalgar Square"/>
-    <exit title="Strand - Charing Cross - Trafalgar Square"/>
-    <exit title="Strand - Charing Cross - Trafalgar Square"/>
-    <exit title="Cockspur Street - Trafalgar Square"/>
     <exit title="Cockspur Street - Trafalgar Square"/>
   </exits>
 </zone>

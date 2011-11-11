@@ -16,42 +16,25 @@
   </nodes>
   <exits>
     <exit title="West Oxford Street 2 - Oxford Circus"/>
-    <exit title="West Oxford Street 2 - Oxford Circus"/>
-    <exit title="West Oxford Street 2 - Oxford Circus"/>
     <exit title="West Oxford Street 1 - West Oxford Street 2"/>
     <exit title="Davies St - West Oxford Street 2"/>
-    <exit title="Davies St - West Oxford Street 2"/>
     <exit title="New Bond Street - West Oxford Street 2"/>
-    <exit title="New Bond Street - West Oxford Street 2"/>
-    <exit title="West Oxford Street - Dering St"/>
-    <exit title="West Oxford Street - Dering St"/>
     <exit title="West Oxford Street - Dering St"/>
     <exit title="Holles St - West oxford Street"/>
     <exit title="Holles St - West oxford Street 2 (West)"/>
-    <exit title="Holles St - West oxford Street 2 (West)"/>
-    <exit title="Holles St - West oxford Street 2 (West)"/>
-    <exit title="Holles St - West oxford street (East)"/>
     <exit title="Holles St - West oxford street (East)"/>
     <exit title="Holles St - West Oxford Street (North)"/>
-    <exit title="Holles St - West Oxford Street (North)"/>
-    <exit title="Holles St - West Oxford Street (South)"/>
     <exit title="Holles St - West Oxford Street (South)"/>
     <exit title="Swallow Pl - West Oxford Street 2"/>
-    <exit title="Swallow Pl - West Oxford Street 2"/>
-    <exit title="New Bond Street - West Oxford Street 2"/>
-    <exit title="Stratford Pl-Oxford St"/>
     <exit title="Stratford Pl-Oxford St"/>
     <exit title="Marylebone Le-Oxford St"/>
     <exit title="Woodstock St-Oxford St"/>
-    <exit title="Woodstock St-Oxford St"/>
-    <exit title="Oxford St-Vere St"/>
     <exit title="Oxford St-Vere St"/>
     <exit title="Chapel Pl-Oxford St"/>
     <exit title="Old Cavendish St-Oxford St"/>
     <exit title="John Prince\'s St-Oxford St"/>
-    <exit title="John Prince\'s St-Oxford St"/>
+    <exit title="John Prince\'s St - West Oxford Street 2"/>
     <exit title="West Oxford Street 2 - Oxford Circus"/>
-    <exit title="John Prince\'s St - West Oxford Street 2"/>
-    <exit title="John Prince\'s St - West Oxford Street 2"/>
+    <exit title="West Oxford Street 2 - Oxford Circus"/>
   </exits>
 </zone>

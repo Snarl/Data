@@ -12,17 +12,10 @@
   </nodes>
   <exits>
     <exit title="Park Street - Oxford Street"/>
-    <exit title="Park Street - Oxford Street"/>
     <exit title="Park St - N Row (East)"/>
     <exit title="Park St - N Row (South)"/>
-    <exit title="Park St - N Row (South)"/>
-    <exit title="Park St - N Row (South)"/>
-    <exit title="Park St - N Row (West)"/>
     <exit title="Park St - N Row (West)"/>
     <exit title="Park St - N Row (North)"/>
-    <exit title="Park St - N Row (North)"/>
     <exit title="Green St - Park St (South)"/>
-    <exit title="Green St - Park St (South)"/>
-    <exit title="Park St - N Row (East)"/>
   </exits>
 </zone>

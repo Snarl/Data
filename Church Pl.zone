@@ -9,8 +9,6 @@
   </nodes>
   <exits>
     <exit title="Church Pl - Jermyn St"/>
-    <exit title="Church Pl - Piccadily "/>
-    <exit title="Church Pl - Jermyn St"/>
-    <exit title="Church Pl - Piccadily "/>
+    <exit title="Church Pl - Piccadily"/>
   </exits>
 </zone>

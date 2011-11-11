@@ -12,8 +12,8 @@
   </nodes>
   <exits>
     <exit title="Air St-Picadilly Place"/>
+    <exit title="Picadilly Circus-Picadilly Pl"/>
+    <exit title="Picadilly Circus-Picadilly Pl"/>
     <exit title="Air St-Picadilly Place"/>
-    <exit title="Picadilly Circus-Picadilly Pl"/>
-    <exit title="Picadilly Circus-Picadilly Pl"/>
   </exits>
 </zone>

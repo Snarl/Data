@@ -23,23 +23,13 @@
   </nodes>
   <exits>
     <exit title="Great Windmill St-Orange St"/>
-    <exit title="Great Windmill St-Orange St"/>
-    <exit title="Great Windmill St-Panton St"/>
     <exit title="Great Windmill St-Panton St"/>
     <exit title="Great Windmill St-Coventry St"/>
-    <exit title="Great Windmill St-Coventry St"/>
-    <exit title="Pall Mall - Cockspur Street"/>
-    <exit title="Pall Mall - Cockspur Street"/>
     <exit title="Pall Mall - Cockspur Street"/>
     <exit title="Cockspur Street - B327"/>
-    <exit title="Cockspur Street - B327"/>
-    <exit title="Suffolk Place - Cockspur Street"/>
     <exit title="Suffolk Place - Cockspur Street"/>
     <exit title="Warwick House St - Cockspur Street"/>
-    <exit title="Warwick House St - Cockspur Street"/>
     <exit title="Cockspur Street - Trafalgar Square"/>
-    <exit title="Cockspur Street - Trafalgar Square"/>
-    <exit title="Cockspur Street - Jermyn St"/>
     <exit title="Cockspur Street - Jermyn St"/>
   </exits>
 </zone>

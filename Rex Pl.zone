@@ -9,12 +9,8 @@
   </nodes>
   <exits>
     <exit title="Rex Pl - South St"/>
-    <exit title="Rex Pl - South St"/>
-    <exit title="Rex Pl - Mount St"/>
     <exit title="Rex Pl - Mount St"/>
     <exit title="Rex Pl-Aldford St"/>
-    <exit title="Rex Pl-Aldford St"/>
-    <exit title="Aldford St-Rex Pl"/>
     <exit title="Aldford St-Rex Pl"/>
   </exits>
 </zone>

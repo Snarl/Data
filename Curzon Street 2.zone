@@ -9,16 +9,9 @@
   </nodes>
   <exits>
     <exit title="Curzon St - South Audley St"/>
-    <exit title="Curzon St - South Audley St"/>
-    <exit title="Chesterfield gardens - Curzon Street"/>
     <exit title="Chesterfield gardens - Curzon Street"/>
     <exit title="Curzon St - Hertford St"/>
-    <exit title="Curzon St - Hertford St"/>
     <exit title="Derby St - Curzon St"/>
-    <exit title="Derby St - Curzon St"/>
-    <exit title="Derby St - Curzon St"/>
-    <exit title="Derby St - Curzon St"/>
-    <exit title="Chesterfield St-Curzon St"/>
     <exit title="Chesterfield St-Curzon St"/>
   </exits>
 </zone>

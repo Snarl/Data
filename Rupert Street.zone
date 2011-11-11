@@ -12,15 +12,9 @@
   </nodes>
   <exits>
     <exit title="Ruper Street - Coventry Street"/>
-    <exit title="Ruper Street - Coventry Street"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (North)"/>
     <exit title="Rupert Street - Shaftesbury Avenue (North)"/>
     <exit title="Rupert Street - Shaftesbury Avenue (South)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (South)"/>
     <exit title="Rupert Street - Shaftesbury Avenue (East)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (East)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
-    <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
     <exit title="Rupert Street - Shaftesbury Avenue (West)"/>
   </exits>
 </zone>

@@ -21,8 +21,6 @@
   </nodes>
   <exits>
     <exit title="Whitecomb Street - Pall Mall End"/>
-    <exit title="Whitecomb Street - Pall Mall End"/>
-    <exit title="Whitecomb - Shaftesbury Avenue "/>
-    <exit title="Whitecomb - Shaftesbury Avenue "/>
+    <exit title="Whitecomb - Shaftesbury Avenue"/>
   </exits>
 </zone>

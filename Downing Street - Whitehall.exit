@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<exit title="Downing Street - Whitehall" status="red" reason="">
+<exit title="Downing Street - Whitehall" status="green" reason="">
   <nodes>
     <node lat="51.50324913684512" lng="-0.12644705886078"/>
     <node lat="51.50310221221918" lng="-0.12640414351654"/>

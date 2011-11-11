@@ -33,18 +33,10 @@
     <exit title="John Islip Street - Ponsonby Place (NE)"/>
     <exit title="John Islip Street - Ponsonby Place (NW)"/>
     <exit title="John Islip Street - Ponsonby Place (SW)"/>
-    <exit title="John Islip Street - Ponsonby Place (SE)"/>
-    <exit title="John Islip Street - Ponsonby Place (NE)"/>
-    <exit title="John Islip Street - Ponsonby Place (NW)"/>
-    <exit title="John Islip Street - Ponsonby Place (SW)"/>
-    <exit title="Cureton Street - John Islip Street"/>
     <exit title="John Islip Street - Marsham Street"/>
     <exit title="John Islip Street - Marsham Street North"/>
     <exit title="John Islip Street - Bessborough Gardens"/>
-    <exit title="Bulinca Street"/>
-    <exit title="Bulinca Street"/>
     <exit title="John Islip Street - Page Street"/>
-    <exit title="John Islip Street - Marsham Street North"/>
     <exit title="Atterbury Street - John Islip Street"/>
   </exits>
 </zone>

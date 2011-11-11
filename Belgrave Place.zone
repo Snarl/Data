@@ -8,13 +8,8 @@
   </nodes>
   <exits>
     <exit title="Belgrave Square - Belgrave Place"/>
-    <exit title="Belgrave Square - Belgrave Place"/>
-    <exit title="Eaton Road - Belgrave Place"/>
-    <exit title="Belgrave Square - Belgrave Place"/>
     <exit title="Eaton Road - Belgrave Place"/>
     <exit title="Belgrave Place - Eaton Square"/>
     <exit title="Belgrave Place - Eccleston Mews"/>
-    <exit title="Belgrave Place - Eccleston Mews"/>
-    <exit title="Eaton Road - Belgrave Place"/>
   </exits>
 </zone>

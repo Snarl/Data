@@ -8,30 +8,15 @@
   </nodes>
   <exits>
     <exit title="Oxford Circus - East Oxford Street 1"/>
-    <exit title="Oxford Circus - East Oxford Street 1"/>
-    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
-    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
-    <exit title="East Oxford Street 1 - East Oxford Street 2"/>
     <exit title="East Oxford Street 1 - East Oxford Street 2"/>
     <exit title="East Oxford Street 1 - Poland Street"/>
-    <exit title="East Oxford Street 1 - Poland Street"/>
-    <exit title="Argyll St - East Oxfod Street 1"/>
     <exit title="Argyll St - East Oxfod Street 1"/>
     <exit title="Hills Pl - East Oxford Street 1"/>
-    <exit title="Hills Pl - East Oxford Street 1"/>
-    <exit title="Ramillies Street - East Oxford Street 1"/>
-    <exit title="Ramillies Street - East Oxford Street 1"/>
-    <exit title="Ramillies Street - East Oxford Street 1"/>
-    <exit title="Ramillies Street - East Oxford Street 1"/>
     <exit title="Ramillies Street - East Oxford Street 1"/>
     <exit title="Oxford St - Great Portlans St"/>
     <exit title="Oxford St-Great Titchfield St"/>
-    <exit title="Oxford St-Great Titchfield St"/>
-    <exit title="Oxford Circus - East Oxford Street 1"/>
-    <exit title="Oxford Circus - East Oxford Street 1"/>
-    <exit title="Winsley St - East Oxford Street 1"/>
     <exit title="Winsley St - East Oxford Street 1"/>
     <exit title="Adam and Eve Ct - East Oxford Street 1"/>
-    <exit title="Adam and Eve Ct - East Oxford Street 1"/>
+    <exit title="Oxford Circus - East Oxford Street 1"/>
   </exits>
 </zone>

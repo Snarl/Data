@@ -8,24 +8,12 @@
   </nodes>
   <exits>
     <exit title="Burlington Gardens - Old Bond St."/>
-    <exit title="Burlington Gardens - Old Bond St."/>
-    <exit title="Burlington Gardens - New Bond Street South"/>
     <exit title="Burlington Gardens - New Bond Street South"/>
     <exit title="Burlington Gardens - Savile Row"/>
-    <exit title="Burlington Gardens - Savile Row"/>
     <exit title="Old Burlington St - Burlington Gardens"/>
-    <exit title="Old Burlington St - Burlington Gardens"/>
-    <exit title="Burlington Gardens - Savile Row"/>
-    <exit title="Burlington Arcade - Burlington Gardens (South)"/>
     <exit title="Burlington Arcade - Burlington Gardens (South)"/>
     <exit title="Cork St - Burlington Gardens"/>
-    <exit title="Cork St - Burlington Gardens"/>
-    <exit title="Burlington Arcade - Burlington Gardens (East)"/>
     <exit title="Burlington Arcade - Burlington Gardens (East)"/>
     <exit title="Burlington Gardens - Cork St"/>
-    <exit title="Burlington Gardens - Cork St"/>
-    <exit title="Burlington Gardens - Cork St"/>
-    <exit title="Cork St - Burlington Gardens"/>
-    <exit title="Cork St - Burlington Gardens"/>
   </exits>
 </zone>

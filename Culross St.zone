@@ -9,22 +9,10 @@
   </nodes>
   <exits>
     <exit title="Culross St - Park lane"/>
-    <exit title="Culross St - Park lane"/>
     <exit title="Park Lane 1 - Culross St"/>
-    <exit title="Park Lane 1 - Culross St"/>
-    <exit title="Park Lane 1 - Culross St"/>
-    <exit title="Culros St - Park St (East)"/>
-    <exit title="Culros St - Park St (East)"/>
-    <exit title="Culros St - Park St (East)"/>
-    <exit title="Culros St - Park St (East)"/>
-    <exit title="Culros St - Park St (East)"/>
-    <exit title="Culros St - Park St (East)"/>
     <exit title="Culros St - Park St (East)"/>
     <exit title="Culros St - Park St (West)"/>
-    <exit title="Culros St - Park St (West)"/>
     <exit title="Culros St - Park St (South)"/>
-    <exit title="Culros St - Park St (South)"/>
-    <exit title="Culros St - Park St (North)"/>
     <exit title="Culros St - Park St (North)"/>
   </exits>
 </zone>

@@ -9,9 +9,7 @@
   </nodes>
   <exits>
     <exit title="Oxford St-Great Titchfield St"/>
-    <exit title="Oxford St-Great Titchfield St"/>
     <exit title="Great Titchfield St - Eastcastle St"/>
-    <exit title="Great Titchfield St - Cavendish St (West)"/>
     <exit title="Great Titchfield St - Cavendish St (West)"/>
   </exits>
 </zone>

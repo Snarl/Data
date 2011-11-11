@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Lambeth Road - Pratt Walk">
+  <nodes>
+    <node lat="51.49510913271022" lng="-0.1171397935791"/>
+    <node lat="51.49520932621304" lng="-0.11665699595642"/>
+  </nodes>
+  <zones>
+    <zone title="Lambeth Road"/>
+    <zone title="Pratt Walk"/>
+  </zones>
+</exit>

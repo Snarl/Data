@@ -7,7 +7,6 @@
     <node lat="51.51175660039977" lng="-0.13125089520645"/>
   </nodes>
   <exits>
-    <exit title="Macclesfield Street - Shaftesbury Avenue "/>
-    <exit title="Macclesfield Street - Shaftesbury Avenue "/>
+    <exit title="Macclesfield Street - Shaftesbury Avenue"/>
   </exits>
 </zone>

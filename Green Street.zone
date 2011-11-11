@@ -9,17 +9,10 @@
   </nodes>
   <exits>
     <exit title="N Audley St - Green St"/>
-    <exit title="N Audley St - Green St"/>
-    <exit title="Green Street - Park lane"/>
-    <exit title="Green Street - Park lane"/>
     <exit title="Green Street - Park lane"/>
     <exit title="Green St - Park St (South)"/>
-    <exit title="Green St - Park St (South)"/>
-    <exit title="Green Street - Park Street (East)"/>
     <exit title="Green Street - Park Street (East)"/>
     <exit title="Green Street - Park Street (North)"/>
-    <exit title="Green Street - Park Street (North)"/>
-    <exit title="Green Street - Park Street (West)"/>
     <exit title="Green Street - Park Street (West)"/>
   </exits>
 </zone>

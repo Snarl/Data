@@ -8,8 +8,6 @@
   </nodes>
   <exits>
     <exit title="Charles St-Chesterfield St"/>
-    <exit title="Charles St-Chesterfield St"/>
-    <exit title="Chesterfield St-Curzon St"/>
     <exit title="Chesterfield St-Curzon St"/>
   </exits>
 </zone>

@@ -11,18 +11,10 @@
   <exits>
     <exit title="Great Marlborough Street - Noel Street"/>
     <exit title="Noel Street - Wardour Street"/>
-    <exit title="Noel Street - Wardour Street"/>
-    <exit title="North Berwick Street - Noel Street"/>
     <exit title="North Berwick Street - Noel Street"/>
     <exit title="South Berwick Street - Noel Street"/>
-    <exit title="South Berwick Street - Noel Street"/>
-    <exit title="East Noel Street - Berwick Street"/>
     <exit title="East Noel Street - Berwick Street"/>
     <exit title="West Noel Street - Berwick Street"/>
-    <exit title="West Noel Street - Berwick Street"/>
-    <exit title="Poland Street - Noel Street"/>
-    <exit title="Poland Street - Noel Street"/>
-    <exit title="Poland Street - Noel Street"/>
     <exit title="Poland Street - Noel Street"/>
   </exits>
 </zone>

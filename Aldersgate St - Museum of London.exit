@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<exit title="Aldersgate St - Museum of London">
+  <nodes>
+    <node lat="51.5178764673426" lng="-0.09718549961281"/>
+    <node lat="51.51789649605046" lng="-0.09660614246559"/>
+  </nodes>
+  <zones>
+    <zone title="Aldersgate St (North)"/>
+    <zone title="Museum of London"/>
+  </zones>
+</exit>

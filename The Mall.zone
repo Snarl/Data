@@ -16,14 +16,9 @@
   </nodes>
   <exits>
     <exit title="The Mall - Marlborough Rd"/>
-    <exit title="The Mall - Marlborough Rd"/>
-    <exit title="The Mall - Marlborough Rd"/>
-    <exit title="The Mall - Marlborough Rd"/>
     <exit title="Trafalga Sq - The Mall"/>
     <exit title="The Mall - Waterloo"/>
-    <exit title="The Mall - Waterloo"/>
     <exit title="Carlton Gardens - The Mall"/>
-    <exit title="Stable Yard Rd - The Mall"/>
     <exit title="Stable Yard Rd - The Mall"/>
   </exits>
 </zone>

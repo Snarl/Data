@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<zone title="Little Sanctuary">
+  <nodes maxlat="51.50075970221614" maxlng="-0.12794909590912" minlat="51.50021872056725" minlng="-0.12858746165466">
+    <node lat="51.5007129509691" lng="-0.12856600398254"/>
+    <node lat="51.50075970221614" lng="-0.12797591799927"/>
+    <node lat="51.50067621781276" lng="-0.12794909590912"/>
+    <node lat="51.50055933939121" lng="-0.12830314749908"/>
+    <node lat="51.50021872056725" lng="-0.12833801621628"/>
+    <node lat="51.50022205997981" lng="-0.12858746165466"/>
+  </nodes>
+  <exits>
+    <exit title="Broad Sanctuary - Little Sanctuary"/>
+    <exit title="Parliament Square - Little Sanctuary"/>
+  </exits>
+</zone>

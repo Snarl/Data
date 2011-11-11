@@ -11,32 +11,12 @@
   </nodes>
   <exits>
     <exit title="Bruton St - New Bond St"/>
-    <exit title="Bruton St - New Bond St"/>
     <exit title="New Bond Street - West Oxford Street 2"/>
     <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (West)"/>
     <exit title="New Bond Street - Brook St (West)"/>
     <exit title="New Bond Street - Brook St (North)"/>
-    <exit title="New Bond Street - Brook St (North)"/>
-    <exit title="New Bond Street - Brook St (North)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
-    <exit title="New Bond Street - Brook St (East)"/>
     <exit title="New Bond Street - Brook St (South)"/>
-    <exit title="New Bond Street - Brook St (South)"/>
-    <exit title="Bruton St - New Bond St"/>
-    <exit title="Bruton St - New Bond St"/>
-    <exit title="Bruton St - New Bond St"/>
-    <exit title="Bruton St - New Bond St"/>
     <exit title="New Bond Street North - Conduit Street"/>
     <exit title="New Bond Street North - New Bond Street South"/>
-    <exit title="Bruton St - New Bond St"/>
   </exits>
 </zone>

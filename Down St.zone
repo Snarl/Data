@@ -9,11 +9,8 @@
   </nodes>
   <exits>
     <exit title="Down St - Piccadily Place 1"/>
-    <exit title="Down St - Piccadily Place 1"/>
-    <exit title="Hertford St-Down St"/>
     <exit title="Hertford St-Down St"/>
     <exit title="Brick St-Down St"/>
-    <exit title="Down St-Brick St"/>
     <exit title="Down St-Brick St"/>
   </exits>
 </zone>

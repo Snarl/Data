@@ -17,11 +17,11 @@
   <exits>
     <exit title="Parliament Square - Whitehall"/>
     <exit title="Downing Street - Whitehall"/>
-    <exit title="Downing Street - Whitehall"/>
     <exit title="Upper Whitehall - Whitehall"/>
     <exit title="Whitehall - Derby Gate"/>
     <exit title="Whitehall - King Charles Street"/>
     <exit title="Whitehall - Richmond Terrace"/>
     <exit title="Whitehall - Whitehall Gardens"/>
+    <exit title="Downing Street - Whitehall"/>
   </exits>
 </zone>

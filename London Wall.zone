@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<zone title="London Wall">
+  <nodes maxlat="51.51771054592239" maxlng="-0.08363363856506" minlat="51.51626845055499" minlng="-0.09650824183655">
+    <node lat="51.51771054592239" lng="-0.09631512278747"/>
+    <node lat="51.51732999741284" lng="-0.09650824183655"/>
+    <node lat="51.51741011315278" lng="-0.09013531321716"/>
+    <node lat="51.51675583048615" lng="-0.08586523646545"/>
+    <node lat="51.51664233151599" lng="-0.08562920207214"/>
+    <node lat="51.51626845055499" lng="-0.08386967295837"/>
+    <node lat="51.51653550869742" lng="-0.08363363856506"/>
+    <node lat="51.51665568435067" lng="-0.08456704730224"/>
+    <node lat="51.51687600555812" lng="-0.08533952349853"/>
+    <node lat="51.51692274022267" lng="-0.08561847323608"/>
+    <node lat="51.51690938746626" lng="-0.08575794810486"/>
+    <node lat="51.51735670267514" lng="-0.08854744548034"/>
+    <node lat="51.51757702049166" lng="-0.08847234362793"/>
+    <node lat="51.51770386966014" lng="-0.0891697179718"/>
+    <node lat="51.517650459527" lng="-0.089566684906"/>
+    <node lat="51.51769051713272" lng="-0.09009239787292"/>
+    <node lat="51.51763043071091" lng="-0.09602544421386"/>
+  </nodes>
+  <exits>
+    <exit title="London Wall - Coleman Street"/>
+    <exit title="London Wall / Moorgate South"/>
+    <exit title="Fore St / London Wall"/>
+    <exit title="Moorgate /London Wall South"/>
+    <exit title="Moogate / London Wall South"/>
+    <exit title="London Wall / Morgate South Exit"/>
+    <exit title="London Wall - Moorgate (North)"/>
+    <exit title="London Wall - Moorgate (North)"/>
+    <exit title="Moorgate - London Wall South Exit"/>
+    <exit title="Basinghall Ave (access) - London Wall"/>
+    <exit title="Basinghall Ave (access) - London Wall"/>
+    <exit title="London Wall - Coleman Street"/>
+    <exit title="Fore St - London Wall"/>
+    <exit title="London Wall - Moorgate (North)"/>
+    <exit title="Fore St - London Wall"/>
+    <exit title="Moorgate - London Wall South Exit"/>
+  </exits>
+</zone>
